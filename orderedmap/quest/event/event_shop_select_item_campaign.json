@@ -1,0 +1,104 @@
+{
+  "10": [
+    [
+      "challenge_dungeon_campaign_01",
+      "4",
+      "1",
+      "quest/event/background/challenge_dungeon_event/challenge_dungeon_event_campaign_background",
+      "3",
+      "abyss_beast",
+      "2022-12-22 12:00:00",
+      "2022-12-29 11:59:59",
+      "2023-01-06 11:59:59",
+      "30002",
+      "30003",
+      "30004",
+      "30005"
+    ]
+  ],
+  "11": [
+    [
+      "challenge_dungeon_campaign_02",
+      "4",
+      "1",
+      "quest/event/background/challenge_dungeon_event/challenge_dungeon_event_campaign_background",
+      "3",
+      "abyss_beast",
+      "2023-02-02 12:00:00",
+      "2023-02-09 11:59:59",
+      "2023-02-17 11:59:59",
+      "30006",
+      "30007",
+      "30008",
+      "30009"
+    ]
+  ],
+  "12": [
+    [
+      "challenge_dungeon_campaign_03",
+      "4",
+      "1",
+      "quest/event/background/challenge_dungeon_event/challenge_dungeon_event_campaign_background",
+      "3",
+      "abyss_beast",
+      "2023-03-30 12:00:00",
+      "2023-04-06 11:59:59",
+      "2023-04-14 11:59:59",
+      "30010",
+      "30011",
+      "30012",
+      "30013"
+    ]
+  ],
+  "13": [
+    [
+      "challenge_dungeon_campaign_04",
+      "4",
+      "1",
+      "quest/event/background/challenge_dungeon_event/challenge_dungeon_event_campaign_background",
+      "3",
+      "abyss_beast",
+      "2023-04-27 12:00:00",
+      "2023-05-04 11:59:59",
+      "2023-05-12 11:59:59",
+      "30014",
+      "30015",
+      "30016",
+      "30017"
+    ]
+  ],
+  "14": [
+    [
+      "challenge_dungeon_campaign_05",
+      "4",
+      "1",
+      "quest/event/background/challenge_dungeon_event/challenge_dungeon_event_campaign_background",
+      "3",
+      "abyss_beast",
+      "2023-05-18 12:00:00",
+      "2023-05-25 11:59:59",
+      "2023-06-02 11:59:59",
+      "30018",
+      "30019",
+      "30020",
+      "30021"
+    ]
+  ],
+  "15": [
+    [
+      "challenge_dungeon_campaign_06",
+      "4",
+      "1",
+      "quest/event/background/challenge_dungeon_event/challenge_dungeon_event_campaign_background",
+      "3",
+      "abyss_beast",
+      "2023-07-06 12:00:00",
+      "2023-07-20 11:59:59",
+      "2023-07-28 11:59:59",
+      "30022",
+      "30023",
+      "30024",
+      "30025"
+    ]
+  ]
+}

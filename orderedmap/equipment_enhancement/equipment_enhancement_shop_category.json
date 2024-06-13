@@ -1,0 +1,44 @@
+{
+  "3": [
+    [
+      "steam_robot_weapon",
+      "3",
+      "(None)",
+      "机兵装备强化",
+      "dynamic/equipment_enhancement/steam_robot_weapon_banner",
+      "dynamic/equipment_enhancement/steam_robot_weapon_header",
+      "equipment_enhancement_steam_robot_weapon_how_to_play",
+      "Equipment_Enhancement_Steam_Robot_Weapon",
+      "2050-12-30 12:00:00",
+      "(None)"
+    ]
+  ],
+  "2": [
+    [
+      "epuration_weapon",
+      "2",
+      "(None)",
+      "歼灭装备强化",
+      "dynamic/equipment_enhancement/epuration_weapon_banner",
+      "dynamic/equipment_enhancement/epuration_weapon_header",
+      "equipment_enhancement_epuration_weapon_how_to_play",
+      "equipment_enhancement_epuration_weapon",
+      "2050-11-28 12:00:00",
+      "(None)"
+    ]
+  ],
+  "1": [
+    [
+      "anamnesis_weapon",
+      "1",
+      "(None)",
+      "领主币兑换装备强化",
+      "dynamic/equipment_enhancement/anamnesis_weapon_banner",
+      "dynamic/equipment_enhancement/anamnesis_weapon_header",
+      "equipment_enhancement_anamnesis_weapon_how_to_play",
+      "Equipment_Enhancement_Anamnesis_Weapon",
+      "2024-05-23 12:00:00",
+      "(None)"
+    ]
+  ]
+}

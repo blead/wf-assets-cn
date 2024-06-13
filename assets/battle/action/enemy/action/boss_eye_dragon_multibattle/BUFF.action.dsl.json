@@ -1,0 +1,193 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateBarrier",
+          -17,
+          [
+            {
+              "max": 0.025,
+              "min": 0.025
+            }
+          ],
+          [
+            "GenericBarrierHitEffect"
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateCondition",
+          -17,
+          [
+            [
+              "ACToleranceOfDebuff",
+              [
+                {
+                  "max": 99999999,
+                  "min": 99999999
+                }
+              ],
+              [
+                {
+                  "max": 1,
+                  "min": 1
+                }
+              ],
+              [
+                {
+                  "max": 1,
+                  "min": 1
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          [
+            "None"
+          ],
+          false,
+          false,
+          "",
+          null,
+          false,
+          3,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          false
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateCondition",
+          -17,
+          [
+            [
+              "ACToleranceOfElement",
+              [
+                {
+                  "max": 99999999,
+                  "min": 99999999
+                }
+              ],
+              254,
+              [
+                {
+                  "max": 0.05,
+                  "min": 0.05
+                }
+              ],
+              [
+                {
+                  "max": 1,
+                  "min": 1
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          [
+            "GenericConditionHitEffect"
+          ],
+          false,
+          false,
+          "",
+          null,
+          false,
+          3,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          false
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateCondition",
+          -17,
+          [
+            [
+              "ACAttackPoint",
+              [
+                {
+                  "max": 99999999,
+                  "min": 99999999
+                }
+              ],
+              [
+                {
+                  "max": 0.5,
+                  "min": 0.5
+                }
+              ],
+              [
+                {
+                  "max": 1,
+                  "min": 1
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          [
+            "GenericConditionHitEffect"
+          ],
+          false,
+          false,
+          "",
+          null,
+          false,
+          3,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          false
+        ]
+      ]
+    ]
+  ]
+]

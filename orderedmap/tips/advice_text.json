@@ -1,0 +1,230 @@
+{
+  "1": [
+    [
+      "usually_text_group",
+      "在“能力学习”中强化角色吧"
+    ]
+  ],
+  "2": [
+    [
+      "usually_text_group",
+      "如无法打倒敌方时，可尝试培育推荐属性的角色"
+    ]
+  ],
+  "3": [
+    [
+      "usually_text_group",
+      "使用冲刺、技能积累连击，抓住时机强化弹射"
+    ]
+  ],
+  "4": [
+    [
+      "usually_text_group",
+      "强化弹射可以用连击强化到第三阶段"
+    ]
+  ],
+  "5": [
+    [
+      "usually_text_group",
+      "续战后生命值全回复，技能槽达到最大"
+    ]
+  ],
+  "6": [
+    [
+      "usually_text_group",
+      "通关章节所获得的宝珠是十分有用的装备道具。"
+    ]
+  ],
+  "7": [
+    [
+      "usually_text_group",
+      "可在“能力学习”中装备能力魂珠"
+    ]
+  ],
+  "8": [
+    [
+      "usually_text_group",
+      "通过在BREAK期间使用技能攻击，使伤害最大化"
+    ]
+  ],
+  "9": [
+    [
+      "usually_text_group",
+      "上限突破后可继续强化角色"
+    ]
+  ],
+  "10": [
+    [
+      "usually_text_group",
+      "辅助类型的强化弹射，贯穿效果容易瞄准弱点"
+    ]
+  ],
+  "11": [
+    [
+      "usually_text_group",
+      "辅助类型的强化弹射，浮游效果可以无视重力和风的影响"
+    ]
+  ],
+  "12": [
+    [
+      "usually_text_group",
+      "格斗类型的强化弹射，对单个敌人造成巨大伤害"
+    ]
+  ],
+  "13": [
+    [
+      "usually_text_group",
+      "剑士类型的强化弹射，可以进行大范围攻击"
+    ]
+  ],
+  "14": [
+    [
+      "usually_text_group",
+      "射击类型的强化弹射，可以释放贯穿障碍物的光线"
+    ]
+  ],
+  "15": [
+    [
+      "usually_text_group",
+      "特殊类型的强化弹射，可以通过爆炸造成范围攻击"
+    ]
+  ],
+  "16": [
+    [
+      "challenge_dungeon_group",
+      "使用拥有回复技能的角色应对持久战"
+    ]
+  ],
+  "17": [
+    [
+      "boss_lich_text_group",
+      "死魂之球刚出现时迅速迎面弹射即可防御"
+    ]
+  ],
+  "18": [
+    [
+      "boss_fangrider_text_group",
+      "可以尝试使用对獠牙骑士有利的风属性角色"
+    ]
+  ],
+  "19": [
+    [
+      "boss_white_tiger_text_group",
+      "绕到虎空牙上方就能轻松积累连击"
+    ]
+  ],
+  "20": [
+    [
+      "boss_white_tiger_text_group",
+      "毁灭发动后的攻击非常强力。一定要准确地瞄准弱点"
+    ]
+  ],
+  "21": [
+    [
+      "boss_white_tiger_text_group",
+      "好好利用冲刺争取打断哀叹连弹"
+    ]
+  ],
+  "22": [
+    [
+      "boss_white_tiger_text_group",
+      "提前积攒技能以应对毁灭吧"
+    ]
+  ],
+  "23": [
+    [
+      "boss_gurdian_golem_text_group",
+      "弹射到画面上方以躲避突击充能吧"
+    ]
+  ],
+  "24": [
+    [
+      "boss_administrator_text_group",
+      "harth shot要定时弹出来防御"
+    ]
+  ],
+  "25": [
+    [
+      "boss_administrator_text_group",
+      "打倒周围的敌人来增加游走空间"
+    ]
+  ],
+  "26": [
+    [
+      "boss_administrator_text_group",
+      "rm-rf/虽然危险，但是如果持续保持BREAK状态将可以单方面持续进攻"
+    ]
+  ],
+  "27": [
+    [
+      "boss_arch_evil_text_group",
+      "打断诅咒风暴，发动高伤害技能进行攻击"
+    ]
+  ],
+  "28": [
+    [
+      "boss_arch_evil_text_group",
+      "小艾基尔们攻击范围很大，所以要尽快打倒"
+    ]
+  ],
+  "29": [
+    [
+      "boss_arch_evil_text_group",
+      "敌人释放诅咒地雷期间破绽很大，是攻击的好机会"
+    ]
+  ],
+  "30": [
+    [
+      "boss_orochi_text_group",
+      "最初登场的右之首召唤碍事的障碍物"
+    ]
+  ],
+  "31": [
+    [
+      "boss_orochi_text_group",
+      "最初登场的左首回复敌人"
+    ]
+  ],
+  "32": [
+    [
+      "boss_orochi_text_group",
+      "出场的头的顺序是固定的。倒下的地方出现下一个头"
+    ]
+  ],
+  "33": [
+    [
+      "boss_hermit_crab_group",
+      "使用技能或强化弹射来破坏弱点吧"
+    ]
+  ],
+  "34": [
+    [
+      "boss_discarded_dragon_thunder_text_group",
+      "通过刻意不使用弹射的方法来躲避电闪之刃吧"
+    ]
+  ],
+  "35": [
+    [
+      "boss_discarded_dragon_thunder_text_group",
+      "大天翔等展开的比特在进行攻击前破坏"
+    ]
+  ],
+  "36": [
+    [
+      "boss_battle_group",
+      "技能连锁可以使敌人进入BREAK状态并造成巨大伤害"
+    ]
+  ],
+  "37": [
+    [
+      "boss_battle_group",
+      "配合队友的技能使用技能以发动技能连续"
+    ]
+  ],
+  "38": [
+    [
+      "boss_battle_group",
+      "有的生命值回复技能可以连同其他玩家也一起回复"
+    ]
+  ]
+}

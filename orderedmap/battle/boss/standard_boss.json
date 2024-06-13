@@ -1,0 +1,920 @@
+{
+  "xmas_golem_22_multi": {
+    "20": [
+      [
+        "圣夜雪像G",
+        "battle/enemy/boss/xms_golem_22_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_multi5"
+      ]
+    ]
+  },
+  "xmas_golem_22_single": {
+    "20": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single1"
+      ]
+    ],
+    "50": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single2"
+      ]
+    ],
+    "70": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single3"
+      ]
+    ],
+    "80": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single4"
+      ]
+    ],
+    "100": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single5"
+      ]
+    ]
+  },
+  "variant_empress_wind_form1_multi": {
+    "25": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_multi5"
+      ]
+    ]
+  },
+  "variant_empress_wind_form1_single": {
+    "25": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_single1"
+      ]
+    ],
+    "60": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_single2"
+      ]
+    ],
+    "70": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_single3"
+      ]
+    ],
+    "80": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_single4"
+      ]
+    ],
+    "100": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form1_single5"
+      ]
+    ]
+  },
+  "variant_empress_wind_form2_multi": {
+    "25": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_multi5"
+      ]
+    ]
+  },
+  "variant_empress_wind_form2_single": {
+    "25": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_single1"
+      ]
+    ],
+    "60": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_single2"
+      ]
+    ],
+    "70": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_single3"
+      ]
+    ],
+    "80": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_single4"
+      ]
+    ],
+    "100": [
+      [
+        "碧之女王",
+        "battle/enemy/boss/variant_empress_wind_form2_single5"
+      ]
+    ]
+  },
+  "turf_boss_multi": {
+    "25": [
+      [
+        "除草魔像",
+        "battle/enemy/boss/turf_boss_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "除草魔像",
+        "battle/enemy/boss/turf_boss_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "除草魔像",
+        "battle/enemy/boss/turf_boss_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "除草魔像",
+        "battle/enemy/boss/turf_boss_multi4"
+      ]
+    ]
+  },
+  "turf_boss_single": {
+    "25": [
+      [
+        "除草魔像",
+        "battle/enemy/boss/turf_boss_single1"
+      ]
+    ],
+    "60": [
+      [
+        "除草魔像",
+        "battle/enemy/boss/turf_boss_single2"
+      ]
+    ],
+    "70": [
+      [
+        "除草魔像",
+        "battle/enemy/boss/turf_boss_single3"
+      ]
+    ],
+    "80": [
+      [
+        "除草魔像",
+        "battle/enemy/boss/turf_boss_single4"
+      ]
+    ]
+  },
+  "summer22_helicopter_multi": {
+    "55": [
+      [
+        "STM-帕里德斯",
+        "battle/enemy/boss/summer22_helicopter_multi2"
+      ]
+    ],
+    "80": [
+      [
+        "STM-帕里德斯",
+        "battle/enemy/boss/summer22_helicopter_multi4"
+      ]
+    ]
+  },
+  "summer22_helicopter_single": {
+    "55": [
+      [
+        "STM-帕里德斯",
+        "battle/enemy/boss/summer22_helicopter_single2"
+      ]
+    ],
+    "80": [
+      [
+        "STM-帕里德斯",
+        "battle/enemy/boss/summer22_helicopter_single4"
+      ]
+    ]
+  },
+  "summer22_helicopter_expert": {
+    "100": [
+      [
+        "STM-帕里德斯",
+        "battle/enemy/boss/summer22_helicopter_expert"
+      ]
+    ]
+  },
+  "summer22_helicopter_story": {
+    "100": [
+      [
+        "STM-帕里德斯",
+        "battle/enemy/boss/summer22_helicopter_story"
+      ]
+    ]
+  },
+  "steampunk_fire_multi": {
+    "20": [
+      [
+        "红机兵海茵莱特",
+        "battle/enemy/boss/steampunk_fire_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "红机兵海茵莱特",
+        "battle/enemy/boss/steampunk_fire_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "红机兵海茵莱特",
+        "battle/enemy/boss/steampunk_fire_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "红机兵海茵莱特",
+        "battle/enemy/boss/steampunk_fire_multi4"
+      ]
+    ]
+  },
+  "steampunk_fire_single": {
+    "20": [
+      [
+        "红机兵海茵莱特",
+        "battle/enemy/boss/steampunk_fire_single1"
+      ]
+    ],
+    "50": [
+      [
+        "红机兵海茵莱特",
+        "battle/enemy/boss/steampunk_fire_single2"
+      ]
+    ],
+    "70": [
+      [
+        "红机兵海茵莱特",
+        "battle/enemy/boss/steampunk_fire_single3"
+      ]
+    ],
+    "80": [
+      [
+        "红机兵海茵莱特",
+        "battle/enemy/boss/steampunk_fire_single4"
+      ]
+    ]
+  },
+  "steampunk_fire_hard_multi": {
+    "100": [
+      [
+        "红机兵海茵莱特",
+        "battle/enemy/boss/steampunk_fire_hard_multi"
+      ]
+    ]
+  },
+  "spirit_beast_wind": {
+    "25": [
+      [
+        "风师亚特摩西亚",
+        "battle/enemy/boss/spirit_beast_wind_1"
+      ]
+    ],
+    "60": [
+      [
+        "风师亚特摩西亚",
+        "battle/enemy/boss/spirit_beast_wind_2"
+      ]
+    ],
+    "70": [
+      [
+        "风师亚特摩西亚",
+        "battle/enemy/boss/spirit_beast_wind_3"
+      ]
+    ],
+    "80": [
+      [
+        "风师亚特摩西亚",
+        "battle/enemy/boss/spirit_beast_wind_4"
+      ]
+    ]
+  },
+  "spirit_beast_light_multi": {
+    "20": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_multi5"
+      ]
+    ]
+  },
+  "spirit_beast_light_single": {
+    "20": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_single1"
+      ]
+    ],
+    "50": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_single2"
+      ]
+    ],
+    "70": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_single3"
+      ]
+    ],
+    "80": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_single4"
+      ]
+    ],
+    "100": [
+      [
+        "光蛛杜梅欧",
+        "battle/enemy/boss/spirit_beast_light_single5"
+      ]
+    ]
+  },
+  "spirit_beast_dark_multi": {
+    "20": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_multi5"
+      ]
+    ]
+  },
+  "spirit_beast_dark_single": {
+    "20": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_single1"
+      ]
+    ],
+    "50": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_single2"
+      ]
+    ],
+    "70": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_single3"
+      ]
+    ],
+    "80": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_single4"
+      ]
+    ],
+    "100": [
+      [
+        "暗凤希亚特利欧",
+        "battle/enemy/boss/spirit_beast_dark_single5"
+      ]
+    ]
+  },
+  "white_tiger_ghost_another_wind_ex": {
+    "100": [
+      [
+        "岚之圣杯",
+        "battle/enemy/boss/white_tiger_ghost_another_wind_ex_single4"
+      ]
+    ]
+  },
+  "administrator_another_dark_ex": {
+    "100": [
+      [
+        "支配者",
+        "battle/enemy/boss/administrator_another_dark_ex_single4"
+      ]
+    ]
+  },
+  "guardian_golem_another_water_ex": {
+    "100": [
+      [
+        "水之魔像",
+        "battle/enemy/boss/guardian_golem_another_water_ex_single4"
+      ]
+    ]
+  },
+  "lich_another_thunder_ex": {
+    "100": [
+      [
+        "闪击魅影",
+        "battle/enemy/boss/lich_another_thunder_ex_single4"
+      ]
+    ]
+  },
+  "grizzly_ex": {
+    "100": [
+      [
+        "猩红巨熊",
+        "battle/enemy/boss/grizzly_ex_single4"
+      ]
+    ]
+  },
+  "hermit_crab_another_light_ex": {
+    "100": [
+      [
+        "深海寄居蟹",
+        "battle/enemy/boss/hermit_crab_another_light_ex_single4"
+      ]
+    ]
+  },
+  "reine_rouge_form1_multi": {
+    "25": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form1_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form1_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form1_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form1_multi4"
+      ]
+    ]
+  },
+  "reine_rouge_form1_single": {
+    "25": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form1_single1"
+      ]
+    ],
+    "60": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form1_single2"
+      ]
+    ],
+    "70": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form1_single3"
+      ]
+    ],
+    "80": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form1_single4"
+      ]
+    ]
+  },
+  "reine_rouge_form2_multi": {
+    "25": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form2_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form2_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form2_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form2_multi4"
+      ]
+    ]
+  },
+  "reine_rouge_form2_single": {
+    "25": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form2_single1"
+      ]
+    ],
+    "60": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form2_single2"
+      ]
+    ],
+    "70": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form2_single3"
+      ]
+    ],
+    "80": [
+      [
+        "赤之女王",
+        "battle/enemy/boss/reine_rouge_form2_single4"
+      ]
+    ]
+  },
+  "high_epuration_boss_3anv": {
+    "100": [
+      [
+        "僧正歼灭者",
+        "battle/enemy/boss/high_epuration_boss_3anv"
+      ]
+    ]
+  },
+  "halfanv25_big_boss_multi": {
+    "60": [
+      [
+        "荒龙伊尔弗里德",
+        "battle/enemy/boss/halfanv25_big_boss_multi2"
+      ]
+    ],
+    "100": [
+      [
+        "荒龙伊尔弗里德",
+        "battle/enemy/boss/halfanv25_big_boss_multi4"
+      ]
+    ]
+  },
+  "halfanv25_big_boss_single": {
+    "60": [
+      [
+        "荒龙伊尔弗里德",
+        "battle/enemy/boss/halfanv25_big_boss_single2"
+      ]
+    ],
+    "100": [
+      [
+        "荒龙伊尔弗里德",
+        "battle/enemy/boss/halfanv25_big_boss_single4"
+      ]
+    ]
+  },
+  "halfanv25_big_boss_story": {
+    "100": [
+      [
+        "荒龙伊尔弗里德",
+        "battle/enemy/boss/halfanv25_big_boss_story"
+      ]
+    ]
+  },
+  "halfanv25_big_boss_expert": {
+    "100": [
+      [
+        "荒龙伊尔弗里德",
+        "battle/enemy/boss/halfanv25_big_boss_expert"
+      ]
+    ]
+  },
+  "boss_epuration_boss_variant_ver_3anv": {
+    "100": [
+      [
+        "异性歼灭者",
+        "battle/enemy/boss/boss_epuration_boss_variant_ver_3anv"
+      ]
+    ]
+  },
+  "epuration_boss_highest_multi": {
+    "100": [
+      [
+        "女帝歼灭者",
+        "battle/enemy/boss/epuration_boss_highest_3anv_multi"
+      ]
+    ]
+  },
+  "epuration_boss_highest_single": {
+    "100": [
+      [
+        "女帝歼灭者",
+        "battle/enemy/boss/epuration_boss_highest_3anv_single"
+      ]
+    ]
+  },
+  "epuration_boss_dragon_main": {
+    "80": [
+      [
+        "德拉古寄生兽",
+        "battle/enemy/boss/epuration_boss_dragon_main"
+      ]
+    ]
+  },
+  "epuration_boss_3anv_multi": {
+    "100": [
+      [
+        "步兵歼灭者",
+        "battle/enemy/boss/epuration_boss_3anv_multi"
+      ]
+    ]
+  },
+  "epuration_boss_3anv_single": {
+    "100": [
+      [
+        "步兵歼灭者",
+        "battle/enemy/boss/epuration_boss_3anv_single"
+      ]
+    ]
+  },
+  "discarded_dragon_light_lv80_multi": {
+    "100": [
+      [
+        "伊尔梅塔雷",
+        "battle/enemy/boss/discarded_dragon_light_multi4"
+      ]
+    ]
+  },
+  "discarded_dragon_light_lv80_single": {
+    "100": [
+      [
+        "伊尔梅塔雷",
+        "battle/enemy/boss/discarded_dragon_light_single4"
+      ]
+    ]
+  },
+  "big_slime_boss_multi": {
+    "20": [
+      [
+        "黏黏波露王",
+        "battle/enemy/boss/big_slime_boss_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "黏黏波露王",
+        "battle/enemy/boss/big_slime_boss_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "黏黏波露王",
+        "battle/enemy/boss/big_slime_boss_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "黏黏波露王",
+        "battle/enemy/boss/big_slime_boss_multi4"
+      ]
+    ]
+  },
+  "big_slime_boss_single": {
+    "20": [
+      [
+        "黏黏波露王",
+        "battle/enemy/boss/big_slime_boss_single1"
+      ]
+    ],
+    "50": [
+      [
+        "黏黏波露王",
+        "battle/enemy/boss/big_slime_boss_single2"
+      ]
+    ],
+    "70": [
+      [
+        "黏黏波露王",
+        "battle/enemy/boss/big_slime_boss_single3"
+      ]
+    ],
+    "80": [
+      [
+        "黏黏波露王",
+        "battle/enemy/boss/big_slime_boss_single4"
+      ]
+    ]
+  },
+  "arc_guardian_pcollab_02_multi": {
+    "20": [
+      [
+        "方舟守护者",
+        "battle/enemy/boss/arc_guardian_pcollab_02_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "方舟守护者",
+        "battle/enemy/boss/arc_guardian_pcollab_02_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "方舟守护者",
+        "battle/enemy/boss/arc_guardian_pcollab_02_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "方舟守护者",
+        "battle/enemy/boss/arc_guardian_pcollab_02_multi4"
+      ]
+    ]
+  },
+  "arc_guardian_pcollab_02_single": {
+    "20": [
+      [
+        "方舟守护者",
+        "battle/enemy/boss/arc_guardian_pcollab_02_single1"
+      ]
+    ],
+    "50": [
+      [
+        "方舟守护者",
+        "battle/enemy/boss/arc_guardian_pcollab_02_single2"
+      ]
+    ],
+    "70": [
+      [
+        "方舟守护者",
+        "battle/enemy/boss/arc_guardian_pcollab_02_single3"
+      ]
+    ],
+    "80": [
+      [
+        "方舟守护者",
+        "battle/enemy/boss/arc_guardian_pcollab_02_single4"
+      ]
+    ]
+  },
+  "anv3_big_boss_multi": {
+    "55": [
+      [
+        "寄生兽阿比斯",
+        "battle/enemy/boss/anv3_big_boss_multi2"
+      ]
+    ],
+    "80": [
+      [
+        "寄生兽阿比斯",
+        "battle/enemy/boss/anv3_big_boss_multi4"
+      ]
+    ]
+  },
+  "anv3_big_boss_single": {
+    "55": [
+      [
+        "寄生兽阿比斯",
+        "battle/enemy/boss/anv3_big_boss_single2"
+      ]
+    ],
+    "80": [
+      [
+        "寄生兽阿比斯",
+        "battle/enemy/boss/anv3_big_boss_single4"
+      ]
+    ]
+  },
+  "anv3_big_boss_expert": {
+    "100": [
+      [
+        "寄生兽阿比斯",
+        "battle/enemy/boss/anv3_big_boss_expert"
+      ]
+    ]
+  },
+  "anv3_big_boss_story": {
+    "100": [
+      [
+        "寄生兽阿比斯",
+        "battle/enemy/boss/anv3_big_boss_story"
+      ]
+    ]
+  }
+}

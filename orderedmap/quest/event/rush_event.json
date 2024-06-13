@@ -1,0 +1,102 @@
+{
+  "700004": [
+    [
+      "combat_diver_04",
+      "狂热激战",
+      "2024-07-04 12:00:00,2024-07-19 00:00:00,2024-07-23 12:00:00,2024-07-30 11:59:59",
+      "quest/event/banner/rush_event/combat_diver_01_banner_001,quest/event/banner/rush_event/combat_diver_01_banner_002,quest/event/banner/rush_event/combat_diver_01_banner_003",
+      "quest/event/bossbattle_banner/rush_event/combat_diver_01_bossbattle_banner_001,(None),(None)",
+      "quest/event/background/rush_event/combat_diver_01_background",
+      "quest/event/logo/rush_event/combat_diver_logo",
+      "quest/event/animation_background/rush_event/combat_diver_lobby_background",
+      "bgm/event/rush_battle_event/combat_diver_event_top",
+      "3",
+      "1",
+      "2024-07-23 11:59:59",
+      "2024-07-30 11:59:59",
+      "2370004",
+      "(None)",
+      "(None)",
+      "(None)",
+      "combat_diver_01",
+      "2024-07-04 12:00:00",
+      "2024-07-18 23:59:59",
+      "2024-07-30 11:59:59"
+    ]
+  ],
+  "700003": [
+    [
+      "combat_diver_03",
+      "狂热激战",
+      "2024-04-25 12:00:00,2024-05-10 00:00:00,2024-05-14 12:00:00,2024-05-21 11:59:59",
+      "quest/event/banner/rush_event/combat_diver_01_banner_001,quest/event/banner/rush_event/combat_diver_01_banner_002,quest/event/banner/rush_event/combat_diver_01_banner_003",
+      "quest/event/bossbattle_banner/rush_event/combat_diver_01_bossbattle_banner_001,(None),(None)",
+      "quest/event/background/rush_event/combat_diver_01_background",
+      "quest/event/logo/rush_event/combat_diver_logo",
+      "quest/event/animation_background/rush_event/combat_diver_lobby_background",
+      "bgm/event/rush_battle_event/combat_diver_event_top",
+      "3",
+      "1",
+      "2024-05-14 11:59:59",
+      "2024-05-21 11:59:59",
+      "2370003",
+      "(None)",
+      "(None)",
+      "(None)",
+      "combat_diver_01",
+      "2024-04-25 12:00:00",
+      "2024-05-09 23:59:59",
+      "2024-05-21 11:59:59"
+    ]
+  ],
+  "700002": [
+    [
+      "combat_diver_02",
+      "狂热激战",
+      "2024-02-15 12:00:00,2024-03-01 00:00:00,2024-03-04 12:00:00,2024-03-11 11:59:59",
+      "quest/event/banner/rush_event/combat_diver_01_banner_001,quest/event/banner/rush_event/combat_diver_01_banner_002,quest/event/banner/rush_event/combat_diver_01_banner_003",
+      "quest/event/bossbattle_banner/rush_event/combat_diver_01_bossbattle_banner_001,(None),(None)",
+      "quest/event/background/rush_event/combat_diver_01_background",
+      "quest/event/logo/rush_event/combat_diver_logo",
+      "quest/event/animation_background/rush_event/combat_diver_lobby_background",
+      "bgm/event/rush_battle_event/combat_diver_event_top",
+      "3",
+      "1",
+      "2024-03-04 11:59:59",
+      "2024-03-11 11:59:59",
+      "2370002",
+      "(None)",
+      "(None)",
+      "(None)",
+      "combat_diver_01",
+      "2024-02-15 12:00:00",
+      "2024-02-29 23:59:59",
+      "2024-03-11 11:59:59"
+    ]
+  ],
+  "700001": [
+    [
+      "combat_diver_01",
+      "狂热激战",
+      "2023-11-23 12:00:00,2023-12-07 12:00:00,2023-12-11 12:00:00,2023-12-18 11:59:59",
+      "quest/event/banner/rush_event/combat_diver_01_banner_001,quest/event/banner/rush_event/combat_diver_01_banner_002,quest/event/banner/rush_event/combat_diver_01_banner_003",
+      "quest/event/bossbattle_banner/rush_event/combat_diver_01_bossbattle_banner_001,(None),(None)",
+      "quest/event/background/rush_event/combat_diver_01_background",
+      "quest/event/logo/rush_event/combat_diver_logo",
+      "quest/event/animation_background/rush_event/combat_diver_lobby_background",
+      "bgm/event/rush_battle_event/combat_diver_event_top",
+      "3",
+      "1",
+      "2023-12-11 11:59:59",
+      "2023-12-18 11:59:59",
+      "2370001",
+      "(None)",
+      "(None)",
+      "(None)",
+      "combat_diver_01",
+      "2023-11-23 12:00:00",
+      "2023-12-07 11:59:59",
+      "2023-12-18 11:59:59"
+    ]
+  ]
+}

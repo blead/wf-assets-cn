@@ -1,0 +1,44 @@
+{
+  "1": [
+    [
+      "multi_special_exchange_campaign_01",
+      "大家一起选角色第一次",
+      "0",
+      "2023-08-31 12:00:00",
+      "2023-09-26 11:59:59",
+      "2023-10-03 11:59:59",
+      "dynamic/home_banner/etc/multi_special_exchange_campaign",
+      "dynamic/multi_special_exchange/multi_special_exchange_01_top",
+      "multi_special_exchange",
+      "multi_special_exchange_01",
+      "980001",
+      "dynamic/multi_special_exchange/multi_special_exchange_01_A",
+      "980002",
+      "dynamic/multi_special_exchange/multi_special_exchange_01_B",
+      "980003",
+      "dynamic/multi_special_exchange/multi_special_exchange_01_C",
+      "(None)"
+    ]
+  ],
+  "2": [
+    [
+      "multi_special_exchange_campaign_02",
+      "大家一起选 第二期",
+      "0",
+      "2024-07-11 12:00:00",
+      "2024-08-08 11:59:59",
+      "2024-08-15 11:59:59",
+      "dynamic/home_banner/etc/multi_special_exchange_campaign",
+      "dynamic/multi_special_exchange/multi_special_exchange_02_top",
+      "multi_special_exchange_02",
+      "multi_special_exchange_02",
+      "980004",
+      "dynamic/multi_special_exchange/multi_special_exchange_02_top",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)"
+    ]
+  ]
+}

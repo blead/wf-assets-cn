@@ -1,0 +1,4034 @@
+{
+  "11": {
+    "1": [
+      [
+        "1101",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-04 12:00:00",
+        "2023-05-26 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1102",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-04 12:00:00",
+        "2023-05-26 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1103",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-04 12:00:00",
+        "2023-05-26 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1104",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-04 12:00:00",
+        "2023-05-26 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1105",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-05-04 12:00:00",
+        "2023-05-26 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "4": {
+    "1": [
+      [
+        "401",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/yokai_emaki_01/logo_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-09-30 12:00:00",
+        "2020-10-22 04:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "402",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/yokai_emaki_01/logo_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-09-30 12:00:00",
+        "2020-10-22 04:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "403",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/yokai_emaki_01/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-09-30 12:00:00",
+        "2020-10-22 04:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "404",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/yokai_emaki_01/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-09-30 12:00:00",
+        "2020-10-22 04:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "405",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/yokai_emaki_01/logo_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2020-09-30 12:00:00",
+        "2020-10-22 04:59:59",
+        "1"
+      ]
+    ]
+  },
+  "18": {
+    "1": [
+      [
+        "1801",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-11-16 12:00:00",
+        "2023-12-07 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1802",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-11-16 12:00:00",
+        "2023-12-07 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1803",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-11-16 12:00:00",
+        "2023-12-07 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1804",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-11-16 12:00:00",
+        "2023-12-07 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1805",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-11-16 12:00:00",
+        "2023-12-07 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "24": {
+    "1": [
+      [
+        "2401",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-04-03 12:00:00",
+        "2024-04-26 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "2402",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-04-03 12:00:00",
+        "2024-04-26 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "2403",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-04-03 12:00:00",
+        "2024-04-26 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "2404",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-04-03 12:00:00",
+        "2024-04-26 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "2405",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2024-04-03 12:00:00",
+        "2024-04-26 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "22": {
+    "1": [
+      [
+        "2201",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-08 12:00:00",
+        "2024-03-01 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "2202",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-08 12:00:00",
+        "2024-03-01 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "2203",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-08 12:00:00",
+        "2024-03-01 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "2204",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-08 12:00:00",
+        "2024-03-01 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "2205",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2024-02-08 12:00:00",
+        "2024-03-01 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "12": {
+    "1": [
+      [
+        "1201",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-18 12:00:00",
+        "2023-06-09 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1202",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-18 12:00:00",
+        "2023-06-09 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1203",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-18 12:00:00",
+        "2023-06-09 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1204",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-18 12:00:00",
+        "2023-06-09 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1205",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-05-18 12:00:00",
+        "2023-06-09 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "3": {
+    "3": [
+      [
+        "303",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/summer_2020/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-08-05 12:00:00",
+        "2020-08-20 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "304",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/summer_2020/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2020-08-05 12:00:00",
+        "2020-08-20 11:59:59",
+        "1"
+      ]
+    ],
+    "1": [
+      [
+        "301",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/summer_2020/logo_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-07-31 12:00:00",
+        "2020-08-20 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "302",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/summer_2020/logo_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-07-31 12:00:00",
+        "2020-08-20 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "9": {
+    "1": [
+      [
+        "901",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-04-06 12:00:00",
+        "2023-04-28 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "902",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-04-06 12:00:00",
+        "2023-04-28 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "903",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-04-06 12:00:00",
+        "2023-04-28 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "904",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-04-06 12:00:00",
+        "2023-04-28 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "905",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-04-06 12:00:00",
+        "2023-04-28 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "16": {
+    "1": [
+      [
+        "1601",
+        "扭蛋箱A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-09-07 12:00:00",
+        "2023-10-06 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1602",
+        "扭蛋箱B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-09-07 12:00:00",
+        "2023-10-06 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1603",
+        "扭蛋箱C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-09-07 12:00:00",
+        "2023-10-06 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1604",
+        "扭蛋箱D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-09-07 12:00:00",
+        "2023-10-06 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1605",
+        "扭蛋箱E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-09-07 12:00:00",
+        "2023-10-06 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "19": {
+    "1": [
+      [
+        "1901",
+        "扭蛋箱A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "2023-12-29 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1902",
+        "扭蛋箱B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "2023-12-29 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1903",
+        "扭蛋箱C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "2023-12-29 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1904",
+        "扭蛋箱D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "2023-12-29 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1905",
+        "扭蛋箱E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "2023-12-29 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "21": {
+    "1": [
+      [
+        "2101",
+        "扭蛋箱A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-01-25 12:00:00",
+        "2024-02-16 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "2102",
+        "扭蛋箱B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-01-25 12:00:00",
+        "2024-02-16 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "2103",
+        "扭蛋箱C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-01-25 12:00:00",
+        "2024-02-16 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "2104",
+        "扭蛋箱D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-01-25 12:00:00",
+        "2024-02-16 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "2105",
+        "扭蛋箱E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2024-01-25 12:00:00",
+        "2024-02-16 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "25": {
+    "1": [
+      [
+        "2501",
+        "扭蛋箱A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-23 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "2502",
+        "扭蛋箱B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-23 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "2503",
+        "扭蛋箱C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-23 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "2504",
+        "扭蛋箱D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-23 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "2505",
+        "扭蛋箱E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2024-05-23 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "2": {
+    "3": [
+      [
+        "203",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/fake_princess01/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-06-05 12:00:00",
+        "2020-06-19 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "204",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/fake_princess01/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2020-06-05 12:00:00",
+        "2020-06-19 11:59:59",
+        "1"
+      ]
+    ],
+    "1": [
+      [
+        "201",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/fake_princess01/logo_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-05-31 12:00:00",
+        "2020-06-19 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "202",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/fake_princess01/logo_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-05-31 12:00:00",
+        "2020-06-19 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "7": {
+    "1": [
+      [
+        "701",
+        "扭蛋箱 A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-19 12:00:00",
+        "2023-02-17 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "702",
+        "扭蛋箱 B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-19 12:00:00",
+        "2023-02-17 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "703",
+        "扭蛋箱 C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-19 12:00:00",
+        "2023-02-17 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "704",
+        "扭蛋箱 D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-19 12:00:00",
+        "2023-02-17 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "705",
+        "扭蛋箱 E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-01-19 12:00:00",
+        "2023-02-17 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "8": {
+    "1": [
+      [
+        "801",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-02-09 12:00:00",
+        "2023-03-03 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "802",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-02-09 12:00:00",
+        "2023-03-03 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "803",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-02-09 12:00:00",
+        "2023-03-03 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "804",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-02-09 12:00:00",
+        "2023-03-03 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "805",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-02-09 12:00:00",
+        "2023-03-03 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "17": {
+    "1": [
+      [
+        "1701",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-12 12:00:00",
+        "2023-11-03 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1702",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-12 12:00:00",
+        "2023-11-03 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1703",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-12 12:00:00",
+        "2023-11-03 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1704",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-12 12:00:00",
+        "2023-11-03 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1705",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-10-12 12:00:00",
+        "2023-11-03 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "20": {
+    "1": [
+      [
+        "2001",
+        "扭蛋箱A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-28 12:00:00",
+        "2024-01-19 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "2002",
+        "扭蛋箱B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-28 12:00:00",
+        "2024-01-19 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "2003",
+        "扭蛋箱C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-28 12:00:00",
+        "2024-01-19 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "2004",
+        "扭蛋箱D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-28 12:00:00",
+        "2024-01-19 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "2005",
+        "扭蛋箱E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-12-28 12:00:00",
+        "2024-01-19 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "10": {
+    "1": [
+      [
+        "1001",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-03-09 12:00:00",
+        "2023-04-01 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1002",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-03-09 12:00:00",
+        "2023-04-01 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1003",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-03-09 12:00:00",
+        "2023-04-01 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1004",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-03-09 12:00:00",
+        "2023-04-01 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1005",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-03-09 12:00:00",
+        "2023-04-01 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "1": {
+    "3": [
+      [
+        "103",
+        "ガチャBOX C",
+        "BoxC",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/cyber_punk01/cyber_punk01_box_gacha_logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-03-19 12:00:00",
+        "2020-04-12 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "104",
+        "ガチャBOX D",
+        "BoxD",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/cyber_punk01/cyber_punk01_box_gacha_logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-03-19 12:00:00",
+        "2020-04-12 11:59:59",
+        "1"
+      ]
+    ],
+    "1": [
+      [
+        "101",
+        "ガチャBOX A",
+        "BoxA",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/cyber_punk01/cyber_punk01_box_gacha_logo_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-03-13 12:00:00",
+        "2020-04-12 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "102",
+        "ガチャBOX B",
+        "BoxB",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/cyber_punk01/cyber_punk01_box_gacha_logo_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2020-03-13 12:00:00",
+        "2020-04-12 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "5": {
+    "1": [
+      [
+        "501",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-09-01 12:00:00",
+        "2022-09-23 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "502",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-09-01 12:00:00",
+        "2022-09-23 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "503",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-09-01 12:00:00",
+        "2022-09-23 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "504",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-09-01 12:00:00",
+        "2022-09-23 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "505",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2022-09-01 12:00:00",
+        "2022-09-23 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "108": {
+    "1": [
+      [
+        "10801",
+        "扭蛋BOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_green_a",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_a",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-09-30 05:00:00",
+        "2022-10-13 11:59:59",
+        "0"
+      ]
+    ],
+    "2": [
+      [
+        "10802",
+        "扭蛋BOX B",
+        "B",
+        "1",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_multicolour_b",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_multicolour_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_b",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-01 05:00:00",
+        "2022-10-13 11:59:59",
+        "0"
+      ]
+    ],
+    "3": [
+      [
+        "10803",
+        "扭蛋BOX C",
+        "C",
+        "2",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_gold_c",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-02 05:00:00",
+        "2022-10-13 11:59:59",
+        "0"
+      ]
+    ],
+    "4": [
+      [
+        "10804",
+        "扭蛋BOX D",
+        "D",
+        "3",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_multicolour_d",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_multicolour_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-03 05:00:00",
+        "2022-10-13 11:59:59",
+        "0"
+      ]
+    ],
+    "5": [
+      [
+        "10805",
+        "扭蛋BOX E",
+        "E",
+        "4",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_orange_e",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-04 05:00:00",
+        "2022-10-13 11:59:59",
+        "0"
+      ]
+    ],
+    "6": [
+      [
+        "10806",
+        "扭蛋BOX F",
+        "F",
+        "5",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_multicolour_f",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_multicolour_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_f",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-05 05:00:00",
+        "2022-10-13 11:59:59",
+        "0"
+      ]
+    ],
+    "7": [
+      [
+        "10807",
+        "扭蛋BOX G",
+        "G",
+        "6",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_silver_g",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_g",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-06 05:00:00",
+        "2022-10-13 11:59:59",
+        "0"
+      ]
+    ],
+    "8": [
+      [
+        "10808",
+        "扭蛋BOX H",
+        "H",
+        "7",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_multicolour_h",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_multicolour_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_h",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-07 05:00:00",
+        "2022-10-13 11:59:59",
+        "0"
+      ]
+    ],
+    "9": [
+      [
+        "10809",
+        "扭蛋BOX I",
+        "I",
+        "8",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_red_i",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_i",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-07 05:00:00",
+        "2022-10-13 11:59:59",
+        "0"
+      ]
+    ]
+  },
+  "120": {
+    "1": [
+      [
+        "12001",
+        "扭蛋BOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_a",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_a",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-20 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ],
+    "2": [
+      [
+        "12002",
+        "扭蛋BOX B",
+        "B",
+        "1",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_b",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_b",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-21 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ],
+    "3": [
+      [
+        "12003",
+        "扭蛋BOX C",
+        "C",
+        "2",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_c",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-22 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ],
+    "4": [
+      [
+        "12004",
+        "扭蛋BOX D",
+        "D",
+        "3",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_d",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-23 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ],
+    "5": [
+      [
+        "12005",
+        "扭蛋BOX E",
+        "E",
+        "4",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_e",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-24 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ],
+    "6": [
+      [
+        "12006",
+        "扭蛋BOX F",
+        "F",
+        "5",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_f",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_f",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-25 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ],
+    "7": [
+      [
+        "12007",
+        "扭蛋BOX G",
+        "G",
+        "6",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_g",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_g",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-26 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ],
+    "8": [
+      [
+        "12008",
+        "扭蛋BOX H",
+        "H",
+        "7",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_h",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_h",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-27 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ],
+    "9": [
+      [
+        "12009",
+        "扭蛋BOX I",
+        "I",
+        "8",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_i",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_i",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-28 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ],
+    "10": [
+      [
+        "12010",
+        "扭蛋BOX J",
+        "J",
+        "9",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_j",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_j",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-01-28 05:00:00",
+        "2023-02-02 11:59:59",
+        "0"
+      ]
+    ]
+  },
+  "1000": {
+    "1": [
+      [
+        "100001",
+        "扭蛋BOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_green_a",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-04-29 05:00:00",
+        "2023-05-12 11:59:59",
+        "0"
+      ]
+    ],
+    "2": [
+      [
+        "100002",
+        "扭蛋BOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-04-30 05:00:00",
+        "2023-05-12 11:59:59",
+        "0"
+      ]
+    ],
+    "3": [
+      [
+        "100003",
+        "扭蛋BOX C",
+        "C",
+        "2",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_gold_c",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-01 05:00:00",
+        "2023-05-12 11:59:59",
+        "0"
+      ]
+    ],
+    "4": [
+      [
+        "100004",
+        "扭蛋BOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-02 05:00:00",
+        "2023-05-12 11:59:59",
+        "0"
+      ]
+    ],
+    "5": [
+      [
+        "100005",
+        "扭蛋BOX E",
+        "E",
+        "4",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_orange_e",
+        "box_gacha/icon/holiday_activity/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-03 05:00:00",
+        "2023-05-12 11:59:59",
+        "0"
+      ]
+    ],
+    "6": [
+      [
+        "100006",
+        "扭蛋BOX F",
+        "F",
+        "5",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_f",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_f",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-05-03 05:00:00",
+        "2023-05-12 11:59:59",
+        "0"
+      ]
+    ]
+  },
+  "1001": {
+    "1": [
+      [
+        "100101",
+        "扭蛋BOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_a",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_a",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-09-29 05:00:00",
+        "2023-10-15 11:59:59",
+        "0"
+      ]
+    ],
+    "2": [
+      [
+        "100102",
+        "扭蛋BOX B",
+        "B",
+        "1",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_b",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_b",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-09-30 05:00:00",
+        "2023-10-15 11:59:59",
+        "0"
+      ]
+    ],
+    "3": [
+      [
+        "100103",
+        "扭蛋BOX C",
+        "C",
+        "2",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_c",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-01 05:00:00",
+        "2023-10-15 11:59:59",
+        "0"
+      ]
+    ],
+    "4": [
+      [
+        "100104",
+        "扭蛋BOX D",
+        "D",
+        "3",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_d",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-02 05:00:00",
+        "2023-10-15 11:59:59",
+        "0"
+      ]
+    ],
+    "5": [
+      [
+        "100105",
+        "扭蛋BOX E",
+        "E",
+        "4",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_e",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-03 05:00:00",
+        "2023-10-15 11:59:59",
+        "0"
+      ]
+    ],
+    "6": [
+      [
+        "100106",
+        "扭蛋BOX F",
+        "F",
+        "5",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_f",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_f",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-04 05:00:00",
+        "2023-10-15 11:59:59",
+        "0"
+      ]
+    ],
+    "7": [
+      [
+        "100107",
+        "扭蛋BOX G",
+        "G",
+        "6",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_g",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_g",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-05 05:00:00",
+        "2023-10-15 11:59:59",
+        "0"
+      ]
+    ],
+    "8": [
+      [
+        "100108",
+        "扭蛋BOX H",
+        "H",
+        "7",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_h",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_h",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-06 05:00:00",
+        "2023-10-15 11:59:59",
+        "0"
+      ]
+    ],
+    "9": [
+      [
+        "100109",
+        "扭蛋BOX I",
+        "I",
+        "8",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_i",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_i",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-10-06 05:00:00",
+        "2023-10-15 11:59:59",
+        "0"
+      ]
+    ]
+  },
+  "1003": {
+    "1": [
+      [
+        "100301",
+        "扭蛋BOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_a",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_a",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-09 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ],
+    "2": [
+      [
+        "100302",
+        "扭蛋BOX B",
+        "B",
+        "1",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_b",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_b",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-10 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ],
+    "3": [
+      [
+        "100303",
+        "扭蛋BOX C",
+        "C",
+        "2",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_c",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-11 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ],
+    "4": [
+      [
+        "100304",
+        "扭蛋BOX D",
+        "D",
+        "3",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_d",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-12 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ],
+    "5": [
+      [
+        "100305",
+        "扭蛋BOX E",
+        "E",
+        "4",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_e",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-13 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ],
+    "6": [
+      [
+        "100306",
+        "扭蛋BOX F",
+        "F",
+        "5",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_f",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_f",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-14 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ],
+    "7": [
+      [
+        "100307",
+        "扭蛋BOX G",
+        "G",
+        "6",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_g",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_g",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-15 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ],
+    "8": [
+      [
+        "100308",
+        "扭蛋BOX H",
+        "H",
+        "7",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_h",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_h",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-16 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ],
+    "9": [
+      [
+        "100309",
+        "扭蛋BOX I",
+        "I",
+        "8",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_i",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_i",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-17 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ],
+    "10": [
+      [
+        "100310",
+        "扭蛋BOX J",
+        "J",
+        "9",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_j",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_1/logo_j",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-18 05:00:00",
+        "2024-02-26 11:59:59",
+        "0"
+      ]
+    ]
+  },
+  "1004": {
+    "1": [
+      [
+        "100401",
+        "扭蛋BOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_a",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_a",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-04-30 05:00:00",
+        "2024-05-14 11:59:59",
+        "0"
+      ]
+    ],
+    "2": [
+      [
+        "100402",
+        "扭蛋BOX B",
+        "B",
+        "1",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_b",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_b",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-01 05:00:00",
+        "2024-05-14 11:59:59",
+        "0"
+      ]
+    ],
+    "3": [
+      [
+        "100403",
+        "扭蛋BOX C",
+        "C",
+        "2",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_c",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-02 05:00:00",
+        "2024-05-14 11:59:59",
+        "0"
+      ]
+    ],
+    "4": [
+      [
+        "100404",
+        "扭蛋BOX D",
+        "D",
+        "3",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_d",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-03 05:00:00",
+        "2024-05-14 11:59:59",
+        "0"
+      ]
+    ],
+    "5": [
+      [
+        "100405",
+        "扭蛋BOX E",
+        "E",
+        "4",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_e",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-04 05:00:00",
+        "2024-05-14 11:59:59",
+        "0"
+      ]
+    ],
+    "6": [
+      [
+        "100406",
+        "扭蛋BOX F",
+        "F",
+        "5",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_f",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_f",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-05 05:00:00",
+        "2024-05-14 11:59:59",
+        "0"
+      ]
+    ],
+    "7": [
+      [
+        "100407",
+        "扭蛋BOX G",
+        "G",
+        "6",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_g",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2023_2/logo_g",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-06 05:00:00",
+        "2024-05-14 11:59:59",
+        "0"
+      ]
+    ]
+  },
+  "1002": {
+    "1": [
+      [
+        "100201",
+        "扭蛋箱 A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-09 12:00:00",
+        "2024-05-31 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "100202",
+        "扭蛋箱 B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-09 12:00:00",
+        "2024-05-31 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "100203",
+        "扭蛋箱 C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-09 12:00:00",
+        "2024-05-31 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "100204",
+        "扭蛋箱 D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-09 12:00:00",
+        "2024-05-31 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "100205",
+        "扭蛋箱 E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2024-05-09 12:00:00",
+        "2024-05-31 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "13": {
+    "1": [
+      [
+        "1301",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-06-22 12:00:00",
+        "2023-07-21 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1302",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-06-22 12:00:00",
+        "2023-07-21 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1303",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-06-22 12:00:00",
+        "2023-07-21 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1304",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-06-22 12:00:00",
+        "2023-07-21 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1305",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-06-22 12:00:00",
+        "2023-07-21 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "8000": {
+    "1": [
+      [
+        "800001",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-14 12:00:00",
+        "2024-01-05 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "800002",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-14 12:00:00",
+        "2024-01-05 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "800003",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-14 12:00:00",
+        "2024-01-05 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "800004",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-14 12:00:00",
+        "2024-01-05 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "800005",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-12-14 12:00:00",
+        "2024-01-05 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "1005": {
+    "1": [
+      [
+        "100501",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-07-11 12:00:00",
+        "2024-08-02 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "100502",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-07-11 12:00:00",
+        "2024-08-02 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "100503",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-07-11 12:00:00",
+        "2024-08-02 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "100504",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-07-11 12:00:00",
+        "2024-08-02 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "100505",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2024-07-11 12:00:00",
+        "2024-08-02 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "1006": {
+    "1": [
+      [
+        "100601",
+        "扭蛋箱 A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-30 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "100602",
+        "扭蛋箱 B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-30 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "100603",
+        "扭蛋箱 C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-30 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "100604",
+        "扭蛋箱 D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-05-30 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "100605",
+        "扭蛋箱 E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2024-05-30 12:00:00",
+        "2024-06-14 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "15": {
+    "1": [
+      [
+        "1501",
+        "扭蛋箱A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-08-31 12:00:00",
+        "2023-09-29 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1502",
+        "扭蛋箱B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-08-31 12:00:00",
+        "2023-09-29 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1503",
+        "扭蛋箱C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-08-31 12:00:00",
+        "2023-09-29 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1504",
+        "扭蛋箱D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-08-31 12:00:00",
+        "2023-09-29 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1505",
+        "扭蛋箱E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-08-31 12:00:00",
+        "2023-09-29 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "8001": {
+    "1": [
+      [
+        "800101",
+        "扭蛋箱A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-15 12:00:00",
+        "2024-03-08 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "800102",
+        "扭蛋箱B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-15 12:00:00",
+        "2024-03-08 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "800103",
+        "扭蛋箱C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-15 12:00:00",
+        "2024-03-08 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "800104",
+        "扭蛋箱D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-15 12:00:00",
+        "2024-03-08 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "800105",
+        "扭蛋箱E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2024-02-15 12:00:00",
+        "2024-03-08 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "14": {
+    "1": [
+      [
+        "1401",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-08-09 12:00:00",
+        "2023-09-08 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "1402",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-08-09 12:00:00",
+        "2023-09-08 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "1403",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-08-09 12:00:00",
+        "2023-09-08 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "1404",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-08-09 12:00:00",
+        "2023-09-08 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "1405",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-08-09 12:00:00",
+        "2023-09-08 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "6": {
+    "1": [
+      [
+        "601",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-13 12:00:00",
+        "2022-11-04 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "602",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-13 12:00:00",
+        "2022-11-04 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "603",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-13 12:00:00",
+        "2022-11-04 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "604",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2022-10-13 12:00:00",
+        "2022-11-04 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "605",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2022-10-13 12:00:00",
+        "2022-11-04 11:59:59",
+        "1"
+      ]
+    ]
+  },
+  "23": {
+    "1": [
+      [
+        "2301",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-22 12:00:00",
+        "2024-03-15 11:59:59",
+        "1"
+      ]
+    ],
+    "2": [
+      [
+        "2302",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-22 12:00:00",
+        "2024-03-15 11:59:59",
+        "1"
+      ]
+    ],
+    "3": [
+      [
+        "2303",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-22 12:00:00",
+        "2024-03-15 11:59:59",
+        "1"
+      ]
+    ],
+    "4": [
+      [
+        "2304",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-02-22 12:00:00",
+        "2024-03-15 11:59:59",
+        "1"
+      ]
+    ],
+    "5": [
+      [
+        "2305",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2024-02-22 12:00:00",
+        "2024-03-15 11:59:59",
+        "1"
+      ]
+    ]
+  }
+}

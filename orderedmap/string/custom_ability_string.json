@@ -1,0 +1,197 @@
+{
+  "change_skill_devil_clown_xm21": [
+    [
+      "将『虚假幻想』中的「赋予全体敌人累积光属性抗性降低效果」改为「赋予全体敌人累积光属性抗性降低&累积攻击力降低效果」"
+    ]
+  ],
+  "change_skill_kyouka": [
+    [
+      "强化『宇宙蓝色闪光』的威力"
+    ]
+  ],
+  "change_skill_misogi": [
+    [
+      "为『捣蛋炸弹』追加「赋予命中的敌人火属性抗性降低效果」"
+    ]
+  ],
+  "change_skill_spanner_girl": [
+    [
+      "强化『电子维修』的回复量"
+    ]
+  ],
+  "change_skill_tsundere_bountyhunter_vt22": [
+    [
+      "为『白葡萄甘纳许』追加「赋予自身连击效果」"
+    ]
+  ],
+  "change_skill_ice_dragon": [
+    [
+      "为『冰冻颂歌』追加「赋予命中的敌人累积攻击力降低效果」"
+    ]
+  ],
+  "change_skill_super_robot": [
+    [
+      "强化『多重爆破』的充能射线的威力和范围"
+    ]
+  ],
+  "change_skill_katana_ghost_wt22": [
+    [
+      "强化『契约之剑』的「攻击力提升效果」"
+    ]
+  ],
+  "change_skill_bigwing_shaman_smr21": [
+    [
+      "强化『风怒龙卷』的「强化弹射伤害提升效果」"
+    ]
+  ],
+  "change_skill_mercenary_smr21": [
+    [
+      "强化『顺风龙卷』的「攻击力提升效果」"
+    ]
+  ],
+  "change_skill_ruin_girl_smr21": [
+    [
+      "强化『盛夏艳阳』的「攻击力提升效果/连击效果」"
+    ]
+  ],
+  "change_skill_still_obstinator": [
+    [
+      "强化『自动机械系统』的威力"
+    ]
+  ],
+  "change_skill_anger_investigator": [
+    [
+      "强化『惊骇爆发』的「火属性抗性降低效果」"
+    ]
+  ],
+  "ability_skill_estateguild_leader": [
+    [
+      "召唤2头拥有『贯穿&浮游&最大速度固定&无敌&回复无效效果』的灵魂"
+    ]
+  ],
+  "change_skill_neoviolin_musician_hw21": [
+    [
+      "强化『辉月颂歌』的「强化弹射伤害提升效果」"
+    ]
+  ],
+  "change_skill_sanctuary_guard_hw21": [
+    [
+      "强化『夷为平地』的「贯穿效果」"
+    ]
+  ],
+  "change_skill_pirates_girl_2anv": [
+    [
+      "强化『星际漫步系统』的「技能伤害提升效果」"
+    ]
+  ],
+  "change_skill_combat_animal_xm21": [
+    [
+      "强化『晚安组合技』的「攻击力提升+技能伤害提升效果」"
+    ]
+  ],
+  "change_skill_heavenly_three": [
+    [
+      "强化『轻巧舞步』的「强化弹射伤害提升效果」"
+    ]
+  ],
+  "change_skill_rural_ladyship": [
+    [
+      "强化『盛放笑容』的「攻击力提升效果」并强化弱体效果"
+    ]
+  ],
+  "change_skill_sand_bandit": [
+    [
+      "为『毒刃弯刀』追加「赋予命中的敌人累积水属性抗性降低效果」"
+    ]
+  ],
+  "change_skill_psychic_yamikawa": [
+    [
+      "『美狄亚之拥』的「暗属性抗性降低效果」将随暗属性协力球的数量增加而强化"
+    ]
+  ],
+  "change_skill_guildknight_leader": [
+    [
+      "强化『迷宫遗物·白银』的「攻击力强化效果」"
+    ]
+  ],
+  "change_skill_holysword_girl": [
+    [
+      "强化『瑞光剑』的「攻击力提升+技能伤害提升效果」"
+    ]
+  ],
+  "change_skill_little_vampire": [
+    [
+      "强化『夜半吸血鬼』的「攻击力提升效果」，并追加「当除自身外的雷属性角色的生命值在50%以上时对该角色造成伤害」"
+    ]
+  ],
+  "change_skill_2_tsundere_bountyhunter_vt22": [
+    [
+      "强化『白葡萄甘纳许』的「技能伤害提升效果」"
+    ]
+  ],
+  "change_skill_golemclub_captain": [
+    [
+      "强化『塔罗斯99号』的「赋予火属性协力球攻击力提升+直接攻击伤害提升效果」"
+    ]
+  ],
+  "change_skill_psychic_nao": [
+    [
+      "强化『星海领域』的「攻击力提升效果」"
+    ]
+  ],
+  "change_skill_psychic_shouta": [
+    [
+      "强化『虚空爆裂破』的威力"
+    ]
+  ],
+  "change_skill_psychic_tomboygirl_hw22": [
+    [
+      "为『恶作剧言灵』追加「消除领域内全体敌人的1个强化效果」"
+    ]
+  ],
+  "change_skill_2_super_robot": [
+    [
+      "为『多重爆破』追加「赋予被扫描的敌人雷属性抗性降低效果」"
+    ]
+  ],
+  "change_skill_reformist_prince": [
+    [
+      "为『王盾剑·光芒利刃』追加「消除命中的敌人的1个强化效果」"
+    ]
+  ],
+  "change_skill_silence_suzuka": [
+    [
+      "强化『决不让出领头的景色……！』的「最大速度固定效果」&在阱洞上设置栅栏&一段时间内不受冲刺控制"
+    ]
+  ],
+  "change_skill_gold_ship": [
+    [
+      "「竟敢让我来抛头露面，胆子真不小啊！我可是会拿出真本事来的哦！」"
+    ]
+  ],
+  "change_skill_kazuma": [
+    [
+      "『生命吸收』追加「降低碰撞到敌人攻击力效果」 ＆ 强化恢复量"
+    ]
+  ],
+  "change_skill_aqua": [
+    [
+      "强化『治愈』的「追加提升Fever槽」"
+    ]
+  ],
+  "change_skill_megumin": [
+    [
+      "强化『EXPLOSION』的威力"
+    ]
+  ],
+  "change_skill_kazuma_2": [
+    [
+      "强化『生命吸收』的「攻击力提升效果」"
+    ]
+  ],
+  "change_skill_yuno": [
+    [
+      "『スピリット・ストーム』の威力を強化"
+    ]
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "1": [
+    [
+      "boss_battle_multi_pickup_event_01",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top",
+      "rich_text/bossbattle_multi_pickup_schedule",
+      "1.5",
+      "1",
+      "3",
+      "2019-12-31 12:00:00",
+      "2020-02-01 04:59:59"
+    ]
+  ],
+  "2": [
+    [
+      "boss_battle_multi_pickup_event_02",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_02",
+      "rich_text/bossbattle_multi_pickup_schedule2",
+      "1.5",
+      "1",
+      "3",
+      "2020-03-01 12:00:00",
+      "2020-03-13 11:59:59"
+    ]
+  ],
+  "3": [
+    [
+      "boss_battle_multi_pickup_event_03",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule3",
+      "1.5",
+      "1",
+      "3",
+      "2020-04-15 12:00:00",
+      "2020-04-30 11:59:59"
+    ]
+  ],
+  "4": [
+    [
+      "boss_battle_multi_pickup_event_04",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule4",
+      "1.5",
+      "1",
+      "3",
+      "2020-05-15 12:00:00",
+      "2020-05-27 11:59:59"
+    ]
+  ],
+  "5": [
+    [
+      "boss_battle_multi_pickup_event_05",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule4",
+      "1.5",
+      "1",
+      "3",
+      "2020-06-23 12:00:00",
+      "2020-06-30 11:59:59"
+    ]
+  ],
+  "6": [
+    [
+      "boss_battle_multi_pickup_event_06",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule4",
+      "1.5",
+      "1",
+      "3",
+      "2020-07-21 12:00:00",
+      "2020-07-31 11:59:59"
+    ]
+  ],
+  "7": [
+    [
+      "boss_battle_multi_pickup_event_07",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2020-10-23 12:00:00",
+      "2020-10-31 11:59:59"
+    ]
+  ],
+  "8": [
+    [
+      "boss_battle_multi_pickup_event_08",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_ny_top",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "3",
+      "1",
+      "3",
+      "2020-12-31 12:00:00",
+      "2021-01-11 20:59:59"
+    ]
+  ],
+  "9": [
+    [
+      "boss_battle_multi_pickup_event_09",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2021-01-31 12:00:00",
+      "2021-02-08 20:59:59"
+    ]
+  ],
+  "10": [
+    [
+      "boss_battle_multi_pickup_event_10",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2023-01-05 12:00:00",
+      "2023-01-19 11:59:59"
+    ]
+  ],
+  "11": [
+    [
+      "boss_battle_multi_pickup_event_11",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_empress_01",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2023-03-02 12:00:00",
+      "2023-03-16 11:59:59"
+    ]
+  ],
+  "12": [
+    [
+      "boss_battle_multi_pickup_event_12",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_empress_01_1halfaniv",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "2",
+      "1",
+      "3",
+      "2023-04-13 12:00:00",
+      "2023-04-27 11:59:59"
+    ]
+  ],
+  "13": [
+    [
+      "boss_battle_multi_pickup_event_13",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_empress_01_01",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2023-06-16 12:00:00",
+      "2023-06-29 11:59:59"
+    ]
+  ],
+  "14": [
+    [
+      "boss_battle_multi_pickup_event_14",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_empress_02_01",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2023-08-17 12:00:00",
+      "2023-08-31 11:59:59"
+    ]
+  ],
+  "15": [
+    [
+      "boss_battle_multi_pickup_event_15",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_ny22_top",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "2",
+      "1",
+      "3",
+      "2023-10-05 12:00:00",
+      "2023-10-19 11:59:59"
+    ]
+  ],
+  "16": [
+    [
+      "boss_battle_multi_pickup_event_Pcollab_02",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_Pcollab_02",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2023-10-19 12:00:00",
+      "2023-11-02 11:59:59"
+    ]
+  ],
+  "17": [
+    [
+      "boss_battle_multi_pickup_event_17",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_empress_02_01",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2023-12-21 12:00:00",
+      "2024-01-04 23:59:59"
+    ]
+  ],
+  "18": [
+    [
+      "boss_battle_advent_multi_pickup_event_1",
+      "quest/event/background/bossbattle_multi_pickup_event/advent_multi_pickup_event_1",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "2",
+      "1",
+      "3",
+      "2024-03-14 12:00:00",
+      "2024-03-28 23:59:59"
+    ]
+  ],
+  "20": [
+    [
+      "boss_battle_multi_pickup_event_20",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2022-04-14 12:00:00",
+      "2022-05-05 11:59:59"
+    ]
+  ],
+  "30": [
+    [
+      "boss_battle_multi_pickup_event_006",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule4",
+      "1.5",
+      "1",
+      "3",
+      "2022-05-26 12:00:00",
+      "2022-06-09 11:59:59"
+    ]
+  ],
+  "40": [
+    [
+      "boss_battle_multi_pickup_event_007",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2022-07-28 12:00:00",
+      "2022-08-04 11:59:59"
+    ]
+  ],
+  "41": [
+    [
+      "boss_battle_multi_pickup_event_107",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2022-08-18 12:00:00",
+      "2022-08-25 11:59:59"
+    ]
+  ],
+  "42": [
+    [
+      "boss_battle_multi_pickup_event_109",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2022-09-29 12:00:00",
+      "2022-10-06 11:59:59"
+    ]
+  ],
+  "43": [
+    [
+      "boss_battle_multi_pickup_event_110",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2022-10-27 12:00:00",
+      "2022-11-03 11:59:59"
+    ]
+  ],
+  "44": [
+    [
+      "boss_battle_multi_pickup_event_108",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_ny_top",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "3",
+      "1",
+      "3",
+      "2022-11-17 12:00:00",
+      "2022-12-01 11:59:59"
+    ]
+  ],
+  "45": [
+    [
+      "boss_battle_multi_pickup_event_209",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2022-12-08 12:00:00",
+      "2022-12-15 11:59:59"
+    ]
+  ],
+  "46": [
+    [
+      "boss_battle_multi_pickup_event_202307",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2023-07-20 12:00:00",
+      "2023-08-03 11:59:59"
+    ]
+  ],
+  "47": [
+    [
+      "boss_battle_multi_pickup_event_2024_01",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_empress_01_01",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2024-01-18 12:00:00",
+      "2024-02-01 23:59:59"
+    ]
+  ],
+  "10000011": [
+    [
+      "boss_battle_multi_pickup_event_21",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_empress_03_01",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2099-11-15 12:00:00",
+      "2099-12-04 04:59:59"
+    ]
+  ],
+  "10000010": [
+    [
+      "boss_battle_multi_pickup_event_202320",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2024-06-27 12:00:00",
+      "2024-07-11 23:59:59"
+    ]
+  ],
+  "10000008": [
+    [
+      "boss_battle_multi_pickup_event_19",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2024-06-06 12:00:00",
+      "2024-06-20 23:59:59"
+    ]
+  ],
+  "10000004": [
+    [
+      "boss_battle_multi_pickup_event_18",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_empress_03_01",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "3",
+      "2024-05-16 12:00:00",
+      "2024-05-30 23:59:59"
+    ]
+  ],
+  "10000012": [
+    [
+      "boss_battle_advent_multi_pickup_event_2",
+      "quest/event/background/bossbattle_multi_pickup_event/advent_multi_pickup_event_1",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "2",
+      "1",
+      "3",
+      "2022-12-21 12:00:00",
+      "2022-12-30 20:59:59"
+    ]
+  ]
+}

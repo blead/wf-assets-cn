@@ -1,0 +1,262 @@
+{
+  "heal_up": [
+    [
+      "回复量强化"
+    ]
+  ],
+  "condition_effect_attack_power_down": [
+    [
+      "对敌人攻击力下降效果强化"
+    ]
+  ],
+  "resistance_allelement": [
+    [
+      "全属性抗性提升效果强化"
+    ]
+  ],
+  "resistance_red": [
+    [
+      "火属性抗性提升效果强化"
+    ]
+  ],
+  "resistance_blue": [
+    [
+      "水属性抗性提升效果强化"
+    ]
+  ],
+  "resistance_yellow": [
+    [
+      "雷属性抗性提升效果强化"
+    ]
+  ],
+  "resistance_green": [
+    [
+      "风属性抗性提升效果强化"
+    ]
+  ],
+  "resistance_white": [
+    [
+      "光属性抗性提升效果强化"
+    ]
+  ],
+  "resistance_black": [
+    [
+      "暗属性抗性提升效果强化"
+    ]
+  ],
+  "damage_cut_allelement": [
+    [
+      "全属性伤害减弱效果强化"
+    ]
+  ],
+  "damage_cut_red": [
+    [
+      "火属性伤害减弱效果强化"
+    ]
+  ],
+  "damage_cut_blue": [
+    [
+      "水属性伤害减弱效果强化"
+    ]
+  ],
+  "damage_cut_yellow": [
+    [
+      "雷属性伤害减弱效果强化"
+    ]
+  ],
+  "damage_cut_green": [
+    [
+      "风属性伤害减弱效果强化"
+    ]
+  ],
+  "damage_cut_white": [
+    [
+      "光属性伤害减弱效果强化"
+    ]
+  ],
+  "damage_cut_black": [
+    [
+      "暗属性伤害减弱效果强化"
+    ]
+  ],
+  "condition_effect_allelement_up": [
+    [
+      "对敌人全属性抗性下降性能强化"
+    ]
+  ],
+  "condition_effect_red_up": [
+    [
+      "对敌人火属性抗性下降性能强化"
+    ]
+  ],
+  "condition_effect_blue_up": [
+    [
+      "对敌人水属性抗性下降性能强化"
+    ]
+  ],
+  "condition_effect_yellow_up": [
+    [
+      "对敌人雷属性抗性下降性能强化"
+    ]
+  ],
+  "condition_effect_green_up": [
+    [
+      "对敌人风属性抗性下降性能强化"
+    ]
+  ],
+  "condition_effect_white_up": [
+    [
+      "对敌人光属性抗性下降性能强化"
+    ]
+  ],
+  "condition_effect_black_up": [
+    [
+      "对敌人暗属性抗性下降性能强化"
+    ]
+  ],
+  "condition_effect_poison_up": [
+    [
+      "毒效果强化"
+    ]
+  ],
+  "condition_effect_paralysis_up": [
+    [
+      "麻痹效果强化"
+    ]
+  ],
+  "skill_damage_up": [
+    [
+      "技能伤害提升效果强化"
+    ]
+  ],
+  "skill_gauge_up": [
+    [
+      "技能充能速度强化"
+    ]
+  ],
+  "powerflip_damage_up": [
+    [
+      "强化弹射伤害提升效果强化"
+    ]
+  ],
+  "multiball_up": [
+    [
+      "协力球性能强化"
+    ]
+  ],
+  "condition_flying_up": [
+    [
+      "浮游效果强化"
+    ]
+  ],
+  "condition_debuff_resistance_up": [
+    [
+      "弱体抗性效果强化"
+    ]
+  ],
+  "condition_piercing_up": [
+    [
+      "贯穿效果强化"
+    ]
+  ],
+  "condition_slow": [
+    [
+      "迟缓效果强化"
+    ]
+  ],
+  "condition_fever_point_up": [
+    [
+      "Fever增加效果强化"
+    ]
+  ],
+  "condition_regeneration_up": [
+    [
+      "再生效果强化"
+    ]
+  ],
+  "coffin_reduce": [
+    [
+      "棺柩计数减少效果强化"
+    ]
+  ],
+  "invinceble_up": [
+    [
+      "无敌效果强化"
+    ]
+  ],
+  "condition_stun_wince": [
+    [
+      "Break·Down伤害强化"
+    ]
+  ],
+  "condition_directdamage_up": [
+    [
+      "直接攻击伤害提升效果强化"
+    ]
+  ],
+  "condition_directattack_more": [
+    [
+      "连击效果强化"
+    ]
+  ],
+  "barrier_up": [
+    [
+      "障碍效果强化"
+    ]
+  ],
+  "ability_damage_up": [
+    [
+      "能力伤害提升效果强化"
+    ]
+  ],
+  "adversity_up": [
+    [
+      "逆境效果强化"
+    ]
+  ],
+  "comboboost_up": [
+    [
+      "连击提升效果强化"
+    ]
+  ],
+  "combo_count_up": [
+    [
+      "连击数增加效果强化"
+    ]
+  ],
+  "condition_effect_stun_up": [
+    [
+      "眩晕效果强化"
+    ]
+  ],
+  "condition_guts_up": [
+    [
+      "坚韧效果强化"
+    ]
+  ],
+  "condition_fixed_speed_up": [
+    [
+      "最大速度固定效果强化"
+    ]
+  ],
+  "condition_skill_gauge_charging_up": [
+    [
+      "技能槽速度效果强化"
+    ]
+  ],
+  "separated_term_powerflip_damage_up": [
+    [
+      "独立伤害乘区强化弹射伤害提升效果强化"
+    ]
+  ],
+  "separated_term_directdamage_up": [
+    [
+      "独立伤害乘区直接攻击伤害提升效果强化"
+    ]
+  ],
+  "speed_up": [
+    [
+      "加速效果强化"
+    ]
+  ]
+}
