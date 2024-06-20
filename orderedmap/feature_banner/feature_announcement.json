@@ -3933,8 +3933,8 @@
     [
       "1000",
       "dynamic/feature_announcement/bossbattle_multi_pickup_event_21",
-      "2022-11-15 12:00:00",
-      "2022-11-27 20:59:59",
+      "2024-07-18 12:00:00",
+      "2024-08-01 23:59:59",
       "false",
       "(None)"
     ]
@@ -4093,8 +4093,8 @@
     [
       "1000",
       "dynamic/feature_announcement/boss_epuration_event_01",
-      "2022-11-28 12:00:00",
-      "2022-12-23 20:59:59",
+      "2024-07-18 12:00:00",
+      "2024-08-08 23:59:59",
       "false",
       "(None)"
     ]
@@ -4113,8 +4113,8 @@
     [
       "1000",
       "dynamic/feature_announcement/advent_event_spirit_beast_dark2",
-      "2022-12-06 12:00:00",
-      "2022-12-15 20:59:59",
+      "2024-07-25 12:00:00",
+      "2024-08-01 23:59:59",
       "false",
       "(None)"
     ]

@@ -4848,6 +4848,58 @@
       "dynamic/degree/battle_pass_01_degree_2"
     ]
   ],
+  "80017": [
+    [
+      "battle_pass_02_degree_1",
+      "750002",
+      "夏花灿烂",
+      "待翻译",
+      "获得条件：在2024年7月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_02_degree_1"
+    ]
+  ],
+  "80018": [
+    [
+      "battle_pass_02_degree_2",
+      "750003",
+      "夏花灿烂",
+      "待翻译",
+      "获得条件：在2024年7月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_02_degree_2"
+    ]
+  ],
+  "80019": [
+    [
+      "battle_pass_03_degree_1",
+      "750004",
+      "夏夜流萤",
+      "待翻译",
+      "获得条件：在2024年8月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_03_degree_1"
+    ]
+  ],
+  "80020": [
+    [
+      "battle_pass_03_degree_2",
+      "750005",
+      "夏夜流萤",
+      "待翻译",
+      "获得条件：在2024年8月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_03_degree_2"
+    ]
+  ],
   "161009": [
     [
       "degree_favor_hoshikawa_ririi",

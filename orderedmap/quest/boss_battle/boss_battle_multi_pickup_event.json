@@ -343,13 +343,13 @@
       "1.5",
       "1",
       "3",
-      "2099-11-15 12:00:00",
-      "2099-12-04 04:59:59"
+      "2024-07-18 12:00:00",
+      "2024-08-01 23:59:59"
     ]
   ],
   "10000010": [
     [
-      "boss_battle_multi_pickup_event_202320",
+      "boss_battle_multi_pickup_event_20_2024_06",
       "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
       "rich_text/bossbattle_multi_pickup_schedule5",
       "1.5",

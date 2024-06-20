@@ -898,7 +898,7 @@
       "1",
       "rich_text/help_event_haniwa_carnival",
       "2024-05-30 12:00:00",
-      "2024-06-21 11:59:59"
+      "2024-06-20 11:59:59"
     ]
   ],
   "Event_haniwa_carnival_08": [
@@ -1117,8 +1117,8 @@
       "1",
       "1",
       "rich_text/help_event_boss_epuration_event_01",
-      "2022-11-28 12:00:00",
-      "2022-12-31 04:59:59"
+      "2024-07-18 12:00:00",
+      "2024-08-16 11:59:59"
     ]
   ],
   "boss_battle_multi_pickup_event": [
@@ -1216,8 +1216,8 @@
       "1",
       "1",
       "rich_text/help_event_boss_battle_multi_pickup",
-      "2022-11-15 12:00:00",
-      "2022-12-04 04:59:59"
+      "2024-07-18 12:00:00",
+      "2024-08-01 23:59:59"
     ]
   ],
   "Event_Advent_b_collabo": [
@@ -1304,8 +1304,8 @@
       "1",
       "1",
       "rich_text/help_event_advent_spirit_beast_dark2",
-      "2022-12-06 12:00:00",
-      "2022-12-23 04:59:59"
+      "2024-07-25 12:00:00",
+      "2024-08-08 11:59:59"
     ]
   ],
   "Event_Advent_light": [
