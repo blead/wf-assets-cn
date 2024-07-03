@@ -8621,7 +8621,7 @@
   ],
   "mob_madam_eva_name": [
     [
-      "伊娃女士",
+      "伊娃老板娘",
       "0xb3839c",
       "(None)",
       "",
@@ -8871,7 +8871,7 @@
   ],
   "mob_peddler_man": [
     [
-      "行商人",
+      "男性行商人",
       "0x8091a3",
       "(None)",
       "",
@@ -8901,7 +8901,7 @@
   ],
   "mob_lobe_man": [
     [
-      "兜帽男子",
+      "长袍男子",
       "0x8091a3",
       "(None)",
       "",
@@ -8921,7 +8921,7 @@
   ],
   "rector_sorcerer_playable": [
     [
-      "ニルヤーナ",
+      "尼尔娅娜",
       "0x3f2843",
       "character/rector_sorcerer/voice/",
       "normal",

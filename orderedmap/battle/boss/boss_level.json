@@ -3484,6 +3484,74 @@
       "800"
     ]
   ],
+  "owl_skill": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "190",
+      "36",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "15",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "45"
+    ]
+  ],
+  "owl_pf": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "190",
+      "36",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "15",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "45"
+    ]
+  ],
+  "owl_direct": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "190",
+      "36",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "15",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "45"
+    ]
+  ],
+  "owl_ability": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "190",
+      "36",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "15",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "30"
+    ]
+  ],
   "orochi_ex": [
     [
       "0",
@@ -5046,6 +5114,74 @@
       "atk_single",
       "tp_normal",
       "27"
+    ]
+  ],
+  "double_owl_lich_skill": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "800",
+      "2.7",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "20",
+      "0.8",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "18"
+    ]
+  ],
+  "double_owl_lich_pf": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "800",
+      "2.7",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "20",
+      "0.98",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "22"
+    ]
+  ],
+  "double_owl_lich_direct": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "800",
+      "2.7",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "20",
+      "0.6",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "26"
+    ]
+  ],
+  "double_owl_lich_ability": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "800",
+      "2.7",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "20",
+      "0.3",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "18"
     ]
   ],
   "devil_commander_evil_envy_80": [

@@ -1203,6 +1203,62 @@
       "battle/field_object/world_tree/tree_grass01/fever_gauge/tree_grass01_fever_gauge"
     ]
   ],
+  "double_boss_owl_skill": [
+    [
+      "battle/field/world_tree/tree_forest/background/background",
+      "battle/field/world_tree/tree_forest/foreground/foreground",
+      "battle/field/world_tree/tree_forest/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_tree/tree_forest/gate/tree_forest_gate",
+      "battle/field_object/world_tree/tree_forest/transit_pod/tree_forest_transit_pod",
+      "battle/field_object/world_tree/tree_forest/fever_gauge/tree_forest_fever_gauge"
+    ]
+  ],
+  "double_boss_owl_pf": [
+    [
+      "battle/field/world_tree/tree_forest/background/background",
+      "battle/field/world_tree/tree_forest/foreground/foreground",
+      "battle/field/world_tree/tree_forest/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_tree/tree_forest/gate/tree_forest_gate",
+      "battle/field_object/world_tree/tree_forest/transit_pod/tree_forest_transit_pod",
+      "battle/field_object/world_tree/tree_forest/fever_gauge/tree_forest_fever_gauge"
+    ]
+  ],
+  "double_boss_owl_direct": [
+    [
+      "battle/field/world_tree/tree_forest/background/background",
+      "battle/field/world_tree/tree_forest/foreground/foreground",
+      "battle/field/world_tree/tree_forest/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_tree/tree_forest/gate/tree_forest_gate",
+      "battle/field_object/world_tree/tree_forest/transit_pod/tree_forest_transit_pod",
+      "battle/field_object/world_tree/tree_forest/fever_gauge/tree_forest_fever_gauge"
+    ]
+  ],
+  "double_boss_owl_ability": [
+    [
+      "battle/field/world_tree/tree_forest/background/background",
+      "battle/field/world_tree/tree_forest/foreground/foreground",
+      "battle/field/world_tree/tree_forest/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_tree/tree_forest/gate/tree_forest_gate",
+      "battle/field_object/world_tree/tree_forest/transit_pod/tree_forest_transit_pod",
+      "battle/field_object/world_tree/tree_forest/fever_gauge/tree_forest_fever_gauge"
+    ]
+  ],
   "cyber_punk_vacant_land_battle": [
     [
       "battle/field/world_cyber_punk/cyber_punk_vacant_land_battle/background/background",
@@ -1551,6 +1607,62 @@
       "(None)",
       "(None)",
       "battle/field_object/world_advent/epuration_boss_highest/fever_gauge/fever_gauge"
+    ]
+  ],
+  "double_owl_lich_skill": [
+    [
+      "battle/field/world_tree/tree_forest/background/background",
+      "battle/field/world_tree/tree_forest/foreground/foreground",
+      "battle/field/world_tree/tree_forest/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_tree/tree_forest/gate/tree_forest_gate",
+      "battle/field_object/world_tree/tree_forest/transit_pod/tree_forest_transit_pod",
+      "battle/field_object/world_tree/tree_forest/fever_gauge/tree_forest_fever_gauge"
+    ]
+  ],
+  "double_owl_lich_pf": [
+    [
+      "battle/field/world_tree/tree_forest/background/background",
+      "battle/field/world_tree/tree_forest/foreground/foreground",
+      "battle/field/world_tree/tree_forest/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_tree/tree_forest/gate/tree_forest_gate",
+      "battle/field_object/world_tree/tree_forest/transit_pod/tree_forest_transit_pod",
+      "battle/field_object/world_tree/tree_forest/fever_gauge/tree_forest_fever_gauge"
+    ]
+  ],
+  "double_owl_lich_direct": [
+    [
+      "battle/field/world_tree/tree_forest/background/background",
+      "battle/field/world_tree/tree_forest/foreground/foreground",
+      "battle/field/world_tree/tree_forest/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_tree/tree_forest/gate/tree_forest_gate",
+      "battle/field_object/world_tree/tree_forest/transit_pod/tree_forest_transit_pod",
+      "battle/field_object/world_tree/tree_forest/fever_gauge/tree_forest_fever_gauge"
+    ]
+  ],
+  "double_owl_lich_ability": [
+    [
+      "battle/field/world_tree/tree_forest/background/background",
+      "battle/field/world_tree/tree_forest/foreground/foreground",
+      "battle/field/world_tree/tree_forest/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_tree/tree_forest/gate/tree_forest_gate",
+      "battle/field_object/world_tree/tree_forest/transit_pod/tree_forest_transit_pod",
+      "battle/field_object/world_tree/tree_forest/fever_gauge/tree_forest_fever_gauge"
     ]
   ],
   "sand_giant_inside_ev": [

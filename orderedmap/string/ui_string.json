@@ -1846,7 +1846,7 @@
   ],
   "ability_description_instant_trigger_kind_skill_gauge": [
     [
-      "::if !omittable::::triggerPuller::的::end::技能槽因能力或技能的效果::if hasCount:: ::count::::else::::end::増加::if once::::else::::end::"
+      "::if !omittable::::triggerPuller::的::end::技能槽因能力或技能的效果::if hasCount:: ::count::::else::::end::增加::if once::::else::::end::"
     ]
   ],
   "ability_description_instant_trigger_kind_damage_by_abiility": [
@@ -9166,7 +9166,7 @@
   ],
   "ability_description_ability_aquire": [
     [
-      "学习能力::skill_slot_index::『<=\"#ff9f1c\">::skill_name::</font>』"
+      "学习能力::skill_slot_index::『<font color=\"#ff9f1c\">::skill_name::</font>』"
     ]
   ],
   "ability_description_ability_aquire_no_highlight": [
@@ -9201,7 +9201,7 @@
   ],
   "ability_board_learn_window_skill_weight_shorten": [
     [
-      "·降低所需技能能量"
+      "\n・降低所需技能能量"
     ]
   ],
   "ability_board_learn_dialog_total_required_mana": [
@@ -14754,6 +14754,11 @@
       "未达成奖励条件，无法领取"
     ]
   ],
+  "growth_fund_buy_laite_treasury2_tip": [
+    [
+      "发现您尚未购买【莱特的小金库(A）】\n<font color='#ea354c'size='24px'>包含80-170级的冲级任务礼包</font>\n请问您是否确认直接购买【莱特的小金库(B）】"
+    ]
+  ],
   "system_lock_auto_battle_single": [
     [
       "单个继战功能\n通关主线关卡\n第4 章 11 － 5后解锁。"
@@ -15332,6 +15337,186 @@
   "pass_release_label": [
     [
       "高阶修行 "
+    ]
+  ],
+  "leader_ability_name_awaked": [
+    [
+      "::name::++"
+    ]
+  ],
+  "ability_board_ability_acquire_window_button_awake": [
+    [
+      "确认觉醒"
+    ]
+  ],
+  "ability_board_ability_acquire_dialog_button_awake": [
+    [
+      "觉醒"
+    ]
+  ],
+  "ability_board_ability_acquire_window_awaked": [
+    [
+      "已觉醒"
+    ]
+  ],
+  "mana_board_learn_window_ability_power_up_description_awake": [
+    [
+      "能力::slot::进行1阶段觉醒。"
+    ]
+  ],
+  "mana_board_learn_window_ability_ability_description_head_before_awake": [
+    [
+      "能力 ::slot::觉醒 + ::plus_power::\n::effect::"
+    ]
+  ],
+  "mana_board_learn_window_ability_ability_description_head_awake": [
+    [
+      "能力 ::slot::觉醒<font color='#ff9f1c'> + ::plus_power::</font>\n::effect::"
+    ]
+  ],
+  "mana_board_learn_window_ability_ability_description_head_gotten_awake": [
+    [
+      "当前效果：能力 ::slot::觉醒 + ::plus_power::\n::effect::"
+    ]
+  ],
+  "mana_board_learn_bulk_already_awaked_all_message": [
+    [
+      "玛纳板已觉醒完毕"
+    ]
+  ],
+  "mana_board_awake_disabled_message": [
+    [
+      "未满足以下条件，尚未解锁觉醒功能。"
+    ]
+  ],
+  "mana_board_awake_disabled_not_released_reason_level": [
+    [
+      "- 等级不低于 ::level::"
+    ]
+  ],
+  "mana_board_awake_disabled_not_released_reason_learn_all_nodes": [
+    [
+      "- 学习第 ::board:: 块玛纳板全部内容"
+    ]
+  ],
+  "mana_board_awakeale_message": [
+    [
+      "::name::【角色觉醒】功能已解锁\n点击右侧按钮即可前往。"
+    ]
+  ],
+  "mana_board_awake_required_ability": [
+    [
+      "<font color='#ea354c'>需要先觉醒能力::slot::</font>"
+    ]
+  ],
+  "ability_name_action_skill_awake_level": [
+    [
+      "技能觉醒Lv +1"
+    ]
+  ],
+  "ability_name_action_skill_awake_evolution": [
+    [
+      "技能觉醒"
+    ]
+  ],
+  "ability_name_ability_awake_power_up": [
+    [
+      "能力::skill_slot_index::觉醒"
+    ]
+  ],
+  "ability_description_ability_awake": [
+    [
+      "觉醒能力::skill_slot_index::『<font color=\"#ff9f1c\">::skill_name::</font>』"
+    ]
+  ],
+  "ability_description_ability_awake_no_highlight": [
+    [
+      "觉醒能力::skill_slot_index::“::skill_name::”"
+    ]
+  ],
+  "ability_board_learn_dialog_total_ability_awake_count_message": [
+    [
+      "总计，觉醒能力 × ::count::"
+    ]
+  ],
+  "ability_board_learn_dialog_tab_before_awake": [
+    [
+      "觉醒前"
+    ]
+  ],
+  "ability_board_learn_dialog_tab_after_awake": [
+    [
+      "觉醒后"
+    ]
+  ],
+  "character_awake_scene_title": [
+    [
+      "角色觉醒"
+    ]
+  ],
+  "character_awake_scene_tab_mission_list": [
+    [
+      "觉醒任务"
+    ]
+  ],
+  "character_awake_scene_tab_ability_list": [
+    [
+      "能力觉醒"
+    ]
+  ],
+  "character_awake_dialog_awake": [
+    [
+      "觉醒"
+    ]
+  ],
+  "character_awake_level": [
+    [
+      "觉醒等级"
+    ]
+  ],
+  "character_awake_dialog_slider_text": [
+    [
+      "觉醒次数 : ::value::"
+    ]
+  ],
+  "character_awake_dialog_cost_mana": [
+    [
+      "玛纳"
+    ]
+  ],
+  "character_awake_need_awake_previous_ability": [
+    [
+      "需要完成上一能力觉醒"
+    ]
+  ],
+  "character_awake_need_complete_all_mission": [
+    [
+      "需要完成所有觉醒任务"
+    ]
+  ],
+  "character_awake_has_reached_max_level": [
+    [
+      "已经达到最大觉醒等级"
+    ]
+  ],
+  "character_awake_upskill_text": [
+    [
+      "::upskill_text::"
+    ]
+  ],
+  "character_awake_skill_weight_shorten": [
+    [
+      "降低所需技能能量"
+    ]
+  ],
+  "character_awake_upskill_text_sperator": [
+    [
+      "，"
+    ]
+  ],
+  "character_awake_result_dialog_upgrade": [
+    [
+      "<font color='#ff9f1c'>::character_name::的::skill_name::已觉醒!</font>"
     ]
   ],
   "help_label_event_advent_u_collabo": [

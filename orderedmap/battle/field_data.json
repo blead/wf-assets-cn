@@ -4430,6 +4430,34 @@
       "pcollab_02_4"
     ]
   ],
+  "double_boss_owl_skill": [
+    [
+      "double_boss_owl_skill",
+      "battle/terrain/multi_normal_quest/chapter_01/doubel_boss_owl_skill",
+      "double_boss_owl_skill"
+    ]
+  ],
+  "double_boss_owl_pf": [
+    [
+      "double_boss_owl_pf",
+      "battle/terrain/multi_normal_quest/chapter_01/doubel_boss_owl_pf",
+      "double_boss_owl_pf"
+    ]
+  ],
+  "double_boss_owl_direct": [
+    [
+      "double_boss_owl_direct",
+      "battle/terrain/multi_normal_quest/chapter_01/double_boss_owl_direct",
+      "double_boss_owl_direct"
+    ]
+  ],
+  "double_boss_owl_ability": [
+    [
+      "double_boss_owl_ability",
+      "battle/terrain/multi_normal_quest/chapter_01/double_boss_owl_ability",
+      "double_boss_owl_ability"
+    ]
+  ],
   "newyear22_01": [
     [
       "event_story_new_year_01",
@@ -6507,6 +6535,34 @@
       "week_town_boulevard_night_ver2",
       "battle/terrain/event_quest/advent_event/epuration_boss_3anv/epuration_boss_3anv",
       "epuration_boss_3anv"
+    ]
+  ],
+  "double_owl_lich_skill": [
+    [
+      "double_owl_lich_skill",
+      "battle/terrain/multi_normal_quest/chapter_01/doubel_boss_lich_skill",
+      "double_owl_lich_skill"
+    ]
+  ],
+  "double_owl_lich_pf": [
+    [
+      "double_owl_lich_pf",
+      "battle/terrain/multi_normal_quest/chapter_01/doubel_boss_lich_pf",
+      "double_owl_lich_pf"
+    ]
+  ],
+  "double_owl_lich_direct": [
+    [
+      "double_owl_lich_direct",
+      "battle/terrain/multi_normal_quest/chapter_01/doubel_boss_lich_direct",
+      "double_owl_lich_direct"
+    ]
+  ],
+  "double_owl_lich_ability": [
+    [
+      "double_owl_lich_ability",
+      "battle/terrain/multi_normal_quest/chapter_01/doubel_boss_lich_ability",
+      "double_owl_lich_ability"
     ]
   ],
   "multi_normal_1_25_1": [

@@ -1,0 +1,34 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateTornado",
+          -33,
+          45,
+          600,
+          0.3,
+          360,
+          400,
+          "battle/action/enemy/action/boss_owl_skill/tornado1_shot",
+          true
+        ]
+      ]
+    ]
+  ]
+]

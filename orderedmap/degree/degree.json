@@ -4852,7 +4852,7 @@
     [
       "battle_pass_02_degree_1",
       "750002",
-      "夏花灿烂",
+      "夏花绚烂",
       "待翻译",
       "获得条件：在2024年7月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
       "8",
@@ -4865,7 +4865,7 @@
     [
       "battle_pass_02_degree_2",
       "750003",
-      "夏花灿烂",
+      "夏花绚烂",
       "待翻译",
       "获得条件：在2024年7月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
       "8",
@@ -4898,6 +4898,19 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/battle_pass_03_degree_2"
+    ]
+  ],
+  "80021": [
+    [
+      "degree_boss_battle_ex_clear_single_1",
+      "510099",
+      "聆听自然之人",
+      "しにうちかつもの",
+      "获得条件：在单人战斗下讨伐超级难度的维·索拉斯",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_boss_battle_ex_clear_single_1"
     ]
   ],
   "161009": [
@@ -14877,7 +14890,7 @@
       "533200",
       "寄星试炼：极",
       "きせいのしれんきわみ",
-      "获得条件：在单人挑战讨伐战斗中通关寄生兽阿比斯 超级+",
+      "获得条件：在单人挑战讨伐战斗中讨伐超级+难度的深渊寄生兽",
       "3",
       "dynamic/degree/background",
       "item/etc/degree",

@@ -708,7 +708,7 @@
   "boss_epuration_boss_variant_ver_3anv": {
     "100": [
       [
-        "异性歼灭者",
+        "异形歼灭者",
         "battle/enemy/boss/boss_epuration_boss_variant_ver_3anv"
       ]
     ]
@@ -876,13 +876,13 @@
   "anv3_big_boss_multi": {
     "55": [
       [
-        "寄生兽阿比斯",
+        "深渊寄生兽",
         "battle/enemy/boss/anv3_big_boss_multi2"
       ]
     ],
     "80": [
       [
-        "寄生兽阿比斯",
+        "深渊寄生兽",
         "battle/enemy/boss/anv3_big_boss_multi4"
       ]
     ]
@@ -890,13 +890,13 @@
   "anv3_big_boss_single": {
     "55": [
       [
-        "寄生兽阿比斯",
+        "深渊寄生兽",
         "battle/enemy/boss/anv3_big_boss_single2"
       ]
     ],
     "80": [
       [
-        "寄生兽阿比斯",
+        "深渊寄生兽",
         "battle/enemy/boss/anv3_big_boss_single4"
       ]
     ]
@@ -904,7 +904,7 @@
   "anv3_big_boss_expert": {
     "100": [
       [
-        "寄生兽阿比斯",
+        "深渊寄生兽",
         "battle/enemy/boss/anv3_big_boss_expert"
       ]
     ]
@@ -912,7 +912,7 @@
   "anv3_big_boss_story": {
     "100": [
       [
-        "寄生兽阿比斯",
+        "深渊寄生兽",
         "battle/enemy/boss/anv3_big_boss_story"
       ]
     ]
