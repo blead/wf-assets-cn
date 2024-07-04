@@ -6797,6 +6797,7 @@ battle/action/skill/action/rare3/herbalist$herbalist_2
 battle/action/skill/action/rare3/highlander$highlander_1
 battle/action/skill/action/rare3/highlander$highlander_2
 battle/action/skill/action/rare3/highlander$highlander_3
+battle/action/skill/action/rare3/highlander_awake$highlander_3
 battle/action/skill/action/rare3/informant$informant_1
 battle/action/skill/action/rare3/informant$informant_2
 battle/action/skill/action/rare3/junior_soldier$junior_soldier_1
@@ -6893,6 +6894,7 @@ battle/action/skill/action/rare4/advanced_soldier$advanced_soldier_2
 battle/action/skill/action/rare4/alice$alice_1
 battle/action/skill/action/rare4/alice$alice_2
 battle/action/skill/action/rare4/alice$alice_3
+battle/action/skill/action/rare4/alice_awake$alice_3
 battle/action/skill/action/rare4/alk$alk_1
 battle/action/skill/action/rare4/alk$alk_2
 battle/action/skill/action/rare4/alk$alk_3
@@ -7029,6 +7031,7 @@ battle/action/skill/action/rare4/lady_summoner$lady_summoner_2
 battle/action/skill/action/rare4/lightbullet_wiz$lightbullet_wiz_1
 battle/action/skill/action/rare4/lightbullet_wiz$lightbullet_wiz_2
 battle/action/skill/action/rare4/lightbullet_wiz$lightbullet_wiz_3
+battle/action/skill/action/rare4/lightbullet_wiz_awake$lightbullet_wiz_3
 battle/action/skill/action/rare4/lion_boy$lion_boy_1
 battle/action/skill/action/rare4/lion_boy$lion_boy_2
 battle/action/skill/action/rare4/little_wizard$little_wizard_1
@@ -7332,6 +7335,7 @@ battle/action/skill/action/rare5/estateguild_leader$estateguild_leader_2
 battle/action/skill/action/rare5/fire_dragon$fire_dragon_1
 battle/action/skill/action/rare5/fire_dragon$fire_dragon_2
 battle/action/skill/action/rare5/fire_dragon$fire_dragon_3
+battle/action/skill/action/rare5/fire_dragon_awake$fire_dragon_3
 battle/action/skill/action/rare5/flame_witch$flame_witch_1
 battle/action/skill/action/rare5/flame_witch$flame_witch_assist
 battle/action/skill/action/rare5/fox_oracle$fox_oracle_1

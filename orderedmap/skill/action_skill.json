@@ -23847,13 +23847,13 @@
     "3": [
       [
         "利刃生风＋＋",
-        "以激烈的斩击卷起冲击波，扫荡自身正前方，对命中的敌人造成风属性伤害【根据连击数提升伤害】。",
+        "以激烈的斩击卷起冲击波，扫荡自身正前方，对命中的敌人造成风属性伤害【根据连击数提升伤害】／队长为风属性时，赋予强化弹射伤害提升效果。",
         "dynamic/skill/atk_front",
         "true",
         "450",
         "450",
         "0",
-        "battle/action/skill/action/rare3/highlander$highlander_3",
+        "battle/action/skill/action/rare3/highlander_awake$highlander_3",
         "1",
         "1",
         "300",
@@ -25905,13 +25905,13 @@
     "3": [
       [
         "爱丽丝梦游之伞＋＋",
-        "连续刺出缠绕着水之力的伞，对行进方向上的敌人造成水属性伤害／赋予己方浮游效果。",
+        "连续刺出缠绕着水之力的伞，对行进方向上的敌人造成水属性伤害／赋予己方浮游效果／赋予强化弹射伤害提升效果。",
         "dynamic/skill/atk_go_direction",
         "true",
         "380",
         "380",
         "0",
-        "battle/action/skill/action/rare4/alice$alice_3",
+        "battle/action/skill/action/rare4/alice_awake$alice_3",
         "1",
         "1",
         "300",
@@ -26831,13 +26831,13 @@
     "3": [
       [
         "光芒四射＋＋",
-        "向自身正前方发射扇形光弹，对命中的敌人造成光属性伤害【根据自身强化效果数提升伤害】／回复自身生命值【对种族“精灵”效果提升】。",
+        "向自身正前方发射扇形光弹，对命中的敌人造成光属性伤害【根据自身强化效果数提升伤害】／回复自身生命值【对种族“精灵”效果提升】／赋予光属性队友攻击力提升效果。",
         "dynamic/skill/atk_front",
         "true",
         "420",
         "420",
         "0",
-        "battle/action/skill/action/rare4/lightbullet_wiz$lightbullet_wiz_3",
+        "battle/action/skill/action/rare4/lightbullet_wiz_awake$lightbullet_wiz_3",
         "1",
         "1",
         "300",
@@ -27437,13 +27437,13 @@
     "3": [
       [
         "红炎吐息＋＋",
-        "吐出熊熊燃烧的火焰，对前方的敌人造成火属性伤害。",
+        "吐出熊熊燃烧的火焰，对前方的敌人造成火属性伤害／赋予强化弹射伤害提升效果。",
         "dynamic/skill/atk_front",
         "true",
         "550",
         "550",
         "0",
-        "battle/action/skill/action/rare5/fire_dragon$fire_dragon_3",
+        "battle/action/skill/action/rare5/fire_dragon_awake$fire_dragon_3",
         "1",
         "1",
         "300",
