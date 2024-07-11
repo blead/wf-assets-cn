@@ -7286,12 +7286,12 @@
   ],
   "shop_top_list_special_character_exchange_campaign": [
     [
-      "特别角色兑换"
+      "特别角色自选"
     ]
   ],
   "shop_top_list_special_equipment_exchange_campaign": [
     [
-      "特别装备品交换"
+      "特别装备自选"
     ]
   ],
   "shop_top_list_start_dash_exchange_campaign": [
@@ -7951,7 +7951,7 @@
   ],
   "multi_special_exchange_campaign_create_room_dialog_confirm": [
     [
-      "确定要创建房间吗？\n<font size='30px'>※本活动中只能从“自己一个选”与“大家一起选”中选择其一。</font>\n<font color='#ea354c'>存在选择到同样SET的可能性。</font>\n<font size='30px'>另外，在匹配完成并开始后必须先选择角色才能回到主画面</font>"
+      "确定要创建房间吗？\n<font size='30px'>※本活动中只能从“自己一个选”与“大家一起选”中选择其一。</font>\n<font size='30px'>另外，在匹配完成并开始后必须先选择角色才能回到主画面</font>"
     ]
   ],
   "multi_special_exchange_campaign_enter_room_dialog_confirm": [

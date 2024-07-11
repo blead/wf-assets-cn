@@ -1,6 +1,6 @@
 [
   "ActionDsl",
-  2,
+  1,
   [
     "None"
   ],
@@ -18,61 +18,15 @@
       [
         "Command",
         [
-          "StopBall",
+          "FindNearSubjects",
           -18,
-          55,
+          1,
+          49,
           [
-            "RestoreToSpeedBeforeCommandExecution"
-          ],
-          [
-            "AB"
-          ],
-          0
-        ]
-      ],
-      [
-        "Command",
-        [
-          "ShowEffect",
-          "チャージ演出",
-          [
-            "ResolveByElement",
-            "battle/effect/skill_general/decoration/heavy_charge",
-            255
-          ],
-          -18,
-          [
-            "ForesideOfCharacter"
-          ],
-          [
-            "SpecifyEffectLifetimeDirectly",
-            30
-          ],
-          [
-            "AB"
+            "CreateImaginaryTarget",
+            -192
           ],
           0,
-          0,
-          0,
-          true,
-          false,
-          [
-            "Some",
-            [
-              {
-                "max": 2,
-                "min": 2
-              }
-            ]
-          ]
-        ]
-      ],
-      [
-        "Event",
-        [
-          "Wait",
-          30,
-          "*",
           [
             "Block",
             [
@@ -80,7 +34,7 @@
                 "Command",
                 [
                   "CreateReferencePoint",
-                  -18,
+                  0,
                   [
                     "AB"
                   ],
@@ -92,8 +46,8 @@
                   [
                     "Single"
                   ],
-                  300,
-                  0,
+                  100,
+                  1,
                   [
                     "Block",
                     [
@@ -101,13 +55,12 @@
                         "Command",
                         [
                           "ShowEffect",
-                          "殴打演出",
+                          "落雷演出",
                           [
-                            "ResolveByElement",
-                            "battle/effect/skill_general/area/blow_attack_front",
-                            255
+                            "SpecifyEffectDirectly",
+                            "battle/effect/skill_unique/thunder_dragon/thunder_dragon"
                           ],
-                          0,
+                          1,
                           [
                             "ForesideOfCharacter"
                           ],
@@ -118,16 +71,51 @@
                             "AB"
                           ],
                           0,
-                          -60,
                           0,
-                          true,
-                          true,
+                          0,
+                          false,
+                          false,
                           [
                             "Some",
                             [
                               {
-                                "max": 2,
-                                "min": 2
+                                "max": 4,
+                                "min": 4
+                              }
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "ShowEffect",
+                          "ひび割れ演出",
+                          [
+                            "SpecifyEffectDirectly",
+                            "battle/effect/skill_unique/thunder_dragon/thunder_dragon_end"
+                          ],
+                          1,
+                          [
+                            "BacksideOfCharacter"
+                          ],
+                          [
+                            "PlayOnlyFirstSequence"
+                          ],
+                          [
+                            "AB"
+                          ],
+                          0,
+                          0,
+                          0,
+                          false,
+                          false,
+                          [
+                            "Some",
+                            [
+                              {
+                                "max": 4,
+                                "min": 4
                               }
                             ]
                           ]
@@ -137,7 +125,7 @@
                         "Event",
                         [
                           "Wait",
-                          24,
+                          30,
                           "*",
                           [
                             "Block",
@@ -145,14 +133,21 @@
                               [
                                 "Command",
                                 [
+                                  "ShakeCamera",
+                                  3
+                                ]
+                              ],
+                              [
+                                "Command",
+                                [
                                   "CreateHitArea",
                                   "*",
-                                  0,
+                                  1,
                                   [
                                     "AB"
                                   ],
                                   0,
-                                  -160,
+                                  0,
                                   0,
                                   false,
                                   false,
@@ -160,8 +155,8 @@
                                     "Circle",
                                     [
                                       {
-                                        "max": 200,
-                                        "min": 200
+                                        "max": 150,
+                                        "min": 150
                                       }
                                     ]
                                   ],
@@ -176,7 +171,7 @@
                                   ],
                                   [
                                     "SpecifyHitAreaLifetimeDirectly",
-                                    30
+                                    1
                                   ],
                                   [
                                     "CalculatedUsingMaxNumOfHits",
@@ -190,57 +185,13 @@
                                   [
                                     "None"
                                   ],
-                                  1,
+                                  2,
                                   [
                                     "Block",
-                                    [
-                                      [
-                                        "Command",
-                                        [
-                                          "ShakeCamera",
-                                          3
-                                        ]
-                                      ],
-                                      [
-                                        "Command",
-                                        [
-                                          "ShowEffect",
-                                          "殴打の演出",
-                                          [
-                                            "ResolveByElement",
-                                            "battle/effect/skill_general/area/spread",
-                                            255
-                                          ],
-                                          1,
-                                          [
-                                            "ForesideOfCharacter"
-                                          ],
-                                          [
-                                            "PlayOnlyFirstSequence"
-                                          ],
-                                          [
-                                            "AB"
-                                          ],
-                                          0,
-                                          0,
-                                          0,
-                                          true,
-                                          true,
-                                          [
-                                            "Some",
-                                            [
-                                              {
-                                                "max": 4,
-                                                "min": 4
-                                              }
-                                            ]
-                                          ]
-                                        ]
-                                      ]
-                                    ]
+                                    null
                                   ],
-                                  2,
                                   3,
+                                  4,
                                   [
                                     "Block",
                                     [
@@ -248,15 +199,19 @@
                                         "Command",
                                         [
                                           "CreateNormalAttack",
-                                          3,
+                                          4,
                                           255,
                                           null,
-                                          null,
-                                          240,
+                                          [
+                                            [
+                                              "DCParalysis"
+                                            ]
+                                          ],
+                                          150,
                                           [
                                             {
-                                              "max": 40,
-                                              "min": 37
+                                              "max": 25,
+                                              "min": 23.125
                                             }
                                           ],
                                           [
@@ -272,18 +227,18 @@
                                           false,
                                           [
                                             {
-                                              "max": 25,
-                                              "min": 25
+                                              "max": 12,
+                                              "min": 12
                                             }
                                           ],
                                           [
                                             {
-                                              "max": 5,
-                                              "min": 5
+                                              "max": 3,
+                                              "min": 3
                                             }
                                           ],
                                           [
-                                            "ThunderLight"
+                                            "ThunderSmall"
                                           ],
                                           true
                                         ]
@@ -307,6 +262,58 @@
               ]
             ]
           ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateCondition",
+          -17,
+          [
+            [
+              "ACSkillDamage",
+              [
+                {
+                  "max": 360,
+                  "min": 360
+                }
+              ],
+              [
+                {
+                  "max": 0.75,
+                  "min": 0.3
+                }
+              ],
+              [
+                {
+                  "max": 1,
+                  "min": 1
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          [
+            "GenericConditionHitEffect"
+          ],
+          true,
+          false,
+          "",
+          null,
+          false,
+          3,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          false
         ]
       ]
     ]

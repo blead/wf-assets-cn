@@ -3994,7 +3994,7 @@
       "5000",
       "dynamic/feature_announcement/special_exchange_campaign_09",
       "2024-07-11 12:00:00",
-      "2024-08-08 11:59:59",
+      "2024-08-08 23:59:59",
       "false",
       "(None)"
     ]
@@ -4014,7 +4014,7 @@
       "5000",
       "dynamic/feature_announcement/special_exchange_equipment_present_01",
       "2024-07-11 12:00:00",
-      "2024-08-01 11:59:59",
+      "2024-08-01 23:59:59",
       "false",
       "(None)"
     ]
@@ -4054,7 +4054,7 @@
       "2000",
       "dynamic/feature_announcement/anv3_campaign_gacha1",
       "2024-07-11 12:00:00",
-      "2024-08-01 11:59:59",
+      "2024-08-05 04:59:59",
       "false",
       "(None)"
     ]
@@ -4123,8 +4123,8 @@
     [
       "1000",
       "dynamic/feature_announcement/advent_multi_pickup_event_2",
-      "2022-12-21 12:00:00",
-      "2022-12-30 20:59:59",
+      "2024-08-08 12:00:00",
+      "2024-08-21 23:59:59",
       "false",
       "(None)"
     ]
@@ -4133,8 +4133,8 @@
     [
       "1004",
       "dynamic/feature_announcement/advent_event_xm21",
-      "2022-12-15 12:00:00",
-      "2022-12-30 20:59:59",
+      "2024-08-01 12:00:00",
+      "2024-08-16 23:59:59",
       "false",
       "(None)"
     ]
@@ -4163,8 +4163,8 @@
     [
       "3001",
       "dynamic/feature_announcement/revival_xm21_character_pickup_02",
-      "2022-12-23 12:00:00",
-      "2022-12-31 11:59:59",
+      "2024-08-08 12:00:00",
+      "2024-08-16 11:59:59",
       "false",
       "(None)"
     ]
@@ -4173,8 +4173,8 @@
     [
       "3000",
       "dynamic/feature_announcement/equipment_water_pickup_2",
-      "2022-12-31 12:00:00",
-      "2023-01-31 11:59:59",
+      "2024-08-16 12:00:00",
+      "2024-09-12 11:59:59",
       "false",
       "(None)"
     ]
@@ -4183,8 +4183,8 @@
     [
       "6700",
       "dynamic/feature_announcement/newyear23_campaign_mission",
-      "2022-12-31 12:00:00",
-      "2023-01-16 20:59:59",
+      "2024-08-16 12:00:00",
+      "2024-08-29 23:59:59",
       "false",
       "(None)"
     ]
@@ -4193,8 +4193,8 @@
     [
       "2000",
       "dynamic/feature_announcement/character_training_campaign_221231",
-      "2022-12-31 12:00:00",
-      "2023-01-16 20:59:59",
+      "2024-08-16 12:00:00",
+      "2024-08-29 23:59:59",
       "false",
       "(None)"
     ]
@@ -4203,8 +4203,8 @@
     [
       "3001",
       "dynamic/feature_announcement/new_character_pickup_78",
-      "2022-12-31 12:00:00",
-      "2023-01-06 11:59:59",
+      "2024-08-16 12:00:00",
+      "2024-08-29 11:59:59",
       "false",
       "(None)"
     ]
@@ -4213,8 +4213,8 @@
     [
       "2001",
       "dynamic/feature_announcement/advent_event_steam_robot_fire",
-      "2022-12-31 12:00:00",
-      "2023-01-13 20:59:59",
+      "2024-08-16 12:00:00",
+      "2024-08-29 23:59:59",
       "false",
       "(None)"
     ]
@@ -4223,8 +4223,8 @@
     [
       "2000",
       "dynamic/feature_announcement/hard_multi_event_steam_robot_fire",
-      "2022-12-31 12:00:00",
-      "2023-01-13 20:59:59",
+      "2024-08-16 12:00:00",
+      "2024-08-29 23:59:59",
       "false",
       "(None)"
     ]
@@ -4233,8 +4233,8 @@
     [
       "3001",
       "dynamic/feature_announcement/blue_element_character_pickup_03",
-      "2022-12-31 12:00:00",
-      "2023-01-06 11:59:59",
+      "2024-08-16 12:00:00",
+      "2024-08-22 11:59:59",
       "false",
       "(None)"
     ]
@@ -4293,8 +4293,8 @@
     [
       "1000",
       "dynamic/feature_announcement/collect_item_event_thunderdoor_202308",
-      "2023-08-24 12:00:00",
-      "2023-09-14 11:59:59",
+      "2024-08-01 12:00:00",
+      "2024-08-16 23:59:59",
       "false",
       "(None)"
     ]
@@ -4395,6 +4395,36 @@
       "dynamic/feature_announcement/super_owl",
       "2024-07-04 12:00:00",
       "2024-08-04 11:59:59",
+      "false",
+      "(None)"
+    ]
+  ],
+  "202316": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_21ny_character_pickup_01",
+      "2024-08-22 12:00:00",
+      "2024-08-29 11:59:59",
+      "false",
+      "(None)"
+    ]
+  ],
+  "201461": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_ny23",
+      "2024-08-22 12:00:00",
+      "2024-09-05 23:59:59",
+      "false",
+      "(None)"
+    ]
+  ],
+  "203819": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_013",
+      "2024-08-22 12:00:00",
+      "2024-09-05 23:59:59",
       "false",
       "(None)"
     ]

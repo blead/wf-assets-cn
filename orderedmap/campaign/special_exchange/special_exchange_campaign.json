@@ -2,7 +2,7 @@
   "1": [
     [
       "half_anniversary_2020",
-      "特别角色兑换扭蛋套装特别活动",
+      "特别角色自选扭蛋礼包",
       "0",
       "0",
       "2020-05-31 12:00:00",
@@ -14,7 +14,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "特别角色兑换扭蛋套装",
+      "特别角色自选扭蛋套装",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -23,7 +23,7 @@
   "2": [
     [
       "special_exchange_equipment_01",
-      "特别装备兑换扭蛋套装特别活动",
+      "特别装备自选扭蛋礼包特别活动",
       "0",
       "1",
       "2020-09-23 12:00:00",
@@ -35,7 +35,7 @@
       "0",
       "750",
       "item/spends/tickets/special_exchange_equipment_ticket",
-      "特别装备兑换扭蛋套装",
+      "特别装备自选扭蛋套装",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_equipment",
       "812"
@@ -44,7 +44,7 @@
   "3": [
     [
       "1st_anniversary_2020",
-      "特别角色兑换扭蛋套装特别活动（1周年）",
+      "特别角色自选扭蛋礼包（1周年）",
       "0",
       "0",
       "2020-11-27 12:00:00",
@@ -56,7 +56,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "スペシャルキャラ交換ガチャセット",
+      "特别角色自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -65,7 +65,7 @@
   "4": [
     [
       "special_exchange_character_03",
-      "特别角色兑换扭蛋套装特别活动（2021_1）",
+      "特别角色自选扭蛋礼包（2021_1）",
       "0",
       "0",
       "2021-01-16 12:00:00",
@@ -77,7 +77,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "スペシャルキャラ交換ガチャセット",
+      "特别角色自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -86,7 +86,7 @@
   "5": [
     [
       "special_exchange_equipment_02",
-      "特别装备兑换扭蛋套装特别活动_02",
+      "特别装备自选扭蛋礼包特别活动_02",
       "0",
       "1",
       "2021-04-16 12:00:00",
@@ -98,7 +98,7 @@
       "0",
       "750",
       "item/spends/tickets/special_exchange_equipment_ticket",
-      "スペシャル装備アイテム交換ガチャセット",
+      "特别装备自选扭蛋套装",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_equipment",
       "812"
@@ -107,7 +107,7 @@
   "6": [
     [
       "special_exchange_character_04",
-      "特别角色兑换扭蛋套装特别活动4（2021_5）",
+      "特别角色自选扭蛋礼包4（2021_5）",
       "0",
       "0",
       "2021-05-31 12:00:00",
@@ -119,7 +119,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "スペシャルキャラ交換ガチャセット",
+      "特别角色自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -128,7 +128,7 @@
   "7": [
     [
       "special_exchange_character_05",
-      "スペシャルキャラ交換ガチャセットキャンペーン5（2021_9）",
+      "特别角色自选扭蛋礼包5（2021_9）",
       "0",
       "0",
       "2021-09-30 12:00:00",
@@ -140,7 +140,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "スペシャルキャラ交換ガチャセット",
+      "特别角色自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -149,7 +149,7 @@
   "8": [
     [
       "special_exchange_character_06",
-      "スペシャルキャラ交換ガチャセットキャンペーン6（2021_11）",
+      "特别角色自选扭蛋礼包6（2021_11）",
       "0",
       "0",
       "2021-11-27 12:00:00",
@@ -161,7 +161,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "スペシャルキャラ交換ガチャセット",
+      "特别角色自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -170,7 +170,7 @@
   "9": [
     [
       "special_exchange_character_07",
-      "スペシャルキャラ交換ガチャセットキャンペーン7（2022_5）",
+      "特别角色自选扭蛋礼包7（2022_5）",
       "0",
       "0",
       "2022-05-31 12:00:00",
@@ -182,7 +182,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "スペシャルキャラ交換ガチャセット",
+      "特别角色自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -191,7 +191,7 @@
   "10": [
     [
       "special_exchange_character_08",
-      "スペシャルキャラ交換ガチャセットキャンペーン8（2022_9）",
+      "特别角色自选扭蛋礼包8（2022_9）",
       "0",
       "0",
       "2022-09-30 12:00:00",
@@ -203,7 +203,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "スペシャルキャラ交換ガチャセット",
+      "特别角色自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -226,7 +226,7 @@
       "item/spends/tickets/character_special_exchange_newp_ticket",
       "新手限定角色自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
-      "rich_text/special_exchange_campaign_how_to_play_character",
+      "rich_text/special_exchange_campaign_how_to_play_character_beginer",
       "803"
     ]
   ],
@@ -247,7 +247,7 @@
       "item/spends/tickets/weapon_special_exchange_newp_ticket",
       "新手限定装备自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
-      "rich_text/special_exchange_campaign_how_to_play_character",
+      "rich_text/special_exchange_campaign_how_to_play_equipment_beginer",
       "804"
     ]
   ],
@@ -275,7 +275,7 @@
   "14": [
     [
       "1st_anniversary_2022",
-      "特别角色自选扭蛋礼包特别活动（1周年）",
+      "特别角色自选扭蛋礼包（1周年）",
       "0",
       "0",
       "2022-10-13 12:00:00",
@@ -296,7 +296,7 @@
   "15": [
     [
       "special_exchange_character_03_1",
-      "特别角色兑换扭蛋套装特别活动（2021_1）",
+      "特别角色自选扭蛋礼包（2021_1）",
       "0",
       "0",
       "2022-12-15 12:00:00",
@@ -308,7 +308,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "特别角色兑换扭蛋套装",
+      "特别角色自选扭蛋套装",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "814"
@@ -317,7 +317,7 @@
   "16": [
     [
       "special_exchange_equipment_02_1",
-      "特别装备兑换扭蛋套装特别活动",
+      "特别装备自选扭蛋礼包特别活动",
       "0",
       "1",
       "2023-02-22 12:00:00",
@@ -331,14 +331,14 @@
       "item/spends/tickets/special_exchange_equipment_ticket",
       "特别装备道具自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
-      "rich_text/special_exchange_campaign_how_to_play_character",
+      "rich_text/special_exchange_campaign_how_to_play_equipment",
       "812"
     ]
   ],
   "50000": [
     [
       "special_exchange_character_04_1",
-      "特别角色自选扭蛋礼包特别活动（1.5周年）",
+      "特别角色自选扭蛋礼包（1.5周年）",
       "0",
       "0",
       "2023-03-09 12:00:00",
@@ -359,7 +359,7 @@
   "50001": [
     [
       "special_exchange_character_05_1",
-      "特别角色兑换扭蛋套装特别活动",
+      "特别角色自选扭蛋礼包",
       "0",
       "0",
       "2023-06-22 12:00:00",
@@ -371,7 +371,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "特别角色兑换扭蛋套装",
+      "特别角色自选扭蛋套装",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -380,7 +380,7 @@
   "50002": [
     [
       "special_exchange_character_06_1",
-      "特别角色自选扭蛋礼包特别活动（2周年）",
+      "特别角色自选扭蛋礼包（2周年）",
       "0",
       "0",
       "2023-08-31 12:00:00",
@@ -401,19 +401,19 @@
   "1011": [
     [
       "special_exchange_character_09",
-      "特别角色自选扭蛋礼包特别活动",
+      "特别角色自选扭蛋礼包",
       "0",
       "0",
       "2024-07-11 12:00:00",
-      "2024-08-08 11:59:59",
+      "2024-08-08 23:59:59",
       "2024-07-11 12:00:00",
-      "2024-08-08 11:59:59",
+      "2024-08-08 23:59:59",
       "dynamic/special_exchange/special_exchange_top_banner_09",
       "999002",
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "特别角色兑换扭蛋套装",
+      "特别角色自选扭蛋礼包",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"
@@ -422,19 +422,19 @@
   "1012": [
     [
       "special_exchange_equipment_present_01",
-      "特别装备自选扭蛋礼包特别活动",
+      "特别装备自选券赠礼特别活动",
       "0",
       "1",
       "2024-07-11 12:00:00",
-      "2024-08-01 11:59:59",
+      "2024-08-01 23:59:59",
       "2024-07-11 12:00:00",
-      "2024-08-01 11:59:59",
+      "2024-08-01 23:59:59",
       "dynamic/special_exchange/special_exchange_equipment_present_01_top_banner",
       "999006",
       "1",
       "(None)",
       "item/spends/tickets/special_exchange_equipment_ticket",
-      "特别装备兑换扭蛋套装",
+      "【赠礼】装备自选券",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_equipment_present_campaign_how_to_play",
       "812"
@@ -443,13 +443,13 @@
   "50003": [
     [
       "special_exchange_character_07_1",
-      "特别角色自选扭蛋礼包特别活动（2.5周年）",
+      "特别角色自选扭蛋礼包（2.5周年）",
       "0",
       "0",
       "2024-02-22 12:00:00",
-      "2024-03-07 11:59:59",
+      "2024-03-07 23:59:59",
       "2024-02-22 12:00:00",
-      "2024-03-15 11:59:59",
+      "2024-03-15 23:59:59",
       "dynamic/special_exchange/special_exchange_top_banner_07",
       "999002",
       "0",
@@ -464,7 +464,7 @@
   "50004": [
     [
       "special_exchange_character_08_1",
-      "特别角色兑换扭蛋套装特别活动（2024_5）",
+      "特别角色自选扭蛋礼包（2024_5）",
       "0",
       "0",
       "2024-05-09 12:00:00",
@@ -476,7 +476,7 @@
       "0",
       "1500",
       "item/spends/tickets/special_exchange_ticket",
-      "特别角色兑换扭蛋套装",
+      "特别角色自选扭蛋套装",
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_campaign_how_to_play_character",
       "813"

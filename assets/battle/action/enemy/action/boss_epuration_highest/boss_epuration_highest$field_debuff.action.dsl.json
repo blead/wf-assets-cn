@@ -27,7 +27,7 @@
           ],
           [
             "MemberDirectAttack",
-            400,
+            250,
             [
               "TotalOfParty",
               null

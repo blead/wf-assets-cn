@@ -115,8 +115,8 @@
                       "ACBuffRejection",
                       [
                         {
-                          "max": 1200,
-                          "min": 1200
+                          "max": 600,
+                          "min": 600
                         }
                       ]
                     ]

@@ -250,7 +250,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_22_empress_01",
       "quest/boss_battle/background/boss_battle_empress_01",
-      "11,12,13,47",
+      "11,12,13,47,10000013",
       "true"
     ]
   ],
@@ -403,7 +403,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_31_empress_01",
       "quest/boss_battle/background/boss_battle_empress_02",
-      "14,15,17",
+      "14,15,17,10000013",
       "true"
     ]
   ],
@@ -454,7 +454,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_34_empress_01",
       "quest/boss_battle/background/boss_battle_empress_03",
-      "10000004,10000011",
+      "10000004,10000011,10000013",
       "true"
     ]
   ]
