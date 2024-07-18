@@ -1,6 +1,6 @@
 [
   "ActionDsl",
-  2,
+  1,
   [
     "None"
   ],
@@ -20,12 +20,12 @@
         [
           "StopBall",
           -18,
-          120,
+          45,
           [
-            "Stop"
+            "RestoreToSpeedBeforeActionExecution"
           ],
           [
-            "AB"
+            "EF"
           ],
           0
         ]
@@ -33,21 +33,157 @@
       [
         "Command",
         [
-          "CreateReferencePoint",
+          "ShowEffect",
+          "強化を表す装飾演出",
+          [
+            "SpecifyEffectDirectly",
+            "battle/effect/skill_unique/veteran_hunter/veteran_hunter_start"
+          ],
           -18,
+          [
+            "ForesideOfCharacter"
+          ],
+          [
+            "PlayOnlyFirstSequence"
+          ],
           [
             "AB"
           ],
           0,
-          -50,
+          0,
           0,
           true,
-          false,
+          true,
           [
-            "Single"
+            "Some",
+            [
+              {
+                "max": 4,
+                "min": 4
+              }
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateCondition",
+          -17,
+          [
+            [
+              "ACAttackPoint",
+              [
+                {
+                  "max": 765,
+                  "min": 765
+                }
+              ],
+              [
+                {
+                  "max": 1.25,
+                  "min": 1.0625
+                }
+              ],
+              [
+                {
+                  "max": 1,
+                  "min": 1
+                }
+              ]
+            ]
           ],
-          120,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          [
+            "GenericConditionHitEffect"
+          ],
+          true,
+          false,
+          "",
+          null,
+          false,
+          3,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          false
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
           0,
+          33,
+          null,
+          null,
+          null,
+          null,
+          null,
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  0,
+                  [
+                    [
+                      "ACPiercing",
+                      [
+                        {
+                          "max": 765,
+                          "min": 765
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  false
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Event",
+        [
+          "Wait",
+          45,
+          "*",
           [
             "Block",
             [
@@ -56,27 +192,21 @@
                 [
                   "CreateHitArea",
                   "*",
-                  0,
+                  -18,
                   [
-                    "CD"
+                    "AB"
                   ],
                   0,
                   0,
                   0,
                   true,
-                  false,
+                  true,
                   [
-                    "Rectangle",
+                    "Circle",
                     [
                       {
-                        "max": 300,
-                        "min": 300
-                      }
-                    ],
-                    [
-                      {
-                        "max": 2000,
-                        "min": 2000
+                        "max": 200,
+                        "min": 200
                       }
                     ]
                   ],
@@ -84,21 +214,27 @@
                     "Center"
                   ],
                   [
-                    "Bottom"
+                    "Center"
                   ],
                   [
                     "Single"
                   ],
                   [
                     "SpecifyHitAreaLifetimeDirectly",
-                    120
+                    600
                   ],
                   [
                     "CalculatedUsingMaxNumOfHits",
-                    30
+                    12
                   ],
                   [
-                    "None"
+                    "Some",
+                    [
+                      {
+                        "max": 12,
+                        "min": 12
+                      }
+                    ]
                   ],
                   false,
                   true,
@@ -113,21 +249,20 @@
                         "Command",
                         [
                           "ShowEffect",
-                          "ビーム演出",
+                          "オーラ演出",
                           [
                             "SpecifyEffectDirectly",
-                            "battle/effect/skill_unique/fire_dragon/fire_dragon"
+                            "battle/effect/skill_unique/veteran_hunter/veteran_hunter"
                           ],
                           1,
                           [
-                            "ForesideOfCharacter"
+                            "BacksideOfCharacter"
                           ],
                           [
-                            "SpecifyEffectLifetimeDirectly",
-                            120
+                            "UntilTargetTerminates"
                           ],
                           [
-                            "CD"
+                            "AB"
                           ],
                           0,
                           0,
@@ -138,8 +273,8 @@
                             "Some",
                             [
                               {
-                                "max": 3,
-                                "min": 3
+                                "max": 4,
+                                "min": 4
                               }
                             ]
                           ]
@@ -160,11 +295,11 @@
                           255,
                           null,
                           null,
-                          180,
+                          15,
                           [
                             {
-                              "max": 0.9,
-                              "min": 0.9
+                              "max": 2.25,
+                              "min": 2.25
                             }
                           ],
                           [
@@ -180,18 +315,23 @@
                           false,
                           [
                             {
-                              "max": 0.3,
-                              "min": 0.3
+                              "max": 2.5,
+                              "min": 2.5
                             }
                           ],
                           [
                             {
-                              "max": 0.1,
-                              "min": 0.1
+                              "max": 0.4166666666666667,
+                              "min": 0.4166666666666667
                             }
                           ],
                           [
-                            "Fine"
+                            "SpecifyHitEffectDirectly",
+                            [
+                              "SpecifyEffectDirectly",
+                              "battle/effect/skill_unique/veteran_hunter/veteran_hunter_hit"
+                            ],
+                            true
                           ],
                           true
                         ]
@@ -209,55 +349,6 @@
                   0,
                   [
                     "None"
-                  ]
-                ]
-              ],
-              [
-                "Event",
-                [
-                  "Wait",
-                  120,
-                  "*",
-                  [
-                    "Block",
-                    [
-                      [
-                        "Command",
-                        [
-                          "ShowEffect",
-                          "ビーム終了演出",
-                          [
-                            "SpecifyEffectDirectly",
-                            "battle/effect/skill_unique/fire_dragon/fire_dragon_end"
-                          ],
-                          0,
-                          [
-                            "BacksideOfCharacter"
-                          ],
-                          [
-                            "SpecifyEffectLifetimeDirectly",
-                            84
-                          ],
-                          [
-                            "CD"
-                          ],
-                          0,
-                          0,
-                          0,
-                          false,
-                          false,
-                          [
-                            "Some",
-                            [
-                              {
-                                "max": 3,
-                                "min": 3
-                              }
-                            ]
-                          ]
-                        ]
-                      ]
-                    ]
                   ]
                 ]
               ]
@@ -289,16 +380,16 @@
                   4,
                   [
                     [
-                      "ACPowerFlipDamage",
+                      "ACAttackPoint",
                       [
                         {
-                          "max": 900,
-                          "min": 600
+                          "max": 765,
+                          "min": 645
                         }
                       ],
                       [
                         {
-                          "max": 0.75,
+                          "max": 0.5,
                           "min": 0.3
                         }
                       ],
@@ -336,6 +427,58 @@
               ]
             ]
           ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateCondition",
+          -33,
+          [
+            [
+              "ACAttackPoint",
+              [
+                {
+                  "max": 765,
+                  "min": 645
+                }
+              ],
+              [
+                {
+                  "max": 0.5,
+                  "min": 0.3
+                }
+              ],
+              [
+                {
+                  "max": 1,
+                  "min": 1
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          [
+            "GenericConditionHitEffect"
+          ],
+          true,
+          false,
+          "",
+          null,
+          false,
+          3,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          false
         ]
       ]
     ]
