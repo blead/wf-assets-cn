@@ -8311,7 +8311,7 @@
   ],
   "heavenly_four": [
     [
-      "希尔克哈蕾",
+      "希尔科哈雷",
       "0x539722",
       "character/heavenly_four/voice/",
       "normal,anger,doya,normal_b,pain,ridicule,sad,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
@@ -8331,7 +8331,7 @@
   ],
   "heavenly_rabbit": [
     [
-      "兔兔",
+      "拉比拉比",
       "0x539722",
       "character/heavenly_rabbit/voice/",
       "normal,anger,normal_b,sad,shame,sweat,think",
@@ -8341,7 +8341,7 @@
   ],
   "heavenly_four_fox": [
     [
-      "希尔克哈蕾（狐狸）",
+      "希尔科哈雷（狐狸）",
       "0x539722",
       "character/heavenly_four/voice/",
       "normal,anger,doya,normal_b,pain,ridicule,sad,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
@@ -8351,7 +8351,7 @@
   ],
   "heavenly_four_bear": [
     [
-      "希尔克哈蕾（熊）",
+      "希尔科哈雷（熊）",
       "0x539722",
       "character/heavenly_four/voice/",
       "normal,anger,doya,normal_b,pain,ridicule,sad,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
@@ -8361,7 +8361,7 @@
   ],
   "heavenly_four_snake": [
     [
-      "希尔克哈蕾（蛇）",
+      "希尔科哈雷（蛇）",
       "0x539722",
       "character/heavenly_four/voice/",
       "normal,anger,doya,normal_b,pain,ridicule,sad,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
@@ -13131,7 +13131,7 @@
   ],
   "mob_many_worshipers": [
     [
-      "大批参拜游客",
+      "大批参观游客",
       "0x8091a3",
       "(None)",
       "",
@@ -25141,7 +25141,7 @@
   ],
   "mob_visitors": [
     [
-      "参拜者",
+      "参观者",
       "0x27925e",
       "(None)",
       "",
@@ -25151,7 +25151,7 @@
   ],
   "mob_visitors_scream": [
     [
-      "参拜者的尖叫",
+      "参观者的尖叫",
       "0x27925e",
       "(None)",
       "",
@@ -25341,7 +25341,7 @@
   ],
   "mob_shrine_customer": [
     [
-      "参拜者",
+      "参观者",
       "0xc6c6a8",
       "(None)",
       "",
