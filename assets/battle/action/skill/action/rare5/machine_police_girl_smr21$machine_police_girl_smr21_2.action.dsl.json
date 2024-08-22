@@ -188,7 +188,7 @@
                                   1,
                                   [
                                     "Block",
-                                    null
+                                    []
                                   ],
                                   2,
                                   3,
@@ -201,8 +201,8 @@
                                           "CreateNormalAttack",
                                           3,
                                           255,
-                                          null,
-                                          null,
+                                          [],
+                                          [],
                                           33,
                                           [
                                             {
@@ -255,6 +255,81 @@
                               ]
                             ]
                           ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "FindAllSubjects",
+                  4,
+                  113,
+                  [
+                    3
+                  ],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    "DoNothing"
+                  ],
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "CreateCondition",
+                          4,
+                          [
+                            [
+                              "ACSkillDamage",
+                              [
+                                {
+                                  "max": 900,
+                                  "min": 900
+                                }
+                              ],
+                              [
+                                {
+                                  "max": 1,
+                                  "min": 0.85
+                                }
+                              ],
+                              [
+                                {
+                                  "max": 1,
+                                  "min": 1
+                                }
+                              ]
+                            ]
+                          ],
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            "GenericConditionHitEffect"
+                          ],
+                          true,
+                          false,
+                          "",
+                          null,
+                          false,
+                          1,
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          false
                         ]
                       ]
                     ]
@@ -347,7 +422,7 @@
                     "Single"
                   ],
                   110,
-                  4,
+                  5,
                   [
                     "Block",
                     [
@@ -365,7 +440,7 @@
                                 [
                                   "CreateHitArea",
                                   "*",
-                                  4,
+                                  5,
                                   [
                                     "AB"
                                   ],
@@ -414,13 +489,13 @@
                                   [
                                     "None"
                                   ],
-                                  5,
+                                  6,
                                   [
                                     "Block",
-                                    null
+                                    []
                                   ],
-                                  6,
                                   7,
+                                  8,
                                   [
                                     "Block",
                                     [
@@ -428,10 +503,10 @@
                                         "Command",
                                         [
                                           "CreateNormalAttack",
-                                          7,
+                                          8,
                                           255,
-                                          null,
-                                          null,
+                                          [],
+                                          [],
                                           22,
                                           [
                                             {
@@ -496,8 +571,8 @@
                   "AddFeverPoint",
                   [
                     {
-                      "max": 100,
-                      "min": 80
+                      "max": 150,
+                      "min": 125
                     }
                   ]
                 ]

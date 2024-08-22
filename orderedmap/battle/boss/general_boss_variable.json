@@ -1159,6 +1159,62 @@
       ]
     }
   },
+  "white_tiger_ghost_thunder_rush": {
+    "79": {
+      "neutral_funnel1": [
+        [
+          "60"
+        ]
+      ],
+      "slash_small_charge": [
+        [
+          "180"
+        ]
+      ],
+      "skill1_charge": [
+        [
+          "300"
+        ]
+      ],
+      "skill2_charge": [
+        [
+          "390"
+        ]
+      ],
+      "skill3_charge": [
+        [
+          "300"
+        ]
+      ]
+    },
+    "100": {
+      "neutral_funnel1": [
+        [
+          "30"
+        ]
+      ],
+      "slash_small_charge": [
+        [
+          "120"
+        ]
+      ],
+      "skill1_charge": [
+        [
+          "300"
+        ]
+      ],
+      "skill2_charge": [
+        [
+          "330"
+        ]
+      ],
+      "skill3_charge": [
+        [
+          "300"
+        ]
+      ]
+    }
+  },
   "waraboss_single": {
     "50": {
       "move_ex_shot": [
@@ -1378,6 +1434,60 @@
       "skill_charge3": [
         [
           "210"
+        ]
+      ],
+      "neutral_attack": [
+        [
+          "3"
+        ]
+      ]
+    }
+  },
+  "treant_multi_score_event": {
+    "100": {
+      "neutral1": [
+        [
+          "210"
+        ]
+      ],
+      "neutral2": [
+        [
+          "180"
+        ]
+      ],
+      "neutral3": [
+        [
+          "210"
+        ]
+      ],
+      "neutral4": [
+        [
+          "180"
+        ]
+      ],
+      "neutral5": [
+        [
+          "210"
+        ]
+      ],
+      "neutral6": [
+        [
+          "150"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge3": [
+        [
+          "200"
         ]
       ],
       "neutral_attack": [
@@ -1715,6 +1825,60 @@
         ]
       ]
     },
+    "100": {
+      "neutral1": [
+        [
+          "210"
+        ]
+      ],
+      "neutral2": [
+        [
+          "180"
+        ]
+      ],
+      "neutral3": [
+        [
+          "210"
+        ]
+      ],
+      "neutral4": [
+        [
+          "180"
+        ]
+      ],
+      "neutral5": [
+        [
+          "210"
+        ]
+      ],
+      "neutral6": [
+        [
+          "150"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge3": [
+        [
+          "200"
+        ]
+      ],
+      "neutral_attack": [
+        [
+          "3"
+        ]
+      ]
+    }
+  },
+  "treant_multi_80": {
     "100": {
       "neutral1": [
         [
@@ -2423,6 +2587,35 @@
       "skill_charge1_2": [
         [
           "240"
+        ]
+      ],
+      "target_set1": [
+        [
+          "10"
+        ]
+      ]
+    }
+  },
+  "security_armour_multi_score_event": {
+    "100": {
+      "move_shot_fire": [
+        [
+          "7"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "45"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge1_2": [
+        [
+          "300"
         ]
       ],
       "target_set1": [
@@ -4995,6 +5188,45 @@
       ]
     }
   },
+  "middle_boss_dragon_anv1_kc": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "charge": [
+        [
+          "60"
+        ]
+      ],
+      "target_charge": [
+        [
+          "240"
+        ]
+      ],
+      "shot6_loop": [
+        [
+          "240"
+        ]
+      ],
+      "skill1_charge": [
+        [
+          "300"
+        ]
+      ],
+      "skill2_charge": [
+        [
+          "360"
+        ]
+      ],
+      "skill2_shot": [
+        [
+          "120"
+        ]
+      ]
+    }
+  },
   "middle_boss_dragon_anv1_single": {
     "49": {
       "neutral": [
@@ -7170,6 +7402,94 @@
       ]
     }
   },
+  "halloween_jack_rush_re01": {
+    "100": {
+      "mode2_neutral1": [
+        [
+          "120"
+        ]
+      ],
+      "mode2_neutral2": [
+        [
+          "450"
+        ]
+      ],
+      "move": [
+        [
+          "3"
+        ]
+      ],
+      "shot2_charge": [
+        [
+          "60"
+        ]
+      ],
+      "shot2_2_charge": [
+        [
+          "840"
+        ]
+      ],
+      "funnel2_charge": [
+        [
+          "60"
+        ]
+      ],
+      "funnel3_charge": [
+        [
+          "60"
+        ]
+      ],
+      "skill2_charge1": [
+        [
+          "900"
+        ]
+      ]
+    }
+  },
+  "halloween_jack_rush": {
+    "100": {
+      "mode2_neutral1": [
+        [
+          "120"
+        ]
+      ],
+      "mode2_neutral2": [
+        [
+          "450"
+        ]
+      ],
+      "move": [
+        [
+          "3"
+        ]
+      ],
+      "shot2_charge": [
+        [
+          "60"
+        ]
+      ],
+      "shot2_2_charge": [
+        [
+          "840"
+        ]
+      ],
+      "funnel2_charge": [
+        [
+          "60"
+        ]
+      ],
+      "funnel3_charge": [
+        [
+          "60"
+        ]
+      ],
+      "skill2_charge1": [
+        [
+          "900"
+        ]
+      ]
+    }
+  },
   "halloween_jack": {
     "100": {
       "mode1_neutral1": [
@@ -7659,6 +7979,50 @@
         ]
       ]
     },
+    "100": {
+      "skill_charge": [
+        [
+          "360"
+        ]
+      ],
+      "laser_charge": [
+        [
+          "120"
+        ]
+      ],
+      "neutral1": [
+        [
+          "30"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "neutral3": [
+        [
+          "30"
+        ]
+      ],
+      "neutral4": [
+        [
+          "70"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "30"
+        ]
+      ],
+      "funnel_attack": [
+        [
+          "6"
+        ]
+      ]
+    }
+  },
+  "guardian_totem_multi_80": {
     "100": {
       "skill_charge": [
         [
@@ -8494,6 +8858,72 @@
       ]
     }
   },
+  "guardian_golem_another_light_kc": {
+    "79": {
+      "punch_charge": [
+        [
+          "120"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "360"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "360"
+        ]
+      ],
+      "neutral1": [
+        [
+          "45"
+        ]
+      ],
+      "neutral2": [
+        [
+          "150"
+        ]
+      ],
+      "funnel_fire": [
+        [
+          "2"
+        ]
+      ]
+    },
+    "100": {
+      "punch_charge": [
+        [
+          "120"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "360"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "360"
+        ]
+      ],
+      "neutral1": [
+        [
+          "45"
+        ]
+      ],
+      "neutral2": [
+        [
+          "150"
+        ]
+      ],
+      "funnel_fire": [
+        [
+          "2"
+        ]
+      ]
+    }
+  },
   "grizzly": {
     "100": {
       "mogumogu_time": [
@@ -8774,6 +9204,72 @@
       "skill_charge2_2": [
         [
           "300"
+        ]
+      ]
+    }
+  },
+  "ghost_fox_rush": {
+    "79": {
+      "neutral_funnel": [
+        [
+          "90"
+        ]
+      ],
+      "neutral_jump": [
+        [
+          "90"
+        ]
+      ],
+      "neutral_skill": [
+        [
+          "120"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "490"
+        ]
+      ],
+      "skill_charge2_1": [
+        [
+          "600"
+        ]
+      ],
+      "skill_charge2_2": [
+        [
+          "600"
+        ]
+      ]
+    },
+    "100": {
+      "neutral_funnel": [
+        [
+          "80"
+        ]
+      ],
+      "neutral_jump": [
+        [
+          "80"
+        ]
+      ],
+      "neutral_skill": [
+        [
+          "100"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "490"
+        ]
+      ],
+      "skill_charge2_1": [
+        [
+          "600"
+        ]
+      ],
+      "skill_charge2_2": [
+        [
+          "600"
         ]
       ]
     }
@@ -10537,6 +11033,40 @@
       ]
     }
   },
+  "discarded_dragon_wind_tower_score_event": {
+    "100": {
+      "neutral_trial_funnel_after": [
+        [
+          "180"
+        ]
+      ],
+      "track_target_shot_charge": [
+        [
+          "90"
+        ]
+      ],
+      "track_target_shot_attack_loop": [
+        [
+          "70"
+        ]
+      ],
+      "all_slash_charge": [
+        [
+          "60"
+        ]
+      ],
+      "target_shot_charge": [
+        [
+          "120"
+        ]
+      ],
+      "both_side_target_shot_charge": [
+        [
+          "180"
+        ]
+      ]
+    }
+  },
   "discarded_dragon_wind_tower": {
     "100": {
       "neutral_trial_funnel_after": [
@@ -10679,6 +11209,152 @@
     }
   },
   "discarded_dragon_water_re_lv80": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "breathe_charge": [
+        [
+          "120"
+        ]
+      ],
+      "breathe_shot_loop": [
+        [
+          "300"
+        ]
+      ],
+      "beam_charge": [
+        [
+          "90"
+        ]
+      ],
+      "beam_shot_loop_p1": [
+        [
+          "135"
+        ]
+      ],
+      "beam_shot_loop_p2": [
+        [
+          "270"
+        ]
+      ],
+      "torrent_charge": [
+        [
+          "120"
+        ]
+      ],
+      "torrent_shot_loop": [
+        [
+          "60"
+        ]
+      ],
+      "homing_charge": [
+        [
+          "150"
+        ]
+      ],
+      "homing_shot_loop": [
+        [
+          "90"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "30"
+        ]
+      ],
+      "neutral_short": [
+        [
+          "60"
+        ]
+      ],
+      "before_cutin": [
+        [
+          "55"
+        ]
+      ],
+      "after_cutin": [
+        [
+          "95"
+        ]
+      ]
+    }
+  },
+  "discarded_dragon_water_re_lv80_kc": {
+    "79": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "breathe_charge": [
+        [
+          "120"
+        ]
+      ],
+      "breathe_shot_loop": [
+        [
+          "300"
+        ]
+      ],
+      "beam_charge": [
+        [
+          "90"
+        ]
+      ],
+      "beam_shot_loop_p1": [
+        [
+          "135"
+        ]
+      ],
+      "beam_shot_loop_p2": [
+        [
+          "270"
+        ]
+      ],
+      "torrent_charge": [
+        [
+          "120"
+        ]
+      ],
+      "torrent_shot_loop": [
+        [
+          "60"
+        ]
+      ],
+      "homing_charge": [
+        [
+          "150"
+        ]
+      ],
+      "homing_shot_loop": [
+        [
+          "90"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "30"
+        ]
+      ],
+      "neutral_short": [
+        [
+          "60"
+        ]
+      ],
+      "before_cutin": [
+        [
+          "55"
+        ]
+      ],
+      "after_cutin": [
+        [
+          "95"
+        ]
+      ]
+    },
     "100": {
       "neutral": [
         [
@@ -12771,6 +13447,112 @@
       ]
     }
   },
+  "boar_rider_rush": {
+    "79": {
+      "neutral1": [
+        [
+          "30"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "skill_charge": [
+        [
+          "220"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "240"
+        ]
+      ],
+      "skill_charge3": [
+        [
+          "300"
+        ]
+      ],
+      "tackle_loop": [
+        [
+          "3"
+        ]
+      ],
+      "neutral3": [
+        [
+          "120"
+        ]
+      ],
+      "neutral4": [
+        [
+          "120"
+        ]
+      ],
+      "neutral5": [
+        [
+          "60"
+        ]
+      ],
+      "funnel_fire": [
+        [
+          "1"
+        ]
+      ]
+    },
+    "100": {
+      "neutral1": [
+        [
+          "30"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "skill_charge": [
+        [
+          "160"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "150"
+        ]
+      ],
+      "skill_charge3": [
+        [
+          "300"
+        ]
+      ],
+      "tackle_loop": [
+        [
+          "2"
+        ]
+      ],
+      "neutral3": [
+        [
+          "110"
+        ]
+      ],
+      "neutral4": [
+        [
+          "110"
+        ]
+      ],
+      "neutral5": [
+        [
+          "50"
+        ]
+      ],
+      "funnel_fire": [
+        [
+          "2"
+        ]
+      ]
+    }
+  },
   "bird_boss_wizard": {
     "79": {
       "neutral": [
@@ -13157,6 +13939,25 @@
         ]
       ]
     },
+    "100": {
+      "charge1": [
+        [
+          "450"
+        ]
+      ],
+      "neutral5": [
+        [
+          "15"
+        ]
+      ],
+      "normal_shot_charge": [
+        [
+          "30"
+        ]
+      ]
+    }
+  },
+  "arch_evil_thunder_single_score_event": {
     "100": {
       "charge1": [
         [
@@ -14069,6 +14870,40 @@
       ]
     }
   },
+  "administrator_light_single_score_event": {
+    "100": {
+      "gatling_wait": [
+        [
+          "240"
+        ]
+      ],
+      "laser_wait": [
+        [
+          "80"
+        ]
+      ],
+      "guard_funnel_wait": [
+        [
+          "80"
+        ]
+      ],
+      "skill_charge1_1": [
+        [
+          "210"
+        ]
+      ],
+      "skill_charge1_2": [
+        [
+          "360"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "60"
+        ]
+      ]
+    }
+  },
   "administrator_light_single": {
     "49": {
       "gatling_wait": [
@@ -14304,6 +15139,35 @@
       "skill_charge1_1": [
         [
           "420"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "30"
+        ]
+      ]
+    }
+  },
+  "administrator_another_dark_single_rush": {
+    "100": {
+      "gatling_wait": [
+        [
+          "40"
+        ]
+      ],
+      "laser_wait": [
+        [
+          "40"
+        ]
+      ],
+      "guard_funnel_wait": [
+        [
+          "40"
+        ]
+      ],
+      "skill_charge1_1": [
+        [
+          "260"
         ]
       ],
       "funnel_charge": [

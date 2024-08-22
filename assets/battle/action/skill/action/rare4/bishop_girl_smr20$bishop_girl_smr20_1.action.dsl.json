@@ -88,43 +88,17 @@
           "FindAllSubjects",
           0,
           33,
-          null,
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],
           [
             "Block",
             [
-              [
-                "Command",
-                [
-                  "CreateRatioHeal",
-                  0,
-                  2,
-                  [
-                    {
-                      "max": 0.025,
-                      "min": 0.025
-                    }
-                  ],
-                  [
-                    5
-                  ],
-                  [
-                    {
-                      "max": 0.5,
-                      "min": 0.5
-                    }
-                  ],
-                  [
-                    "None"
-                  ]
-                ]
-              ],
               [
                 "Command",
                 [
@@ -190,6 +164,100 @@
       [
         "Command",
         [
+          "FindAllSubjects",
+          1,
+          113,
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateRatioHeal",
+                  1,
+                  2,
+                  [
+                    {
+                      "max": 0.025,
+                      "min": 0.025
+                    }
+                  ],
+                  [
+                    5
+                  ],
+                  [
+                    {
+                      "max": 0.5,
+                      "min": 0.5
+                    }
+                  ],
+                  [
+                    "None"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          2,
+          145,
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateRatioHeal",
+                  2,
+                  2,
+                  [
+                    {
+                      "max": 0.025,
+                      "min": 0.025
+                    }
+                  ],
+                  [
+                    5
+                  ],
+                  [
+                    {
+                      "max": 0.5,
+                      "min": 0.5
+                    }
+                  ],
+                  [
+                    "None"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
           "CreateRatioHeal",
           -33,
           2,
@@ -221,13 +289,13 @@
         "Command",
         [
           "FindAllSubjects",
-          1,
+          3,
           33,
-          null,
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],
@@ -238,7 +306,7 @@
                 "Command",
                 [
                   "CreateCondition",
-                  1,
+                  3,
                   [
                     [
                       "ACAttackPoint",

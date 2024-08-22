@@ -70,11 +70,11 @@
             ]
           ],
           "e": 0,
-          "f": null,
-          "g": null,
-          "h": null,
-          "i": null,
-          "k": null
+          "f": [],
+          "g": [],
+          "h": [],
+          "i": [],
+          "k": []
         },
         {
           "a": 1,
@@ -118,13 +118,13 @@
             ]
           ],
           "e": 1,
-          "f": null,
+          "f": [],
           "g": [
             "巡回"
           ],
-          "h": null,
-          "i": null,
-          "k": null
+          "h": [],
+          "i": [],
+          "k": []
         },
         {
           "a": 2,
@@ -171,10 +171,10 @@
           "f": [
             1
           ],
-          "g": null,
-          "h": null,
-          "i": null,
-          "k": null
+          "g": [],
+          "h": [],
+          "i": [],
+          "k": []
         }
       ],
       "h": [
@@ -212,15 +212,15 @@
           "j": false
         }
       ],
-      "i": null,
-      "j": null,
-      "k": null,
-      "l": null,
-      "m": null,
-      "n": null
+      "i": [],
+      "j": [],
+      "k": [],
+      "l": [],
+      "m": [],
+      "n": []
     }
   ],
-  "av": null,
+  "av": [],
   "aw": [
     "start",
     "neutral"
@@ -256,5 +256,11 @@
       ],
       "k": true
     }
-  ]
+  ],
+  "cA": false,
+  "cB": false,
+  "cC": false,
+  "cD": false,
+  "cE": false,
+  "cF": false
 }

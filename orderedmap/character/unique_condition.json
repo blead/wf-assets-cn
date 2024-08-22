@@ -8,11 +8,14 @@
       "20",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "false",
       "false",
       "0",
       "0",
-      "true"
+      "true",
+      "(None)"
     ]
   ],
   "2": [
@@ -24,11 +27,14 @@
       "6",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "false",
       "false",
       "0",
       "0",
-      "true"
+      "true",
+      "(None)"
     ]
   ],
   "3": [
@@ -40,11 +46,14 @@
       "(None)",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "false",
       "false",
       "1",
       "1",
-      "true"
+      "true",
+      "(None)"
     ]
   ],
   "4": [
@@ -56,11 +65,14 @@
       "1",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "true",
       "false",
       "1",
       "0",
-      "true"
+      "true",
+      "(None)"
     ]
   ],
   "5": [
@@ -72,11 +84,14 @@
       "1",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "true",
       "false",
       "1",
       "0",
-      "true"
+      "true",
+      "(None)"
     ]
   ],
   "6": [
@@ -88,11 +103,14 @@
       "4",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "false",
       "false",
       "0",
       "0",
-      "true"
+      "true",
+      "(None)"
     ]
   ],
   "7": [
@@ -104,11 +122,14 @@
       "30",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "false",
       "false",
       "0",
       "0",
-      "true"
+      "true",
+      "(None)"
     ]
   ],
   "8": [
@@ -120,11 +141,14 @@
       "1",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "true",
       "false",
       "1",
       "1",
-      "true"
+      "true",
+      "(None)"
     ]
   ],
   "10": [
@@ -136,11 +160,14 @@
       "2",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "false",
       "false",
       "0",
       "0",
-      "true"
+      "true",
+      "(None)"
     ]
   ],
   "11": [
@@ -152,11 +179,14 @@
       "10",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "false",
       "false",
       "0",
       "0",
-      "false"
+      "false",
+      "(None)"
     ]
   ],
   "12": [
@@ -168,11 +198,109 @@
       "6",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "false",
       "true",
       "0",
       "0",
-      "true"
+      "true",
+      "(None)"
+    ]
+  ],
+  "13": [
+    [
+      "unique_devil_leader",
+      "诅咒",
+      "battle/common/unique_condition/unique_devil_leader",
+      "99999999",
+      "1",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "true",
+      "1",
+      "0",
+      "false",
+      "(None)"
+    ]
+  ],
+  "14": [
+    [
+      "unique_pbc_ceo_playable",
+      "规则粉碎击",
+      "battle/common/unique_condition/unique_pbc_ceo_playable",
+      "2400",
+      "5",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "false",
+      "0",
+      "0",
+      "true",
+      "(None)"
+    ]
+  ],
+  "15": [
+    [
+      "unique_resistance_princess_3halfanv",
+      "继承之炎",
+      "battle/common/unique_condition/unique_resistance_princess_3halfanv",
+      "99999999",
+      "3",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "false",
+      "0",
+      "0",
+      "true",
+      "(None)"
+    ]
+  ],
+  "16": [
+    [
+      "unique_psychic_teleport_playable",
+      "世界之歌",
+      "battle/common/unique_condition/unique_psychic_teleport_playable",
+      "99999999",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "0",
+      "true",
+      "(None)"
+    ]
+  ],
+  "17": [
+    [
+      "unique_psychic_projection_smr23",
+      "潜影",
+      "battle/common/unique_condition/unique_psychic_projection_smr23",
+      "1200",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "1",
+      "1",
+      "true",
+      "(None)"
     ]
   ],
   "9": [
@@ -184,11 +312,90 @@
       "99",
       "(None)",
       "(None)",
+      "(None)",
+      "(None)",
       "false",
       "true",
       "1",
       "0",
-      "false"
+      "false",
+      "(None)"
+    ]
+  ],
+  "19": [
+    [
+      "unique_fire_dragon_zenith",
+      "勇敢之焰",
+      "battle/common/unique_condition/unique_fire_dragon_zenith",
+      "1200",
+      "3",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "true",
+      "0",
+      "0",
+      "true",
+      "fire_dragon_zenith"
+    ]
+  ],
+  "18": [
+    [
+      "unique_psycho_reaper_meteor23",
+      "抛掷捧花",
+      "battle/common/unique_condition/unique_psycho_reaper_meteor23",
+      "99999999",
+      "9",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "false",
+      "0",
+      "0",
+      "true",
+      "(None)"
+    ]
+  ],
+  "20": [
+    [
+      "unique_nova_4anv",
+      "双星旅路",
+      "battle/common/unique_condition/unique_nova_4anv",
+      "1200",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "0",
+      "true",
+      "(None)"
+    ]
+  ],
+  "21": [
+    [
+      "unique_stella_copy_4anv",
+      "梦之星标",
+      "battle/common/unique_condition/unique_stella_copy_4anv",
+      "1200",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "1",
+      "1",
+      "true",
+      "(None)"
     ]
   ]
 }

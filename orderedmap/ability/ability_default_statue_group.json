@@ -3399,6 +3399,17 @@
         "defense_black"
       ]
     ],
+    "ResistanceToUniqueEnemy": [
+      [
+        "defense_common",
+        "defense_red",
+        "defense_blue",
+        "defense_yellow",
+        "defense_green",
+        "defense_white",
+        "defense_black"
+      ]
+    ],
     "ResistanceToCharacterSlayerUpEnemy": [
       [
         "defense_common",
@@ -6237,6 +6248,17 @@
         "attack_black"
       ]
     ],
+    "SeparatedTermUniqueSkillSlayer": [
+      [
+        "action_skill",
+        "attack_red",
+        "attack_blue",
+        "attack_yellow",
+        "attack_green",
+        "attack_white",
+        "attack_black"
+      ]
+    ],
     "AllConditionPowerFlipSlayer": [
       [
         "power_flip",
@@ -7786,6 +7808,72 @@
         "(None)",
         "(None)",
         "(None)"
+      ]
+    ],
+    "RatioDamageMaxHpIfHpHigh": [
+      [
+        "special",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "DeleteUniqueCondition": [
+      [
+        "special",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "ConditionSwift": [
+      [
+        "condition",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "SwiftExtend": [
+      [
+        "condition",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "OverrideCharacterElement": [
+      [
+        "special",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "SeparatedTermDamage": [
+      [
+        "action_skill",
+        "attack_red",
+        "attack_blue",
+        "attack_yellow",
+        "attack_green",
+        "attack_white",
+        "attack_black"
       ]
     ]
   },
@@ -12391,6 +12479,28 @@
     "FeverPointByAbilityDamage": [
       [
         "fever",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "PowerFlipOverride": [
+      [
+        "power_flip",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "Swift": [
+      [
+        "special",
         "(None)",
         "(None)",
         "(None)",

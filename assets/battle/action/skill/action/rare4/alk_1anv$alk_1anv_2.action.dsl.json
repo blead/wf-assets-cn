@@ -65,11 +65,11 @@
           "FindAllSubjects",
           0,
           33,
-          null,
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],
@@ -127,12 +127,33 @@
                   ],
                   false
                 ]
-              ],
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          1,
+          113,
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
               [
                 "Command",
                 [
                   "CreateRatioHeal",
-                  0,
+                  1,
                   2,
                   [
                     {
@@ -140,7 +161,52 @@
                       "min": 0.075
                     }
                   ],
-                  null,
+                  [],
+                  [
+                    {
+                      "max": 0,
+                      "min": 0
+                    }
+                  ],
+                  [
+                    "GenericHealHitEffect"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          2,
+          145,
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateRatioHeal",
+                  2,
+                  2,
+                  [
+                    {
+                      "max": 0.09,
+                      "min": 0.075
+                    }
+                  ],
+                  [],
                   [
                     {
                       "max": 0,
@@ -220,7 +286,7 @@
               "min": 0.075
             }
           ],
-          null,
+          [],
           [
             {
               "max": 0,

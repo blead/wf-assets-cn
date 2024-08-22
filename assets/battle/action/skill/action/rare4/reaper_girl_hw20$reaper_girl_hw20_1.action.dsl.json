@@ -137,8 +137,8 @@
                   "CreateNormalAttack",
                   2,
                   255,
-                  null,
-                  null,
+                  [],
+                  [],
                   1,
                   [
                     {
@@ -219,11 +219,11 @@
           "ConditionalsNumCoffins",
           [
             "Block",
-            null
+            []
           ],
           [
             "Block",
-            null
+            []
           ],
           [
             "Block",
@@ -234,11 +234,11 @@
                   "FindAllSubjects",
                   3,
                   65,
-                  null,
-                  null,
-                  null,
-                  null,
-                  null,
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
                   [
                     "DoNothing"
                   ],
@@ -278,12 +278,12 @@
                 [
                   "FindAllSubjects",
                   4,
-                  33,
-                  null,
-                  null,
-                  null,
-                  null,
-                  null,
+                  113,
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
                   [
                     "DoNothing"
                   ],
@@ -295,11 +295,11 @@
                         [
                           "BindCoffinRevivalCountVariable",
                           113,
-                          null,
-                          null,
-                          null,
-                          null,
-                          null,
+                          [],
+                          [],
+                          [],
+                          [],
+                          [],
                           5,
                           1,
                           4
@@ -322,7 +322,72 @@
                               "mul": 5
                             }
                           ],
-                          null,
+                          [],
+                          [
+                            {
+                              "max": 0,
+                              "min": 0
+                            }
+                          ],
+                          [
+                            "GenericHealHitEffect"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "FindAllSubjects",
+                  6,
+                  145,
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
+                  [
+                    "DoNothing"
+                  ],
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "BindCoffinRevivalCountVariable",
+                          113,
+                          [],
+                          [],
+                          [],
+                          [],
+                          [],
+                          7,
+                          1,
+                          4
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "CreateRatioHeal",
+                          6,
+                          2,
+                          [
+                            {
+                              "max": 0.012,
+                              "min": 0.012
+                            },
+                            {
+                              "max": 0.012,
+                              "min": 0.012,
+                              "mul": 7
+                            }
+                          ],
+                          [],
                           [
                             {
                               "max": 0,

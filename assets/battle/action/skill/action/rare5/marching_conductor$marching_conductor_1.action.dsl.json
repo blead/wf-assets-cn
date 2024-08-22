@@ -50,11 +50,11 @@
           "FindAllSubjects",
           0,
           33,
-          null,
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],
@@ -112,12 +112,33 @@
                   ],
                   false
                 ]
-              ],
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          1,
+          113,
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
               [
                 "Command",
                 [
                   "CreateRatioHeal",
-                  0,
+                  1,
                   2,
                   [
                     {
@@ -147,15 +168,62 @@
         "Command",
         [
           "FindAllSubjects",
-          1,
+          2,
+          145,
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateRatioHeal",
+                  2,
+                  2,
+                  [
+                    {
+                      "max": 0.048,
+                      "min": 0.048
+                    }
+                  ],
+                  [
+                    4
+                  ],
+                  [
+                    {
+                      "max": 0.5,
+                      "min": 0.5
+                    }
+                  ],
+                  [
+                    "GenericHealHitEffect"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          3,
           34,
           [
             4
           ],
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],

@@ -1247,12 +1247,52 @@
       "1"
     ]
   ],
+  "2002": [
+    [
+      "chapter12_orb",
+      "1",
+      "100012",
+      "1"
+    ]
+  ],
+  "11500000": [
+    [
+      "kc_1_awaking_crystal_piece_5",
+      "0",
+      "11003",
+      "1"
+    ]
+  ],
+  "11500001": [
+    [
+      "kc_1_equipment_enhancement_material_none_r5",
+      "0",
+      "14040",
+      "1"
+    ]
+  ],
   "100501": [
     [
       "character_k_collabo_op_clear",
       "2",
       "263015",
       ""
+    ]
+  ],
+  "11000001": [
+    [
+      "hw23_expert_boss_first",
+      "0",
+      "14040",
+      "1"
+    ]
+  ],
+  "11000002": [
+    [
+      "hw23_expert_boss_ss",
+      "0",
+      "14040",
+      "2"
     ]
   ],
   "10042500": [
@@ -1543,6 +1583,38 @@
       ""
     ]
   ],
+  "100017": [
+    [
+      "anv4_release_event_clear_first",
+      "3",
+      "",
+      "200"
+    ]
+  ],
+  "100018": [
+    [
+      "anv4_release_event_clear_light",
+      "2",
+      "131182",
+      ""
+    ]
+  ],
+  "10042701": [
+    [
+      "anv3half_equipment_boss",
+      "1",
+      "5090049",
+      "1"
+    ]
+  ],
+  "10042702": [
+    [
+      "anv3half_scenario_end",
+      "2",
+      "153001",
+      ""
+    ]
+  ],
   "100016": [
     [
       "anv3_release_event_clear_first",
@@ -1772,6 +1844,14 @@
       "anv1_equipment_boss2",
       "1",
       "5080022",
+      "1"
+    ]
+  ],
+  "11000003": [
+    [
+      "advent_steam_robot_another_jigoku_ss",
+      "0",
+      "10000096",
       "1"
     ]
   ],

@@ -13,7 +13,7 @@
       "user_questionnaire_01",
       "https://questant.jp/q/0GSKA2A8?id=::viewer_id::",
       "0",
-      "ブラウザを起動し、Webサイトに移動します\nよろしいですか？\n\n<font size='32px'>※アプリからサイトに移動する際、プレイヤーIDを取得します\nプレイヤーIDは後日、回答者へのお礼アイテムの配布のみに使用します</font>",
+      "ブラウザを起動し、Webサイトに移動します\nよろしいですか？\n\n<font size='32px'>※アプリからサイトに移動する際、玩家IDを取得します\n玩家IDは后日、回答者へのお礼道具の配布のみに使用します</font>",
       "(None)"
     ]
   ],
@@ -22,7 +22,7 @@
       "twitter_check_misson_dialog",
       "https://twitter.com/world_flipper",
       "(None)",
-      "ワールドフリッパーの公式Twitterページに\n移動します\nよろしいですか？\n\n※別のアプリを開きます",
+      "世界弹射物语の公式Twitterページに\n移動します\nよろしいですか？\n\n※別のアプリを開きます",
       "twitter_check"
     ]
   ]

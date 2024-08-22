@@ -430,13 +430,13 @@
                                           "CreateNormalAttack",
                                           6,
                                           255,
-                                          null,
-                                          null,
-                                          165,
+                                          [],
+                                          [],
+                                          245,
                                           [
                                             {
-                                              "max": 25,
-                                              "min": 21.5
+                                              "max": 37,
+                                              "min": 32
                                             }
                                           ],
                                           [

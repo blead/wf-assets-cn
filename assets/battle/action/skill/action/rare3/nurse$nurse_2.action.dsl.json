@@ -20,12 +20,12 @@
         [
           "FindAllSubjects",
           0,
-          33,
-          null,
-          null,
-          null,
-          null,
-          null,
+          113,
+          [],
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],
@@ -37,6 +37,53 @@
                 [
                   "CreateRatioHeal",
                   0,
+                  2,
+                  [
+                    {
+                      "max": 0.06,
+                      "min": 0.05
+                    }
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    {
+                      "max": 0.5,
+                      "min": 0.5
+                    }
+                  ],
+                  [
+                    "GenericHealHitEffect"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          1,
+          145,
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateRatioHeal",
+                  1,
                   2,
                   [
                     {
@@ -92,13 +139,13 @@
         "Command",
         [
           "FindAllSubjects",
-          1,
+          2,
           65,
-          null,
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],
@@ -109,7 +156,7 @@
                 "Command",
                 [
                   "DecreaseCoffinCount",
-                  1,
+                  2,
                   12,
                   [
                     "Generic"

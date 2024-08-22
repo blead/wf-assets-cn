@@ -11,7 +11,7 @@
     "2": [
       [
         "2",
-        "云水土机巨土俑",
+        "闪火土机巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
       ]
@@ -19,43 +19,17 @@
     "3": [
       [
         "3",
-        "旋风土机巨土俑",
+        "闪火土机巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
       ]
     ]
   },
-  "8": {
+  "100004": {
     "1": [
       [
         "1",
-        "溢光强振巨土俑",
-        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
-        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
-      ]
-    ],
-    "2": [
-      [
-        "2",
-        "溢光必杀巨土俑",
-        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
-        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
-      ]
-    ],
-    "3": [
-      [
-        "3",
-        "溢光直击巨土俑",
-        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
-        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
-      ]
-    ]
-  },
-  "7": {
-    "1": [
-      [
-        "1",
-        "旋风必杀巨土俑",
+        "旋风必殺ハニンガー",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
       ]
@@ -63,7 +37,7 @@
     "2": [
       [
         "2",
-        "旋风强振巨土俑",
+        "旋风必殺ハニンガー",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
       ]
@@ -71,17 +45,43 @@
     "3": [
       [
         "3",
-        "旋风直击巨土俑",
+        "旋风必殺ハニンガー",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
       ]
     ]
   },
-  "6": {
+  "100003": {
     "1": [
       [
         "1",
-        "奔雷必杀巨土俑",
+        "雲水強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "雲水強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "雲水強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
+      ]
+    ]
+  },
+  "100000": {
+    "1": [
+      [
+        "1",
+        "奔雷必殺ハニンガー",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
       ]
@@ -89,7 +89,7 @@
     "2": [
       [
         "2",
-        "奔雷强振巨土俑",
+        "奔雷必殺ハニンガー",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
       ]
@@ -97,13 +97,39 @@
     "3": [
       [
         "3",
-        "奔雷直击巨土俑",
+        "奔雷必殺ハニンガー",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
       ]
     ]
   },
-  "5": {
+  "100002": {
+    "1": [
+      [
+        "1",
+        "閃火必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_red_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/red/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "閃火必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_red_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/red/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "閃火必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_red_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/red/background"
+      ]
+    ]
+  },
+  "9": {
     "1": [
       [
         "1",
@@ -129,6 +155,110 @@
       ]
     ]
   },
+  "8": {
+    "1": [
+      [
+        "1",
+        "溢光强振巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "溢光强振巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "溢光强振巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
+      ]
+    ]
+  },
+  "7": {
+    "1": [
+      [
+        "1",
+        "旋风必杀巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "旋风必杀巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "旋风必杀巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
+      ]
+    ]
+  },
+  "6": {
+    "1": [
+      [
+        "1",
+        "奔雷必杀巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "奔雷必杀巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "奔雷必杀巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
+      ]
+    ]
+  },
+  "5": {
+    "1": [
+      [
+        "1",
+        "宵暗直击巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_dark_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/black/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "宵暗直击巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_dark_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/black/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "宵暗直击巨土俑",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_dark_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/black/background"
+      ]
+    ]
+  },
   "4": {
     "1": [
       [
@@ -141,7 +271,7 @@
     "2": [
       [
         "2",
-        "云水必杀巨土俑",
+        "云水强振巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
       ]
@@ -149,7 +279,7 @@
     "3": [
       [
         "3",
-        "云水狂乱巨土俑",
+        "云水强振巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
       ]
@@ -167,7 +297,7 @@
     "2": [
       [
         "2",
-        "溢光必杀巨土俑",
+        "溢光强振巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
       ]
@@ -175,7 +305,7 @@
     "3": [
       [
         "3",
-        "溢光直击巨土俑",
+        "溢光强振巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
       ]
@@ -193,7 +323,7 @@
     "2": [
       [
         "2",
-        "溢光土机巨土俑",
+        "奔雷土机巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
       ]
@@ -201,7 +331,7 @@
     "3": [
       [
         "3",
-        "宵暗土机巨土俑",
+        "奔雷土机巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_dark_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/black/background"
       ]

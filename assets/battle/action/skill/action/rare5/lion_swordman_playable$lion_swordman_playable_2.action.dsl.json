@@ -225,11 +225,13 @@
                                   "CreateNormalAttack",
                                   3,
                                   255,
-                                  null,
-                                  null,
+                                  [],
+                                  [],
                                   280,
                                   [
                                     {
+                                      "alv_max": 3.5,
+                                      "alv_min": 1.75,
                                       "max": 42,
                                       "min": 36.4
                                     }
@@ -289,10 +291,10 @@
           [
             1
           ],
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],
@@ -364,10 +366,10 @@
           [
             1
           ],
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],

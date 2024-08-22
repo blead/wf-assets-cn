@@ -196,13 +196,13 @@
                                   "CreateNormalAttack",
                                   3,
                                   255,
-                                  null,
-                                  null,
-                                  200,
+                                  [],
+                                  [],
+                                  253,
                                   [
                                     {
-                                      "max": 30,
-                                      "min": 26
+                                      "max": 38,
+                                      "min": 32.89
                                     }
                                   ],
                                   [
@@ -257,11 +257,11 @@
           "FindAllSubjects",
           4,
           35,
-          null,
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],

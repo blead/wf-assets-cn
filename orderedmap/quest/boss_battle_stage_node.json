@@ -29,7 +29,7 @@
         "2",
         "40010",
         "40011",
-        "(None)",
+        "40012",
         "(None)",
         "quest/thumbnail/multi_battle/multi1_2_1",
         "quest/boss_battle/background/boss_battle_treant",
@@ -65,7 +65,7 @@
         "5",
         "40040",
         "40041",
-        "(None)",
+        "40042",
         "(None)",
         "quest/thumbnail/multi_battle/multi1_5_1",
         "quest/boss_battle/background/boss_battle_gurdian_totem",
@@ -101,7 +101,7 @@
         "9",
         "40080",
         "40081",
-        "(None)",
+        "40082",
         "(None)",
         "quest/thumbnail/multi_battle/multi1_9_1",
         "quest/boss_battle/background/boss_battle_kraken",
@@ -484,6 +484,402 @@
         "quest/thumbnail/multi_battle/multi_pick_34_1",
         "quest/boss_battle/background/boss_battle_empress_03",
         "1021"
+      ]
+    ],
+    "36": [
+      [
+        "领主战",
+        "女王・ノワール讨伐",
+        "1",
+        "(None)",
+        "(None)",
+        "",
+        "33",
+        "40305",
+        "40306",
+        "40307",
+        "(None)",
+        "quest/thumbnail/multi_battle/multi_pick_34_1",
+        "quest/boss_battle/background/boss_battle_empress_03",
+        "1021"
+      ]
+    ],
+    "41": [
+      [
+        "降临讨伐",
+        "女王・ノワール讨伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "39",
+        "10000081",
+        "10000082",
+        "10000083",
+        "(None)",
+        "quest/thumbnail/advent_event/variant_empress_dark/1",
+        "quest/boss_battle/background/boss_battle_variant_empress_dark",
+        "1000"
+      ]
+    ],
+    "39": [
+      [
+        "降临讨伐",
+        "女王・ブロンシュ讨伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "37",
+        "10000010",
+        "10000011",
+        "10000012",
+        "(None)",
+        "quest/thumbnail/advent_event/variant_empress_light/1",
+        "quest/boss_battle/background/boss_battle_variant_empress_light",
+        "1000"
+      ]
+    ],
+    "38": [
+      [
+        "降临讨伐",
+        "碧之女王讨伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "36",
+        "40305",
+        "40306",
+        "40307",
+        "(None)",
+        "quest/thumbnail/advent_event/variant_empress_wind/1",
+        "quest/boss_battle/background/boss_battle_variant_empress_wind",
+        "1000"
+      ]
+    ],
+    "40": [
+      [
+        "降临讨伐",
+        "女王・ジョーヌ讨伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "38",
+        "10000043",
+        "10000044",
+        "10000045",
+        "(None)",
+        "quest/thumbnail/advent_event/variant_empress_thunder/1",
+        "quest/boss_battle/background/boss_battle_variant_empress_thunder",
+        "1000"
+      ]
+    ],
+    "35": [
+      [
+        "降临讨伐",
+        "青之女王讨伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "34",
+        "40257",
+        "40258",
+        "40259",
+        "(None)",
+        "quest/thumbnail/multi_battle/multi_pick_22_1",
+        "quest/boss_battle/background/boss_battle_variant_empress_water",
+        "1000"
+      ]
+    ],
+    "37": [
+      [
+        "降临讨伐",
+        "赤之女王讨伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "35",
+        "40293",
+        "40294",
+        "40295",
+        "(None)",
+        "quest/thumbnail/multi_battle/multi_pick_31_1",
+        "quest/boss_battle/background/boss_battle_variant_empress_fire",
+        "1000"
+      ]
+    ],
+    "56": [
+      [
+        "降临讨伐",
+        "暗唤精灵兽",
+        "2",
+        "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+        "(None)",
+        "",
+        "56",
+        "10000127",
+        "10000128",
+        "10000129",
+        "(None)",
+        "quest/thumbnail/advent_event/spirit_beast_dark/1",
+        "quest/boss_battle/background/boss_battle_spirit_beast_dark",
+        "1000"
+      ]
+    ],
+    "55": [
+      [
+        "降临讨伐",
+        "巫光精灵兽",
+        "2",
+        "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+        "(None)",
+        "",
+        "55",
+        "10000124",
+        "10000125",
+        "10000126",
+        "(None)",
+        "quest/thumbnail/advent_event/spirit_beast_light/1",
+        "quest/boss_battle/background/boss_battle_spirit_beast_light",
+        "1000"
+      ]
+    ],
+    "54": [
+      [
+        "降临讨伐",
+        "威风精灵兽",
+        "2",
+        "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+        "(None)",
+        "",
+        "54",
+        "10000121",
+        "10000122",
+        "10000123",
+        "(None)",
+        "quest/thumbnail/advent_event/spirit_beast_storm/1",
+        "quest/boss_battle/background/boss_battle_spirit_beast_wind",
+        "1000"
+      ]
+    ],
+    "53": [
+      [
+        "降临讨伐",
+        "魁雷精灵兽",
+        "2",
+        "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+        "(None)",
+        "",
+        "53",
+        "10000118",
+        "10000119",
+        "10000120",
+        "(None)",
+        "quest/thumbnail/advent_event/spirit_beast_thunder/1",
+        "quest/boss_battle/background/boss_battle_spirit_beast_thunder",
+        "1000"
+      ]
+    ],
+    "52": [
+      [
+        "降临讨伐",
+        "水狂精灵兽",
+        "2",
+        "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+        "(None)",
+        "",
+        "52",
+        "10000115",
+        "10000116",
+        "10000117",
+        "(None)",
+        "quest/thumbnail/advent_event/spirit_beast_water/1",
+        "quest/boss_battle/background/boss_battle_spirit_beast_water",
+        "1000"
+      ]
+    ],
+    "51": [
+      [
+        "降临讨伐",
+        "炎嗟精灵兽",
+        "2",
+        "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+        "(None)",
+        "",
+        "51",
+        "10000112",
+        "10000113",
+        "10000114",
+        "(None)",
+        "quest/thumbnail/advent_event/spirit_beast_fire/1",
+        "quest/boss_battle/background/boss_battle_spirit_beast_fire",
+        "1000"
+      ]
+    ],
+    "58": [
+      [
+        "降临讨伐",
+        "圣夜的淘气鬼",
+        "2",
+        "bgm/event/advent_event/advent_xm20/advent_xm20_top",
+        "(None)",
+        "",
+        "58",
+        "10000133",
+        "10000134",
+        "10000135",
+        "(None)",
+        "quest/thumbnail/advent_event/xm20/1",
+        "quest/boss_battle/background/boss_battle_xmas",
+        "1000"
+      ]
+    ],
+    "57": [
+      [
+        "降临讨伐",
+        "为你奏响的镇魂歌",
+        "2",
+        "bgm/event/advent_event/advent_event_hw20/system/halloween_stage_node",
+        "(None)",
+        "",
+        "57",
+        "10000130",
+        "10000131",
+        "10000132",
+        "(None)",
+        "quest/thumbnail/advent_event/hw20/1",
+        "quest/boss_battle/background/boss_battle_halloween",
+        "1000"
+      ]
+    ],
+    "66": [
+      [
+        "降临讨伐",
+        "暗凛の机兵",
+        "2",
+        "bgm/event/advent_steam_robot/advent_steam_robot_top",
+        "(None)",
+        "",
+        "66",
+        "10000091",
+        "10000092",
+        "10000093",
+        "(None)",
+        "quest/thumbnail/advent_event/steam_robot_dark/1",
+        "quest/boss_battle/background/boss_battle_steam_robot_dark",
+        "1000"
+      ]
+    ],
+    "65": [
+      [
+        "降临讨伐",
+        "閃哭の机兵",
+        "2",
+        "bgm/event/advent_steam_robot/advent_steam_robot_top",
+        "(None)",
+        "",
+        "65",
+        "10000091",
+        "10000092",
+        "10000093",
+        "(None)",
+        "quest/thumbnail/advent_event/steam_robot_light/1",
+        "quest/boss_battle/background/boss_battle_steam_robot_light",
+        "1000"
+      ]
+    ],
+    "64": [
+      [
+        "降临讨伐",
+        "翠愁の机兵",
+        "2",
+        "bgm/event/advent_steam_robot/advent_steam_robot_top",
+        "(None)",
+        "",
+        "64",
+        "10000091",
+        "10000092",
+        "10000093",
+        "(None)",
+        "quest/thumbnail/advent_event/steam_robot_wind/1",
+        "quest/boss_battle/background/boss_battle_steam_robot_wind",
+        "1000"
+      ]
+    ],
+    "63": [
+      [
+        "降临讨伐",
+        "橙悚の机兵",
+        "2",
+        "bgm/event/advent_steam_robot/advent_steam_robot_top",
+        "(None)",
+        "",
+        "63",
+        "10000091",
+        "10000092",
+        "10000093",
+        "(None)",
+        "quest/thumbnail/advent_event/steam_robot_thunder/1",
+        "quest/boss_battle/background/boss_battle_steam_robot_thunder",
+        "1000"
+      ]
+    ],
+    "62": [
+      [
+        "降临讨伐",
+        "蒼歎の机兵",
+        "2",
+        "bgm/event/advent_steam_robot/advent_steam_robot_top",
+        "(None)",
+        "",
+        "62",
+        "10000091",
+        "10000092",
+        "10000093",
+        "(None)",
+        "quest/thumbnail/advent_event/steam_robot_water/1",
+        "quest/boss_battle/background/boss_battle_steam_robot_water",
+        "1000"
+      ]
+    ],
+    "61": [
+      [
+        "降临讨伐",
+        "紅嫉の机兵",
+        "2",
+        "bgm/event/advent_steam_robot/advent_steam_robot_top",
+        "(None)",
+        "",
+        "61",
+        "10000091",
+        "10000092",
+        "10000093",
+        "(None)",
+        "quest/thumbnail/advent_event/steam_robot_fire/1",
+        "quest/boss_battle/background/boss_battle_steam_robot_fire",
+        "1000"
+      ]
+    ],
+    "60": [
+      [
+        "降临讨伐",
+        "无猾の机兵",
+        "2",
+        "bgm/event/advent_steam_robot/advent_steam_robot_top",
+        "(None)",
+        "",
+        "60",
+        "10000091",
+        "10000092",
+        "10000093",
+        "(None)",
+        "quest/thumbnail/advent_event/steam_robot_another/1",
+        "quest/boss_battle/background/boss_battle_steam_robot_another",
+        "1000"
       ]
     ]
   }

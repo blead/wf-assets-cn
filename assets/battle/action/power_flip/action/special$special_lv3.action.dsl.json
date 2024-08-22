@@ -23,6 +23,26 @@
         ]
       ],
       [
+        "Event",
+        [
+          "Wait",
+          90,
+          "ヒット判定",
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "NotifyPowerflipEnd",
+                  -18
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
         "Command",
         [
           "ShowEffect",
@@ -81,6 +101,33 @@
                 [
                   "SetPowerFilpSuppress",
                   30
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "RemoveEvent",
+                  "ヒット判定"
+                ]
+              ],
+              [
+                "Event",
+                [
+                  "Wait",
+                  28,
+                  "*",
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "NotifyPowerflipEnd",
+                          -18
+                        ]
+                      ]
+                    ]
+                  ]
                 ]
               ],
               [
@@ -191,7 +238,7 @@
                           2,
                           [
                             "Block",
-                            null
+                            []
                           ],
                           3,
                           4,
@@ -204,8 +251,8 @@
                                   "CreateNormalAttack",
                                   4,
                                   255,
-                                  null,
-                                  null,
+                                  [],
+                                  [],
                                   0,
                                   [
                                     {
@@ -318,7 +365,7 @@
                                   5,
                                   [
                                     "Block",
-                                    null
+                                    []
                                   ],
                                   6,
                                   7,
@@ -331,8 +378,8 @@
                                           "CreateNormalAttack",
                                           7,
                                           255,
-                                          null,
-                                          null,
+                                          [],
+                                          [],
                                           0,
                                           [
                                             {

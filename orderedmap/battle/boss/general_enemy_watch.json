@@ -1615,6 +1615,66 @@
         }
       }
     },
+    "ghost_fox_rush_illusion": {
+      "ghost_fox_rush_illusion": {
+        "1": {
+          "ghost_fox_rush": {
+            "ghost_fox_rush": [
+              [
+                "1",
+                "1",
+                "0",
+                "",
+                "1",
+                "0",
+                "",
+                "2",
+                "",
+                "0",
+                "10",
+                "true",
+                "true",
+                "false",
+                "0",
+                "dead_start",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "1",
+                "1",
+                "0",
+                "",
+                "1",
+                "0",
+                "",
+                "2",
+                "",
+                "0",
+                "10",
+                "true",
+                "true",
+                "false",
+                "0",
+                "dead_start",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
     "smr21_big_boss_rush": {
       "smr21_big_boss_rush": {
         "2": {
@@ -2661,6 +2721,161 @@
         }
       }
     },
+    "haniwa_great_fire_skill": {
+      "haniwa_great_fire_skill": {
+        "1": {
+          "haniwa_great_fire_skill": {
+            "haniwa_great_fire_skill": [
+              [
+                "2",
+                "1",
+                "2",
+                "after_",
+                "1",
+                "0",
+                "",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_field_end",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "haniwa_great_fire_direct": {
+      "haniwa_great_fire_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "2",
+                "0",
+                "",
+                "2",
+                "2",
+                "phase3_coop",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase3_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "haniwa_great_fire_pf": {
+      "haniwa_great_fire_pf": {
+        "1": {
+          "haniwa_great_fire_pf": {
+            "haniwa_great_fire_pf": [
+              [
+                "2",
+                "2",
+                "0",
+                "",
+                "2",
+                "2",
+                "funnel2_",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "field_funnel2_start3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "1",
+                "2",
+                "after_",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "3",
+                "0",
+                "",
+                "3",
+                "2",
+                "phase3_coop",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase3_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
     "haniwa_great_water": {
       "haniwa_great_water": {
         "2": {
@@ -3674,7 +3889,7 @@
                 "",
                 "",
                 "",
-                "更加激烈",
+                "モットビシバシ",
                 "0",
                 "0",
                 "50",
@@ -3699,7 +3914,7 @@
                 "",
                 "",
                 "",
-                "更加激烈",
+                "モットビシバシ",
                 "0",
                 "0",
                 "50",
@@ -3724,7 +3939,7 @@
                 "",
                 "",
                 "",
-                "更加激烈",
+                "モットビシバシ",
                 "0",
                 "0",
                 "50",
@@ -3749,7 +3964,7 @@
                 "",
                 "",
                 "",
-                "更加激烈",
+                "モットビシバシ",
                 "0",
                 "0",
                 "50",
@@ -3969,7 +4184,7 @@
                 "",
                 "",
                 "",
-                "更加激烈",
+                "モットビシバシ",
                 "0",
                 "0",
                 "50",
@@ -3994,7 +4209,7 @@
                 "",
                 "",
                 "",
-                "更加激烈",
+                "モットビシバシ",
                 "0",
                 "0",
                 "50",
@@ -4019,7 +4234,7 @@
                 "",
                 "",
                 "",
-                "更加激烈",
+                "モットビシバシ",
                 "0",
                 "0",
                 "50",
@@ -7959,6 +8174,220 @@
                 "",
                 "",
                 ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "discarded_dragon_wind_tower_score_event": {
+      "discarded_dragon_wind_tower": {
+        "2": {
+          "funnel_discarded_dragon_wind_barrier_skill_tower": {
+            "funnel_discarded_dragon_wind_barrier_skill_tower": [
+              [
+                "1",
+                "2",
+                "1",
+                "phase2_jump10_wait",
+                "1",
+                "0",
+                "",
+                "5",
+                "",
+                "0",
+                "10",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase2_jump_in_success10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "1",
+                "2",
+                "1",
+                "phase2_jump10_wait",
+                "1",
+                "0",
+                "",
+                "1",
+                "0",
+                "0",
+                "10",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase2_jump_in_success10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "2",
+                "1",
+                "phase2_jump10_wait",
+                "1",
+                "1",
+                "attack10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase2_jump10_end",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "1",
+                "2",
+                "1",
+                "buff_end_after_phase2_jump10_wait",
+                "1",
+                "0",
+                "",
+                "5",
+                "",
+                "0",
+                "10",
+                "false",
+                "false",
+                "false",
+                "0",
+                "buff_end_after_phase2_jump_in_success10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "1",
+                "2",
+                "1",
+                "buff_end_after_phase2_jump10_wait",
+                "1",
+                "0",
+                "",
+                "1",
+                "0",
+                "0",
+                "10",
+                "false",
+                "false",
+                "false",
+                "0",
+                "buff_end_after_phase2_jump_in_success10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "2",
+                "1",
+                "buff_end_after_phase2_jump10_wait",
+                "1",
+                "1",
+                "attack10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "buff_end_after_phase2_jump10_end",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          },
+          "funnel_discarded_dragon_wind_coop_tower": {
+            "funnel_discarded_dragon_wind_coop_tower": [
+              [
+                "2",
+                "2",
+                "1",
+                "phase2_neutral10",
+                "1",
+                "1",
+                "trial_success",
+                "0",
+                "",
+                "0",
+                "10",
+                "false",
+                "false",
+                "false",
+                "3",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "[2,\"p1_trial_success\",[0,1]]"
+              ],
+              [
+                "2",
+                "3",
+                "1",
+                "phase3_neutral10",
+                "1",
+                "1",
+                "trial_success",
+                "0",
+                "",
+                "0",
+                "10",
+                "false",
+                "false",
+                "false",
+                "3",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "[2,\"p2_trial_success\",[0,1]]"
               ]
             ]
           }
@@ -13767,6 +14196,35 @@
                 ""
               ]
             ]
+          },
+          "spirit_beast_thunder_rush": {
+            "spirit_beast_thunder": [
+              [
+                "1",
+                "1",
+                "1",
+                "neutral",
+                "1",
+                "2",
+                "link_funnel_",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "start1",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
           }
         }
       }
@@ -15153,6 +15611,85 @@
                 ""
               ]
             ]
+          },
+          "shark_blue_score_event": {
+            "shark_blue": [
+              [
+                "2",
+                "1",
+                "2",
+                "coop_",
+                "1",
+                "1",
+                "skill_wave_shot_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_charge10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "1",
+                "skill_wave_shot_fire_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_start10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "2",
+                "non_fever_coop_",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_neutral10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
           }
         }
       }
@@ -15161,6 +15698,85 @@
       "funnel_shark_soldier_blue_move_top": {
         "2": {
           "shark_blue": {
+            "shark_blue": [
+              [
+                "2",
+                "1",
+                "2",
+                "coop_",
+                "1",
+                "1",
+                "skill_wave_shot_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_charge10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "1",
+                "skill_wave_shot_fire_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_start10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "2",
+                "non_fever_coop_",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_neutral10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          },
+          "shark_blue_score_event": {
             "shark_blue": [
               [
                 "2",
@@ -15323,6 +15939,85 @@
                 ""
               ]
             ]
+          },
+          "shark_blue_score_event": {
+            "shark_blue": [
+              [
+                "2",
+                "1",
+                "2",
+                "coop_",
+                "1",
+                "1",
+                "skill_wave_shot_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_charge10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "1",
+                "skill_wave_shot_fire_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_start10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "2",
+                "non_fever_coop_",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_neutral10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
           }
         }
       }
@@ -15331,6 +16026,85 @@
       "funnel_shark_soldier_blue_move_right": {
         "2": {
           "shark_blue": {
+            "shark_blue": [
+              [
+                "2",
+                "1",
+                "2",
+                "coop_",
+                "1",
+                "1",
+                "skill_wave_shot_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_charge10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "1",
+                "skill_wave_shot_fire_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_start10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "2",
+                "non_fever_coop_",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_neutral10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          },
+          "shark_blue_score_event": {
             "shark_blue": [
               [
                 "2",
@@ -15493,6 +16267,85 @@
                 ""
               ]
             ]
+          },
+          "shark_blue_score_event": {
+            "shark_blue": [
+              [
+                "2",
+                "1",
+                "2",
+                "coop_",
+                "1",
+                "1",
+                "skill_wave_shot_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_charge10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "1",
+                "skill_wave_shot_fire_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_start10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "2",
+                "non_fever_coop_",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_neutral10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
           }
         }
       }
@@ -15501,6 +16354,85 @@
       "funnel_shark_soldier_blue_skill": {
         "2": {
           "shark_blue": {
+            "shark_blue": [
+              [
+                "2",
+                "1",
+                "2",
+                "coop_",
+                "1",
+                "1",
+                "skill_wave_shot_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_charge10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "1",
+                "skill_wave_shot_fire_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_shot_start10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_shot_charge10",
+                "1",
+                "2",
+                "non_fever_coop_",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_neutral10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          },
+          "shark_blue_score_event": {
             "shark_blue": [
               [
                 "2",
@@ -16267,6 +17199,259 @@
                 "false",
                 "0",
                 "attack_formation_escape_out10",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "shark_blue_score_event": {
+      "shark_blue": {
+        "2": {
+          "shark_blue_score_event": {
+            "shark_blue": [
+              [
+                "2",
+                "1",
+                "2",
+                "non_fever_",
+                "1",
+                "2",
+                "non_fever_",
+                "6",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "fever_in_debuff",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "2",
+                "skill_",
+                "1",
+                "2",
+                "skill_",
+                "6",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "fever_in_debuff_in_skill_non_charge",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "skill_wave_shot_charge10",
+                "1",
+                "1",
+                "skill_wave_shot_charge10",
+                "6",
+                "",
+                "0",
+                "10",
+                "false",
+                "false",
+                "false",
+                "0",
+                "fever_in_debuff_in_skill",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "2",
+                "inactive_",
+                "1",
+                "2",
+                "inactive_",
+                "6",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "2",
+                "",
+                "",
+                "fever_in_debuff",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          },
+          "shark_brown_score_event": {
+            "shark_brown": [
+              [
+                "2",
+                "1",
+                "2",
+                "non_fever_coop_",
+                "1",
+                "1",
+                "non_fever_coop_check10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_neutral10",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "shark_brown_score_event": {
+      "shark_brown": {
+        "2": {
+          "shark_brown_score_event": {
+            "shark_brown": [
+              [
+                "2",
+                "1",
+                "2",
+                "non_fever_",
+                "1",
+                "2",
+                "non_fever_",
+                "6",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "fever_in_debuff",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "non_fever_skill_shot_charge10",
+                "1",
+                "1",
+                "non_fever_skill_shot_charge10",
+                "6",
+                "",
+                "0",
+                "10",
+                "false",
+                "false",
+                "false",
+                "0",
+                "fever_in_debuff_in_skill",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "2",
+                "inactive_",
+                "1",
+                "2",
+                "inactive_",
+                "6",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "2",
+                "",
+                "",
+                "fever_in_debuff",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          },
+          "shark_blue_score_event": {
+            "shark_blue": [
+              [
+                "2",
+                "1",
+                "1",
+                "non_fever_coop_check10",
+                "1",
+                "1",
+                "skill_wave_shot_start10",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "non_fever_skill_shot_start10",
                 "false",
                 "",
                 "",
@@ -17890,6 +19075,251 @@
         }
       }
     },
+    "funnel_haniwa_great_fire_turretA_pf": {
+      "funnel_haniwa_great_fire_turretA_pf": {
+        "1": {
+          "haniwa_great_fire_pf": {
+            "haniwa_great_fire_pf": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "3",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretB_pf": {
+      "funnel_haniwa_great_fire_turretB_pf": {
+        "1": {
+          "haniwa_great_fire_pf": {
+            "haniwa_great_fire_pf": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "3",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_strong_pf": {
+      "funnel_haniwa_great_fire_strong_pf": {
+        "1": {
+          "haniwa_great_fire_pf": {
+            "haniwa_great_fire_pf": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "field_funnel2_start3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "pf_fever_end",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretA_direct": {
+      "funnel_haniwa_great_fire_turretA_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretB_direct": {
+      "funnel_haniwa_great_fire_turretB_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretC_direct": {
+      "funnel_haniwa_great_fire_turretC_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretD_direct": {
+      "funnel_haniwa_great_fire_turretD_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
     "funnel_grizzly_forest": {
       "funnel_grizzly_forest": {
         "1": {
@@ -19414,6 +20844,60 @@
     "funnel_discarded_dragon_wind_coop_tower": {
       "funnel_discarded_dragon_wind_coop_tower": {
         "1": {
+          "discarded_dragon_wind_tower_score_event": {
+            "discarded_dragon_wind_tower": [
+              [
+                "2",
+                "1",
+                "1",
+                "neutral",
+                "1",
+                "0",
+                "",
+                "5",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "trial_success",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "1",
+                "neutral",
+                "2",
+                "0",
+                "",
+                "5",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "trial_success",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          },
           "discarded_dragon_wind_tower": {
             "discarded_dragon_wind_tower": [
               [

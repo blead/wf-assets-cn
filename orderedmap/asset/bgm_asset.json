@@ -3369,6 +3369,46 @@
       "12"
     ]
   ],
+  "bgm/event/score_attack_event/score_attack_event_01_battle_01": [
+    [
+      "0.35",
+      "145",
+      "0.05952381",
+      "79.46751",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/score_attack_event/score_attack_event_01_battle_02": [
+    [
+      "0.35",
+      "138",
+      "0.05537415",
+      "90.448364",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/score_attack_event/score_attack_event_01_battle_03": [
+    [
+      "0.35",
+      "140",
+      "0.06995465",
+      "72.02993",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/score_attack_event/score_attack_event_01_top": [
+    [
+      "0.35",
+      "100",
+      "0.051179137",
+      "38.45118",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/advent_event/advent_event_s_collabo/battle/s_collabo_event_battle": [
     [
       "0.31",
@@ -3415,6 +3455,36 @@
       "96",
       "0.060362812",
       "1.3103628",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/boss_battle_multi_pickup/battle/reine_noir_battle_boss": [
+    [
+      "0.35",
+      "198",
+      "0.054036282",
+      "106.68002",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/boss_battle_multi_pickup/battle/reine_jaune_battle_boss": [
+    [
+      "0.35",
+      "220",
+      "0.054126985",
+      "0.054126985",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/boss_battle_multi_pickup/battle/reine_blanche_battle_boss": [
+    [
+      "0.35",
+      "185",
+      "0.07569161",
+      "55.818684",
       "(None)",
       "12"
     ]
@@ -3649,6 +3719,166 @@
       "12"
     ]
   ],
+  "bgm/character_unique/fire_dragon_zenith/fire_dragon_zenith": [
+    [
+      "0.35",
+      "120",
+      "0.07566893",
+      "19.03567",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/dryad_hw23/dryad_hw23": [
+    [
+      "0.35",
+      "196",
+      "0.06895692",
+      "2.4769387",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/mob_jiguza_playable/mob_jiguza_playable": [
+    [
+      "0.35",
+      "89",
+      "0.07204082",
+      "89.02002",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/artificialeye_sniper/artificialeye_sniper": [
+    [
+      "0.35",
+      "128",
+      "0.054331064",
+      "1.8893198",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/wirfled_playable/wirfled_playable": [
+    [
+      "0.35",
+      "150",
+      "0.07648526",
+      "12.836485",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/guild_front_girl_playable/guild_front_girl_playable": [
+    [
+      "0.35",
+      "128",
+      "0.059546486",
+      "0.059546486",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/combat_animal_meteor23/combat_animal_meteor23": [
+    [
+      "0.35",
+      "175",
+      "0.06256236",
+      "2.7645578",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psycho_reaper_meteor23/psycho_reaper_meteor23": [
+    [
+      "0.35",
+      "160",
+      "0.057687074",
+      "4.517687",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/starbreak_hunter_meteor23/starbreak_hunter_meteor23": [
+    [
+      "0.35",
+      "138",
+      "0.059909295",
+      "27.845896",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/blindfold_agent/blindfold_agent": [
+    [
+      "0.35",
+      "90",
+      "0.06743764",
+      "5.3604307",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/lion_boy_smr23/lion_boy_smr23": [
+    [
+      "0.35",
+      "124",
+      "0.060249433",
+      "9.697233",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_yamikawa_smr23/psychic_yamikawa_smr23": [
+    [
+      "0.35",
+      "150",
+      "0.07646258",
+      "3.2364626",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_projection_smr23/psychic_projection_smr23": [
+    [
+      "0.35",
+      "109",
+      "0.056575965",
+      "8.828571",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/summoner_little_smr23/summoner_little_smr23": [
+    [
+      "0.35",
+      "178",
+      "0.06360544",
+      "10.81059",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/amulet_bosslady/amulet_bosslady": [
+    [
+      "0.35",
+      "120",
+      "0.07566893",
+      "39.035667",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/magatama_spirit/magatama_spirit": [
+    [
+      "0.35",
+      "130",
+      "0.05659864",
+      "33.25059",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/lakeside_guardian/lakeside_guardian": [
     [
       "0.35",
@@ -3829,6 +4059,246 @@
       "12"
     ]
   ],
+  "bgm/character_unique/psychic_teleport_playable/psychic_teleport_playable": [
+    [
+      "0.35",
+      "140",
+      "0.07344671",
+      "0.46142858",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/priest_prince_playable/priest_prince_playable": [
+    [
+      "0.35",
+      "100",
+      "0.06260771",
+      "10.222608",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/alk_3halfanv/alk_3halfanv": [
+    [
+      "0.35",
+      "155",
+      "0.06979592",
+      "51.125782",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_nao_3halfanv/psychic_nao_3halfanv": [
+    [
+      "0.35",
+      "194",
+      "0.07650793",
+      "39.623493",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/resistance_princess_3halfanv/resistance_princess_3halfanv": [
+    [
+      "0.35",
+      "143",
+      "0.075827666",
+      "0.075827666",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/ruin_girl_3halfanv/ruin_girl_3halfanv": [
+    [
+      "0.35",
+      "150",
+      "0.051179137",
+      "0.051179137",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/vesta_caster/vesta_caster": [
+    [
+      "0.35",
+      "175.0",
+      "0.051179137",
+      "0.051179137",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/catbaby_psychicer/catbaby_psychicer": [
+    [
+      "0.35",
+      "138",
+      "0.07136054",
+      "41.76934",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_katana/psychic_katana": [
+    [
+      "0.35",
+      "145",
+      "0.06106576",
+      "0.06106576",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_taichi/psychic_taichi": [
+    [
+      "0.35",
+      "102",
+      "0.059705216",
+      "2.3017006",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/golden_dragon_jr/golden_dragon_jr": [
+    [
+      "0.35",
+      "143",
+      "0.07090703",
+      "83.94589",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/pbc_ceo_playable/pbc_ceo_playable": [
+    [
+      "0.35",
+      "124",
+      "0.07643991",
+      "0.07643991",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/ruin_lady_meteor23/ruin_lady_meteor23": [
+    [
+      "0.35",
+      "130",
+      "0.076848075",
+      "4.651837",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/wind_oracle_meteor23/wind_oracle_meteor23": [
+    [
+      "0.35",
+      "158",
+      "0.07514739",
+      "39.529137",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/black_wolf_knight_wt23/black_wolf_knight_wt23": [
+    [
+      "0.35",
+      "86",
+      "0.062403627",
+      "11.185397",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/blade_dancer_wt23/blade_dancer_wt23": [
+    [
+      "0.35",
+      "90",
+      "0.0730839",
+      "53.376076",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/flame_blessgirl/flame_blessgirl": [
+    [
+      "0.35",
+      "158",
+      "0.07716554",
+      "24.341156",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/impostor_priest/impostor_priest": [
+    [
+      "0.35",
+      "120",
+      "0.063424036",
+      "64.02342",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_gal/psychic_gal": [
+    [
+      "0.35",
+      "132",
+      "0.057664398",
+      "30.850658",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/dark_psygirl_vt23/dark_psygirl_vt23": [
+    [
+      "0.35",
+      "124",
+      "0.072426304",
+      "66.80642",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/heavenly_two_vt23/heavenly_two_vt23": [
+    [
+      "0.35",
+      "140",
+      "0.076326534",
+      "6.8933105",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/light_ballot23/light_ballot23": [
+    [
+      "0.35",
+      "170",
+      "0.07594104",
+      "2.8589342",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/stella_ballot23/stella_ballot23": [
+    [
+      "0.35",
+      "120",
+      "0.07648526",
+      "64.03648",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/still_obstinator_ballot23/still_obstinator_ballot23": [
+    [
+      "0.35",
+      "148",
+      "0.056371883",
+      "12.989365",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/combat_soldier/combat_soldier": [
     [
       "0.32",
@@ -3845,6 +4315,26 @@
       "150",
       "0.051179137",
       "12.851179",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/evilloli_master/evilloli_master": [
+    [
+      "0.35",
+      "160",
+      "0.07281179",
+      "46.53281",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/octcyborg_lady/octcyborg_lady": [
+    [
+      "0.35",
+      "145",
+      "0.055668935",
+      "0.055668935",
       "(None)",
       "12"
     ]
@@ -5315,6 +5805,46 @@
       "60",
       "0.0715873",
       "0.20056689",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/light_adventurer_4anv/light_adventurer_4anv": [
+    [
+      "0.35",
+      "68",
+      "0.07390023",
+      "14.150885",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/nova_4anv/nova_4anv": [
+    [
+      "0.35",
+      "168",
+      "0.05984127",
+      "41.80483",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/stella_copy_4anv/stella_copy_4anv": [
+    [
+      "0.35",
+      "120",
+      "0.06995465",
+      "16.029955",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/wind_spgirl_4anv/wind_spgirl_4anv": [
+    [
+      "0.35",
+      "164",
+      "0.07172336",
+      "43.74671",
       "(None)",
       "12"
     ]
@@ -7219,6 +7749,446 @@
       "12"
     ]
   ],
+  "bgm/world_12/battle/world_12_battle_normal": [
+    [
+      "0.35",
+      "155",
+      "0.058571428",
+      "99.115555",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/battle/world_12_battle_middle_boss": [
+    [
+      "0.35",
+      "170",
+      "0.059727892",
+      "46.607708",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/battle/world_12_battle_boss": [
+    [
+      "0.35",
+      "82",
+      "0.06553288",
+      "72.82853",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_hell_story_19": [
+    [
+      "0.35",
+      "72",
+      "0.07043084",
+      "67.52043",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_battle": [
+    [
+      "0.35",
+      "158",
+      "0.06090703",
+      "25.844898",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_mystic": [
+    [
+      "0.35",
+      "170",
+      "0.058571428",
+      "22.606554",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_nagihara_nanami": [
+    [
+      "0.35",
+      "150",
+      "0.06641723",
+      "57.62941",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_sore": [
+    [
+      "0.35",
+      "170",
+      "0.06943311",
+      "8.501429",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_omen": [
+    [
+      "0.35",
+      "124",
+      "0.06564626",
+      "15.509637",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_mikoto_worldend1": [
+    [
+      "0.35",
+      "78",
+      "0.054557823",
+      "75.439545",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_mikoto_worldend2": [
+    [
+      "0.35",
+      "78",
+      "0.05548753",
+      "71.59247",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_mikoto_worldend3": [
+    [
+      "0.35",
+      "65",
+      "0.0585034",
+      "119.99449",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_counterattack": [
+    [
+      "0.35",
+      "155",
+      "0.058571428",
+      "99.115555",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_title_bg": [
+    [
+      "0.35",
+      "80",
+      "0.051179137",
+      "48.051178",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_stella_no_ketsui": [
+    [
+      "0.35",
+      "65",
+      "0.059206348",
+      "0.059206348",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_resolve": [
+    [
+      "0.35",
+      "72",
+      "0.071201816",
+      "66.743195",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_desert_story_1": [
+    [
+      "0.35",
+      "118",
+      "0.07380953",
+      "60.802788",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_light_field_normal": [
+    [
+      "0.35",
+      "78",
+      "0.07258503",
+      "6.1935825",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_despair": [
+    [
+      "0.35",
+      "75",
+      "0.051179137",
+      "134.45117",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_remna_awake1": [
+    [
+      "0.35",
+      "110",
+      "0.07015873",
+      "0.07015873",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_remna_awake2": [
+    [
+      "0.35",
+      "110",
+      "0.07015873",
+      "0.07015873",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_remna_awake3": [
+    [
+      "0.35",
+      "110",
+      "0.06569161",
+      "34.93467",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_remna_main": [
+    [
+      "0.35",
+      "122",
+      "0.057891157",
+      "66.41188",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_battle_syukuse": [
+    [
+      "0.35",
+      "164",
+      "0.05580499",
+      "35.137802",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_battle_ultimate_bomb": [
+    [
+      "0.35",
+      "184",
+      "0.06873016",
+      "67.85471",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_desperate_persuade1": [
+    [
+      "0.35",
+      "124",
+      "0.05553288",
+      "58.051517",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_desperate_persuade2": [
+    [
+      "0.35",
+      "124",
+      "0.06950113",
+      "24.709501",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_worldflipper_gacha": [
+    [
+      "0.35",
+      "124",
+      "0.058299318",
+      "17.47728",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_fear_rage": [
+    [
+      "0.35",
+      "124",
+      "0.07136054",
+      "0.07136054",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_mildly_advance": [
+    [
+      "0.35",
+      "92",
+      "0.06433106",
+      "7.8533106",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_meet_again": [
+    [
+      "0.35",
+      "55",
+      "0.061564624",
+      "99.15855",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_alk_revival": [
+    [
+      "0.35",
+      "173",
+      "0.06274376",
+      "44.370724",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_emotion_collide": [
+    [
+      "0.35",
+      "135",
+      "0.07725623",
+      "74.70324",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_repent": [
+    [
+      "0.35",
+      "82",
+      "0.06453515",
+      "72.82653",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_parting": [
+    [
+      "0.35",
+      "77",
+      "0.060294785",
+      "77.55927",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_ending": [
+    [
+      "0.35",
+      "65",
+      "0.06276644",
+      "242.29376",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_its_not_over": [
+    [
+      "0.35",
+      "115",
+      "0.072743766",
+      "0.072743766",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_ceremony": [
+    [
+      "0.35",
+      "132",
+      "0.05739229",
+      "0.05739229",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/world_12/story/world_12_story_its_not_over_inst": [
+    [
+      "0.35",
+      "130",
+      "0.059478458",
+      "182.82846",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/common/stage_select/stage_select_world_12": [
+    [
+      "0.35",
+      "180",
+      "0.059818596",
+      "49.35281",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/common/ambient/ambient_mystery": [
+    [
+      "0.15",
+      "120",
+      "0.051179137",
+      "32.051178",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/common/ambient/ambient_battle_distance": [
+    [
+      "0.15",
+      "120",
+      "0.05718821",
+      "31.712177",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/common/ambient/ambient_wind_hollow": [
+    [
+      "0.15",
+      "120",
+      "0.07403628",
+      "30.074036",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/common/ambient/ambient_wind_and_bird": [
+    [
+      "0.15",
+      "120",
+      "0.07403628",
+      "0.07403628",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/world_11/battle/world_11_battle_normal1_normal": [
     [
       "0.35",
@@ -8359,6 +9329,166 @@
       "12"
     ]
   ],
+  "bgm/event/anv3half/battle/anv3half_battle_boss": [
+    [
+      "0.35",
+      "173",
+      "0.057278913",
+      "0.057278913",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_flat_chat": [
+    [
+      "0.35",
+      "95",
+      "0.052539684",
+      "0.052539684",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_mildly": [
+    [
+      "0.35",
+      "79",
+      "0.06927437",
+      "0.06927437",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_positive": [
+    [
+      "0.35",
+      "120",
+      "0.05888889",
+      "39.060883",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_lonely_chat": [
+    [
+      "0.35",
+      "85",
+      "0.066530615",
+      "0.066530615",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_lonely": [
+    [
+      "0.35",
+      "112",
+      "0.05281179",
+      "35.52179",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_happy_decide": [
+    [
+      "0.35",
+      "100",
+      "0.063424036",
+      "19.223425",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_comical_chat": [
+    [
+      "0.35",
+      "105",
+      "0.051179137",
+      "0.051179137",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_toast": [
+    [
+      "0.35",
+      "195",
+      "0.065238096",
+      "0.065238096",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_comical": [
+    [
+      "0.35",
+      "143",
+      "0.06818594",
+      "15.133175",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_comical01": [
+    [
+      "0.35",
+      "105",
+      "0.076054424",
+      "20.607052",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_graduation_ceremony": [
+    [
+      "0.35",
+      "75",
+      "0.07535148",
+      "89.66034",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_farewell": [
+    [
+      "0.35",
+      "128",
+      "0.056893423",
+      "30.016893",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_ceremoney": [
+    [
+      "0.35",
+      "132",
+      "0.05739229",
+      "0.05739229",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/system/anv3half_questlist": [
+    [
+      "0.35",
+      "116",
+      "0.057641722",
+      "14.486621",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/system/anv3half_tokengacha": [
+    [
+      "0.35",
+      "150",
+      "0.07056689",
+      "32.429546",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/anv3/battle/anv3_battle_boss": [
     [
       "0.35",
@@ -8729,6 +9859,46 @@
       "12"
     ]
   ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_wind/battle/advent_steam_robot_wind_boss": [
+    [
+      "0.35",
+      "150",
+      "0.06995465",
+      "56.829956",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_water/battle/advent_steam_robot_water_boss": [
+    [
+      "0.35",
+      "170",
+      "0.060839",
+      "72.37283",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_thunder/battle/advent_steam_robot_thunder_boss": [
+    [
+      "0.35",
+      "100",
+      "0.06993198",
+      "52.829933",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_light/battle/advent_steam_robot_light_boss": [
+    [
+      "0.35",
+      "180",
+      "0.07179138",
+      "69.364784",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/advent_steam_robot/advent_steam_robot_fire/battle/advent_steam_robot_fire_boss": [
     [
       "0.35",
@@ -8745,6 +9915,26 @@
       "155",
       "0.062267575",
       "7.7592516",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_dark/battle/advent_steam_robot_dark_boss": [
+    [
+      "0.35",
+      "162",
+      "0.07201814",
+      "13.365011",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_another/battle/advent_steam_robot_another_boss": [
+    [
+      "0.35",
+      "158",
+      "0.05324263",
+      "91.15122",
       "(None)",
       "12"
     ]
@@ -8985,6 +10175,36 @@
       "225",
       "0.07727891",
       "0.07727891",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/abyss_cloud/abyss_cloud_battle_1": [
+    [
+      "0.32",
+      "185",
+      "0.053424038",
+      "6.2954197",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/abyss_cloud/abyss_cloud_battle_2": [
+    [
+      "0.32",
+      "205",
+      "0.060975056",
+      "7.084966",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/abyss_cloud/abyss_cloud_battle_3": [
+    [
+      "0.32",
+      "175",
+      "0.07485261",
+      "11.043832",
       "(None)",
       "12"
     ]

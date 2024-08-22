@@ -240,7 +240,7 @@
           0,
           [
             "Block",
-            null
+            []
           ],
           1,
           2,
@@ -268,15 +268,15 @@
                           "CreateNormalAttack",
                           2,
                           255,
-                          null,
-                          null,
-                          38,
+                          [],
+                          [],
+                          53,
                           [
                             {
-                              "alv_max": 1,
-                              "alv_min": 0.5,
-                              "max": 4.8,
-                              "min": 4.16
+                              "alv_max": 2,
+                              "alv_min": 1,
+                              "max": 6,
+                              "min": 5.2
                             }
                           ],
                           [
@@ -319,13 +319,13 @@
                           "CreateNormalAttack",
                           2,
                           255,
-                          null,
-                          null,
-                          32,
+                          [],
+                          [],
+                          40,
                           [
                             {
-                              "max": 4.8,
-                              "min": 4.16
+                              "max": 6,
+                              "min": 5.2
                             }
                           ],
                           [

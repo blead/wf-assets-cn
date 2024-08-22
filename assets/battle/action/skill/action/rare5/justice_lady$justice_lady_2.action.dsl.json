@@ -319,7 +319,7 @@
                                                           ],
                                                           [
                                                             "CalculatedUsingMaxNumOfHits",
-                                                            9
+                                                            15
                                                           ],
                                                           [
                                                             "None"
@@ -332,7 +332,7 @@
                                                           5,
                                                           [
                                                             "Block",
-                                                            null
+                                                            []
                                                           ],
                                                           6,
                                                           7,
@@ -352,8 +352,8 @@
                                                                   "CreateNormalAttack",
                                                                   7,
                                                                   255,
-                                                                  null,
-                                                                  null,
+                                                                  [],
+                                                                  [],
                                                                   6,
                                                                   [
                                                                     {
@@ -374,14 +374,14 @@
                                                                   false,
                                                                   [
                                                                     {
-                                                                      "max": 1,
-                                                                      "min": 1
+                                                                      "max": 0.6,
+                                                                      "min": 0.6
                                                                     }
                                                                   ],
                                                                   [
                                                                     {
-                                                                      "max": 1,
-                                                                      "min": 1
+                                                                      "max": 0.6,
+                                                                      "min": 0.6
                                                                     }
                                                                   ],
                                                                   [
@@ -460,7 +460,7 @@
                                                                   8,
                                                                   [
                                                                     "Block",
-                                                                    null
+                                                                    []
                                                                   ],
                                                                   9,
                                                                   10,
@@ -480,8 +480,8 @@
                                                                           "CreateNormalAttack",
                                                                           10,
                                                                           255,
-                                                                          null,
-                                                                          null,
+                                                                          [],
+                                                                          [],
                                                                           80,
                                                                           [
                                                                             {
@@ -681,7 +681,7 @@
                                                           ],
                                                           [
                                                             "CalculatedUsingMaxNumOfHits",
-                                                            9
+                                                            15
                                                           ],
                                                           [
                                                             "None"
@@ -694,7 +694,7 @@
                                                           13,
                                                           [
                                                             "Block",
-                                                            null
+                                                            []
                                                           ],
                                                           14,
                                                           15,
@@ -714,8 +714,8 @@
                                                                   "CreateNormalAttack",
                                                                   15,
                                                                   255,
-                                                                  null,
-                                                                  null,
+                                                                  [],
+                                                                  [],
                                                                   6,
                                                                   [
                                                                     {
@@ -736,14 +736,14 @@
                                                                   false,
                                                                   [
                                                                     {
-                                                                      "max": 1,
-                                                                      "min": 1
+                                                                      "max": 0.6,
+                                                                      "min": 0.6
                                                                     }
                                                                   ],
                                                                   [
                                                                     {
-                                                                      "max": 1,
-                                                                      "min": 1
+                                                                      "max": 0.6,
+                                                                      "min": 0.6
                                                                     }
                                                                   ],
                                                                   [
@@ -822,7 +822,7 @@
                                                                   16,
                                                                   [
                                                                     "Block",
-                                                                    null
+                                                                    []
                                                                   ],
                                                                   17,
                                                                   18,
@@ -842,8 +842,8 @@
                                                                           "CreateNormalAttack",
                                                                           18,
                                                                           255,
-                                                                          null,
-                                                                          null,
+                                                                          [],
+                                                                          [],
                                                                           80,
                                                                           [
                                                                             {
@@ -933,8 +933,8 @@
               ],
               [
                 {
-                  "max": 1,
-                  "min": 0.85
+                  "max": 2,
+                  "min": 1.7
                 }
               ],
               [

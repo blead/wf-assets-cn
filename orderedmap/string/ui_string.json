@@ -159,6 +159,36 @@
       "满足以下条件后将能够挑战共同决战\n·玩家等级达到::need_player_rank::以上\n·通关摇曳的迷宫 崩坏域「临境域 深渊之兽」\n·通关降临讨伐「红嫉机兵」中的「红机兵海茵莱特 超级」"
     ]
   ],
+  "system_lock_score_attack": [
+    [
+      "玩家等级达到::need_player_rank::后将解锁无限演武"
+    ]
+  ],
+  "system_lock_hard_multi_green": [
+    [
+      "满足以下条件后将解锁共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在降临讨伐「翠愁机兵」中通关「翠机兵克拉格 超级」"
+    ]
+  ],
+  "system_lock_hard_multi_blue": [
+    [
+      "满足以下条件后将解锁共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在降临讨伐「苍叹机兵」中通关「苍机兵维尔努斯 超级」"
+    ]
+  ],
+  "system_lock_hard_multi_light": [
+    [
+      "满足以下条件后将解锁共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在降临讨伐「闪哭机兵」中通关「闪机兵艾赞 超级」"
+    ]
+  ],
+  "system_lock_hard_multi_yellow": [
+    [
+      "满足以下条件后将解锁共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在降临讨伐「橙悚机兵」中通关「橙机兵吉布西兹 超级」"
+    ]
+  ],
+  "system_lock_hard_multi_dark": [
+    [
+      "满足以下条件后将解锁共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在降临讨伐「暗凛机兵」中通关「暗机兵德古兰 超级」"
+    ]
+  ],
   "short_system_lock_boss_battle": [
     [
       "通关主线关卡第1章4-2"
@@ -207,6 +237,11 @@
   "short_system_lock_hard_multi_red": [
     [
       "满足以下条件"
+    ]
+  ],
+  "short_system_lock_score_attack": [
+    [
+      "玩家Rank::need_player_rank::以上"
     ]
   ],
   "ability_board_button_label": [
@@ -1681,12 +1716,12 @@
   ],
   "ability_description_instant_trigger_kind_power_flip_lv_high": [
     [
-      "强化弹射Lv::level::以上::if once::发动::else::::end::"
+      "Lv::level::以上强化弹射::if once::发动::else::::end::"
     ]
   ],
   "ability_description_instant_trigger_kind_power_flip_lv_low": [
     [
-      "强化弹射Lv::level::以下::if once::发动::else::::end::"
+      "Lv::level::以下强化弹射::if once::发动::else::::end::"
     ]
   ],
   "ability_description_instant_trigger_kind_continuous_power_flip_lv": [
@@ -1756,7 +1791,7 @@
   ],
   "ability_description_instant_trigger_kind_enemy_kill": [
     [
-      "击败敌人，::if once::::else::::end::"
+      "击败敌人::if once::::else::::end::"
     ]
   ],
   "ability_description_instant_trigger_kind_fever_point_added_by_abiility": [
@@ -2246,7 +2281,7 @@
   ],
   "ability_description_during_trigger_kind_hp_decrease_detail": [
     [
-      "【生命值从::start_percent::每减少::percent::，::content::】"
+      "【生命值从 ::start_percent:: ～ ::limit_percent:: 时发动】"
     ]
   ],
   "ability_description_during_trigger_kind_hp_increase": [
@@ -2586,7 +2621,7 @@
   ],
   "ability_description_condition_content_combo_boost": [
     [
-      "连击加成效果[连击 + ::count::]"
+      "连击加成效果[连击 ::count::]"
     ]
   ],
   "ability_description_condition_content_combo_restriction": [
@@ -4686,7 +4721,7 @@
   ],
   "conversion_to_exp_notice_about_character_lost": [
     [
-      "重复数为 0 时，角色自身\n可转换为经验值，\n但此时 <font color='#EA354C'>角色会离开</font>。"
+      "重复数为 0 的角色\n不能被转换为经验值。"
     ]
   ],
   "conversion_to_exp_notice_about_character_rejoin": [
@@ -5324,6 +5359,11 @@
       "降临讨伐 圣夜的淘气鬼"
     ]
   ],
+  "help_label_event_advent_hw23": [
+    [
+      "降临讨伐 为你奏响的镇魂歌"
+    ]
+  ],
   "help_label_event_advent_eye_dragon_multibattle_202310": [
     [
       "降临讨伐 始龙之眼"
@@ -5342,6 +5382,36 @@
   "help_label_event_hard_multi_fire": [
     [
       "共同决战 红嫉机兵"
+    ]
+  ],
+  "help_label_event_hard_multi_wind": [
+    [
+      "共同决战 翠愁机兵"
+    ]
+  ],
+  "help_label_event_hard_multi_water": [
+    [
+      "共同决战 苍叹机兵"
+    ]
+  ],
+  "help_label_event_hard_multi_light": [
+    [
+      "共同决战 闪哭机兵"
+    ]
+  ],
+  "help_label_event_hard_multi_thunder": [
+    [
+      "共同决战 橙悚机兵"
+    ]
+  ],
+  "help_label_event_hard_multi_dark": [
+    [
+      "共同决战 暗凛机兵"
+    ]
+  ],
+  "help_label_event_hard_multi_constant": [
+    [
+      "机兵共同决战"
     ]
   ],
   "help_label_event_challenge": [
@@ -5496,7 +5566,7 @@
   ],
   "button_label_multi_room_allow_heal_from_others": [
     [
-      "队友的治疗"
+      " "
     ]
   ],
   "button_label_lounge_start": [
@@ -7169,6 +7239,11 @@
       "强化「::base_equipment::」必须获得::base_equipment::并将其觉醒Lv提升至::require_level::以上"
     ]
   ],
+  "shop_not_have_equipment_for_enhancement_not_need_level": [
+    [
+      "强化「::base_equipment::」必须获得::base_equipment::"
+    ]
+  ],
   "shop_shortage_equipment_level": [
     [
       "将「::name::」强化至Lv::enhancement_level::则必须先将其觉醒Lv提升至::require_level::以上"
@@ -7646,7 +7721,7 @@
   ],
   "boss_coin_exchange_bulk_exchange_dialog_title": [
     [
-      "领主币一并兑换"
+      "一并兑换"
     ]
   ],
   "boss_coin_exchange_bulk_exchange_dialog_received_items": [
@@ -9754,6 +9829,11 @@
       "通信已丢失，将结束续战"
     ]
   ],
+  "shortage_stone_and_stop_selling_message": [
+    [
+      "星導石が不足しています"
+    ]
+  ],
   "quest_result_dialog_finish_auto_play_stop_complete": [
     [
       "续战结束"
@@ -9876,7 +9956,7 @@
   ],
   "player_profile_share_text": [
     [
-      "我在世界弹射物语中制作了个人资料卡！\n#世界弹射物语 #世界弹射物语资料卡"
+      "我在世界弹射物语中制作了个人资料卡！\n点击以下链接在游戏中关注我吧！\n::url::\n#世界弹射物语 #弹射世界资料卡"
     ]
   ],
   "player_profile_preview_profile_card_title": [
@@ -9897,6 +9977,556 @@
   "player_profile_edit_button_text": [
     [
       "编辑"
+    ]
+  ],
+  "player_history_edit_title": [
+    [
+      "编辑我的历史"
+    ]
+  ],
+  "player_history_edit_favourite_party_title": [
+    [
+      "喜爱角色"
+    ]
+  ],
+  "player_history_edit_degree_title": [
+    [
+      "称号"
+    ]
+  ],
+  "player_history_edit_player_name_title": [
+    [
+      "名字"
+    ]
+  ],
+  "player_history_edit_card_template_title": [
+    [
+      "历史片模板"
+    ]
+  ],
+  "player_history_edit_display_topic_title": [
+    [
+      "设定我的历史卡项目"
+    ]
+  ],
+  "player_history_edit_edit_button": [
+    [
+      "编辑"
+    ]
+  ],
+  "player_history_edit_change_button": [
+    [
+      "更改设定"
+    ]
+  ],
+  "player_history_card_period_from": [
+    [
+      "～"
+    ]
+  ],
+  "player_history_card_date_format": [
+    [
+      "::year::年::month::月::date::日"
+    ]
+  ],
+  "player_history_card_period_date_format": [
+    [
+      "::year::/::month::/::date:: ::hour:::::minute::"
+    ]
+  ],
+  "player_history_card_template_title": [
+    [
+      "历史卡模板一览"
+    ]
+  ],
+  "player_history_card_template_description": [
+    [
+      "能为所有历史卡设置共通背景"
+    ]
+  ],
+  "player_history_card_template_tab_kind_all": [
+    [
+      "ALL"
+    ]
+  ],
+  "player_history_card_template_tab_kind_general": [
+    [
+      "一般"
+    ]
+  ],
+  "player_history_card_template_tab_kind_main_quest": [
+    [
+      "主线\n关卡"
+    ]
+  ],
+  "player_history_card_template_tab_kind_event": [
+    [
+      "活动"
+    ]
+  ],
+  "player_history_card_template_tab_kind_town": [
+    [
+      "星见镇"
+    ]
+  ],
+  "player_history_card_topic_title": [
+    [
+      "我的历史一览"
+    ]
+  ],
+  "player_history_card_topic_description": [
+    [
+      "请选择记载于历史卡的内容"
+    ]
+  ],
+  "player_history_card_topic_space_label": [
+    [
+      "空间"
+    ]
+  ],
+  "player_history_card_topic_space_number": [
+    [
+      "：::current:: / ::max::"
+    ]
+  ],
+  "player_history_card_topic_card_label": [
+    [
+      "卡片枚数"
+    ]
+  ],
+  "player_history_card_topic_card_number": [
+    [
+      "：::current:: / ::max::"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_all": [
+    [
+      "ALL"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_player": [
+    [
+      "玩家"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_character": [
+    [
+      "角色"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_quest": [
+    [
+      "关卡"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_equipment": [
+    [
+      "装备"
+    ]
+  ],
+  "player_history_share_text": [
+    [
+      "我在世界弹射物语中填写了我的历史卡！\n一起回顾世界弹射物语开服以来的点点滴滴吧！\n#世界弹射物语 #庆祝世界弹射物语4周年 #弹射世界历史卡"
+    ]
+  ],
+  "player_history_card_preview_title": [
+    [
+      "我的历史卡预览"
+    ]
+  ],
+  "player_history_card_preview_share": [
+    [
+      "分享"
+    ]
+  ],
+  "player_history_card_preview_share_all": [
+    [
+      "全部分享"
+    ]
+  ],
+  "player_history_topic_player_info_rank": [
+    [
+      "等级"
+    ]
+  ],
+  "player_history_topic_player_info_id": [
+    [
+      "ID"
+    ]
+  ],
+  "player_history_topic_start_game_title": [
+    [
+      "开始游玩世界弹射物语"
+    ]
+  ],
+  "player_history_topic_total_login_title": [
+    [
+      "累计游玩时间"
+    ]
+  ],
+  "player_history_topic_clear_chapter_title": [
+    [
+      "通关主线关卡"
+    ]
+  ],
+  "player_history_topic_clear_chapter_cleared": [
+    [
+      "::chapter::章：::date::"
+    ]
+  ],
+  "player_history_topic_clear_chapter_uncleared": [
+    [
+      "::chapter::章：<font color='#999999'>未通关</font>"
+    ]
+  ],
+  "player_history_topic_complete_mana_board_2_title": [
+    [
+      "第一次将第二枚玛纳板全部强化完成"
+    ]
+  ],
+  "player_history_topic_complete_mana_board_2_date": [
+    [
+      "于::date::完成"
+    ]
+  ],
+  "player_history_topic_complete_mana_board_2_unrecorded": [
+    [
+      "无已达成的角色"
+    ]
+  ],
+  "player_history_topic_lv_100_character_title": [
+    [
+      "Lv100的角色"
+    ]
+  ],
+  "player_history_topic_bond_token_title": [
+    [
+      "累计获得信赖之证"
+    ]
+  ],
+  "player_history_topic_get_100_characters_title": [
+    [
+      "获得100个角色"
+    ]
+  ],
+  "player_history_topic_unachieved": [
+    [
+      "未完成"
+    ]
+  ],
+  "player_history_topic_unit_day": [
+    [
+      "日"
+    ]
+  ],
+  "player_history_topic_unit_character": [
+    [
+      "角色"
+    ]
+  ],
+  "player_history_topic_unit_item": [
+    [
+      "个"
+    ]
+  ],
+  "player_history_topic_unit_time": [
+    [
+      "次"
+    ]
+  ],
+  "player_history_topic_unit_group": [
+    [
+      "种"
+    ]
+  ],
+  "player_history_topic_unit_event": [
+    [
+      "活动"
+    ]
+  ],
+  "player_history_topic_unit_mana": [
+    [
+      "玛纳"
+    ]
+  ],
+  "player_history_topic_player_rank_100_title": [
+    [
+      "玩家等级达到100"
+    ]
+  ],
+  "player_history_topic_complete_regular_mission_title": [
+    [
+      "完成常规任务"
+    ]
+  ],
+  "player_history_topic_complete_event_mission_title": [
+    [
+      "完成活动任务"
+    ]
+  ],
+  "player_history_topic_multi_first_place_title": [
+    [
+      "获得协力战斗MVP"
+    ]
+  ],
+  "player_history_topic_multi_host_guest_title": [
+    [
+      "协力战斗"
+    ]
+  ],
+  "player_history_topic_multi_host_guest_host": [
+    [
+      "房主"
+    ]
+  ],
+  "player_history_topic_multi_host_guest_guest": [
+    [
+      "成员"
+    ]
+  ],
+  "player_history_topic_owned_equipment_title": [
+    [
+      "持有装备道具"
+    ]
+  ],
+  "player_history_topic_complete_equipment_title": [
+    [
+      "装备道具觉醒"
+    ]
+  ],
+  "player_history_topic_complete_equipment_recorded": [
+    [
+      "种 达到最大觉醒等级！"
+    ]
+  ],
+  "player_history_topic_complete_equipment_unrecorded": [
+    [
+      "没有达到最大觉醒等级的装备"
+    ]
+  ],
+  "player_history_topic_complete_equipment_enhancement_title": [
+    [
+      "特殊装备强化"
+    ]
+  ],
+  "player_history_topic_complete_equipment_enhancement_achieved": [
+    [
+      "种 达到最大强化等级！"
+    ]
+  ],
+  "player_history_topic_complete_equipment_enhancement_unrecorded": [
+    [
+      "没有达到最大强化等级的装备"
+    ]
+  ],
+  "player_history_topic_guild_girl_equipment_enhancement_title": [
+    [
+      "普·莉莉艾的勋章装备强化"
+    ]
+  ],
+  "player_history_topic_guild_girl_equipment_enhancement_lv": [
+    [
+      "Lv <font color='#27B9AB' size='+2'>::level::</font>"
+    ]
+  ],
+  "player_history_topic_guild_girl_equipment_enhancement_unowned": [
+    [
+      "未持有"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_title": [
+    [
+      "狂热激战最高记录"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_date": [
+    [
+      "在::date::举办的"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_description": [
+    [
+      "狂热激战的无尽战斗中通关"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_achieved": [
+    [
+      "战！"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_unrecorded": [
+    [
+      "未通关狂热激战 无尽战斗"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_title": [
+    [
+      "土俑嘉年华最高记录"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_total": [
+    [
+      "TOTAL"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_date": [
+    [
+      "于::date::举办的\n土俑嘉年华中"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_achieved": [
+    [
+      "达成！"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_unrecorded": [
+    [
+      "未通关土俑嘉年华"
+    ]
+  ],
+  "player_history_topic_solo_time_attack_degree_title": [
+    [
+      "极时试炼"
+    ]
+  ],
+  "player_history_topic_solo_time_attack_degree_clear": [
+    [
+      "制胜\n称号"
+    ]
+  ],
+  "player_history_topic_solo_time_attack_degree_complete": [
+    [
+      "称霸\n称号"
+    ]
+  ],
+  "player_history_topic_solo_time_attack_degree_achieved": [
+    [
+      "达成！"
+    ]
+  ],
+  "player_history_topic_score_attack_border_title": [
+    [
+      "无限演武"
+    ]
+  ],
+  "player_history_topic_score_attack_border_best": [
+    [
+      "最高"
+    ]
+  ],
+  "player_history_topic_score_attack_border_total": [
+    [
+      "累计"
+    ]
+  ],
+  "player_history_topic_score_attack_border_border": [
+    [
+      "层级"
+    ]
+  ],
+  "player_history_topic_score_attack_border_achieved": [
+    [
+      "达成！"
+    ]
+  ],
+  "player_history_topic_clear_expert_single_quest_title": [
+    [
+      "追忆试炼"
+    ]
+  ],
+  "player_history_topic_clear_expert_single_quest_quest": [
+    [
+      "关卡"
+    ]
+  ],
+  "player_history_topic_clear_expert_single_quest_clear": [
+    [
+      "通关！"
+    ]
+  ],
+  "player_history_topic_complete_side_story_title": [
+    [
+      "外传故事通关"
+    ]
+  ],
+  "player_history_topic_clear_tower_dungeon_floor_title": [
+    [
+      "摇曳的迷宫 幽玄域"
+    ]
+  ],
+  "player_history_topic_clear_tower_dungeon_floor_total": [
+    [
+      "累计"
+    ]
+  ],
+  "player_history_topic_clear_tower_dungeon_floor_floor": [
+    [
+      "层"
+    ]
+  ],
+  "player_history_topic_clear_tower_dungeon_floor_cleared": [
+    [
+      "到达！"
+    ]
+  ],
+  "player_history_topic_total_mana_paid_title": [
+    [
+      "珍品"
+    ]
+  ],
+  "player_history_topic_total_mana_paid_total": [
+    [
+      "累计消耗"
+    ]
+  ],
+  "player_history_topic_encyclopedia_read_title": [
+    [
+      "星见图鉴"
+    ]
+  ],
+  "player_history_topic_encyclopedia_read_keyword": [
+    [
+      "关键词情报"
+    ]
+  ],
+  "player_history_topic_encyclopedia_read_complete": [
+    [
+      "通读！"
+    ]
+  ],
+  "player_history_topic_defeat_expert_single_boss_title": [
+    [
+      "第一次通关的单人挑战讨伐战斗地狱级领主"
+    ]
+  ],
+  "player_history_topic_defeat_expert_single_boss_defeat": [
+    [
+      "初次通关！"
+    ]
+  ],
+  "player_history_topic_defeat_expert_single_boss_unrecorded": [
+    [
+      "未曾通关单人挑战讨伐战斗"
+    ]
+  ],
+  "player_history_invalid_period_dialog_text": [
+    [
+      "非我的历史卡活动举办期间"
+    ]
+  ],
+  "player_history_period_text": [
+    [
+      "举办期间：::start_date:: - ::end_date::"
+    ]
+  ],
+  "player_history_title": [
+    [
+      "我的历史"
+    ]
+  ],
+  "player_history_favorite_party_name": [
+    [
+      "设定喜爱角色"
     ]
   ],
   "edit_profile_title": [
@@ -11544,6 +12174,86 @@
       "活动结果"
     ]
   ],
+  "score_event_best_label": [
+    [
+      "BEST"
+    ]
+  ],
+  "score_event_score_label": [
+    [
+      "SCORE"
+    ]
+  ],
+  "score_event_time_label": [
+    [
+      "TIME"
+    ]
+  ],
+  "score_attack_event_update_high_score_dialog_title": [
+    [
+      "::name::：最高分更新"
+    ]
+  ],
+  "score_attack_event_get_reward_list_dialog_title": [
+    [
+      "获得报酬"
+    ]
+  ],
+  "score_attack_event_quest_select_next_event_date": [
+    [
+      "活动更新后<font color='#ffcc1c'>::time::</font>::unit::"
+    ]
+  ],
+  "score_attack_event_remaining_time_label": [
+    [
+      "距离更新::time::"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_days_or_more": [
+    [
+      "日以上"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_days": [
+    [
+      "日"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_hours": [
+    [
+      "時間"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_minutes": [
+    [
+      "分"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_day": [
+    [
+      "日"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_hour": [
+    [
+      "時間"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_minute": [
+    [
+      "分"
+    ]
+  ],
+  "score_attack_event_history_no_data": [
+    [
+      "无战斗履历"
+    ]
+  ],
+  "score_attack_event_play_caution": [
+    [
+      "本关卡仅能使用<font color=\"#ea354c\">::element::属性角色编队</font>进行挑战。\n请选择要进行关卡挑战的队伍。"
+    ]
+  ],
   "carnival_event_record_total": [
     [
       "TOTAL"
@@ -12181,7 +12891,7 @@
   ],
   "stone_mana_confirm_detail_item": [
     [
-      "::vmoney::个 ::price::元：::count::"
+      "::price::元礼包 含::vmoney::星导石：::count::"
     ]
   ],
   "equipment_exchange_title": [
@@ -12766,7 +13476,7 @@
   ],
   "boss_coin_bulk_exchange_complete_message": [
     [
-      "领主币一并兑换执行完毕"
+      "一并兑换执行完毕"
     ]
   ],
   "shop_item_shortage": [
@@ -14119,6 +14829,11 @@
       "收藏"
     ]
   ],
+  "gacha_ratio_dialog_prize_template": [
+    [
+      "・::prize_name::　(::prize_odds::%)<br/>"
+    ]
+  ],
   "favorite_party_list_description": [
     [
       "可收藏的队伍编成<font size='32px' color='#FF9F1C'><b>最多为10个</b></font>，\n若超出上限则将按顺序依次覆盖最早的收藏"
@@ -15234,6 +15949,411 @@
       "专辑选择"
     ]
   ],
+  "gacha_ratio_dialog_html_template": [
+    [
+      "<!DOCTYPE html/><html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>\n</head>\n<body class=\"body\" style_id=\"1\">::body_text::</body>\n</html>"
+    ]
+  ],
+  "gacha_ratio_dialog_odds_group_template": [
+    [
+      "<div class=\"container\">\n<h2>::gacha_title::(::odds_group_title::)</h2>\n::rarity_list::\n</div>"
+    ]
+  ],
+  "gacha_ratio_dialog_rarity_template": [
+    [
+      "<p>::rarity_name::(稀有度获取概率::rarity_odds::%)</p>\n<p>\n::prize_list::\n</p>"
+    ]
+  ],
+  "help_label_event_kc_summer_2021": [
+    [
+      "鹄与凉月的特别训练！"
+    ]
+  ],
+  "help_label_event_world_story_anv3half": [
+    [
+      "Ceremony"
+    ]
+  ],
+  "help_label_event_advent_variant_hw_fire": [
+    [
+      "降临讨伐 为你奏响的镇魂歌"
+    ]
+  ],
+  "help_label_event_advent_variant_empress_wind": [
+    [
+      "降临讨伐 碧之女王"
+    ]
+  ],
+  "help_label_event_advent_variant_empress_thunder": [
+    [
+      "降临讨伐 金之女王"
+    ]
+  ],
+  "help_label_event_advent_variant_empress_dark": [
+    [
+      "降临讨伐 墨之女王"
+    ]
+  ],
+  "help_label_event_advent_variant_empress_light": [
+    [
+      "降临讨伐 皓之女王"
+    ]
+  ],
+  "help_label_event_advent_steam_robot_another": [
+    [
+      "降临讨伐 无猾机兵"
+    ]
+  ],
+  "help_label_event_advent_steam_robot_dark": [
+    [
+      "降临讨伐 暗凛机兵"
+    ]
+  ],
+  "help_label_event_advent_steam_robot_wind": [
+    [
+      "降临讨伐 翠愁机兵"
+    ]
+  ],
+  "help_label_event_advent_steam_robot_water": [
+    [
+      "降临讨伐 苍叹机兵"
+    ]
+  ],
+  "help_label_event_advent_steam_robot_light": [
+    [
+      "降临讨伐 闪哭机兵"
+    ]
+  ],
+  "help_label_event_advent_steam_robot_thunder": [
+    [
+      "降临讨伐 橙悚机兵"
+    ]
+  ],
+  "equipment_flipper_skin_lock_description": [
+    [
+      "弹射板皮肤需要\n特殊装备强化到Lv120"
+    ]
+  ],
+  "user_data_erase_executed_message": [
+    [
+      "待定"
+    ]
+  ],
+  "user_data_erase_executed_button": [
+    [
+      "待定"
+    ]
+  ],
+  "battle_history_total_damage": [
+    [
+      "综合伤害"
+    ]
+  ],
+  "battle_history_elapsed_time": [
+    [
+      "经过时间"
+    ]
+  ],
+  "battle_history_score": [
+    [
+      "Score"
+    ]
+  ],
+  "battle_history_date": [
+    [
+      "%m/%d %H:%M"
+    ]
+  ],
+  "battle_history_member_damage": [
+    [
+      "造成的伤害"
+    ]
+  ],
+  "character_list_setting_dialog_filter_group_reinforceable": [
+    [
+      "强化可能"
+    ]
+  ],
+  "title_menu_privacy_policy": [
+    [
+      "待定"
+    ]
+  ],
+  "title_menu_terms_of_service": [
+    [
+      "待定"
+    ]
+  ],
+  "title_menu_about_telecommunications": [
+    [
+      "待定"
+    ]
+  ],
+  "application_option_episode_encyclopedia_suggest_title": [
+    [
+      "显示推荐剧情・图鉴"
+    ]
+  ],
+  "application_option_flipper_skin_title": [
+    [
+      "弹射板皮肤表示"
+    ]
+  ],
+  "application_option_flipper_skin_description": [
+    [
+      "编入已解锁的弹射板皮肤的装备时、\n弹射板的外观发生变化"
+    ]
+  ],
+  "encyclopedia_keyword_details_locked_episode_text": [
+    [
+      "情报::index::・剧情"
+    ]
+  ],
+  "event_folder_event_select_empty_placeholder": [
+    [
+      "没有相关的活动"
+    ]
+  ],
+  "event_folder_event_select_tab_notcleared": [
+    [
+      "未通关"
+    ]
+  ],
+  "event_folder_event_select_tab_complete": [
+    [
+      "完成"
+    ]
+  ],
+  "quest_detail_time_label": [
+    [
+      "TIME"
+    ]
+  ],
+  "character_list_setting_dialog_filter_reinforceable_level": [
+    [
+      "Lv强化"
+    ]
+  ],
+  "character_list_setting_dialog_filter_reinforceable_overlimit": [
+    [
+      "上限突破"
+    ]
+  ],
+  "character_list_setting_dialog_filter_reinforceable_manaboard": [
+    [
+      "玛纳板强化"
+    ]
+  ],
+  "party_copy_copy_button_text": [
+    [
+      "复制"
+    ]
+  ],
+  "encyclopedia_back_to_top_button": [
+    [
+      "返回一览"
+    ]
+  ],
+  "score_attack_list_score_border": [
+    [
+      "报酬达成Score ::score::"
+    ]
+  ],
+  "score_attack_border_reward_dialog_title": [
+    [
+      "关报酬"
+    ]
+  ],
+  "overflow_equipment_convert_star_grain": [
+    [
+      "超过重复数上限\n将::name::转换成星之粒\n星之粒 × ::count::"
+    ]
+  ],
+  "overflow_equipment_convert_craft_points": [
+    [
+      "超过重复数上限\n将::name::转换成锻造石\n锻造石 × ::count::"
+    ]
+  ],
+  "overflow_equipment_convert_ability_soul": [
+    [
+      "超过重复数上限\n将::name::转换成能力魂珠\n能力魂珠 × ::count::"
+    ]
+  ],
+  "ability_description_end_power_flip_limit_once": [
+    [
+      "强化弹射::if isOver::::if (pfLevel > 1)::Lv::pfLevel::以上::end::::else::Lv::pfLevel::::end::直到结束"
+    ]
+  ],
+  "ability_description_end_power_flip_limit_n_times": [
+    [
+      "::count:: 回强化弹射::if isOver::::if (pfLevel > 1)::Lv::pfLevel::以上::end::::else::Lv::pfLevel::::end::直到结束"
+    ]
+  ],
+  "ability_description_separated_term_damage": [
+    [
+      "（独立伤害乘区９）"
+    ]
+  ],
+  "ability_description_each": [
+    [
+      "每次"
+    ]
+  ],
+  "ability_description_condition_content_number": [
+    [
+      "给予 ::number:: 个"
+    ]
+  ],
+  "ability_description_condition_content_initial_accumulation": [
+    [
+      "累计 ::number:: 个"
+    ]
+  ],
+  "ability_description_condition_target_swift": [
+    [
+      "冲刺间隔缩短效果"
+    ]
+  ],
+  "ability_description_instant_trigger_kind_member_element_unified": [
+    [
+      "::element_full::共鸣"
+    ]
+  ],
+  "ability_description_instant_trigger_excess_skill_gauge": [
+    [
+      "战斗开始时超过::if !omittable::::triggerPuller::的::end::技能槽 ::percent:: 时、"
+    ]
+  ],
+  "ability_description_delay": [
+    [
+      "::if (delay > 0)::::delay::&nbsp;秒后::end::"
+    ]
+  ],
+  "ability_description_condition_content_swift": [
+    [
+      "::if !withoutTarget::::target::的::end::冲刺间隔缩短效果"
+    ]
+  ],
+  "ability_description_multiply_trigger_accumulation": [
+    [
+      "【::trigger::追加累计数 +::count::】"
+    ]
+  ],
+  "ability_description_multiply_trigger": [
+    [
+      "【::trigger::追加效果量 ::strength:: [最大合计 ::max_strength::&nbsp;]】"
+    ]
+  ],
+  "ability_description_instant_content_ratio_damage_max_hp_if_hp_high": [
+    [
+      "HP ::percent2:: 以上的 ::if !withoutTarget::::target::造成::end::最大HP ::percent1:: 的伤害"
+    ]
+  ],
+  "ability_description_instant_content_delete_unique_condition": [
+    [
+      "::if !withoutTarget::::target::的::end::「::name::」消除"
+    ]
+  ],
+  "encyclopedia_keyword_label_with_character_quest": [
+    [
+      "「::keyword_name::」 情报1、剧情"
+    ]
+  ],
+  "quest_unselectable_reason_message_score_attack_event_quest_clear": [
+    [
+      "无限演武『::questName::』通关"
+    ]
+  ],
+  "application_option_episode_encyclopedia_suggest_show": [
+    [
+      "在主界面显示推荐故事和图鉴"
+    ]
+  ],
+  "score_attack_zone_objective": [
+    [
+      "创下<font color=\"#FFCD1B\">最高分数</font>！"
+    ]
+  ],
+  "home_character_episode_balloon_recommend": [
+    [
+      "推荐"
+    ]
+  ],
+  "home_quest_balloon_encyclopedia": [
+    [
+      "星见图鉴"
+    ]
+  ],
+  "party_copy_no_character": [
+    [
+      "没有编成的角色"
+    ]
+  ],
+  "party_copy_no_equipment": [
+    [
+      "没有编成的装备道具"
+    ]
+  ],
+  "party_copy_no_ability_soul": [
+    [
+      "能力魂珠未被使用"
+    ]
+  ],
+  "stone_buy_stop_selling": [
+    [
+      "星导石的售卖结束了"
+    ]
+  ],
+  "event_folder_event_select_tab_cleared": [
+    [
+      "已通关"
+    ]
+  ],
+  "equipment_flipper_skin_button": [
+    [
+      "弹射板\n皮肤"
+    ]
+  ],
+  "ability_description_common_content_damage_summary": [
+    [
+      "::if !withoutTarget::::target::::end::伤害::if (strength >= 0)::提升::else::下降::end::"
+    ]
+  ],
+  "ability_description_common_content_swift": [
+    [
+      "::if !withoutTarget::::target::::end::冲刺间隔缩短"
+    ]
+  ],
+  "ability_description_common_content_damage_separated_term": [
+    [
+      "::if !withoutTarget::::target::::end::对敌人造成的伤害 ::percent_up_down::"
+    ]
+  ],
+  "ability_description_common_content_override_character_element": [
+    [
+      "进入到::element_full::战斗中"
+    ]
+  ],
+  "ability_description_each_member": [
+    [
+      "各自"
+    ]
+  ],
+  "gacha_ratio_dialog_no_gacha": [
+    [
+      "未找到举办中的扭蛋"
+    ]
+  ],
+  "player_history_how_to_play": [
+    [
+      "在这个画面上成可以编辑称号、\n名称、喜爱角色和我的历史\n按下「编辑」按钮、尝试各种设定\n可以到社交平台分享我的历史卡\n\n由于名称可能会被其他人看到\n请不要写下个人信息"
+    ]
+  ],
+  "party_copy_alternative_party_dialog_message_error": [
+    [
+      "由于所有的角色斗已经出击而无法自动编成"
+    ]
+  ],
   "button_label_pass_release": [
     [
       "修行进阶"
@@ -15519,9 +16639,64 @@
       "<font color='#ff9f1c'>::character_name::的::skill_name::已觉醒!</font>"
     ]
   ],
+  "raid_event_rank_show": [
+    [
+      "true"
+    ]
+  ],
+  "rush_event_rank_show": [
+    [
+      "true"
+    ]
+  ],
   "help_label_event_advent_u_collabo": [
     [
       "降临讨伐 摇曳彼方的新大门"
+    ]
+  ],
+  "system_lock_steam_hard_constant": [
+    [
+      "满足以下条件后将解锁共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」"
+    ]
+  ],
+  "system_lock_steam_hard_red_constant": [
+    [
+      "满足以下条件后将解锁「红嫉机兵」共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在领主战 降临讨伐「红嫉机兵」中通关「红机兵海茵莱特 超级」"
+    ]
+  ],
+  "system_lock_steam_hard_blue_constant": [
+    [
+      "满足以下条件后将解锁「苍叹机兵」共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在领主战 降临讨伐「苍叹机兵」中通关「苍机兵维尔努斯 超级」"
+    ]
+  ],
+  "system_lock_steam_hard_yellow_constant": [
+    [
+      "满足以下条件后将解锁「橙悚机兵」共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在领主战 降临讨伐「橙悚机兵」中通关「橙机兵吉布西兹 超级」"
+    ]
+  ],
+  "system_lock_steam_hard_green_constant": [
+    [
+      "满足以下条件后将解锁「翠愁机兵」共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在领主战 降临讨伐「翠愁机兵」中通关「翠机兵克拉格 超级」"
+    ]
+  ],
+  "system_lock_steam_hard_light_constant": [
+    [
+      "满足以下条件后将解锁「闪哭机兵」共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在领主战 降临讨伐「闪哭机兵」中通关「闪机兵艾赞 超级」"
+    ]
+  ],
+  "system_lock_steam_hard_dark_constant": [
+    [
+      "满足以下条件后将解锁「暗凛机兵」共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在领主战 降临讨伐「暗凛机兵」中通关「暗机兵德古兰 超级」"
+    ]
+  ],
+  "help_label_event_score_attack_event": [
+    [
+      "无限演武"
+    ]
+  ],
+  "help_label_equipment_enhancement_score_attack_event": [
+    [
+      "勋章装备强化"
     ]
   ],
   "help_label_event_advent_k_collabo": [

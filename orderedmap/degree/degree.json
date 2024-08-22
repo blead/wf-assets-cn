@@ -4913,6 +4913,84 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_1"
     ]
   ],
+  "80022": [
+    [
+      "battle_pass_04_degree_1",
+      "750006",
+      "秋禾盈野",
+      "待翻译",
+      "获得条件：在2024年9月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_04_degree_1"
+    ]
+  ],
+  "80023": [
+    [
+      "battle_pass_04_degree_2",
+      "750007",
+      "秋禾盈野",
+      "待翻译",
+      "获得条件：在2024年9月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_04_degree_2"
+    ]
+  ],
+  "80024": [
+    [
+      "battle_pass_05_degree_1",
+      "750008",
+      "秋意缤纷",
+      "待翻译",
+      "获得条件：在2024年10月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_05_degree_1"
+    ]
+  ],
+  "80025": [
+    [
+      "battle_pass_05_degree_2",
+      "750009",
+      "秋意缤纷",
+      "待翻译",
+      "获得条件：在2024年10月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_05_degree_2"
+    ]
+  ],
+  "80026": [
+    [
+      "battle_pass_06_degree_1",
+      "750010",
+      "秋梦绮丽",
+      "待翻译",
+      "获得条件：在2024年11月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_06_degree_1"
+    ]
+  ],
+  "80027": [
+    [
+      "battle_pass_06_degree_2",
+      "750011",
+      "秋梦绮丽",
+      "待翻译",
+      "获得条件：在2024年11月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_06_degree_2"
+    ]
+  ],
   "161009": [
     [
       "degree_favor_hoshikawa_ririi",
@@ -4958,7 +5036,7 @@
       "39000",
       "僵尸1号",
       "ぞんびいちごう",
-      "获得条件：【僵尸１号】将源樱升级到Lv100并获得信赖之证",
+      "获得条件：【僵尸1号】将源樱升级到Lv100并获得信赖之证",
       "2",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -4971,7 +5049,7 @@
       "99000",
       "僵尸2号",
       "ぞんびにごう",
-      "获得条件：【僵尸２号】将二阶堂咲升级到Lv100并获得信赖之证",
+      "获得条件：【僵尸2号】将二阶堂咲升级到Lv100并获得信赖之证",
       "2",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -4984,7 +5062,7 @@
       "214000",
       "僵尸5号",
       "ぞんびごごう",
-      "获得条件：【僵尸５号】将夕雾升级到Lv100并获得信赖之证",
+      "获得条件：【僵尸5号】将夕雾升级到Lv100并获得信赖之证",
       "2",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -4997,7 +5075,7 @@
       "361000",
       "僵尸0号",
       "ぞんびぜろごう",
-      "获得条件：【僵尸０号】将山田多惠升级到Lv100并获得信赖之证",
+      "获得条件：【僵尸0号】将山田多惠升级到Lv100并获得信赖之证",
       "2",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -5639,6 +5717,175 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_favor_subaru"
+    ]
+  ],
+  "63052": [
+    [
+      "degree_raid_event_05_01",
+      "540052",
+      "弹袭天",
+      "だんしゅうてん",
+      "获得条件：在“团本活动 战阵之宴”通关700次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_01"
+    ]
+  ],
+  "63053": [
+    [
+      "degree_raid_event_05_02",
+      "540053",
+      "弹袭星",
+      "だんしゅうせい",
+      "获得条件：在“团本活动 战阵之宴”通关300次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_02"
+    ]
+  ],
+  "63054": [
+    [
+      "degree_raid_event_05_03",
+      "540054",
+      "弹袭空",
+      "だんしゅうくう",
+      "获得条件：在“团本活动 战阵之宴”通关100次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_03"
+    ]
+  ],
+  "63055": [
+    [
+      "degree_raid_event_05_04",
+      "540055",
+      "弹袭圣",
+      "だんしゅうしょう",
+      "获得条件：在“团本活动 战阵之宴”通关10次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_04"
+    ]
+  ],
+  "63056": [
+    [
+      "degree_raid_event_05_05",
+      "540056",
+      "弹袭王",
+      "だんしゅうおう",
+      "获得条件：在“团本活动 战阵之宴”通关200次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_05"
+    ]
+  ],
+  "63057": [
+    [
+      "degree_raid_event_05_06",
+      "540057",
+      "弹袭卿",
+      "だんしゅうきょう",
+      "获得条件：在“团本活动 战阵之宴”通关100次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_06"
+    ]
+  ],
+  "63058": [
+    [
+      "degree_raid_event_05_07",
+      "540058",
+      "弹袭侯",
+      "だんしゅうこう",
+      "获得条件：在“团本活动 战阵之宴”通关50次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_07"
+    ]
+  ],
+  "63059": [
+    [
+      "degree_raid_event_05_08",
+      "540059",
+      "弹袭豪",
+      "だんしゅうごう",
+      "获得条件：在“团本活动 战阵之宴”通关10次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_08"
+    ]
+  ],
+  "63060": [
+    [
+      "degree_raid_event_05_09",
+      "540060",
+      "弹袭帅",
+      "だんしゅうすい",
+      "获得条件：在“团本活动 战阵之宴”通关100次高级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_09"
+    ]
+  ],
+  "63061": [
+    [
+      "degree_raid_event_05_10",
+      "540061",
+      "弹袭将",
+      "だんしゅうしょう",
+      "获得条件：在“团本活动 战阵之宴”通关50次高级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_10"
+    ]
+  ],
+  "63062": [
+    [
+      "degree_raid_event_05_11",
+      "540062",
+      "弹袭长",
+      "だんしゅうちょう",
+      "获得条件：在“团本活动 战阵之宴”通关10次高级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_11"
+    ]
+  ],
+  "63063": [
+    [
+      "degree_raid_event_05_12",
+      "540063",
+      "弹袭兵",
+      "だんしゅうへい",
+      "获得条件：在“团本活动 战阵之宴”通关100次初级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_12"
+    ]
+  ],
+  "63064": [
+    [
+      "degree_raid_event_05_13",
+      "540064",
+      "弹袭士",
+      "だんしゅうし",
+      "获得条件：在“团本活动 战阵之宴”通关10次初级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_13"
     ]
   ],
   "63039": [
@@ -7266,6 +7513,643 @@
       "dynamic/degree/degree_favor_yamada_tae_2"
     ]
   ],
+  "1151182": [
+    [
+      "degree_favor_nova_4anv_2",
+      "146001",
+      "明天也将同行",
+      "またあすもともに",
+      "获得条件：将【踏上同样旅途之人】诺瓦的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_nova_4anv_2"
+    ]
+  ],
+  "1161201": [
+    [
+      "degree_favor_stella_copy_4anv_2",
+      "179001",
+      "朝霞的启程",
+      "あさひのたびだち",
+      "获得条件：将【拥抱梦想的旅人】蕾薇的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_stella_copy_4anv_2"
+    ]
+  ],
+  "1141201": [
+    [
+      "degree_favor_wind_spgirl_4anv_2",
+      "91031",
+      "开拓彼方之剑",
+      "かなたをきりひらくつるぎ",
+      "获得条件：将【星之剑圣】希尔媞的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_spgirl_4anv_2"
+    ]
+  ],
+  "1131182": [
+    [
+      "degree_favor_light_adventurer_4anv_2",
+      "143011",
+      "再次上演的童话",
+      "おとぎば无をもういちど",
+      "获得条件：将【勇气的守护者】莱特的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_light_adventurer_4anv_2"
+    ]
+  ],
+  "1121189": [
+    [
+      "degree_favor_dryad_hw23_2",
+      "443021",
+      "明天玩什么？",
+      "あしたはなにしてあそぶ",
+      "获得条件：将【祝福的精灵】茶露亚的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_dryad_hw23_2"
+    ]
+  ],
+  "1111183": [
+    [
+      "degree_favor_fire_dragon_zenith_2",
+      "1011",
+      "荣耀日珥",
+      "ぷろみねんすぷらうど",
+      "获得条件：将【炎龙王】瓦格纳的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_fire_dragon_zenith_2"
+    ]
+  ],
+  "1141183": [
+    [
+      "degree_favor_combat_animal_meteor23_2",
+      "103021",
+      "光辉格斗术",
+      "きらめきのかくとうじゅつ",
+      "获得条件：将【疾风拳斗士】芙拉菲的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_combat_animal_meteor23_2"
+    ]
+  ],
+  "1131170": [
+    [
+      "degree_favor_starbreak_hunter_meteor23_2",
+      "124011",
+      "我们最强！",
+      "おれたちさいきょう",
+      "获得条件：将【强翼射手】塔吉斯的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_starbreak_hunter_meteor23_2"
+    ]
+  ],
+  "1121177": [
+    [
+      "degree_favor_psycho_reaper_meteor23_2",
+      "239021",
+      "爱的誓言",
+      "あいのちかい",
+      "获得条件：将【可能性的新娘】索维的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psycho_reaper_meteor23_2"
+    ]
+  ],
+  "1121183": [
+    [
+      "degree_favor_guild_front_girl_playable_2",
+      "59001",
+      "迷宫探索者生活安全改善宣传部长",
+      "めいきゅうたんさくしゃせいかつあんぜんかいぜんこうほうぶちょう",
+      "获得条件：将【肩负天棚之人】普·莉莉艾的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_guild_front_girl_playable_2"
+    ]
+  ],
+  "1111177": [
+    [
+      "degree_favor_wirfled_playable_2",
+      "26001",
+      "交错的欢呼声",
+      "みくすとえーるず",
+      "获得条件：将【热情求婚装甲】威尔弗雷德的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wirfled_playable_2"
+    ]
+  ],
+  "1131176": [
+    [
+      "degree_favor_artificialeye_sniper_2",
+      "88001",
+      "Ace of Sniper",
+      "えーすおぶすないぱー",
+      "获得条件：将【代号·死神】夏琳的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_artificialeye_sniper_2"
+    ]
+  ],
+  "1141189": [
+    [
+      "degree_favor_mob_jiguza_playable_2",
+      "117001",
+      "绘尽森罗万象",
+      "しんらばんしょうをかきつくせ",
+      "获得条件：将【横渡异界的画狂】画狂老人Z的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_mob_jiguza_playable_2"
+    ]
+  ],
+  "1121165": [
+    [
+      "degree_favor_amulet_bosslady_2",
+      "58001",
+      "伸向奈落的手指",
+      "ならくへのばすゆびさき",
+      "获得条件：将【九龙黑帮】岚梅的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_amulet_bosslady_2"
+    ]
+  ],
+  "1151171": [
+    [
+      "degree_favor_magatama_spirit_2",
+      "145001",
+      "大家的玉婆婆",
+      "みんなのたまばあちゃん",
+      "获得条件：将【灵玉的宿精】玉子的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_magatama_spirit_2"
+    ]
+  ],
+  "1111171": [
+    [
+      "degree_favor_summoner_little_smr23_2",
+      "163021",
+      "前往虚无的邀请",
+      "きょむへのいざない",
+      "获得条件：将【开启夏日门扉之人】珂艾特的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_summoner_little_smr23_2"
+    ]
+  ],
+  "1121171": [
+    [
+      "degree_favor_psychic_projection_smr23_2",
+      "369011",
+      "龙啊、现身吧",
+      "りゅうよやどれ",
+      "获得条件：将【夏日的龙影】影丘龙一的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_projection_smr23_2"
+    ]
+  ],
+  "1141177": [
+    [
+      "degree_favor_psychic_yamikawa_smr23_2",
+      "171011",
+      "爱&诅咒",
+      "らぶあんどかーす",
+      "获得条件：将【沉重的她】操里缘子的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_yamikawa_smr23_2"
+    ]
+  ],
+  "1131164": [
+    [
+      "degree_favor_lion_boy_smr23_2",
+      "284011",
+      "由我觅见的夏天",
+      "ぼくがみつけたなつ",
+      "获得条件：将【夏日狮子】提欧的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_lion_boy_smr23_2"
+    ]
+  ],
+  "1161195": [
+    [
+      "degree_favor_blindfold_agent_2",
+      "178501",
+      "言语滔滔不绝",
+      "たえまないことのは",
+      "获得条件：将【健谈的前谍报员】查特丽娜的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blindfold_agent_2"
+    ]
+  ],
+  "1121159": [
+    [
+      "degree_favor_vesta_caster_2",
+      "57001",
+      "维斯塔之杖",
+      "べすたのつえ",
+      "获得条件：将【心角冒险者】妮丝艾丝的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_vesta_caster_2"
+    ]
+  ],
+  "1151165": [
+    [
+      "degree_favor_alk_3halfanv_2",
+      "200021",
+      "星辰啊，与我同在",
+      "ほしよともにあれ",
+      "获得条件：将【双星剑】阿尔克的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_alk_3halfanv_2"
+    ]
+  ],
+  "1161177": [
+    [
+      "degree_favor_ruin_girl_3halfanv_2",
+      "121031",
+      "为所有的黎明拉开帷幕",
+      "全部的よあけにはじまりを",
+      "获得条件：将【美少女新生兵器】奈芙提姆的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ruin_girl_3halfanv_2"
+    ]
+  ],
+  "1111165": [
+    [
+      "degree_favor_resistance_princess_3halfanv_2",
+      "332021",
+      "照亮彼方的灯火",
+      "かなたをてらすともしびを",
+      "获得条件：将【炎之守护者】莉莉丝的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_resistance_princess_3halfanv_2"
+    ]
+  ],
+  "1153001": [
+    [
+      "degree_favor_psychic_nao_3halfanv_2",
+      "228011",
+      "星辰啊，抓住未来",
+      "ほしよみらいをつかめ",
+      "获得条件：将【新生冒险者】凪原直的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_nao_3halfanv_2"
+    ]
+  ],
+  "1161189": [
+    [
+      "degree_favor_priest_prince_playable_2",
+      "177001",
+      "噬星之暗",
+      "ほしをくらうやみ",
+      "获得条件：将【遗星之光】玛登的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_priest_prince_playable_2"
+    ]
+  ],
+  "1161183": [
+    [
+      "degree_favor_psychic_teleport_playable_2",
+      "178001",
+      "相互依偎的音色",
+      "よりそうねいろ",
+      "获得条件：将【瞬间移动能力者】澄波响的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_teleport_playable_2"
+    ]
+  ],
+  "1111141": [
+    [
+      "degree_favor_tiger_treasure_hunter_xm22_2",
+      "291021",
+      "虎耳引导者",
+      "とらみみのみちびきて",
+      "获得条件：将【宝藏圣诞老人】米娅的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_tiger_treasure_hunter_xm22_2"
+    ]
+  ],
+  "1151159": [
+    [
+      "degree_favor_golden_dragon_jr_2",
+      "144001",
+      "我乃圣龙王！",
+      "われこそはせいりゅうおう",
+      "获得条件：将【延续爱之龙】拉夫马诺的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_golden_dragon_jr_2"
+    ]
+  ],
+  "1261089": [
+    [
+      "degree_favor_darkness_dragon_2",
+      "370001",
+      "继承的记忆",
+      "けいしょうされたきおく",
+      "获得条件：将【传承心愿的冥龙】阿鲁玛德乌斯的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_darkness_dragon_2"
+    ]
+  ],
+  "1141171": [
+    [
+      "degree_favor_psychic_taichi_2",
+      "116001",
+      "太阳必将升起",
+      "ひはまたのぼる",
+      "获得条件：将【了解后事的男人】夕日野太一的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_taichi_2"
+    ]
+  ],
+  "1131158": [
+    [
+      "degree_favor_psychic_katana_2",
+      "87001",
+      "不屈不挠之剑",
+      "ふとうふくつのつるぎ",
+      "获得条件：将【裁刀能力者】天羽凪莉的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_katana_2"
+    ]
+  ],
+  "1111159": [
+    [
+      "degree_favor_catbaby_psychicer_2",
+      "25001",
+      "包在我身上！",
+      "わたくしにおまかせを",
+      "获得条件：将【纯真可爱的小猫】佩妮萝涅的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_catbaby_psychicer_2"
+    ]
+  ],
+  "1141159": [
+    [
+      "degree_favor_black_wolf_knight_wt23_2",
+      "7011",
+      "踏上自己相信的路",
+      "しんじられるみちを",
+      "获得条件：将【黑狼自由骑士】罗尔夫的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_black_wolf_knight_wt23_2"
+    ]
+  ],
+  "1131146": [
+    [
+      "degree_favor_blade_dancer_wt23_2",
+      "126011",
+      "赫克西斯哲学",
+      "へくしずふぃろそふぃー",
+      "获得条件：将【自命不凡的绅士谈判家】里布拉姆的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blade_dancer_wt23_2"
+    ]
+  ],
+  "1231099": [
+    [
+      "degree_favor_hero_mechanic_2",
+      "282101",
+      "非凡灵感",
+      "ひぼんなるいんすぱいあ",
+      "获得条件：将【英雄机械师】英维特拉的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_hero_mechanic_2"
+    ]
+  ],
+  "1121153": [
+    [
+      "degree_favor_ruin_lady_meteor23_2",
+      "253011",
+      "黎明预兆",
+      "よあけのきざし",
+      "获得条件：将【黄金曙光】索缇艾丝的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ruin_lady_meteor23_2"
+    ]
+  ],
+  "1131152": [
+    [
+      "degree_favor_pbc_ceo_playable_2",
+      "86001",
+      "stay cool",
+      "すていくーる",
+      "获得条件：将【掠夺者之王】约翰逊·王的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_pbc_ceo_playable_2"
+    ]
+  ],
+  "1141165": [
+    [
+      "degree_favor_wind_oracle_meteor23_2",
+      "92021",
+      "风与光之女",
+      "かぜとひかりにあいされたむすめ",
+      "获得条件：将【纺织未来之风】菲莉亚的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_oracle_meteor23_2"
+    ]
+  ],
+  "1141147": [
+    [
+      "degree_favor_heavenly_two_vt23_2",
+      "73011",
+      "休息日的秘密约会",
+      "きゅうじつのおしのびでーと",
+      "获得条件：将【镜头外的平面偶像】布茜的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_heavenly_two_vt23_2"
+    ]
+  ],
+  "1131140": [
+    [
+      "degree_favor_dark_psygirl_vt23_2",
+      "160021",
+      "少女性中二病乡愁",
+      "しょうじょせいちゅうにびょうのすたるじあ",
+      "获得条件：将【反转的纯白少女】蒂妮的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_dark_psygirl_vt23_2"
+    ]
+  ],
+  "1221078": [
+    [
+      "degree_favor_sleep_puppy_vt23_2",
+      "337011",
+      "跟我说说你的爱？",
+      "あなたのこいおしえて",
+      "获得条件：将【恋爱美梦公主】菲妮的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_sleep_puppy_vt23_2"
+    ]
+  ],
+  "1111153": [
+    [
+      "degree_favor_flame_blessgirl_2",
+      "24001",
+      "照亮某人的灯光",
+      "だれかをてらすあかり",
+      "获得条件：将【炎之新人冒险者】露涅塔的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_flame_blessgirl_2"
+    ]
+  ],
+  "1141153": [
+    [
+      "degree_favor_psychic_gal_2",
+      "115001",
+      "八重之缘",
+      "やえのえにし",
+      "获得条件：将【自由能力者】朝户八重的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_gal_2"
+    ]
+  ],
+  "1161171": [
+    [
+      "degree_favor_impostor_priest_2",
+      "176001",
+      "凝视光明的虚洞",
+      "ひかりをみつめるうつろ",
+      "获得条件：将【暗夜中的伪神官】伊奥雷斯的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_impostor_priest_2"
+    ]
+  ],
+  "1141141": [
+    [
+      "degree_favor_heavenly_four_2",
+      "114001",
+      "宇宙友情力量",
+      "こずみっくゆうじょうぱわー",
+      "获得条件：将【独角马戏团的女王】希尔克哈蕾的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_heavenly_four_2"
+    ]
+  ],
+  "1151147": [
+    [
+      "degree_favor_stella_ballot23_2",
+      "349011",
+      "向故事迈出的一步",
+      "ものがたりへのいっぽ",
+      "获得条件：将【星见镇的】史黛拉的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_stella_ballot23_2"
+    ]
+  ],
+  "1111147": [
+    [
+      "degree_favor_still_obstinator_ballot23_2",
+      "138011",
+      "人啊，请幸福",
+      "ひとよどうかしあわせであれ",
+      "获得条件：将【为你祝福】丝缇涅尔的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_still_obstinator_ballot23_2"
+    ]
+  ],
+  "1151153": [
+    [
+      "degree_favor_light_ballot23_2",
+      "143001",
+      "充满觉悟的吉祥物",
+      "かくごのますこっと",
+      "获得条件：将【最后的勇者】莱特的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_light_ballot23_2"
+    ]
+  ],
   "1121008": [
     [
       "degree_favor_prince_zero_smr20_2",
@@ -7433,6 +8317,526 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
+    ]
+  ],
+  "1131122": [
+    [
+      "degree_favor_palpebra_knight_lady_hw22_2",
+      "325011",
+      "决意游行",
+      "けついのこうしん",
+      "获得条件：将【漆黑礼裙的骑士】绮拉的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_palpebra_knight_lady_hw22_2"
+    ]
+  ],
+  "1121147": [
+    [
+      "degree_favor_psychic_yuki_ny23_2",
+      "47011",
+      "我们的世界",
+      "わたしたちのせかい",
+      "获得条件：将【春想花】见岛勇希的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_yuki_ny23_2"
+    ]
+  ],
+  "1131128": [
+    [
+      "degree_favor_general_toyakiren_ny23_2",
+      "75011",
+      "新年小队",
+      "にゅーいやーちーむ",
+      "获得条件：将【新春的朝气铁腕科长】兹茵可的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_general_toyakiren_ny23_2"
+    ]
+  ],
+  "1161135": [
+    [
+      "degree_favor_wind_spgirl_hw22_2",
+      "91021",
+      "剑风，蕴藏于心",
+      "けんぷうこころにひめて",
+      "获得条件：将【恋爱的吸血剑鬼】希尔媞的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_spgirl_hw22_2"
+    ]
+  ],
+  "1151129": [
+    [
+      "degree_favor_swallow_knight_3anv_2",
+      "231021",
+      "飞燕，再临",
+      "ひえんふたたび",
+      "获得条件：将【飞燕自由骑士团团长】尤维尔的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_swallow_knight_3anv_2"
+    ]
+  ],
+  "1161153": [
+    [
+      "degree_favor_veteran_hunter_3anv_2",
+      "152011",
+      "遗留的工作",
+      "のこされたしごと",
+      "获得条件：将【夺还的战士】威隆的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_veteran_hunter_3anv_2"
+    ]
+  ],
+  "1121141": [
+    [
+      "degree_favor_wind_spbro_3anv_2",
+      "56001",
+      "剑指光芒之巅",
+      "けんはひかりのいただきへ",
+      "获得条件：将【莎蒂雅之主】夏尔的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_spbro_3anv_2"
+    ]
+  ],
+  "1161159": [
+    [
+      "degree_favor_rector_sorcerer_playable_2",
+      "174001",
+      "于真实之空中刻下虚无",
+      "しんなるくうにこをきざめ",
+      "获得条件：将【虚影的编织者】尼尔娅娜的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_rector_sorcerer_playable_2"
+    ]
+  ],
+  "1253019": [
+    [
+      "degree_favor_reformist_prince_2",
+      "350001",
+      "于光芒下集结",
+      "つどえひかりのもとへ",
+      "获得条件：将【唯一的王道】瓦雷因的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_reformist_prince_2"
+    ]
+  ],
+  "1151141": [
+    [
+      "degree_favor_compliment_oiran_xm22_2",
+      "6011",
+      "永不消散的白云",
+      "しらくもはたちきえず",
+      "获得条件：将【圣夜祭花魁】菊野的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_compliment_oiran_xm22_2"
+    ]
+  ],
+  "1261083": [
+    [
+      "degree_favor_herbalist_xm22_2",
+      "448011",
+      "为了健康的圣夜",
+      "すこやかなるせいやのために",
+      "获得条件：将【圣诞护士药草师】荷莉的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_herbalist_xm22_2"
+    ]
+  ],
+  "1131104": [
+    [
+      "degree_favor_combat_soldier_smr22_2",
+      "125011",
+      "Sky for You",
+      "すかいふぉーゆー",
+      "获得条件：将【贯穿夏空的子弹】贝瑞塔的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_combat_soldier_smr22_2"
+    ]
+  ],
+  "1121129": [
+    [
+      "degree_favor_luca_playable_2",
+      "54001",
+      "追逐憧憬",
+      "どうけいをおって",
+      "获得条件：将【困惑的超能力者】卢卡的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_luca_playable_2"
+    ]
+  ],
+  "1111129": [
+    [
+      "degree_favor_lion_swordman_playable_2",
+      "22001",
+      "再起的火焰",
+      "さいきのほむらび",
+      "获得条件：将【愁闷的狮子】玛格诺斯的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_lion_swordman_playable_2"
+    ]
+  ],
+  "1141135": [
+    [
+      "degree_favor_asymmetry_birdgirl_2",
+      "113001",
+      "带来幸福的风",
+      "しあわせをはこぶかぜ",
+      "获得条件：将【鸟族的巫女公主】泽菲尔的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_asymmetry_birdgirl_2"
+    ]
+  ],
+  "1161147": [
+    [
+      "degree_favor_horn_mypace_2",
+      "173001",
+      "维斯塔的慈爱",
+      "べすたのじあい",
+      "获得条件：将【心角治愈者】埃尔摩尔的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_horn_mypace_2"
+    ]
+  ],
+  "1241069": [
+    [
+      "degree_favor_kung_fu_girl_2",
+      "308001",
+      "诛脚的使命",
+      "ちゅうきゃくのしめい",
+      "获得条件：将【追逐仇敌的拳士】芙兰的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_kung_fu_girl_2"
+    ]
+  ],
+  "1131134": [
+    [
+      "degree_favor_octcyborg_lady_2",
+      "85001",
+      "嗜欲的机体设计师",
+      "しよくのぼでぃでざいなー",
+      "获得条件：将【打破牢笼之人】卡西瓦尔斯的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_octcyborg_lady_2"
+    ]
+  ],
+  "1161165": [
+    [
+      "degree_favor_evilloli_master_2",
+      "175001",
+      "非人的指导",
+      "ひとで无のみちびき",
+      "获得条件：将【混沌之师】塔娜奇埃拉的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_evilloli_master_2"
+    ]
+  ],
+  "1211062": [
+    [
+      "degree_favor_jiangshi_girl_2",
+      "220001",
+      "鬼怪根本不可怕！",
+      "おばけなんてこわくないっ",
+      "获得条件：将【胆小的驱鬼人】陈诗的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_jiangshi_girl_2"
+    ]
+  ],
+  "1261077": [
+    [
+      "degree_favor_psychic_tomboygirl_hw22_2",
+      "218011",
+      "ひーちゃんのおすすめQuest",
+      "ひーちゃんのおすすめくえすと",
+      "获得条件：【ギルド職員見習い】绯河凛音将【YY】XX的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_tomboygirl_hw22_2"
+    ]
+  ],
+  "1161123": [
+    [
+      "degree_favor_blackflower_wiz_smr22_2",
+      "167011",
+      "萌芽的夏空之花",
+      "めぶくなつぞらのはな",
+      "获得条件：将【怒放的夏日魔女】普莉姆拉的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blackflower_wiz_smr22_2"
+    ]
+  ],
+  "1233013": [
+    [
+      "degree_favor_rural_ladyship_2",
+      "285001",
+      "夏日摄影",
+      "さまーふぉとぐらふ",
+      "获得条件：将【夏日的灿烂微笑】艾可的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_rural_ladyship_2"
+    ]
+  ],
+  "1151123": [
+    [
+      "degree_favor_holysword_girl_2",
+      "142001",
+      "拟真勇气",
+      "いみてーしょんぶれいばー",
+      "获得条件：将【圣导剑士】伊莉诺雅的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_holysword_girl_2"
+    ]
+  ],
+  "1131116": [
+    [
+      "degree_favor_little_vampire_2",
+      "84001",
+      "深渊之夜的支配者？",
+      "しんえんなるよるのしはいしゃ",
+      "获得条件：将【孤夜吸血鬼】露米拉卡的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_little_vampire_2"
+    ]
+  ],
+  "1231093": [
+    [
+      "degree_favor_marching_rival_2",
+      "282001",
+      "至高者的资质",
+      "うえにたつもののししつ",
+      "获得条件：将【百折不挠的大小姐】埃尔梅丽莎的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_marching_rival_2"
+    ]
+  ],
+  "1111135": [
+    [
+      "degree_favor_golemclub_captain_2",
+      "23001",
+      "相信会有伙伴跟随",
+      "つづくなかまをしんじて",
+      "获得条件：将【魔像部部长】黛妲莉亚的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_golemclub_captain_2"
+    ]
+  ],
+  "1141123": [
+    [
+      "degree_favor_ghost_nymph_2",
+      "111001",
+      "微笑的镜像",
+      "ほほえみのきょうぞう",
+      "获得条件：将【灵镜的宿精】真乃香的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ghost_nymph_2"
+    ]
+  ],
+  "1121135": [
+    [
+      "degree_favor_pirates_of_fear_2",
+      "55001",
+      "老海盗的癫狂",
+      "ふるかいぞくのきょうき",
+      "获得条件：将【暴鲸海盗船长】泽利米尔的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_pirates_of_fear_2"
+    ]
+  ],
+  "1111123": [
+    [
+      "degree_favor_monster_cook_smr22_2",
+      "348011",
+      "围裙之上的骄傲",
+      "えぷろんのきょうじ",
+      "获得条件：将【夏日海魔料理人】帕尔菲的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_monster_cook_smr22_2"
+    ]
+  ],
+  "1151117": [
+    [
+      "degree_favor_samurai_robot_smr22_2",
+      "76011",
+      "盛夏武士道、碧海忍道",
+      "まなつのぶしどうせいかいのしのびどう",
+      "获得条件：将【海边的忍者武士】斩铁的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_samurai_robot_smr22_2"
+    ]
+  ],
+  "1251077": [
+    [
+      "degree_favor_twin_blader_smr22_2",
+      "429011",
+      "请问您要点什么？",
+      "ごちゅうもんはなんですか",
+      "获得条件：将【海岸边的看板娘】优娜的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_twin_blader_smr22_2"
+    ]
+  ],
+  "1141111": [
+    [
+      "degree_favor_silence_suzuka_2",
+      "110001",
+      "寂静无暇",
+      "さいれんといのせんす",
+      "获得条件：将【寂静的疾走者】无声铃鹿的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_silence_suzuka_2"
+    ]
+  ],
+  "1151105": [
+    [
+      "degree_favor_special_week_2",
+      "140001",
+      "特别梦想家",
+      "すぺしゃるどりーまー",
+      "获得条件：将【奔跑的纯真北海道少女】特别周的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_special_week_2"
+    ]
+  ],
+  "1113001": [
+    [
+      "degree_favor_gold_ship_2",
+      "30001",
+      "赤红纷争",
+      "れっどすとらいふ",
+      "获得条件：将【奔放黄金破天荒少女】黄金船的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_gold_ship_2"
+    ]
+  ],
+  "1131110": [
+    [
+      "degree_favor_nihilist_mechgirl_2",
+      "83001",
+      "前进的勇气",
+      "ふみだすゆうき",
+      "获得条件：将【偶像★英雄】拉普缇娜的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_nihilist_mechgirl_2"
+    ]
+  ],
+  "1221072": [
+    [
+      "degree_favor_sand_bandit_2",
+      "245001",
+      "沉入沙尘的夕阳",
+      "さじんにしずむゆうひ",
+      "获得条件：将【狩猎盗贼的盗贼】法拉的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_sand_bandit_2"
+    ]
+  ],
+  "1161129": [
+    [
+      "degree_favor_psychic_yamikawa_2",
+      "171001",
+      "纯洁端庄而疯狂",
+      "きよくただしくくるおしく",
+      "获得条件：将【思念体能力者】操里缘子的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_yamikawa_2"
+    ]
+  ],
+  "1241063": [
+    [
+      "degree_favor_ekaki_girl_2",
+      "307001",
+      "我是画师！",
+      "わたしはえかき",
+      "获得条件：将【新人阴阳绘师】凉月的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ekaki_girl_2"
+    ]
+  ],
+  "1221066": [
+    [
+      "degree_favor_nurse_pirate_smr22_2",
+      "219011",
+      "夏日微笑友人",
+      "さまーすまいるふれんず",
+      "获得条件：将【仲夏的满面笑容】皮西卡的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_nurse_pirate_smr22_2"
     ]
   ],
   "1223001": [
@@ -7752,7 +9156,7 @@
       "degree_favor_unleash_hunter_2",
       "327001",
       "生意人的嗅觉",
-      "もうけばなしのきゅうかく",
+      "もうけば无のきゅうかく",
       "获得条件：将【陷阱射手】霍普的第二枚玛纳板全部强化完成",
       "2",
       "dynamic/degree/background",
@@ -8265,6 +9669,149 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_favor_delusion_girl_2"
+    ]
+  ],
+  "1253007": [
+    [
+      "degree_favor_psycho_reaper_smr21_2",
+      "239011",
+      "秘药研究者（毛）",
+      "ひやくのけんきゅうしゃけ",
+      "获得条件：将【夏日精灵炼金药师】索维的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psycho_reaper_smr21_2"
+    ]
+  ],
+  "1141117": [
+    [
+      "degree_favor_psychic_shouta_smr22_2",
+      "168011",
+      "夏日出道战",
+      "さまーでびゅー",
+      "获得条件：将【他们的英雄】伊野里翔太的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_shouta_smr22_2"
+    ]
+  ],
+  "1161105": [
+    [
+      "degree_favor_estateguild_leader_2",
+      "169001",
+      "侧耳倾听",
+      "こえをきいて",
+      "获得条件：将【遗物回收公会会长】希尔狄嘉德的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_estateguild_leader_2"
+    ]
+  ],
+  "1111105": [
+    [
+      "degree_favor_anger_investigator_2",
+      "20001",
+      "可怕……真是可怕啊！",
+      "こわいこわいですねぇ",
+      "获得条件：将【血霞凶狼】威弗的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_anger_investigator_2"
+    ]
+  ],
+  "1231081": [
+    [
+      "degree_favor_scissor_ratgirl_2",
+      "280001",
+      "翻涌的设计师基因",
+      "たぎるでざいなーのいでんし",
+      "获得条件：将【成长中的时髦女郎】琳卡莉娜的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_scissor_ratgirl_2"
+    ]
+  ],
+  "1151099": [
+    [
+      "degree_favor_airship_captain_2",
+      "139001",
+      "我的最棒准则",
+      "おーさむまいこーど",
+      "获得条件：将【最棒瞬间的更新者】奎茵薇德的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_airship_captain_2"
+    ]
+  ],
+  "1161111": [
+    [
+      "degree_favor_mirror_witch_2",
+      "170001",
+      "于镜之中",
+      "いんざみらー",
+      "获得条件：将【镜中魔女】路易莉兹的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_mirror_witch_2"
+    ]
+  ],
+  "1231087": [
+    [
+      "degree_favor_long_hair_swordsman_2",
+      "281001",
+      "善意模仿",
+      "かいんどいみてーと",
+      "获得条件：将【温柔的美青年】奥涅斯特的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_long_hair_swordsman_2"
+    ]
+  ],
+  "1131098": [
+    [
+      "degree_favor_spider_ninja_2",
+      "82001",
+      "天网之丝",
+      "てんもうのいと",
+      "获得条件：将【紫电月蜘蛛】茧月的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_spider_ninja_2"
+    ]
+  ],
+  "1141105": [
+    [
+      "degree_favor_waste_armor_2",
+      "109001",
+      "米雷亚最强骑士",
+      "みれいあさいきょうのきし",
+      "获得条件：将【自由骑士少女】艾尔玛露的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_waste_armor_2"
+    ]
+  ],
+  "1221060": [
+    [
+      "degree_favor_innocent_glaiver_2",
+      "244001",
+      "无敌海洋能量",
+      "むてきのまりんぱわー",
+      "获得条件：将【海中的兔子公主】珐洛洛的第二枚玛纳板全部强化完成",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_innocent_glaiver_2"
     ]
   ],
   "1111069": [
@@ -10976,7 +12523,7 @@
       "degree_favor_nurse_2",
       "418001",
       "可疑的诊察",
-      "あやしげなしんさつ",
+      "あやしげ无んさつ",
       "获得条件：将【白衣的蛮横者】艾尔莎的第二层玛纳板全部强化完成",
       "2",
       "dynamic/degree/background",
@@ -11231,6 +12778,45 @@
       "dynamic/degree/degree_favor_hero_girl"
     ]
   ],
+  "61260": [
+    [
+      "degree_haniwa_carnival_11_clear_fire_1",
+      "521700",
+      "閃火土俑を必杀せし者",
+      "せんかはにんをひっさつせしもの",
+      "获得条件：单人战斗で閃火必杀土俑ガー超级を讨伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_haniwa_carnival_11_clear_fire_1"
+    ]
+  ],
+  "61270": [
+    [
+      "degree_haniwa_carnival_11_clear_fire_2",
+      "521710",
+      "閃火土俑を強振せし者",
+      "せんかはにんをきょうしんせしもの",
+      "获得条件：单人战斗で閃火強振土俑ガー超级を讨伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_haniwa_carnival_11_clear_fire_2"
+    ]
+  ],
+  "61280": [
+    [
+      "degree_haniwa_carnival_11_clear_fire_3",
+      "521720",
+      "閃火土俑を直撃せし者",
+      "せんかはにんをちょくげきせしもの",
+      "获得条件：单人战斗で閃火直撃土俑ガー超级を讨伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_haniwa_carnival_11_clear_fire_3"
+    ]
+  ],
   "61230": [
     [
       "degree_favor_haniwa_carnival_07_clear_wind_1",
@@ -11241,7 +12827,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_07_clear_wind_1"
+      "dynamic/degree/degree_haniwa_carnival_07_clear_wind_1"
     ]
   ],
   "61240": [
@@ -11254,7 +12840,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_07_clear_wind_2"
+      "dynamic/degree/degree_haniwa_carnival_07_clear_wind_2"
     ]
   ],
   "61250": [
@@ -11267,7 +12853,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_07_clear_wind_3"
+      "dynamic/degree/degree_haniwa_carnival_07_clear_wind_3"
     ]
   ],
   "61200": [
@@ -11280,7 +12866,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_06_clear_thunder_1"
+      "dynamic/degree/degree_haniwa_carnival_06_clear_thunder_1"
     ]
   ],
   "61210": [
@@ -11293,7 +12879,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_06_clear_thunder_2"
+      "dynamic/degree/degree_haniwa_carnival_06_clear_thunder_2"
     ]
   ],
   "61220": [
@@ -11306,7 +12892,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_06_clear_thunder_3"
+      "dynamic/degree/degree_haniwa_carnival_06_clear_thunder_3"
     ]
   ],
   "61170": [
@@ -11319,7 +12905,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_05_clear_black_1"
+      "dynamic/degree/degree_haniwa_carnival_05_clear_black_1"
     ]
   ],
   "61180": [
@@ -11332,7 +12918,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_05_clear_black_2"
+      "dynamic/degree/degree_haniwa_carnival_05_clear_black_2"
     ]
   ],
   "61190": [
@@ -11345,7 +12931,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_05_clear_black_3"
+      "dynamic/degree/degree_haniwa_carnival_05_clear_black_3"
     ]
   ],
   "61140": [
@@ -11358,7 +12944,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_04_clear_water_1"
+      "dynamic/degree/degree_haniwa_carnival_04_clear_water_1"
     ]
   ],
   "61150": [
@@ -11371,7 +12957,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_04_clear_water_2"
+      "dynamic/degree/degree_haniwa_carnival_04_clear_water_2"
     ]
   ],
   "61160": [
@@ -11384,7 +12970,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_04_clear_water_3"
+      "dynamic/degree/degree_haniwa_carnival_04_clear_water_3"
     ]
   ],
   "61110": [
@@ -11397,7 +12983,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_03_clear_light_1"
+      "dynamic/degree/degree_haniwa_carnival_03_clear_light_1"
     ]
   ],
   "61120": [
@@ -11410,7 +12996,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_03_clear_light_2"
+      "dynamic/degree/degree_haniwa_carnival_03_clear_light_2"
     ]
   ],
   "61130": [
@@ -11423,7 +13009,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_03_clear_light_3"
+      "dynamic/degree/degree_haniwa_carnival_03_clear_light_3"
     ]
   ],
   "61080": [
@@ -11436,7 +13022,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_thunder_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_thunder_1"
     ]
   ],
   "61090": [
@@ -11449,7 +13035,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_light_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_light_1"
     ]
   ],
   "61100": [
@@ -11462,7 +13048,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_dark_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_dark_1"
     ]
   ],
   "61000": [
@@ -11475,7 +13061,7 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_rank_b_1"
+      "dynamic/degree/degree_haniwa_carnival_01_rank_b_1"
     ]
   ],
   "61010": [
@@ -11488,7 +13074,7 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_rank_a_1"
+      "dynamic/degree/degree_haniwa_carnival_01_rank_a_1"
     ]
   ],
   "61020": [
@@ -11501,7 +13087,7 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_rank_s_1"
+      "dynamic/degree/degree_haniwa_carnival_01_rank_s_1"
     ]
   ],
   "61030": [
@@ -11514,7 +13100,7 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_rank_ss_1"
+      "dynamic/degree/degree_haniwa_carnival_01_rank_ss_1"
     ]
   ],
   "61040": [
@@ -11527,7 +13113,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_fire_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_fire_1"
     ]
   ],
   "61050": [
@@ -11540,7 +13126,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_water_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_water_1"
     ]
   ],
   "61060": [
@@ -11553,7 +13139,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_wind_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_wind_1"
     ]
   ],
   "61070": [
@@ -11566,7 +13152,7 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_all_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_all_1"
     ]
   ],
   "11110": [
@@ -11580,6 +13166,604 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
+    ]
+  ],
+  "111183": [
+    [
+      "degree_favor_fire_dragon_zenith",
+      "1010",
+      "炎龙王",
+      "えんりゅうおう",
+      "获得条件：将【炎龙王】瓦格纳升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_fire_dragon_zenith"
+    ]
+  ],
+  "121189": [
+    [
+      "degree_favor_dryad_hw23",
+      "443020",
+      "祝福的精灵",
+      "しゅくふくのせいれい",
+      "获得条件：将【祝福的精灵】茶露亚升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_dryad_hw23"
+    ]
+  ],
+  "141189": [
+    [
+      "degree_favor_mob_jiguza_playable",
+      "117000",
+      "横渡异界的画狂",
+      "いかいわたりのがきょう",
+      "获得条件：将【横渡异界的画狂】画狂老人Z升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_mob_jiguza_playable"
+    ]
+  ],
+  "111177": [
+    [
+      "degree_favor_wirfled_playable",
+      "26000",
+      "热情求婚装甲",
+      "ねつじょうぷろぽーずすーつ",
+      "获得条件：将【热情求婚装甲】威尔弗雷德升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wirfled_playable"
+    ]
+  ],
+  "131176": [
+    [
+      "degree_favor_artificialeye_sniper",
+      "88000",
+      "代号·死神",
+      "こーどねーむしにがみ",
+      "获得条件：将【代号·死神】夏琳升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_artificialeye_sniper"
+    ]
+  ],
+  "121183": [
+    [
+      "degree_favor_guild_front_girl_playable",
+      "59000",
+      "肩负天棚之人",
+      "てんがいのにないて",
+      "获得条件：将【肩负天棚之人】普·莉莉艾升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_guild_front_girl_playable"
+    ]
+  ],
+  "141183": [
+    [
+      "degree_favor_combat_animal_meteor23",
+      "103020",
+      "疾风拳斗士",
+      "しっぷうのけんとうし",
+      "获得条件：将【疾风拳斗士】芙拉菲升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_combat_animal_meteor23"
+    ]
+  ],
+  "131170": [
+    [
+      "degree_favor_starbreak_hunter_meteor23",
+      "124010",
+      "强翼射手",
+      "ごうよくのしゅーたー",
+      "获得条件：将【强翼射手】塔吉斯升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_starbreak_hunter_meteor23"
+    ]
+  ],
+  "121177": [
+    [
+      "degree_favor_psycho_reaper_meteor23",
+      "239020",
+      "可能性的新娘",
+      "かのうせいのはなよめ",
+      "获得条件：将【可能性的新娘】索维升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psycho_reaper_meteor23"
+    ]
+  ],
+  "161195": [
+    [
+      "degree_favor_blindfold_agent",
+      "178500",
+      "健谈的前谍报员",
+      "じょうぜつなもとちょうほういん",
+      "获得条件：将【健谈的前谍报员】查特丽娜升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blindfold_agent"
+    ]
+  ],
+  "141177": [
+    [
+      "degree_favor_psychic_yamikawa_smr23",
+      "171010",
+      "沉重的她",
+      "ぐらびてぃなかのじょ",
+      "获得条件：将【沉重的她】操里缘子升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_yamikawa_smr23"
+    ]
+  ],
+  "131164": [
+    [
+      "degree_favor_lion_boy_smr23",
+      "284010",
+      "夏日狮子",
+      "ねいきっどらいおん",
+      "获得条件：将【夏日狮子】提欧升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_lion_boy_smr23"
+    ]
+  ],
+  "111171": [
+    [
+      "degree_favor_summoner_little_smr23",
+      "163020",
+      "开启夏日门扉之人",
+      "なつのとびらをひらくもの",
+      "获得条件：将【开启夏日门扉之人】珂艾特升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_summoner_little_smr23"
+    ]
+  ],
+  "121171": [
+    [
+      "degree_favor_psychic_projection_smr23",
+      "369010",
+      "夏日的龙影",
+      "なつびのりゅうえい",
+      "获得条件：将【夏日的龙影】影丘龙一升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_projection_smr23"
+    ]
+  ],
+  "121165": [
+    [
+      "degree_favor_amulet_bosslady",
+      "58000",
+      "九龙黑帮",
+      "くーろんのぎゃんぐすたー",
+      "获得条件：将【九龙黑帮】岚梅升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_amulet_bosslady"
+    ]
+  ],
+  "151171": [
+    [
+      "degree_favor_magatama_spirit",
+      "145000",
+      "灵玉的宿精",
+      "れいぎょくのしゅくせい",
+      "获得条件：将【灵玉的宿精】玉子升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_magatama_spirit"
+    ]
+  ],
+  "161189": [
+    [
+      "degree_favor_priest_prince_playable",
+      "177000",
+      "遗星之光",
+      "ほしをなくしたひかり",
+      "获得条件：将【遗星之光】玛登升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_priest_prince_playable"
+    ]
+  ],
+  "161183": [
+    [
+      "degree_favor_psychic_teleport_playable",
+      "178000",
+      "瞬间移动能力者",
+      "しゅんかんいどうののうりょくしゃ",
+      "获得条件：将【瞬间移动能力者】澄波响升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_teleport_playable"
+    ]
+  ],
+  "151165": [
+    [
+      "degree_favor_alk_3halfanv",
+      "200020",
+      "双星剑",
+      "そうせいのつるぎ",
+      "获得条件：将【双星剑】阿尔克升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_alk_3halfanv"
+    ]
+  ],
+  "161177": [
+    [
+      "degree_favor_ruin_girl_3halfanv",
+      "121030",
+      "美少女新生兵器",
+      "びしょうじょしんにゅうせいへいき",
+      "获得条件：将【美少女新生兵器】奈芙提姆升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ruin_girl_3halfanv"
+    ]
+  ],
+  "111165": [
+    [
+      "degree_favor_resistance_princess_3halfanv",
+      "332020",
+      "炎之守护者",
+      "ほのおのしゅごしゃ",
+      "获得条件：将【炎之守护者】莉莉丝升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_resistance_princess_3halfanv"
+    ]
+  ],
+  "153001": [
+    [
+      "degree_favor_psychic_nao_3halfanv",
+      "228010",
+      "新生冒险者",
+      "あらたなるぼうけんしゃ",
+      "获得条件：将【新生冒险者】凪原直升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_nao_3halfanv"
+    ]
+  ],
+  "121159": [
+    [
+      "degree_favor_vesta_caster",
+      "57000",
+      "心角冒险者",
+      "しんかくのぼうけんしゃ",
+      "获得条件：将【心角冒险者】妮丝艾丝升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_vesta_caster"
+    ]
+  ],
+  "141171": [
+    [
+      "degree_favor_psychic_taichi",
+      "116000",
+      "了解后事的男人",
+      "そのごをしるおとこ",
+      "获得条件：将【了解后事的男人】夕日野太一升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_taichi"
+    ]
+  ],
+  "131158": [
+    [
+      "degree_favor_psychic_katana",
+      "87000",
+      "裁刀能力者",
+      "さいとうののうりょくしゃ",
+      "获得条件：将【裁刀能力者】天羽凪莉升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_katana"
+    ]
+  ],
+  "111159": [
+    [
+      "degree_favor_catbaby_psychicer",
+      "25000",
+      "纯真可爱的小猫",
+      "じゅんじょうかれんなきとぅん",
+      "获得条件：将【纯真可爱的小猫】佩妮萝涅升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_catbaby_psychicer"
+    ]
+  ],
+  "151159": [
+    [
+      "degree_favor_golden_dragon_jr",
+      "144000",
+      "延续爱之龙",
+      "あいをつぐりゅう",
+      "获得条件：将【延续爱之龙】拉夫马诺升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_golden_dragon_jr"
+    ]
+  ],
+  "261089": [
+    [
+      "degree_favor_darkness_dragon",
+      "370000",
+      "传承心愿的冥龙",
+      "おもいつなぐめいりゅう",
+      "获得条件：将【传承心愿的冥龙】阿鲁玛德乌斯升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_darkness_dragon"
+    ]
+  ],
+  "121153": [
+    [
+      "degree_favor_ruin_lady_meteor23",
+      "253010",
+      "黄金曙光",
+      "おうごんのしょこう",
+      "获得条件：将【黄金曙光】索缇艾丝升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ruin_lady_meteor23"
+    ]
+  ],
+  "131152": [
+    [
+      "degree_favor_pbc_ceo_playable",
+      "86000",
+      "掠夺者之王",
+      "きんぐぷれでたー",
+      "获得条件：将【掠夺者之王】约翰逊·王升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_pbc_ceo_playable"
+    ]
+  ],
+  "141165": [
+    [
+      "degree_favor_wind_oracle_meteor23",
+      "92020",
+      "纺织未来之风",
+      "つむがれたみらいのかぜ",
+      "获得条件：将【纺织未来之风】菲莉亚升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_oracle_meteor23"
+    ]
+  ],
+  "141159": [
+    [
+      "degree_favor_black_wolf_knight_wt23",
+      "7010",
+      "黑狼自由骑士",
+      "こくろうのじゆうきし",
+      "获得条件：将【黑狼自由骑士】罗尔夫升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_black_wolf_knight_wt23"
+    ]
+  ],
+  "131146": [
+    [
+      "degree_favor_blade_dancer_wt23",
+      "126010",
+      "自命不凡的绅士谈判家",
+      "そんだいしんしなこうしょうしゃ",
+      "获得条件：将【自命不凡的绅士谈判家】里布拉姆升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blade_dancer_wt23"
+    ]
+  ],
+  "231099": [
+    [
+      "degree_favor_hero_mechanic",
+      "282100",
+      "英雄机械师",
+      "ひーろーめかにっく",
+      "获得条件：将【英雄机械师】英维特拉升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_hero_mechanic"
+    ]
+  ],
+  "111153": [
+    [
+      "degree_favor_flame_blessgirl",
+      "24000",
+      "炎之新人冒险者",
+      "ほのおしんまいぼうけんしゃ",
+      "获得条件：将【炎之新人冒险者】露涅塔升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_flame_blessgirl"
+    ]
+  ],
+  "141153": [
+    [
+      "degree_favor_psychic_gal",
+      "115000",
+      "自由能力者",
+      "じゆうののうりょくしゃ",
+      "获得条件：将【自由能力者】朝户八重升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_gal"
+    ]
+  ],
+  "161171": [
+    [
+      "degree_favor_impostor_priest",
+      "176000",
+      "暗夜中的伪神官",
+      "やみよのえせしんかん",
+      "获得条件：将【暗夜中的伪神官】伊奥雷斯升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_impostor_priest"
+    ]
+  ],
+  "141147": [
+    [
+      "degree_favor_heavenly_two_vt23",
+      "73010",
+      "镜头外的平面偶像",
+      "おふしょっとぐらびあ",
+      "获得条件：将【镜头外的平面偶像】布茜升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_heavenly_two_vt23"
+    ]
+  ],
+  "131140": [
+    [
+      "degree_favor_dark_psygirl_vt23",
+      "160020",
+      "反转的纯白少女",
+      "はんてんせししろのしょじょ",
+      "获得条件：将【反转的纯白少女】蒂妮升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_dark_psygirl_vt23"
+    ]
+  ],
+  "221078": [
+    [
+      "degree_favor_sleep_puppy_vt23",
+      "337010",
+      "恋爱美梦公主",
+      "こいのゆめみせひめ",
+      "获得条件：将【恋爱美梦公主】菲妮升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_sleep_puppy_vt23"
+    ]
+  ],
+  "151147": [
+    [
+      "degree_favor_stella_ballot23",
+      "349010",
+      "星见镇的",
+      "ほしみのまちの",
+      "获得条件：将【星见镇的】史黛拉升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_stella_ballot23"
+    ]
+  ],
+  "111147": [
+    [
+      "degree_favor_still_obstinator_ballot23",
+      "138010",
+      "为你祝福",
+      "あいぶれすゆー",
+      "获得条件：将【为你祝福】丝缇涅尔升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_still_obstinator_ballot23"
+    ]
+  ],
+  "151153": [
+    [
+      "degree_favor_light_ballot23",
+      "143000",
+      "最后的勇者",
+      "さいごのゆうしゃ",
+      "获得条件：将【最后的勇者】莱特升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_light_ballot23"
+    ]
+  ],
+  "131134": [
+    [
+      "degree_favor_octcyborg_lady",
+      "85000",
+      "打破牢笼之人",
+      "おりをときはなつもの",
+      "获得条件：将【打破牢笼之人】卡西瓦尔斯升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_octcyborg_lady"
+    ]
+  ],
+  "161165": [
+    [
+      "degree_favor_evilloli_master",
+      "175000",
+      "混沌之师",
+      "こんとんのし",
+      "获得条件：将【混沌之师】塔娜奇埃拉升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_evilloli_master"
+    ]
+  ],
+  "211062": [
+    [
+      "degree_favor_jiangshi_girl",
+      "220000",
+      "胆小的驱鬼人",
+      "おくびょうなゆうきたいじや",
+      "获得条件：将【胆小的驱鬼人】陈诗升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_jiangshi_girl"
     ]
   ],
   "141141": [
@@ -13706,7 +15890,7 @@
       "degree_favor_waterdragon_kunfu",
       "43000",
       "无情武神",
-      "ひとでなしのぶしん",
+      "ひとで无のぶしん",
       "获得条件：将【无情武神】谢胧升级到Lv100并获得信赖之证",
       "2",
       "dynamic/degree/background",
@@ -14338,6 +16522,58 @@
       "dynamic/degree/degree_favor_vigilante_boy"
     ]
   ],
+  "151182": [
+    [
+      "degree_favor_nova_4anv",
+      "146000",
+      "踏上同样旅途之人",
+      "おなじたびじをゆくもの",
+      "获得条件：将【踏上同样旅途之人】诺瓦升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_nova_4anv"
+    ]
+  ],
+  "161201": [
+    [
+      "degree_favor_stella_copy_4anv",
+      "179000",
+      "拥抱梦想的旅人",
+      "ゆめいだくたびびと",
+      "获得条件：将【拥抱梦想的旅人】蕾薇升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_stella_copy_4anv"
+    ]
+  ],
+  "141201": [
+    [
+      "degree_favor_wind_spgirl_4anv",
+      "91030",
+      "星之剑圣",
+      "ほしのけんせい",
+      "获得条件：将【星之剑圣】希尔媞升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_spgirl_4anv"
+    ]
+  ],
+  "131182": [
+    [
+      "degree_favor_light_adventurer_4anv",
+      "143010",
+      "勇气的守护者",
+      "ゆうきのしゅごしゃ",
+      "获得条件：将【勇气的守护者】莱特升级到Lv100并获得信赖之证",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_light_adventurer_4anv"
+    ]
+  ],
   "11120": [
     [
       "degree_boss_battle_ex_clear_single_14",
@@ -14478,7 +16714,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_cyberpunk02_hero_2_2"
+      "dynamic/degree/degree_cyberpunk02_hero_2_2"
     ]
   ],
   "60500": [
@@ -14491,7 +16727,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_cyberpunk02_hero_1_1"
+      "dynamic/degree/degree_cyberpunk02_hero_1_1"
     ]
   ],
   "60700": [
@@ -14505,6 +16741,45 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_crown_beasts_challenge_clear_1_1"
+    ]
+  ],
+  "64012": [
+    [
+      "degree_combat_diver_05_01",
+      "550012",
+      "E-Ｒｅｖ．１",
+      "でぃーりびじょんわん",
+      "获得条件：在狂热激战的无尽战斗中通关2~3回战",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_combat_diver_05_01"
+    ]
+  ],
+  "64013": [
+    [
+      "degree_combat_diver_05_02",
+      "550013",
+      "E-Ｒｅｖ．２",
+      "でぃーりびじょんつー",
+      "获得条件：在狂热激战的无尽战斗中通关4~5回战",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_combat_diver_05_02"
+    ]
+  ],
+  "64014": [
+    [
+      "degree_combat_diver_05_03",
+      "550014",
+      "E-Ｒｅｖ．３",
+      "でぃーりびじょんすりー",
+      "获得条件：在狂热激战的无尽战斗中通关6回战及以上",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_combat_diver_05_03"
     ]
   ],
   "64009": [
@@ -14687,6 +16962,19 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_all_episode_quest_clear_8"
+    ]
+  ],
+  "9110": [
+    [
+      "degree_all_episode_quest_clear_12",
+      "508011",
+      "延续的黄金",
+      "つづくおうごん",
+      "获得条件：通关第12章“诀别之时”的主线和高难",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_all_episode_quest_clear_12"
     ]
   ],
   "9100": [
@@ -14884,6 +17172,19 @@
       "dynamic/degree/degree_boss_epuration_event_01_clear_1_1"
     ]
   ],
+  "60940": [
+    [
+      "degree_anv3half_challenge_clear_1_1",
+      "533300",
+      "毕业试炼：极",
+      "そつぎょうのしれんきわみ",
+      "获得条件：在单人讨伐战斗中通关U塔罗斯∞ 超级+",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_anv3half_challenge_clear_1_1"
+    ]
+  ],
   "60930": [
     [
       "degree_anv3_challenge_clear_1_1",
@@ -15070,7 +17371,7 @@
     [
       "degree_advent_event_theatrio_clear_1",
       "646460",
-      "暗唤讨伐者",
+      "暗唤打倒者",
       "あんかんのだとうしゃ",
       "获得条件：降临讨伐 通关暗唤精灵兽10次",
       "5",
@@ -15096,13 +17397,221 @@
     [
       "degree_advent_event_theatrio_clear_3",
       "646462",
-      "暗唤主宰者",
+      "暗唤讨灭者",
       "あんかんのとうめつしゃ",
       "获得条件：降临讨伐 通关暗唤精灵兽500次",
       "5",
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_advent_event_theatrio_clear_3"
+    ]
+  ],
+  "62340": [
+    [
+      "degree_advent_event_steam_robot_wind_clear_1",
+      "646475",
+      "翠愁打倒者",
+      "すいしゅうのだとうしゃ",
+      "获得条件：降临讨伐 通关翠愁机兵10次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_wind_clear_1"
+    ]
+  ],
+  "62350": [
+    [
+      "degree_advent_event_steam_robot_wind_clear_2",
+      "646476",
+      "翠愁征服者",
+      "すいしゅうのせいふくしゃ",
+      "获得条件：降临讨伐 通关翠愁机兵100次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_wind_clear_2"
+    ]
+  ],
+  "62360": [
+    [
+      "degree_advent_event_steam_robot_wind_clear_3",
+      "646477",
+      "翠愁讨灭者",
+      "すいしゅうのとうめつしゃ",
+      "获得条件：降临讨伐 通关翠愁机兵500次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_wind_clear_3"
+    ]
+  ],
+  "62370": [
+    [
+      "degree_steam_robot_wind_challenge_clear_1",
+      "539100",
+      "翠愁试炼：决",
+      "すいしゅうのしれんけつ",
+      "获得条件：在共同决战 翠愁机兵中通关翠机兵克拉格 决战级",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_wind_challenge_clear_1"
+    ]
+  ],
+  "62380": [
+    [
+      "degree_advent_event_steam_robot_water_clear_1",
+      "646480",
+      "苍叹打倒者",
+      "そうたんのだとうしゃ",
+      "获得条件：降临讨伐 通关苍叹机兵10次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_water_clear_1"
+    ]
+  ],
+  "62390": [
+    [
+      "degree_advent_event_steam_robot_water_clear_2",
+      "646481",
+      "苍叹征服者",
+      "そうたんのせいふくしゃ",
+      "获得条件：降临讨伐 通关苍叹机兵100次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_water_clear_2"
+    ]
+  ],
+  "62400": [
+    [
+      "degree_advent_event_steam_robot_water_clear_3",
+      "646482",
+      "苍叹讨灭者",
+      "そうたんのとうめつしゃ",
+      "获得条件：降临讨伐 通关苍叹机兵500次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_water_clear_3"
+    ]
+  ],
+  "62410": [
+    [
+      "degree_steam_robot_water_challenge_clear_1",
+      "539200",
+      "苍叹试炼：决",
+      "そうたんのしれんけつ",
+      "获得条件：在共同决战 苍叹机兵中通关苍机兵维尔努斯 决战级",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_water_challenge_clear_1"
+    ]
+  ],
+  "62460": [
+    [
+      "degree_advent_event_steam_robot_thunder_clear_1",
+      "730010",
+      "橙悚打倒者",
+      "とうしょうのだとうしゃ",
+      "获得条件：降临讨伐 通关橙悚机兵10次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_thunder_clear_1"
+    ]
+  ],
+  "62470": [
+    [
+      "degree_advent_event_steam_robot_thunder_clear_2",
+      "730011",
+      "橙悚征服者",
+      "とうしょうのせいふくしゃ",
+      "获得条件：降临讨伐 通关橙悚机兵100次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_thunder_clear_2"
+    ]
+  ],
+  "62480": [
+    [
+      "degree_advent_event_steam_robot_thunder_clear_3",
+      "730012",
+      "橙悚讨灭者",
+      "とうしょうのとうめつしゃ",
+      "获得条件：降临讨伐 通关橙悚机兵500次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_thunder_clear_3"
+    ]
+  ],
+  "62490": [
+    [
+      "degree_steam_robot_thunder_challenge_clear_1",
+      "730013",
+      "橙悚试炼：决",
+      "とうしょうのしれんけつ",
+      "获得条件：在共同决战 橙悚机兵中通关橙机兵吉布西兹 决战级",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_thunder_challenge_clear_1"
+    ]
+  ],
+  "62420": [
+    [
+      "degree_advent_event_steam_robot_light_clear_1",
+      "646490",
+      "闪哭打倒者",
+      "せんこくのだとうしゃ",
+      "获得条件：降临讨伐 通关闪哭机兵10次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_light_clear_1"
+    ]
+  ],
+  "62430": [
+    [
+      "degree_advent_event_steam_robot_light_clear_2",
+      "646491",
+      "闪哭征服者",
+      "せんこくのせいふくしゃ",
+      "获得条件：降临讨伐 通关闪哭机兵100次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_light_clear_2"
+    ]
+  ],
+  "62440": [
+    [
+      "degree_advent_event_steam_robot_light_clear_3",
+      "646492",
+      "闪哭讨灭者",
+      "せんこくのとうめつしゃ",
+      "获得条件：降临讨伐 通关闪哭机兵500次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_light_clear_3"
+    ]
+  ],
+  "62450": [
+    [
+      "degree_steam_robot_light_challenge_clear_1",
+      "539300",
+      "闪哭试炼：决",
+      "せんこくのしれんけつ",
+      "获得条件：在共同决战 闪哭机兵中通关闪机兵艾赞 决战级",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_light_challenge_clear_1"
     ]
   ],
   "62300": [
@@ -15157,11 +17666,102 @@
       "dynamic/degree/degree_steam_robot_fire_challenge_clear_1_1"
     ]
   ],
+  "62500": [
+    [
+      "degree_advent_event_steam_robot_dark_clear_1",
+      "646510",
+      "暗凛打倒者",
+      "あんりんのだとうしゃ",
+      "获得条件：降临讨伐 通关暗凛机兵10次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_dark_clear_1"
+    ]
+  ],
+  "62510": [
+    [
+      "degree_advent_event_steam_robot_dark_clear_2",
+      "646511",
+      "暗凛征服者",
+      "あんりんのせいふくしゃ",
+      "获得条件：降临讨伐 通关暗凛机兵100次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_dark_clear_2"
+    ]
+  ],
+  "62520": [
+    [
+      "degree_advent_event_steam_robot_dark_clear_3",
+      "646512",
+      "暗凛讨灭者",
+      "あんりんのとうめつしゃ",
+      "获得条件：降临讨伐 通关暗凛机兵500次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_dark_clear_3"
+    ]
+  ],
+  "62530": [
+    [
+      "degree_steam_robot_dark_challenge_clear_1",
+      "539500",
+      "暗凛试炼：决",
+      "あんりんのしれんけつ",
+      "获得条件：在共同决战 暗凛机兵中通关暗机兵德古兰 决战级",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_dark_challenge_clear_1"
+    ]
+  ],
+  "62540": [
+    [
+      "degree_advent_event_steam_robot_another_clear_1",
+      "646520",
+      "无滑打倒者",
+      "むかつのだとうしゃ",
+      "获得条件：降临讨伐 通关无滑机兵10次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_another_clear_1"
+    ]
+  ],
+  "62550": [
+    [
+      "degree_advent_event_steam_robot_another_clear_2",
+      "646521",
+      "无滑征服者",
+      "むかつのせいふくしゃ",
+      "获得条件：降临讨伐 通关无滑机兵100次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_another_clear_2"
+    ]
+  ],
+  "62560": [
+    [
+      "degree_advent_event_steam_robot_another_clear_3",
+      "646522",
+      "无滑讨灭者",
+      "むかつのとうめつしゃ",
+      "获得条件：降临讨伐 通关无滑机兵500次",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_another_clear_3"
+    ]
+  ],
   "62030": [
     [
       "degree_advent_event_sramgon_clear_1",
       "646420",
-      "水狂打倒者",
+      "水狂讨伐者",
       "すいきょうのだとうしゃ",
       "获得条件：降临讨伐 通关水狂精灵兽10次",
       "5",
@@ -15278,7 +17878,7 @@
     [
       "degree_advent_event_progreo_clear_1",
       "646410",
-      "魁雷打倒者",
+      "魁雷讨伐者",
       "かいらいのだとうしゃ",
       "获得条件：降临讨伐 通关魁雷精灵兽10次",
       "5",
@@ -15551,7 +18151,7 @@
     [
       "degree_advent_event_atmoshia_clear_1",
       "646450",
-      "威风打倒者",
+      "威风讨伐者",
       "いふうのだとうしゃ",
       "获得条件：降临讨伐 通关威风精灵兽10次",
       "5",
@@ -15577,7 +18177,7 @@
     [
       "degree_advent_event_atmoshia_clear_3",
       "646452",
-      "威风讨灭者",
+      "威风主宰者",
       "いふうのとうめつしゃ",
       "获得条件：降临讨伐 通关威风精灵兽500次",
       "5",
@@ -15590,7 +18190,7 @@
     [
       "degree_advent_event_altanea_clear_1",
       "646430",
-      "怨炎打倒者",
+      "怨炎讨伐者",
       "えんさのだとうしゃ",
       "获得条件：降临讨伐 通关怨炎精灵兽10次",
       "5",
@@ -15616,7 +18216,7 @@
     [
       "degree_advent_event_altanea_clear_3",
       "646432",
-      "怨炎讨灭者",
+      "怨炎主宰者",
       "えんさのとうめつしゃ",
       "获得条件：降临讨伐 通关怨炎精灵兽500次",
       "5",

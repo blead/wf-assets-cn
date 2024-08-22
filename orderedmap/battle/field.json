@@ -1035,9 +1035,93 @@
       "battle/field_object/world_advent/summer22_area/fever_gauge/summer22_area_fever_gauge"
     ]
   ],
+  "steampunk_wind_area": [
+    [
+      "battle/field/world_advent/steampunk_wind_area/background/background",
+      "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
+    ]
+  ],
+  "steampunk_water_area": [
+    [
+      "battle/field/world_advent/steampunk_water_area/background/background",
+      "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
+    ]
+  ],
+  "steampunk_thunder_area": [
+    [
+      "battle/field/world_advent/steampunk_thunder_area/background/background",
+      "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
+    ]
+  ],
+  "steampunk_light_area": [
+    [
+      "battle/field/world_advent/steampunk_light_area/background/background",
+      "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
+    ]
+  ],
   "steampunk_fire_area": [
     [
       "battle/field/world_advent/steampunk_fire_area/background/background",
+      "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
+    ]
+  ],
+  "steampunk_dark_area": [
+    [
+      "battle/field/world_advent/steampunk_dark_area/background/background",
+      "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
+    ]
+  ],
+  "steampunk_another_area": [
+    [
+      "battle/field/world_advent/steampunk_another_area/background/background",
       "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
       "(None)",
       "(None)",
@@ -1259,6 +1343,20 @@
       "battle/field_object/world_tree/tree_forest/fever_gauge/tree_forest_fever_gauge"
     ]
   ],
+  "middle_boss_dragon_anv1_kc": [
+    [
+      "battle/field/world_town/town_barren/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_town/town_barren/fever_gauge/town_barren_fever_gauge"
+    ]
+  ],
   "cyber_punk_vacant_land_battle": [
     [
       "battle/field/world_cyber_punk/cyber_punk_vacant_land_battle/background/background",
@@ -1397,6 +1495,20 @@
       "(None)",
       "(None)",
       "battle/field_object/world_haniwa/haniwa_carnival_light/fever_gauge/haniwa_carnival_light_fever_gauge"
+    ]
+  ],
+  "halfanv3": [
+    [
+      "battle/field/world_advent/halfanv3_area/background/background",
+      "battle/field/world_advent/halfanv3_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/halfanv3_area/fever_gauge/halfanv3_area_fever_gauge"
     ]
   ],
   "halfanv25_big_boss": [
@@ -1987,6 +2099,62 @@
       "battle/field_object/world_hell/hell_rift/fever_gauge/hell_rift_fever_gauge"
     ]
   ],
+  "main_12_1_2": [
+    [
+      "battle/field/world_12/star_palace_vicinity_battlebg/background/background",
+      "battle/field/world_12/star_palace_vicinity_battlebg/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_12/star_palace_vicinity_battlebg/fever_gauge/fever_gauge"
+    ]
+  ],
+  "star_palace_center": [
+    [
+      "battle/field/world_12/star_palace_center/background/background",
+      "(None)",
+      "battle/field/world_12/star_palace_center/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_12/star_palace_center/gate/gate",
+      "battle/field_object/world_12/star_palace_center/panel/transit_pod/transit_pod",
+      "battle/field_object/world_12/star_palace_center/fever_gauge/fever_gauge"
+    ]
+  ],
+  "main_12_3_5": [
+    [
+      "battle/field/world_12/space_with_pillars_collapsed/background/background",
+      "battle/field/world_12/space_with_pillars_collapsed/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_12/space_with_pillars_collapsed/fever_gauge/fever_gauge"
+    ]
+  ],
+  "boss_stage_012": [
+    [
+      "battle/field/world_12/boss_stage_012/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_12/boss_stage_012/fever_gauge/fever_gauge"
+    ]
+  ],
   "week_town_boulevard_night_ver1": [
     [
       "battle/field/world_11/week_town_boulevard_night_ver1/background/background",
@@ -2321,6 +2489,76 @@
       "(None)",
       "(None)",
       "battle/field_object/world_cyber_punk/cyber_punk_vacant_land_battle_expert/fever_gauge/cyber_punk_vacant_land_battle_fever_gauge"
+    ]
+  ],
+  "halfanv25_big_boss_hell": [
+    [
+      "battle/field/world_advent/halfanv25_boss_expert/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/halfanv25_boss_expert/fever_gauge/fever_gauge"
+    ]
+  ],
+  "summer22_helicopter_hell": [
+    [
+      "battle/field/world_advent/summer22_expert/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/summer22_expert/fever_gauge/summer22_area_fever_gauge"
+    ]
+  ],
+  "vt22_boss_hell": [
+    [
+      "battle/field/world_advent/valentine_area_expert/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/valentine_area_expert/fever_gauge/valentine_area_expert_fever_gauge"
+    ]
+  ],
+  "anv3_hell": [
+    [
+      "battle/field/world_advent/anv3_expert_area/background/background",
+      "battle/field/world_advent/anv3_expert_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/anv3_expert_area/fever_gauge/anv3_expert_area_fever_gauge"
+    ]
+  ],
+  "halfanv3_hell": [
+    [
+      "battle/field/world_advent/halfanv3_area_expert/background/background",
+      "battle/field/world_advent/halfanv3_area_expert/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/halfanv3_area_expert/fever_gauge/halfanv3_area_expert_fever_gauge"
     ]
   ],
   "boss_battle_shark_area": [

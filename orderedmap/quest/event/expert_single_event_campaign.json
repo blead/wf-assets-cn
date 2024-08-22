@@ -71,6 +71,90 @@
       "2022-12-08 11:59:59"
     ]
   ],
+  "10000004": [
+    [
+      "character_training_campaign_staminahalf_reward_20231130_20231217",
+      "1",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_top",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_folder",
+      "10000004",
+      "3",
+      "2023-11-30 12:00:00",
+      "2023-12-17 20:59:59"
+    ]
+  ],
+  "10000002": [
+    [
+      "character_training_campaign_staminahalf_reward_20230714_20230731",
+      "1",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_top",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_folder",
+      "10000002",
+      "3",
+      "2050-07-14 12:00:00",
+      "2050-07-31 20:59:59"
+    ]
+  ],
+  "10000003": [
+    [
+      "character_training_campaign_staminahalf_challenge1_20231031_20231114",
+      "1",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_top",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_folder",
+      "10000003",
+      "3",
+      "2050-10-31 12:00:00",
+      "2050-11-14 20:59:59"
+    ]
+  ],
+  "10000001": [
+    [
+      "character_training_campaign_staminahalf_challenge1_20230428_20230507",
+      "1",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_top",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_folder",
+      "10000001",
+      "3",
+      "2023-04-28 12:00:00",
+      "2023-05-07 20:59:59"
+    ]
+  ],
+  "10000000": [
+    [
+      "character_training_campaign_staminahalf_challenge1_20230331_20230414",
+      "1",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_top",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_folder",
+      "10000000",
+      "3",
+      "2050-03-31 12:00:00",
+      "2050-04-14 20:59:59"
+    ]
+  ],
+  "19": [
+    [
+      "expert_campaign_19",
+      "1",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_top",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_folder",
+      "2023083101",
+      "3",
+      "2050-08-31 12:00:00",
+      "2050-09-15 20:59:59"
+    ]
+  ],
+  "18": [
+    [
+      "expert_campaign_18",
+      "1",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_top",
+      "quest/event/logo/expert_single_event/expert_single_event_logo_campaign_folder",
+      "2023013101",
+      "3",
+      "2024-09-12 12:00:00",
+      "2024-09-27 23:59:59"
+    ]
+  ],
   "17": [
     [
       "expert_campaign_17",

@@ -154,7 +154,7 @@
           1,
           [
             "Block",
-            null
+            []
           ],
           2,
           3,
@@ -275,7 +275,7 @@
                           5,
                           [
                             "Block",
-                            null
+                            []
                           ],
                           6,
                           7,
@@ -288,8 +288,8 @@
                                   "CreateNormalAttack",
                                   7,
                                   255,
-                                  null,
-                                  null,
+                                  [],
+                                  [],
                                   11,
                                   [
                                     {
@@ -451,7 +451,7 @@
                                   8,
                                   [
                                     "Block",
-                                    null
+                                    []
                                   ],
                                   9,
                                   10,
@@ -464,8 +464,8 @@
                                           "CreateNormalAttack",
                                           10,
                                           255,
-                                          null,
-                                          null,
+                                          [],
+                                          [],
                                           11,
                                           [
                                             {
@@ -529,7 +529,7 @@
                           30,
                           [
                             "Block",
-                            null
+                            []
                           ],
                           [
                             "Block",
@@ -548,12 +548,12 @@
                                         [
                                           "FindAllSubjects",
                                           11,
-                                          33,
-                                          null,
-                                          null,
-                                          null,
-                                          null,
-                                          null,
+                                          113,
+                                          [],
+                                          [],
+                                          [],
+                                          [],
+                                          [],
                                           [
                                             "DoNothing"
                                           ],
@@ -565,6 +565,53 @@
                                                 [
                                                   "CreateRatioHeal",
                                                   11,
+                                                  2,
+                                                  [
+                                                    {
+                                                      "max": 0.06,
+                                                      "min": 0.05
+                                                    }
+                                                  ],
+                                                  [
+                                                    6
+                                                  ],
+                                                  [
+                                                    {
+                                                      "max": 0.5,
+                                                      "min": 0.5
+                                                    }
+                                                  ],
+                                                  [
+                                                    "GenericHealHitEffect"
+                                                  ]
+                                                ]
+                                              ]
+                                            ]
+                                          ]
+                                        ]
+                                      ],
+                                      [
+                                        "Command",
+                                        [
+                                          "FindAllSubjects",
+                                          12,
+                                          145,
+                                          [],
+                                          [],
+                                          [],
+                                          [],
+                                          [],
+                                          [
+                                            "DoNothing"
+                                          ],
+                                          [
+                                            "Block",
+                                            [
+                                              [
+                                                "Command",
+                                                [
+                                                  "CreateRatioHeal",
+                                                  12,
                                                   2,
                                                   [
                                                     {

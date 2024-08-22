@@ -23,6 +23,18 @@
       "2020-10-22 04:59:59"
     ]
   ],
+  "1008": [
+    [
+      "vt22_re01",
+      "3",
+      "30129",
+      "10",
+      "quest/event/animation_background/world_story_event/vt22/vt22_background",
+      "bgm/event/valentine2022/system/valentine2022_tokengacha",
+      "2024-09-19 12:00:00",
+      "2024-10-11 11:59:59"
+    ]
+  ],
   "18": [
     [
       "vt22",
@@ -33,6 +45,18 @@
       "bgm/event/valentine2022/system/valentine2022_tokengacha",
       "2023-11-16 12:00:00",
       "2023-12-07 11:59:59"
+    ]
+  ],
+  "1014": [
+    [
+      "summer_2023",
+      "3",
+      "30133",
+      "10",
+      "quest/event/animation_background/world_story_event/summer_2022/summer_2022_background",
+      "bgm/event/summer_2022/system/summer2022_tokengacha",
+      "2023-07-07 12:00:00",
+      "2023-07-29 04:59:59"
     ]
   ],
   "24": [
@@ -141,6 +165,42 @@
       "bgm/event/raid_event/raid_event_box_gacha",
       "2024-05-23 12:00:00",
       "2024-06-14 11:59:59"
+    ]
+  ],
+  "26": [
+    [
+      "raid_event_05",
+      "3",
+      "30130",
+      "10",
+      "quest/event/animation_background/raid_event/raid_event_02/background",
+      "bgm/event/raid_event/raid_event_box_gacha",
+      "2023-04-28 12:00:00",
+      "2023-05-16 04:59:59"
+    ]
+  ],
+  "27": [
+    [
+      "raid_event_06",
+      "3",
+      "30135",
+      "10",
+      "quest/event/animation_background/raid_event/raid_event_02/background",
+      "bgm/event/raid_event/raid_event_box_gacha",
+      "2023-10-23 12:00:00",
+      "2023-11-07 04:59:59"
+    ]
+  ],
+  "28": [
+    [
+      "raid_constant",
+      "3",
+      "30137",
+      "10",
+      "quest/event/animation_background/raid_event/raid_event_02/background",
+      "bgm/event/raid_event/raid_event_box_gacha",
+      "2050-12-07 12:00:00",
+      "2050-12-29 11:59:59"
     ]
   ],
   "7": [
@@ -347,6 +407,42 @@
       "2024-01-05 11:59:59"
     ]
   ],
+  "1016": [
+    [
+      "anv3half_re01",
+      "3",
+      "30136",
+      "10",
+      "quest/event/animation_background/world_story_event/anv3half/anv3half_background",
+      "bgm/event/anv3half/system/anv3half_tokengacha",
+      "2023-11-07 12:00:00",
+      "2023-11-29 04:59:59"
+    ]
+  ],
+  "1011": [
+    [
+      "anv3half",
+      "3",
+      "30132",
+      "10",
+      "quest/event/animation_background/world_story_event/anv3half/anv3half_background",
+      "bgm/event/anv3half/system/anv3half_tokengacha",
+      "2023-05-31 12:00:00",
+      "2023-06-24 04:59:59"
+    ]
+  ],
+  "1015": [
+    [
+      "anv3_re01",
+      "3",
+      "30134",
+      "10",
+      "quest/event/animation_background/world_story_event/anv3/anv3_background",
+      "bgm/event/anv3/system/anv3_tokengacha",
+      "2023-09-14 12:00:00",
+      "2023-10-06 04:59:59"
+    ]
+  ],
   "1005": [
     [
       "anv3",
@@ -417,6 +513,18 @@
       "bgm/event/anv1/system/anv1_box_gacha",
       "2022-10-13 12:00:00",
       "2022-11-04 11:59:59"
+    ]
+  ],
+  "1012": [
+    [
+      "2halfanv_re01",
+      "3",
+      "30131",
+      "10",
+      "quest/event/animation_background/world_story_event/2halfanv/background",
+      "bgm/event/2halfanv/system/2halfanv_tokengacha",
+      "2023-05-05 12:00:00",
+      "2023-05-27 04:59:59"
     ]
   ],
   "23": [

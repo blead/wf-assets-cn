@@ -164,7 +164,7 @@
       "迟缓效果强化"
     ]
   ],
-  "condition_fever_point_up": [
+  "condition_add_fever_point_up": [
     [
       "Fever增加效果强化"
     ]
@@ -252,6 +252,16 @@
   "separated_term_directdamage_up": [
     [
       "独立伤害乘区直接攻击伤害提升效果强化"
+    ]
+  ],
+  "condition_swifting_up": [
+    [
+      "冲刺间隔缩短效果强化"
+    ]
+  ],
+  "condition_fever_point_up": [
+    [
+      "Fever槽上升率增加效果强化"
     ]
   ],
   "speed_up": [

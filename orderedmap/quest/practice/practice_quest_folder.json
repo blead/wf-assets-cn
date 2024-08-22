@@ -1,92 +1,98 @@
 {
-  "9": [
+  "100": [
     [
       "结实假人",
       "quest/thumbnail/practice_quest/wara_6_tafu"
     ]
   ],
-  "8": [
+  "99": [
     [
       "结实假人们",
       "quest/thumbnail/practice_quest/wara_7_tafu"
     ]
   ],
-  "7": [
+  "98": [
     [
       "痛苦假人",
       "quest/thumbnail/practice_quest/wara_8_itai"
     ]
   ],
-  "6": [
+  "97": [
     [
       "痛苦假人们",
       "quest/thumbnail/practice_quest/wara_9_itai"
     ]
   ],
-  "5": [
+  "96": [
     [
       "结实假人",
       "quest/thumbnail/practice_quest/wara_1_katai"
     ]
   ],
-  "4": [
+  "95": [
     [
       "极速假人",
       "quest/thumbnail/practice_quest/wara_2_hayai"
     ]
   ],
-  "3": [
+  "94": [
     [
       "强力假人",
       "quest/thumbnail/practice_quest/wara_3_tsuyoi"
     ]
   ],
-  "2": [
+  "93": [
     [
       "诅咒假人",
       "quest/thumbnail/practice_quest/wara_4_uzai"
     ]
   ],
-  "1": [
+  "92": [
     [
       "守护假人",
       "quest/thumbnail/practice_quest/wara_5_kusai"
     ]
   ],
-  "106": [
+  "91": [
     [
       "管理者",
       "quest/thumbnail/multi_battle/multi1_17_4"
     ]
   ],
-  "105": [
+  "90": [
     [
       "白虎",
       "quest/thumbnail/multi_battle/multi1_14_4"
     ]
   ],
-  "104": [
+  "89": [
     [
       "诅咒弧魔艾基尔",
       "quest/thumbnail/multi_battle/multi1_12_4"
     ]
   ],
-  "103": [
+  "88": [
     [
       "寄居蟹船长",
       "quest/thumbnail/multi_battle/multi1_10_4"
     ]
   ],
-  "102": [
+  "87": [
     [
       "废墟魔像",
       "quest/thumbnail/multi_battle/multi1_6_4"
     ]
   ],
-  "101": [
+  "86": [
     [
       "不死王瑞西塔尔",
       "quest/thumbnail/multi_battle/multi1_3_4"
+    ]
+  ],
+  "85": [
+    [
+      "追忆试炼",
+      "quest/thumbnail/practice_quest/solo_time_attack_event_quest_practice"
     ]
   ]
 }

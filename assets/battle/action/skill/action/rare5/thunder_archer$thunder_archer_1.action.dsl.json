@@ -253,7 +253,7 @@
                                           2,
                                           [
                                             "Block",
-                                            null
+                                            []
                                           ],
                                           3,
                                           4,
@@ -266,17 +266,17 @@
                                                   "CreateNormalAttack",
                                                   4,
                                                   255,
-                                                  null,
+                                                  [],
                                                   [
                                                     [
                                                       "DCParalysis"
                                                     ]
                                                   ],
-                                                  32,
+                                                  49,
                                                   [
                                                     {
-                                                      "max": 3.2,
-                                                      "min": 3.2
+                                                      "max": 4.9,
+                                                      "min": 4.9
                                                     }
                                                   ],
                                                   [
