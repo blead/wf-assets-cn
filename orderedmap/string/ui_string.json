@@ -2291,7 +2291,7 @@
   ],
   "ability_description_during_trigger_kind_hp_increase_detail": [
     [
-      "【生命值从::start_percent::每增加::percent::，::content::】"
+      "【生命值从 ::start_percent:: ～ ::limit_percent:: 时发动】"
     ]
   ],
   "ability_description_during_trigger_kind_accumulation_condition_high": [
