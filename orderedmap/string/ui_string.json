@@ -11751,7 +11751,7 @@
   ],
   "equipment_detail_dialog_reason_not_exist_enhancement_product_with_in_period": [
     [
-      "当前为举办特殊装备强化活动\n因此无法强化"
+      "当前未举办特殊装备强化活动\n因此无法强化"
     ]
   ],
   "ng_word_error_dialog": [
@@ -12246,7 +12246,7 @@
   ],
   "score_attack_event_history_no_data": [
     [
-      "无战斗履历"
+      "无战斗记录"
     ]
   ],
   "score_attack_event_play_caution": [
@@ -14846,7 +14846,7 @@
   ],
   "box_gacha_link_ids": [
     [
-      "holiday_activity|holiday_activity_2023_1|holiday_activity_2023_2|holiday_activity_2023_3|holiday_activity_2024_02|holiday_activity_2024_05"
+      "holiday_activity|holiday_activity_2023_1|holiday_activity_2023_2|holiday_activity_2023_3|holiday_activity_2024_02|holiday_activity_2024_05|holiday_activity_2024_10"
     ]
   ],
   "multi_battle_auto_start_setting_title": [

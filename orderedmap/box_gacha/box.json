@@ -3317,6 +3317,188 @@
       ]
     ]
   },
+  "8002": {
+    "1": [
+      [
+        "800201",
+        "扭蛋BOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_a",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_a",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-09-30 05:00:00",
+        "2024-10-16 11:59:59",
+        "0"
+      ]
+    ],
+    "2": [
+      [
+        "800202",
+        "扭蛋BOX B",
+        "B",
+        "1",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_b",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_b",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-10-01 05:00:00",
+        "2024-10-16 11:59:59",
+        "0"
+      ]
+    ],
+    "3": [
+      [
+        "800203",
+        "扭蛋BOX C",
+        "C",
+        "2",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_c",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-10-02 05:00:00",
+        "2024-10-16 11:59:59",
+        "0"
+      ]
+    ],
+    "4": [
+      [
+        "800204",
+        "扭蛋BOX D",
+        "D",
+        "3",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_d",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-10-03 05:00:00",
+        "2024-10-16 11:59:59",
+        "0"
+      ]
+    ],
+    "5": [
+      [
+        "800205",
+        "扭蛋BOX E",
+        "E",
+        "4",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_e",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-10-04 05:00:00",
+        "2024-10-16 11:59:59",
+        "0"
+      ]
+    ],
+    "6": [
+      [
+        "800206",
+        "扭蛋BOX F",
+        "F",
+        "5",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_f",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_f",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-10-05 05:00:00",
+        "2024-10-16 11:59:59",
+        "0"
+      ]
+    ],
+    "7": [
+      [
+        "800207",
+        "扭蛋BOX G",
+        "G",
+        "6",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_g",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_g",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-10-06 05:00:00",
+        "2024-10-16 11:59:59",
+        "0"
+      ]
+    ],
+    "8": [
+      [
+        "800208",
+        "扭蛋BOX H",
+        "H",
+        "7",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_h",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_h",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-10-07 05:00:00",
+        "2024-10-16 11:59:59",
+        "0"
+      ]
+    ],
+    "9": [
+      [
+        "800209",
+        "扭蛋BOX I",
+        "I",
+        "8",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_i",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity/logo_i",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2024-10-08 05:00:00",
+        "2024-10-16 11:59:59",
+        "0"
+      ]
+    ]
+  },
   "1002": {
     "1": [
       [

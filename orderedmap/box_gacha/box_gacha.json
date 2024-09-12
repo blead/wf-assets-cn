@@ -371,6 +371,18 @@
       "2024-05-14 11:59:59"
     ]
   ],
+  "8002": [
+    [
+      "holiday_activity_2024_10",
+      "3",
+      "70051",
+      "10",
+      "quest/event/animation_background/world_story_event/anv_story_01/anv_story_01_background",
+      "bgm/event/anv1/system/anv1_box_gacha",
+      "2024-09-30 05:00:00",
+      "2024-10-16 11:59:59"
+    ]
+  ],
   "1002": [
     [
       "crown_beasts_re01",

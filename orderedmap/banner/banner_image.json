@@ -1,0 +1,4626 @@
+{
+  "1": {
+    "1": [
+      [
+        "event_advent_discarded_dragon_thunder",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_01",
+        "quest/event/banner/advent_event/advent_event_banner_01",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_01"
+      ]
+    ]
+  },
+  "2": {
+    "1": [
+      [
+        "event_advent_discarded_dragon_fire",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_02",
+        "quest/event/banner/advent_event/advent_event_banner_02",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_02"
+      ]
+    ]
+  },
+  "3": {
+    "1": [
+      [
+        "event_advent_discarded_dragon_light",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_03",
+        "quest/event/banner/advent_event/advent_event_banner_03",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_03"
+      ]
+    ]
+  },
+  "4": {
+    "1": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2020-04-30 12:00:00",
+        "2022-12-22 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_01",
+        "(None)"
+      ]
+    ],
+    "2": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2022-12-22 12:00:00",
+        "2022-12-29 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_campaign_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_campaign_01",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2022-12-29 12:00:00",
+        "2023-02-02 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_01",
+        "(None)"
+      ]
+    ],
+    "4": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-02-02 12:00:00",
+        "2023-02-09 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_campaign_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_campaign_01",
+        "(None)"
+      ]
+    ],
+    "5": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-02-09 12:00:00",
+        "2023-03-30 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_01",
+        "(None)"
+      ]
+    ],
+    "6": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-03-30 12:00:00",
+        "2023-04-06 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_campaign_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_campaign_01",
+        "(None)"
+      ]
+    ],
+    "7": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-04-06 12:00:00",
+        "2023-04-27 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_01",
+        "(None)"
+      ]
+    ],
+    "8": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-04-27 12:00:00",
+        "2023-05-04 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_campaign_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_campaign_01",
+        "(None)"
+      ]
+    ],
+    "9": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-05-04 12:00:00",
+        "2023-05-18 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_01",
+        "(None)"
+      ]
+    ],
+    "10": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-05-18 12:00:00",
+        "2023-05-25 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_campaign_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_campaign_01",
+        "(None)"
+      ]
+    ],
+    "11": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-05-25 12:00:00",
+        "2023-07-06 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_01",
+        "(None)"
+      ]
+    ],
+    "12": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-07-06 12:00:00",
+        "2023-07-20 11:59:59",
+        "dynamic/home_banner/event/challenge_dungeon_event_campaign_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_campaign_01",
+        "(None)"
+      ]
+    ],
+    "13": [
+      [
+        "event_challenge_dungeon_01",
+        "1",
+        "2023-07-20 12:00:00",
+        "(None)",
+        "dynamic/home_banner/event/challenge_dungeon_event_home_banner",
+        "quest/event/banner/challenge_dungeon_event/challenge_dungeon_banner_01",
+        "(None)"
+      ]
+    ]
+  },
+  "5": {
+    "1": [
+      [
+        "event_daily_exp_mana",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/daily_event_exp_banner_01",
+        "quest/event/banner/daily_exp_mana_event/dairy_exp_mana_event_banner_01",
+        "(None)"
+      ]
+    ]
+  },
+  "6": {
+    "1": [
+      [
+        "event_week_white",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/week_event_light_home_banner_01",
+        "quest/event/banner/week_event/week_event_white_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "7": {
+    "1": [
+      [
+        "event_week_red",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/week_event_fire_home_banner_01",
+        "quest/event/banner/week_event/week_event_red_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "8": {
+    "1": [
+      [
+        "event_week_blue",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/week_event_water_home_banner_01",
+        "quest/event/banner/week_event/week_event_blue_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "9": {
+    "1": [
+      [
+        "event_week_green",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/week_event_wind_home_banner_01",
+        "quest/event/banner/week_event/week_event_green_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "10": {
+    "1": [
+      [
+        "event_week_yellow",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/week_event_thunder_home_banner_01",
+        "quest/event/banner/week_event/week_event_yellow_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "11": {
+    "1": [
+      [
+        "event_week_black",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/week_event_dark_home_banner_01",
+        "quest/event/banner/week_event/week_event_black_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "12": {
+    "1": [
+      [
+        "event_xmas19",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/story_event/xm19/xm19",
+        "quest/event/banner/story_event/xm19/xm19",
+        "(None)"
+      ]
+    ]
+  },
+  "13": {
+    "1": [
+      [
+        "event_vcollabo_towa",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/story_event/vcollabo_towa/vcollabo_towa",
+        "quest/event/banner/story_event/vcollabo_towa/vcollabo_towa_banner_01",
+        "(None)"
+      ]
+    ]
+  },
+  "14": {
+    "1": [
+      [
+        "event_new_year_20",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/story_event/ny20/ny20",
+        "quest/event/banner/story_event/ny20/ny20",
+        "(None)"
+      ]
+    ]
+  },
+  "15": {
+    "1": [
+      [
+        "event_valen_20",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/story_event/valen_20/valen_20",
+        "quest/event/banner/story_event/valen_20/valen_20",
+        "(None)"
+      ]
+    ]
+  },
+  "16": {
+    "1": [
+      [
+        "event_reset_marathon_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/reset_marathon_event_001",
+        "quest/event/banner/story_event/reset_marathon_event_001_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "17": {
+    "1": [
+      [
+        "event_cyberpunk01",
+        "1",
+        "2020-03-13 12:00:00",
+        "2020-03-19 11:59:59",
+        "dynamic/home_banner/event/world_story_event/cyberpunk01/prequel",
+        "quest/event/banner/world_story_event/cyberpunk01/prequel",
+        "quest/event/bossbattle_banner/world_story_event/cyberpunk01/prequel"
+      ]
+    ],
+    "2": [
+      [
+        "event_cyberpunk01",
+        "1",
+        "2020-03-19 12:00:00",
+        "2020-04-12 11:59:59",
+        "dynamic/home_banner/event/world_story_event/cyberpunk01/sequel",
+        "quest/event/banner/world_story_event/cyberpunk01/sequel",
+        "quest/event/bossbattle_banner/world_story_event/cyberpunk01/sequel"
+      ]
+    ]
+  },
+  "18": {
+    "1": [
+      [
+        "gacha_release",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/release_gacha_home_banner_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "19": {
+    "1": [
+      [
+        "comic_worldflipper_world",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/comic_home_banner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20": {
+    "1": [
+      [
+        "comic_worldflipper_lecture",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/comic_lecture_home_banner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "21": {
+    "1": [
+      [
+        "bossbattle_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/bossbattle_multi_pickup_event_home_banner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "22": {
+    "1": [
+      [
+        "bossbattle_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/bossbattle_multi_pickup_event_home_banner_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "23": {
+    "1": [
+      [
+        "bossbattle_pickup_03",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/bossbattle_multi_pickup_event_home_banner_03",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "24": {
+    "1": [
+      [
+        "gacha_new_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/gacha_new_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "25": {
+    "1": [
+      [
+        "gacha_xmas19",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/xmas19_home_banner_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "26": {
+    "1": [
+      [
+        "gacha_ny20",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/ny20_home_banner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "27": {
+    "1": [
+      [
+        "gacha_new_character_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "28": {
+    "1": [
+      [
+        "gacha_advent_event_thunder_pickup",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/advent_event_thunder_pickup_home_banner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "29": {
+    "1": [
+      [
+        "shop_fukubukuro_2020",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/fukubukuro_2020",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "30": {
+    "1": [
+      [
+        "gacha_new_character_pickup_05",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_05",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "31": {
+    "1": [
+      [
+        "gacha_woman_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/woman_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "32": {
+    "1": [
+      [
+        "gacha_star_heroes_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_1",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "33": {
+    "1": [
+      [
+        "gacha_equipment_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/equipment_pickup_1",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "34": {
+    "1": [
+      [
+        "gacha_unison_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/unison_pickup_home_banner_1",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "35": {
+    "1": [
+      [
+        "gacha_black_element_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/black_element_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "36": {
+    "1": [
+      [
+        "gacha_new_character_pickup_06",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_06",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "37": {
+    "1": [
+      [
+        "gacha_new_character_pickup_09",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_09",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "38": {
+    "1": [
+      [
+        "collect_item_event_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/collect_item_event_001",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "39": {
+    "1": [
+      [
+        "gacha_new_character_pickup_07",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_07",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "40": {
+    "1": [
+      [
+        "gacha_yellow_element_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/thunder_element_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "41": {
+    "1": [
+      [
+        "news_aprilfool_2020",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/aprilfool2020",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "42": {
+    "1": [
+      [
+        "gacha_new_character_pickup_08",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_08",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "43": {
+    "1": [
+      [
+        "gacha_new_character_pickup_10",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_10",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "44": {
+    "1": [
+      [
+        "gacha_white_element_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/white_element_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "45": {
+    "1": [
+      [
+        "gacha_normal",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/no_pickup_world_flipper_gacha",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "46": {
+    "1": [
+      [
+        "gacha_equipment_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/equipment_pickup_2",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "47": {
+    "1": [
+      [
+        "fake_princess01",
+        "1",
+        "2020-05-31 12:00:00",
+        "2020-06-05 11:59:59",
+        "dynamic/home_banner/event/world_story_event/fakeprincess01/prequel",
+        "quest/event/banner/world_story_event/fakeprincess01/prequel",
+        "quest/event/bossbattle_banner/world_story_event/fakeprincess01/prequel"
+      ]
+    ],
+    "2": [
+      [
+        "fake_princess01",
+        "1",
+        "2020-06-05 12:00:00",
+        "2020-06-19 11:59:59",
+        "dynamic/home_banner/event/world_story_event/fakeprincess01/sequel",
+        "quest/event/banner/world_story_event/fakeprincess01/sequel",
+        "quest/event/bossbattle_banner/world_story_event/fakeprincess01/sequel"
+      ]
+    ]
+  },
+  "48": {
+    "1": [
+      [
+        "gacha_green_element_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/green_element_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "49": {
+    "1": [
+      [
+        "collect_item_event_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/collect_item_event_002",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "50": {
+    "1": [
+      [
+        "new_character_pickup_11",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_11",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "51": {
+    "1": [
+      [
+        "star_heroes_2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_2",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "52": {
+    "1": [
+      [
+        "special_exchange_half_anniversary_2020",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/special_exchange_campaign_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "53": {
+    "1": [
+      [
+        "thunder_element_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/thunder_element_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "54": {
+    "1": [
+      [
+        "equipment_pickup_3",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/equipment_pickup_3",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "55": {
+    "1": [
+      [
+        "new_character_pickup_12",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_12",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "56": {
+    "1": [
+      [
+        "red_element_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/red_element_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "57": {
+    "1": [
+      [
+        "new_character_pickup_13",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_13",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "58": {
+    "1": [
+      [
+        "white_element_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/white_element_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "59": {
+    "1": [
+      [
+        "event_advent_elements",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_04",
+        "quest/event/banner/advent_event/advent_event_banner_04",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_04"
+      ]
+    ]
+  },
+  "60": {
+    "1": [
+      [
+        "release200day_event",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/release200day_event_002",
+        "quest/event/banner/story_event/release200day_event_002_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "61": {
+    "1": [
+      [
+        "new_character_pickup_14",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_14",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "62": {
+    "1": [
+      [
+        "black_element_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/black_element_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "63": {
+    "1": [
+      [
+        "equipment_pickup_4",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/equipment_pickup_4",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "64": {
+    "1": [
+      [
+        "event_advent_discarded_dragon_water",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_05",
+        "quest/event/banner/advent_event/advent_event_banner_05",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_05"
+      ]
+    ]
+  },
+  "65": {
+    "1": [
+      [
+        "new_character_pickup_15",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_15",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "66": {
+    "1": [
+      [
+        "thunder_element_pickup_03",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/thunder_element_pickup_03",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "67": {
+    "1": [
+      [
+        "collect_item_event_template",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/collect_item_event_template",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "68": {
+    "1": [
+      [
+        "character_training_campaign_1",
+        "1",
+        "2020-07-13 12:00:00",
+        "2030-07-21 11:59:59",
+        "dynamic/home_banner/event/sudden_event/character_training_campaign_1",
+        "quest/event/banner/story_event/character_training_campaign_1",
+        "(None)"
+      ]
+    ]
+  },
+  "69": {
+    "1": [
+      [
+        "new_character_pickup_16",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_16",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "70": {
+    "1": [
+      [
+        "green_element_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/green_element_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "71": {
+    "1": [
+      [
+        "summer_2020",
+        "1",
+        "2020-07-31 12:00:00",
+        "2020-08-05 11:59:59",
+        "dynamic/home_banner/event/world_story_event/summer_2020/prequel",
+        "quest/event/banner/world_story_event/summer_2020/prequel",
+        "quest/event/bossbattle_banner/world_story_event/summer_2020/prequel"
+      ]
+    ],
+    "2": [
+      [
+        "summer_2020",
+        "1",
+        "2020-08-05 12:00:00",
+        "2020-08-20 11:59:59",
+        "dynamic/home_banner/event/world_story_event/summer_2020/sequel",
+        "quest/event/banner/world_story_event/summer_2020/sequel",
+        "quest/event/bossbattle_banner/world_story_event/summer_2020/sequel"
+      ]
+    ]
+  },
+  "72": {
+    "1": [
+      [
+        "new_character_pickup_17",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_17",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "73": {
+    "1": [
+      [
+        "blue_element_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/blue_element_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "74": {
+    "1": [
+      [
+        "star_heroes_3",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_3",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "75": {
+    "1": [
+      [
+        "event_advent_discarded_dragon_fire2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_02",
+        "quest/event/banner/advent_event/advent_event_banner_02",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_02"
+      ]
+    ]
+  },
+  "76": {
+    "1": [
+      [
+        "new_character_pickup_18",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_18",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "77": {
+    "1": [
+      [
+        "time_attack_event_water_001",
+        "1",
+        "2020-08-21 12:00:00",
+        "2020-08-31 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_water_home",
+        "quest/event/banner/time_attack_event/time_attack_event_water_001",
+        "(None)"
+      ]
+    ],
+    "2": [
+      [
+        "time_attack_event_water_001",
+        "1",
+        "2020-08-31 12:00:00",
+        "2020-09-03 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_water_home_check",
+        "quest/event/banner/time_attack_event/time_attack_event_water_002",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "time_attack_event_water_001",
+        "1",
+        "2020-09-03 12:00:00",
+        "2020-09-10 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_water_home_result",
+        "quest/event/banner/time_attack_event/time_attack_event_water_003",
+        "(None)"
+      ]
+    ]
+  },
+  "78": {
+    "1": [
+      [
+        "event_tower_dungeon",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/tower_dungeon_event/tower_dungeon_01",
+        "quest/event/banner/tower_dungeon_event/tower_dungeon_01",
+        "(None)"
+      ]
+    ]
+  },
+  "79": {
+    "1": [
+      [
+        "thunder_element_pickup_04",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/thunder_element_pickup_04",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "80": {
+    "1": [
+      [
+        "new_character_pickup_19",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_19",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "81": {
+    "1": [
+      [
+        "event_advent_discarded_dragon_dark",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_07",
+        "quest/event/banner/advent_event/advent_event_banner_07",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_07"
+      ]
+    ]
+  },
+  "82": {
+    "1": [
+      [
+        "red_element_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/red_element_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "83": {
+    "1": [
+      [
+        "expert_single",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/expert_single_event_home_banner",
+        "quest/event/banner/expert_single_event/expert_single_banner_01",
+        "(None)"
+      ]
+    ]
+  },
+  "85": {
+    "1": [
+      [
+        "new_character_pickup_dummy_data_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_dummy_data_1",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "86": {
+    "1": [
+      [
+        "release300day_event",
+        "1",
+        "2020-09-21 12:00:00",
+        "2030-10-06 11:59:59",
+        "dynamic/home_banner/event/sudden_event/release300day_event_002",
+        "quest/event/banner/story_event/release300day_event_002_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "87": {
+    "1": [
+      [
+        "special_exchange_equipment_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/special_exchange_equipment_campaign_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "88": {
+    "1": [
+      [
+        "equipment_pickup_5",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/equipment_pickup_5",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "89": {
+    "1": [
+      [
+        "yokai_emaki_01",
+        "1",
+        "2020-09-30 12:00:00",
+        "2020-10-07 11:59:59",
+        "dynamic/home_banner/event/world_story_event/yokai_emaki_01/prequel",
+        "quest/event/banner/world_story_event/yokai_emaki_01/prequel",
+        "quest/event/bossbattle_banner/world_story_event/yokai_emaki_01/prequel"
+      ]
+    ],
+    "2": [
+      [
+        "yokai_emaki_01",
+        "1",
+        "2020-10-07 12:00:00",
+        "2020-10-22 04:59:59",
+        "dynamic/home_banner/event/world_story_event/yokai_emaki_01/sequel",
+        "quest/event/banner/world_story_event/yokai_emaki_01/sequel",
+        "quest/event/bossbattle_banner/world_story_event/yokai_emaki_01/sequel"
+      ]
+    ]
+  },
+  "90": {
+    "1": [
+      [
+        "new_character_pickup_dummy_data_2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_dummy_data_2",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "91": {
+    "1": [
+      [
+        "event_advent_hw20",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/event_advent_hw20",
+        "quest/event/banner/advent_event/event_advent_hw20",
+        "quest/event/bossbattle_banner/advent_event/advent_event_hw20"
+      ]
+    ]
+  },
+  "92": {
+    "1": [
+      [
+        "new_character_pickup_20",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_20",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "93": {
+    "1": [
+      [
+        "startdash_exchange_campaign_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/startdash_exchange_campaign_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "94": {
+    "1": [
+      [
+        "new_character_pickup_21",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_21",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "95": {
+    "1": [
+      [
+        "time_attack_event_white_001",
+        "1",
+        "2022-08-18 12:00:00",
+        "2022-08-28 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_white_home",
+        "quest/event/banner/time_attack_event/time_attack_event_white_001",
+        "quest/event/bossbattle_banner/time_attack_event/time_attack_event_white01"
+      ]
+    ],
+    "2": [
+      [
+        "time_attack_event_white_001",
+        "1",
+        "2022-08-28 12:00:00",
+        "2022-09-01 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_white_home_check",
+        "quest/event/banner/time_attack_event/time_attack_event_white_002",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "time_attack_event_white_001",
+        "1",
+        "2022-09-01 12:00:00",
+        "2022-09-08 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_white_home_result",
+        "quest/event/banner/time_attack_event/time_attack_event_white_003",
+        "(None)"
+      ]
+    ]
+  },
+  "96": {
+    "1": [
+      [
+        "new_character_pickup_22",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_22",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "97": {
+    "1": [
+      [
+        "star_heroes_4",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_4",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "98": {
+    "1": [
+      [
+        "event_cyberpunk01_re01",
+        "1",
+        "2022-09-01 12:00:00",
+        "2022-09-23 04:59:59",
+        "dynamic/home_banner/event/world_story_event/cyberpunk01_re01/cyberpunk01_re01",
+        "quest/event/banner/world_story_event/cyberpunk01_re01/cyberpunk01_re01",
+        "quest/event/bossbattle_banner/world_story_event/cyberpunk01_re01/cyberpunk01_re01"
+      ]
+    ]
+  },
+  "99": {
+    "1": [
+      [
+        "white_ranged_special_chara_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/white_ranged_special_chara_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "100": {
+    "1": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-09-29 12:00:00",
+        "2022-09-30 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_01",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "2": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-09-30 12:00:00",
+        "2022-10-01 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_02",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-10-01 12:00:00",
+        "2022-10-02 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_03",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "4": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-10-02 12:00:00",
+        "2022-10-03 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_04",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "5": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-10-03 12:00:00",
+        "2022-10-04 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_05",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "6": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-10-04 12:00:00",
+        "2022-10-05 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_06",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "7": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-10-05 12:00:00",
+        "2022-10-06 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_07",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "8": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-10-06 12:00:00",
+        "2022-10-07 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_08",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "9": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-10-07 12:00:00",
+        "2022-10-08 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_09",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "10": [
+      [
+        "anv1_countdown_event",
+        "1",
+        "2022-10-08 12:00:00",
+        "2022-10-09 04:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1_countdown_banner_10",
+        "quest/event/banner/story_event/anv1_countdown_event_002_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "101": {
+    "1": [
+      [
+        "collect_item_event_004",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/collect_item_event_template",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "102": {
+    "1": [
+      [
+        "advent_discarded_dragon_thunder2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_01",
+        "quest/event/banner/advent_event/advent_event_banner_01",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_01"
+      ]
+    ]
+  },
+  "103": {
+    "1": [
+      [
+        "new_character_pickup_23",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_23",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "104": {
+    "1": [
+      [
+        "special_exchange_1st_anniversary_2020",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/special_exchange_campaign_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "105": {
+    "1": [
+      [
+        "common_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/common_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "106": {
+    "1": [
+      [
+        "anv1st_multi_campaign",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/anv1st_multi_campaign",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "107": {
+    "1": [
+      [
+        "anv1",
+        "1",
+        "2022-10-13 12:00:00",
+        "2022-10-20 11:59:59",
+        "dynamic/home_banner/event/world_story_event/anv_story_01/prequel",
+        "quest/event/banner/world_story_event/anv_story_01/prequel",
+        "quest/event/bossbattle_banner/world_story_event/anv_story_01/prequel"
+      ]
+    ],
+    "2": [
+      [
+        "anv1",
+        "1",
+        "2022-10-20 12:00:00",
+        "2022-11-04 04:59:59",
+        "dynamic/home_banner/event/world_story_event/anv_story_01/sequel",
+        "quest/event/banner/world_story_event/anv_story_01/sequel",
+        "quest/event/bossbattle_banner/world_story_event/anv_story_01/sequel"
+      ]
+    ]
+  },
+  "108": {
+    "1": [
+      [
+        "anv1_release_event",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/anv1_release_event_002",
+        "quest/event/banner/story_event/anv1_release_event_002_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "109": {
+    "1": [
+      [
+        "new_character_pickup_24",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_24",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "110": {
+    "1": [
+      [
+        "new_character_pickup_25",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_25",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "111": {
+    "1": [
+      [
+        "revival_19xmas_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_19xmas_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "112": {
+    "1": [
+      [
+        "event_advent_xm20",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/event_advent_xm20",
+        "quest/event/banner/advent_event/event_advent_xm20",
+        "quest/event/bossbattle_banner/advent_event/advent_event_xm20"
+      ]
+    ]
+  },
+  "113": {
+    "1": [
+      [
+        "xm20_white_tiger",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/xm20_white_tiger",
+        "quest/event/banner/story_event/xm20_white_tiger_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "114": {
+    "1": [
+      [
+        "new_character_pickup_27",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_27",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "115": {
+    "1": [
+      [
+        "xm20_dryad",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/xm20_dryad",
+        "quest/event/banner/story_event/xm20_dryad_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "116": {
+    "1": [
+      [
+        "equipment_pickup_6",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/equipment_pickup_6",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "117": {
+    "1": [
+      [
+        "black_jammer_healer_chara_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/black_jammer_healer_chara_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "118": {
+    "1": [
+      [
+        "ny21_cat_fighter",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/ny21_cat_fighter",
+        "quest/event/banner/story_event/ny21_cat_fighter_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "119": {
+    "1": [
+      [
+        "newyear21_event",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/newyear21_event_banner",
+        "quest/event/banner/story_event/newyear21_event_002_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "120": {
+    "1": [
+      [
+        "new_character_pickup_28",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_28",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "121": {
+    "1": [
+      [
+        "bossbattle_pickup_ny21",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/bossbattle_multi_pickup_event_home_banner_ny",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "122": {
+    "1": [
+      [
+        "shop_fukubukuro_2021",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/fukubukuro_2021",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "123": {
+    "1": [
+      [
+        "revival_20ny_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_20ny_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "124": {
+    "1": [
+      [
+        "event_advent_Rcollab",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_Rcollab_banner",
+        "quest/event/banner/advent_event/advent_Rcollab_event_banner",
+        "quest/event/bossbattle_banner/advent_event/advent_event_Rcollab_banner"
+      ]
+    ]
+  },
+  "125": {
+    "1": [
+      [
+        "new_character_pickup_rcollab_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_rcollab_1",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "126": {
+    "1": [
+      [
+        "special_exchange_character_03",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/special_exchange_campaign_03",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "127": {
+    "1": [
+      [
+        "new_character_pickup_29",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_29",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "128": {
+    "1": [
+      [
+        "time_attack_event_green_001",
+        "1",
+        "2022-12-15 12:00:00",
+        "2022-12-25 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_green_home",
+        "quest/event/banner/time_attack_event/time_attack_event_green_001",
+        "(None)"
+      ]
+    ],
+    "2": [
+      [
+        "time_attack_event_green_001",
+        "1",
+        "2022-12-25 12:00:00",
+        "2022-12-29 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_green_home_check",
+        "quest/event/banner/time_attack_event/time_attack_event_green_002",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "time_attack_event_green_001",
+        "1",
+        "2022-12-29 12:00:00",
+        "2023-01-05 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_green_home_result",
+        "quest/event/banner/time_attack_event/time_attack_event_green_003",
+        "(None)"
+      ]
+    ]
+  },
+  "129": {
+    "1": [
+      [
+        "valentine21_event",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/valentine21_event_banner",
+        "quest/event/banner/story_event/valentine21_event_001_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "130": {
+    "1": [
+      [
+        "new_character_pickup_30",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_30",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "131": {
+    "1": [
+      [
+        "event_valen_21",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/story_event/valen_21/valen_21",
+        "quest/event/banner/story_event/valen_21/valen_21",
+        "(None)"
+      ]
+    ]
+  },
+  "132": {
+    "1": [
+      [
+        "new_character_pickup_31",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_31",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "133": {
+    "1": [
+      [
+        "event_advent_discarded_dragon_water2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_05",
+        "quest/event/banner/advent_event/advent_event_banner_05",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_05"
+      ]
+    ]
+  },
+  "134": {
+    "1": [
+      [
+        "yellow_element_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/yellow_element_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "135": {
+    "1": [
+      [
+        "campaign_battle_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/campaign_battle/210126_01/timeattack",
+        "quest/event/banner/sudden_event/campaign_battle/210126_01/timeattack",
+        "(None)"
+      ]
+    ]
+  },
+  "136": {
+    "1": [
+      [
+        "new_character_pickup_32",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_32",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "137": {
+    "1": [
+      [
+        "star_heroes_5",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_5",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "138": {
+    "1": [
+      [
+        "event_advent_discarded_dragon_wind",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_08",
+        "quest/event/banner/advent_event/advent_event_banner_08",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_08"
+      ]
+    ]
+  },
+  "139": {
+    "1": [
+      [
+        "new_character_pickup_33",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_33",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "140": {
+    "1": [
+      [
+        "new_character_pickup_34",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_34",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "141": {
+    "1": [
+      [
+        "event_fakeprincess01_re01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/world_story_event/fakeprincess01/prequel",
+        "quest/event/banner/world_story_event/fakeprincess01/prequel",
+        "quest/event/bossbattle_banner/world_story_event/fakeprincess01/prequel"
+      ]
+    ]
+  },
+  "142": {
+    "1": [
+      [
+        "equipment_pickup_7",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/equipment_pickup_7",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "143": {
+    "1": [
+      [
+        "blue_element_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/blue_element_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "144": {
+    "1": [
+      [
+        "desert_bonds_01",
+        "1",
+        "2023-02-09 12:00:00",
+        "2023-02-16 11:59:59",
+        "dynamic/home_banner/event/world_story_event/desert_bonds_01/prequel",
+        "quest/event/banner/world_story_event/desert_bonds_01/prequel",
+        "quest/event/bossbattle_banner/world_story_event/desert_bonds_01/prequel"
+      ]
+    ],
+    "2": [
+      [
+        "desert_bonds_01",
+        "1",
+        "2023-02-16 12:00:00",
+        "2023-03-02 11:59:59",
+        "dynamic/home_banner/event/world_story_event/desert_bonds_01/sequel",
+        "quest/event/banner/world_story_event/desert_bonds_01/sequel",
+        "quest/event/bossbattle_banner/world_story_event/desert_bonds_01/sequel"
+      ]
+    ]
+  },
+  "145": {
+    "1": [
+      [
+        "new_character_pickup_35",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_35",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "146": {
+    "1": [
+      [
+        "release500day_event",
+        "1",
+        "2023-02-16 12:00:00",
+        "2023-02-26 11:59:59",
+        "dynamic/home_banner/event/sudden_event/release500day_event_001",
+        "quest/event/banner/story_event/release500day_event_001_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "147": {
+    "1": [
+      [
+        "common_character_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/common_character_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "148": {
+    "1": [
+      [
+        "special_exchange_equipment_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/special_exchange_equipment_campaign_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "149": {
+    "1": [
+      [
+        "revival_smr20_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_smr20_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "150": {
+    "1": [
+      [
+        "event_summer_2020_re01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/world_story_event/summer_2020/prequel",
+        "quest/event/banner/world_story_event/summer_2020/prequel",
+        "quest/event/bossbattle_banner/world_story_event/summer_2020/prequel"
+      ]
+    ]
+  },
+  "151": {
+    "1": [
+      [
+        "revival_smr20_character_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_smr20_character_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "152": {
+    "1": [
+      [
+        "new_character_pickup_dummy_data_4",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_dummy_data_4",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "153": {
+    "1": [
+      [
+        "time_attack_event_yellow_001",
+        "1",
+        "2023-03-02 12:00:00",
+        "2023-03-12 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_yellow_home",
+        "quest/event/banner/time_attack_event/time_attack_event_yellow_001",
+        "(None)"
+      ]
+    ],
+    "2": [
+      [
+        "time_attack_event_yellow_001",
+        "1",
+        "2023-03-12 12:00:00",
+        "2023-03-16 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_yellow_home_check",
+        "quest/event/banner/time_attack_event/time_attack_event_yellow_002",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "time_attack_event_yellow_001",
+        "1",
+        "2023-03-16 12:00:00",
+        "2023-03-23 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_yellow_home_result",
+        "quest/event/banner/time_attack_event/time_attack_event_yellow_003",
+        "(None)"
+      ]
+    ]
+  },
+  "154": {
+    "1": [
+      [
+        "user_questionnaire_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/user_questionnaire_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "155": {
+    "1": [
+      [
+        "new_character_pickup_36",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_36",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "156": {
+    "1": [
+      [
+        "bossbattle_pickup_11",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/bossbattle_multi_pickup_event_home_banner_04",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "157": {
+    "1": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-02-26 12:00:00",
+        "2023-02-27 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_01",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "2": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-02-27 12:00:00",
+        "2023-02-28 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_02",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-02-28 12:00:00",
+        "2023-03-01 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_03",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "4": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-03-01 12:00:00",
+        "2023-03-02 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_04",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "5": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-03-02 12:00:00",
+        "2023-03-03 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_05",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "6": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-03-03 12:00:00",
+        "2023-03-04 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_06",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "7": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-03-04 12:00:00",
+        "2023-03-05 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_07",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "8": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-03-05 12:00:00",
+        "2023-03-06 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_08",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "9": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-03-06 12:00:00",
+        "2023-03-07 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_09",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ],
+    "10": [
+      [
+        "anv1half_countdown_event",
+        "1",
+        "2023-03-07 12:00:00",
+        "2023-03-08 11:59:59",
+        "dynamic/home_banner/event/sudden_event/anv1half_countdown_banner_10",
+        "quest/event/banner/story_event/anv1half_countdown_event_002_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "158": {
+    "1": [
+      [
+        "new_character_pickup_37",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_37",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "159": {
+    "1": [
+      [
+        "event_advent_Gcollab",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_Gcollab_banner",
+        "quest/event/banner/advent_event/advent_Gcollab_event_banner",
+        "quest/event/bossbattle_banner/advent_event/advent_event_Gcollab_banner"
+      ]
+    ]
+  },
+  "160": {
+    "1": [
+      [
+        "rooot_anv1half",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/rooot_anv1sthalf",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "161": {
+    "1": [
+      [
+        "new_character_pickup_38",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_38",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "162": {
+    "1": [
+      [
+        "anv1half_release_event",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/anv1half_release_event_001",
+        "quest/event/banner/story_event/anv1half_release_event_001",
+        "(None)"
+      ]
+    ]
+  },
+  "163": {
+    "1": [
+      [
+        "anv1half_multibattle_campaign",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/anv1half_multibattle_campaign",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "164": {
+    "1": [
+      [
+        "haniwa_carnival_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/haniwa_carnival/haniwa_carnival_01",
+        "quest/event/banner/haniwa_carnival/haniwa_carnival_01",
+        "(None)"
+      ]
+    ]
+  },
+  "165": {
+    "1": [
+      [
+        "revival_half_aniv_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_half_aniv_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "166": {
+    "1": [
+      [
+        "event_cyberpunk02_hero",
+        "1",
+        "2023-03-09 12:00:00",
+        "2023-03-16 11:59:59",
+        "dynamic/home_banner/event/world_story_event/cyberpunk02_hero/prequel",
+        "quest/event/banner/world_story_event/cyberpunk02_hero/prequel",
+        "quest/event/bossbattle_banner/world_story_event/cyberpunk02_hero/prequel"
+      ]
+    ],
+    "2": [
+      [
+        "event_cyberpunk02_hero",
+        "1",
+        "2023-03-16 12:00:00",
+        "2023-04-01 11:59:59",
+        "dynamic/home_banner/event/world_story_event/cyberpunk02_hero/sequel",
+        "quest/event/banner/world_story_event/cyberpunk02_hero/sequel",
+        "quest/event/bossbattle_banner/world_story_event/cyberpunk02_hero/sequel"
+      ]
+    ]
+  },
+  "167": {
+    "1": [
+      [
+        "special_exchange_character_04",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/special_exchange_campaign_04",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "168": {
+    "1": [
+      [
+        "new_character_pickup_39",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_39",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "169": {
+    "1": [
+      [
+        "1half_anniversary_special_set",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/1half_anniversary_special_set",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "170": {
+    "1": [
+      [
+        "bossbattle_pickup_12",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/bossbattle_multi_pickup_event_home_banner_04",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "171": {
+    "1": [
+      [
+        "yellow_element_character_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/yellow_element_character_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "172": {
+    "1": [
+      [
+        "white_element_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/white_element_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "173": {
+    "1": [
+      [
+        "new_character_pickup_40",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_40",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "174": {
+    "1": [
+      [
+        "common_character_pickup_03",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/common_character_pickup_03",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "175": {
+    "1": [
+      [
+        "event_advent_spirit_beast_thunder",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_spirit_beast_thunder",
+        "quest/event/banner/advent_event/advent_event_spirit_beast_thunder",
+        "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_thunder"
+      ]
+    ]
+  },
+  "176": {
+    "1": [
+      [
+        "new_character_pickup_41",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_41",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "177": {
+    "1": [
+      [
+        "star_heroes_6",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_6",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "178": {
+    "1": [
+      [
+        "common_character_pickup_04",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/common_character_pickup_04",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "179": {
+    "1": [
+      [
+        "release600day_event",
+        "1",
+        "2021-07-18 12:00:00",
+        "2021-07-28 11:59:59",
+        "dynamic/home_banner/event/sudden_event/release600day_event_001",
+        "quest/event/banner/story_event/release600day_event_001_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "180": {
+    "1": [
+      [
+        "yokai_emaki_01_re01",
+        "1",
+        "2021-07-16 12:00:00",
+        "2021-08-03 04:59:59",
+        "dynamic/home_banner/event/world_story_event/yokai_emaki_01/prequel",
+        "quest/event/banner/world_story_event/yokai_emaki_01/prequel",
+        "quest/event/bossbattle_banner/world_story_event/yokai_emaki_01/prequel"
+      ]
+    ]
+  },
+  "181": {
+    "1": [
+      [
+        "time_attack_event_red_001",
+        "1",
+        "2021-07-16 12:00:00",
+        "2021-07-24 20:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_red_home",
+        "quest/event/banner/time_attack_event/time_attack_event_red_001",
+        "(None)"
+      ]
+    ],
+    "2": [
+      [
+        "time_attack_event_red_001",
+        "1",
+        "2021-07-24 21:00:00",
+        "2021-07-27 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_red_home_check",
+        "quest/event/banner/time_attack_event/time_attack_event_red_002",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "time_attack_event_red_001",
+        "1",
+        "2021-07-27 12:00:00",
+        "2021-08-03 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_red_home_result",
+        "quest/event/banner/time_attack_event/time_attack_event_red_003",
+        "(None)"
+      ]
+    ]
+  },
+  "182": {
+    "1": [
+      [
+        "new_character_pickup_42",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_42",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "183": {
+    "1": [
+      [
+        "common_character_pickup_05",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/common_character_pickup_05",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "184": {
+    "1": [
+      [
+        "summer_2021",
+        "1",
+        "2021-07-31 12:00:00",
+        "2021-08-05 11:59:59",
+        "dynamic/home_banner/event/world_story_event/summer_2021/prequel",
+        "quest/event/banner/world_story_event/summer_2021/prequel",
+        "quest/event/bossbattle_banner/world_story_event/summer_2021/prequel"
+      ]
+    ],
+    "2": [
+      [
+        "summer_2021",
+        "1",
+        "2021-08-05 12:00:00",
+        "2021-08-20 04:59:59",
+        "dynamic/home_banner/event/world_story_event/summer_2021/sequel",
+        "quest/event/banner/world_story_event/summer_2021/sequel",
+        "quest/event/bossbattle_banner/world_story_event/summer_2021/sequel"
+      ]
+    ]
+  },
+  "185": {
+    "1": [
+      [
+        "haniwa_carnival_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/haniwa_carnival/haniwa_carnival_02",
+        "quest/event/banner/haniwa_carnival/haniwa_carnival_02",
+        "(None)"
+      ]
+    ]
+  },
+  "186": {
+    "1": [
+      [
+        "new_character_pickup_43",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_43",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "187": {
+    "1": [
+      [
+        "common_character_pickup_06",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/common_character_pickup_06",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "188": {
+    "1": [
+      [
+        "blue_element_character_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/blue_element_character_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "189": {
+    "1": [
+      [
+        "event_cyberpunk01_side_story_event",
+        "0",
+        "",
+        "",
+        "(None)",
+        "quest/event/banner/world_story_event/cyberpunk01_re01/cyberpunk01_re01",
+        "(None)"
+      ]
+    ]
+  },
+  "190": {
+    "1": [
+      [
+        "event_fakeprincess01_side_story_event",
+        "0",
+        "",
+        "",
+        "(None)",
+        "quest/event/banner/world_story_event/fakeprincess01/prequel",
+        "(None)"
+      ]
+    ]
+  },
+  "191": {
+    "1": [
+      [
+        "event_summer_2020_side_story_event",
+        "0",
+        "",
+        "",
+        "(None)",
+        "quest/event/banner/world_story_event/summer_2020/prequel",
+        "(None)"
+      ]
+    ]
+  },
+  "192": {
+    "1": [
+      [
+        "side_story_event_home_banner",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/side_story_event_home_banner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "193": {
+    "1": [
+      [
+        "event_yokai_emaki_01_side_story_event",
+        "0",
+        "",
+        "",
+        "(None)",
+        "quest/event/banner/world_story_event/yokai_emaki_01/prequel",
+        "(None)"
+      ]
+    ]
+  },
+  "197": {
+    "1": [
+      [
+        "collect_item_event_010",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/collect_item_event_template",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "198": {
+    "1": [
+      [
+        "release650day_event",
+        "1",
+        "2021-09-06 12:00:00",
+        "2021-09-16 11:59:59",
+        "dynamic/home_banner/event/sudden_event/release650day_event_001",
+        "quest/event/banner/story_event/release650day_event_001_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "199": {
+    "1": [
+      [
+        "bossbattle_pickup_13",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/bossbattle_multi_pickup_event_home_banner_04",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "200": {
+    "1": [
+      [
+        "new_character_pickup_45",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_45",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "201": {
+    "1": [
+      [
+        "red_element_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/red_element_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "202": {
+    "1": [
+      [
+        "treasure_cave_quest",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/treasure_cave_quest",
+        "quest/event/banner/treasure_cave_quest/treasure_cave_quest_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "203": {
+    "1": [
+      [
+        "collect_item_event_fall_001",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/collect_item_event_fall_001",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "204": {
+    "1": [
+      [
+        "new_character_pickup_46",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_46",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "205": {
+    "1": [
+      [
+        "event_advent_spirit_beast_water",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_spirit_beast_water",
+        "quest/event/banner/advent_event/advent_event_spirit_beast_water",
+        "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_water"
+      ]
+    ]
+  },
+  "206": {
+    "1": [
+      [
+        "yellow_element_character_pickup_03",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/yellow_element_character_pickup_03",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "207": {
+    "1": [
+      [
+        "special_exchange_character_05",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/special_exchange_campaign_05",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "208": {
+    "1": [
+      [
+        "crown_beasts",
+        "1",
+        "2021-09-30 12:00:00",
+        "2021-10-27 04:59:59",
+        "dynamic/home_banner/event/world_story_event/crown_beasts/crown_beasts",
+        "quest/event/banner/world_story_event/crown_beasts/crown_beasts",
+        "quest/event/bossbattle_banner/world_story_event/crown_beasts/crown_beasts"
+      ]
+    ]
+  },
+  "209": {
+    "1": [
+      [
+        "new_character_pickup_47",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_47",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "210": {
+    "1": [
+      [
+        "common_character_pickup_07",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/common_character_pickup_07",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "211": {
+    "1": [
+      [
+        "release700day_event",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/release700day_event_001",
+        "quest/event/banner/story_event/release700day_event_001_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "212": {
+    "1": [
+      [
+        "haniwa_carnival_03",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/haniwa_carnival/haniwa_carnival_03",
+        "quest/event/banner/haniwa_carnival/haniwa_carnival_03",
+        "(None)"
+      ]
+    ]
+  },
+  "213": {
+    "1": [
+      [
+        "revival_hw20_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_hw20_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "214": {
+    "1": [
+      [
+        "event_advent_hw21",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/event_advent_hw20",
+        "quest/event/banner/advent_event/event_advent_hw20",
+        "quest/event/bossbattle_banner/advent_event/advent_event_hw20"
+      ]
+    ]
+  },
+  "215": {
+    "1": [
+      [
+        "new_character_pickup_47_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_47",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "216": {
+    "1": [
+      [
+        "new_character_pickup_48",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_48",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "217": {
+    "1": [
+      [
+        "encyclopedia",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/encyclopedia_home_banner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "218": {
+    "1": [
+      [
+        "equipment_pickup_8",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/equipment_pickup_8",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "219": {
+    "1": [
+      [
+        "user_questionnaire_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/user_questionnaire_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "220": {
+    "1": [
+      [
+        "new_character_pickup_49",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_49",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "221": {
+    "1": [
+      [
+        "new_character_pickup_50",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_50",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "222": {
+    "1": [
+      [
+        "anv1_re01",
+        "1",
+        "2021-11-11 12:00:00",
+        "2021-11-27 04:59:59",
+        "dynamic/home_banner/event/world_story_event/anv_story_01/prequel",
+        "quest/event/banner/world_story_event/anv_story_01/prequel",
+        "quest/event/bossbattle_banner/world_story_event/anv_story_01/prequel"
+      ]
+    ]
+  },
+  "223": {
+    "1": [
+      [
+        "bossbattle_pickup_14",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/bossbattle_multi_pickup_event_home_banner_05",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "225": {
+    "1": [
+      [
+        "yokai_emaki_01_side_story_event",
+        "0",
+        "",
+        "",
+        "(None)",
+        "quest/event/banner/world_story_event/yokai_emaki_01/prequel",
+        "(None)"
+      ]
+    ]
+  },
+  "226": {
+    "1": [
+      [
+        "anv1_side_story_event",
+        "0",
+        "",
+        "",
+        "(None)",
+        "quest/event/banner/world_story_event/anv_story_01/prequel",
+        "(None)"
+      ]
+    ]
+  },
+  "227": {
+    "1": [
+      [
+        "revival_1halfanv_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_1halfanv_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "228": {
+    "1": [
+      [
+        "twitter_check_misson_banner",
+        "1",
+        "2099-11-27 12:00:00",
+        "(None)",
+        "dynamic/home_banner/etc/official_twitter_home_banner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "229": {
+    "1": [
+      [
+        "anv2_release_event",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/anv2_release_event_001",
+        "quest/event/banner/story_event/anv2_release_event_001_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "230": {
+    "1": [
+      [
+        "anv2_multibattle_campaign",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/anv2nd_multibattle_campaign",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "231": {
+    "1": [
+      [
+        "special_exchange_character_06",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/special_exchange_campaign_06",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "232": {
+    "1": [
+      [
+        "rooot_anv2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/rooot_anv2",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "233": {
+    "1": [
+      [
+        "anv2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/world_story_event/anv2/anv2",
+        "quest/event/banner/world_story_event/anv2/anv2",
+        "quest/event/bossbattle_banner/world_story_event/anv2/anv2"
+      ]
+    ]
+  },
+  "234": {
+    "1": [
+      [
+        "new_character_pickup_51",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_51",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "235": {
+    "1": [
+      [
+        "raid_event_01",
+        "1",
+        "2021-11-27 12:00:00",
+        "2021-12-16 20:59:59",
+        "dynamic/home_banner/event/raid_event/raid_event_home_banner_01_001",
+        "quest/event/banner/raid_event/raid_event_banner_01_001",
+        "quest/event/bossbattle_banner/raid_event/raid_event_bossbattle_banner_01"
+      ]
+    ],
+    "2": [
+      [
+        "raid_event_01",
+        "1",
+        "2021-12-16 21:00:00",
+        "2021-12-18 11:59:59",
+        "dynamic/home_banner/event/raid_event/raid_event_home_banner_01_002",
+        "quest/event/banner/raid_event/raid_event_banner_01_002",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "raid_event_01",
+        "1",
+        "2021-12-18 12:00:00",
+        "2021-12-24 04:59:59",
+        "dynamic/home_banner/event/raid_event/raid_event_home_banner_01_003",
+        "quest/event/banner/raid_event/raid_event_banner_01_003",
+        "(None)"
+      ]
+    ]
+  },
+  "236": {
+    "1": [
+      [
+        "2_anniversary_special_set",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/2_anniversary_special_set",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "237": {
+    "1": [
+      [
+        "comeback_gacha",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/comeback_gacha",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "238": {
+    "1": [
+      [
+        "release750day_event",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/sudden_event/release750day_event_001",
+        "quest/event/banner/story_event/release750day_event_001_banner",
+        "(None)"
+      ]
+    ]
+  },
+  "239": {
+    "1": [
+      [
+        "new_character_pickup_52",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_52",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "240": {
+    "1": [
+      [
+        "new_character_pickup_53",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_53",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "241": {
+    "1": [
+      [
+        "collect_item_event_011",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/collect_item_event_003",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "242": {
+    "1": [
+      [
+        "event_advent_xm21",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/event_advent_xm21",
+        "quest/event/banner/advent_event/event_advent_xm21",
+        "quest/event/bossbattle_banner/advent_event/advent_event_xm21"
+      ]
+    ]
+  },
+  "243": {
+    "1": [
+      [
+        "haniwa_carnival_04",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/haniwa_carnival/haniwa_carnival_04",
+        "quest/event/banner/haniwa_carnival/haniwa_carnival_04",
+        "(None)"
+      ]
+    ]
+  },
+  "244": {
+    "1": [
+      [
+        "revival_xm20_character_pickup_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_xm20_character_pickup_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7784": {
+    "1": [
+      [
+        "event_advent_Zcollab",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_Zcollab_banner",
+        "quest/event/banner/advent_event/advent_Zcollab_event_banner",
+        "quest/event/bossbattle_banner/advent_event/advent_event_Zcollab_banner"
+      ]
+    ]
+  },
+  "7786": {
+    "1": [
+      [
+        "newnormal_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/no_pickup_world_flipper_gacha",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7787": {
+    "1": [
+      [
+        "payment_newstone_set_banner1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/newstone_set_banner1",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7788": {
+    "1": [
+      [
+        "payment_newstone_set_banner2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/newstone_set_banner2",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7789": {
+    "1": [
+      [
+        "payment_newstone_set_banner3",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/newstone_set_banner3",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7790": {
+    "1": [
+      [
+        "payment_newstone_set_banner4",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/newstone_set_banner4",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7791": {
+    "1": [
+      [
+        "payment_newstone_set_banner5",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/newstone_set_banner5",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7792": {
+    "1": [
+      [
+        "growthfund2021",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/growth_fund",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7793": {
+    "1": [
+      [
+        "growthfund_homebanner_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/growth_fund_sec",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7794": {
+    "1": [
+      [
+        "little_cake_homebanner",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/little_cake_homebanner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7795": {
+    "1": [
+      [
+        "little_cake_homebanner_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/little_cake_sec",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7796": {
+    "2": [
+      [
+        "adventurer_pack_01",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/adventurer_pack_01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7797": {
+    "3": [
+      [
+        "adventurer_pack_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/adventurer_pack_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7798": {
+    "4": [
+      [
+        "adventurer_pack_03",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/adventurer_pack_03",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7799": {
+    "5": [
+      [
+        "adventurer_pack_04",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/adventurer_pack_04",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7800": {
+    "1": [
+      [
+        "new_character_pickup_zcollabo_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_zcollabo_1",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7801": {
+    "1": [
+      [
+        "new_character_pickup_zcollabo_2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/new_character_pickup_zcollabo_2",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7802": {
+    "1": [
+      [
+        "springfes_misson_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/springfes_mission_2022",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7803": {
+    "1": [
+      [
+        "april_2022_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/april_2020_sec",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7804": {
+    "1": [
+      [
+        "gacha_black_element_pickup_02",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/black_element_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7805": {
+    "1": [
+      [
+        "halfanv_2022_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/halfanv_2022_sec",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7806": {
+    "1": [
+      [
+        "star_heroes_100",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_100",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7807": {
+    "1": [
+      [
+        "summer2022_campaign_sec",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/special_mission_event_001",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7808": {
+    "1": [
+      [
+        "zcollab_campaign_sec",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/zcollab_mission_event_001",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7809": {
+    "2": [
+      [
+        "green_element_pickup_02_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/green_element_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "1006": {
+    "1": [
+      [
+        "star_heroes_200",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_200",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7811": {
+    "1": [
+      [
+        "gacha_black_element_pickup_03_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/black_element_pickup_02",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "1012": {
+    "1": [
+      [
+        "start_dash_campaign_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/startdash_gacha_homebanner",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "1009": {
+    "1": [
+      [
+        "1stanv_campaign_mission_sec",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/1stanv_mission_event_001",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "1013": {
+    "1": [
+      [
+        "time_attack_event_white_001_1",
+        "1",
+        "2022-10-20 12:00:00",
+        "2022-10-30 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_white_home",
+        "quest/event/banner/time_attack_event/time_attack_event_white_001",
+        "quest/event/bossbattle_banner/time_attack_event/time_attack_event_white01"
+      ]
+    ],
+    "2": [
+      [
+        "time_attack_event_white_001_1",
+        "1",
+        "2022-10-30 12:00:00",
+        "2022-11-03 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_white_home_check",
+        "quest/event/banner/time_attack_event/time_attack_event_white_002",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "time_attack_event_white_001_1",
+        "1",
+        "2022-11-03 12:00:00",
+        "2022-11-10 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_white_home_result",
+        "quest/event/banner/time_attack_event/time_attack_event_white_003",
+        "(None)"
+      ]
+    ]
+  },
+  "1008": {
+    "1": [
+      [
+        "time_attack_event_water_001_1",
+        "1",
+        "2022-09-22 12:00:00",
+        "2022-10-02 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_water_home",
+        "quest/event/banner/time_attack_event/time_attack_event_water_001",
+        "(None)"
+      ]
+    ],
+    "2": [
+      [
+        "time_attack_event_water_001_1",
+        "1",
+        "2022-10-02 12:00:00",
+        "2022-10-09 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_water_home_check",
+        "quest/event/banner/time_attack_event/time_attack_event_water_002",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "time_attack_event_water_001_1",
+        "1",
+        "2022-10-09 12:00:00",
+        "2022-10-13 11:59:59",
+        "dynamic/home_banner/event/time_attack_event/time_attack_water_home_result",
+        "quest/event/banner/time_attack_event/time_attack_event_water_003",
+        "(None)"
+      ]
+    ]
+  },
+  "1010": {
+    "1": [
+      [
+        "holiday_activity_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/holiday_activity_sec",
+        "quest/event/banner/world_story_event/holiday_activity/prequel",
+        "(None)"
+      ]
+    ]
+  },
+  "1011": {
+    "1": [
+      [
+        "star_heroes_201",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_201",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "1014": {
+    "1": [
+      [
+        "new_character_pickup_24_2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/gacha_pickup_anvcharacter01",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "1102": {
+    "1": [
+      [
+        "rcollab_campaign_sec",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/rcollab_mission_event_001",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "110523": {
+    "1": [
+      [
+        "event_advent_discarded_dragon_dark_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/advent_event/advent_event_home_banner_07",
+        "quest/event/banner/advent_event/advent_event_banner_07",
+        "quest/event/bossbattle_banner/advent_event/advent_event_bossbattle_banner_07"
+      ]
+    ]
+  },
+  "7820": {
+    "1": [
+      [
+        "holiday_activity_spring_fes_2023_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/holiday_activity_sec_2023_1",
+        "quest/event/banner/world_story_event/holiday_activity/holiday_2023_1",
+        "(None)"
+      ]
+    ]
+  },
+  "7821": {
+    "1": [
+      [
+        "normal_character_pickup_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/normal_character_pickup_1",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7822": {
+    "1": [
+      [
+        "normal_character_pickup_2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/normal_character_pickup_2",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "7823": {
+    "1": [
+      [
+        "500day_sec",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/release500day_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20000": {
+    "1": [
+      [
+        "1halfanv_campaign_mission_sec",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/1halfanv_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20001": {
+    "1": [
+      [
+        "revival_half_aniv_character_pickup_01_2",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_half_aniv_character_pickup_01_2",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20002": {
+    "1": [
+      [
+        "revival_character_pickup_zcollabo_1",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/revival_character_pickup_zcollabo_1",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20003": {
+    "1": [
+      [
+        "srm21_1_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/srm21_1_campaign_mission",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20005": {
+    "1": [
+      [
+        "srm21_2_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/srm21_2_campaign_mission",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20006": {
+    "1": [
+      [
+        "srm21_3_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/srm21_3_campaign_mission",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20007": {
+    "1": [
+      [
+        "holiday_activity_2023_2_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/holiday_activity_2023_2_sec",
+        "quest/event/banner/world_story_event/holiday_activity/holiday_activity_2023_2_sec",
+        "(None)"
+      ]
+    ]
+  },
+  "20008": {
+    "1": [
+      [
+        "gacha_star_heroes_smr21",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/gacha_star_heroes_smr21",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20009": {
+    "1": [
+      [
+        "gacha_fukubukuro_2023",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/payment/gacha_fukubukuro_2023",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20010": {
+    "1": [
+      [
+        "halloween21_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/halloween21_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20011": {
+    "1": [
+      [
+        "gacha_star_heroes_202307",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/gacha/star_heroes_202307",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20012": {
+    "1": [
+      [
+        "2ndanv_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/2ndanv_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20013": {
+    "1": [
+      [
+        "collect_item_event_thunderdoor_202308",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/event/collect_item_event_202308",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20014": {
+    "1": [
+      [
+        "holiday_activity_2023_3_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/holiday_activity_2023_2_sec",
+        "quest/event/banner/world_story_event/holiday_activity/holiday_activity_2023_2_sec",
+        "(None)"
+      ]
+    ]
+  },
+  "20015": {
+    "1": [
+      [
+        "rcollab_revival_campaign_sec",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/rcollab_mission_event_001",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20016": {
+    "1": [
+      [
+        "spring22_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/spring22_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20017": {
+    "1": [
+      [
+        "gw22_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/gw22_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20018": {
+    "1": [
+      [
+        "holiday_activity_2024_02_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/holiday_activity_2024_02_sec",
+        "quest/event/banner/world_story_event/holiday_activity/holiday_activity_2024_02_sec",
+        "(None)"
+      ]
+    ]
+  },
+  "20019": {
+    "1": [
+      [
+        "2halfanv_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/2halfanv_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "22000": {
+    "1": [
+      [
+        "treasure_vault_weapon_2024_1",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/srm21_1_campaign_mission",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "22001": {
+    "1": [
+      [
+        "treasure_vault_weapon_2024_2",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/srm21_1_campaign_mission",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "22002": {
+    "1": [
+      [
+        "active_mission_step_up",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/etc/stepup_mission",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "22003": {
+    "1": [
+      [
+        "come_back_mission_01",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/gw22_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "22004": {
+    "1": [
+      [
+        "battle_pass_homebanner_sec",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/battle_pass_homebanner_sec",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20021": {
+    "1": [
+      [
+        "summer22_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/summer22_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20022": {
+    "1": [
+      [
+        "holiday_activity_2024_05_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/holiday_activity_2024_05_sec",
+        "quest/event/banner/world_story_event/holiday_activity/holiday_activity_2024_05_sec",
+        "(None)"
+      ]
+    ]
+  },
+  "20023": {
+    "1": [
+      [
+        "halloween22_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/halloween22_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20024": {
+    "1": [
+      [
+        "anv3_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/anv3_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20025": {
+    "1": [
+      [
+        "newyear23_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/newyear23_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20026": {
+    "1": [
+      [
+        "holiday_activity_2024_10_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/holiday_activity_2024_10_sec",
+        "quest/event/banner/world_story_event/holiday_activity/holiday_activity_2024_10_sec",
+        "(None)"
+      ]
+    ]
+  },
+  "20020": {
+    "1": [
+      [
+        "u_collabo_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/u_collabo_mission_event_001",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  }
+}
