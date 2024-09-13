@@ -1484,6 +1484,28 @@
       "2024-08-01 23:59:59"
     ]
   ],
+  "boss_battle_multi_pickup_event23": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2024-10-03 12:00:00",
+      "2024-10-11 23:59:59"
+    ]
+  ],
+  "boss_battle_advent_multi_pickup_event_3": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2023-03-22 12:00:00",
+      "2023-03-31 20:59:59"
+    ]
+  ],
   "boss_battle_multi_light_water_orochi_pickup_20230623_20230630": [
     [
       "help_event_boss_battle_multi_pickup",
