@@ -674,25 +674,25 @@
   "steampunk_wind_multi": {
     "20": [
       [
-        "翠机兵克拉格",
+        "碧机兵克拉格",
         "battle/enemy/boss/steampunk_wind_multi1"
       ]
     ],
     "50": [
       [
-        "翠机兵克拉格",
+        "碧机兵克拉格",
         "battle/enemy/boss/steampunk_wind_multi2"
       ]
     ],
     "70": [
       [
-        "翠机兵克拉格",
+        "碧机兵克拉格",
         "battle/enemy/boss/steampunk_wind_multi3"
       ]
     ],
     "80": [
       [
-        "翠机兵克拉格",
+        "碧机兵克拉格",
         "battle/enemy/boss/steampunk_wind_multi4"
       ]
     ]
@@ -700,7 +700,7 @@
   "steampunk_wind_hard_multi": {
     "100": [
       [
-        "翠机兵克拉格",
+        "碧机兵克拉格",
         "battle/enemy/boss/steampunk_wind_hard_multi"
       ]
     ]

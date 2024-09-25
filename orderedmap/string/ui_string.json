@@ -166,7 +166,7 @@
   ],
   "system_lock_hard_multi_green": [
     [
-      "满足以下条件后将解锁共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在降临讨伐「翠愁机兵」中通关「翠机兵克拉格 超级」"
+      "满足以下条件后将解锁共同决战\n・玩家等级达到::need_player_rank::\n・在摇曳的迷宫 崩坏域中通关「临境域 深渊之兽」\n・在降临讨伐「碧愁机兵」中通关「碧机兵克拉格 超级」"
     ]
   ],
   "system_lock_hard_multi_blue": [
@@ -4771,7 +4771,7 @@
   ],
   "conversion_to_exp_how_to_play": [
     [
-      "可以将不需要的重复角色\n或角色自身转换为经验值\n\n若将角色自身转换为经验值\n则该名角色将消失\n\n即便再次获得该角色\n也无法继承现有状态\n\n※转换扭蛋中获得的角色时\n将获得星之粒"
+      "可以将不需要的重复角色\n转换为经验值\n\n重复数为0的时候\n不能转化为经验值\n\n※转换扭蛋中获得的角色时\n将获得星之粒"
     ]
   ],
   "nocheck_dialog_message": [
@@ -5386,7 +5386,7 @@
   ],
   "help_label_event_hard_multi_wind": [
     [
-      "共同决战 翠愁机兵"
+      "共同决战 碧愁机兵"
     ]
   ],
   "help_label_event_hard_multi_water": [
@@ -12201,7 +12201,7 @@
   ],
   "score_attack_event_quest_select_next_event_date": [
     [
-      "活动更新后<font color='#ffcc1c'>::time::</font>::unit::"
+      "距离活动更新<font color='#ffcc1c'>::time::</font>::unit::"
     ]
   ],
   "score_attack_event_remaining_time_label": [
@@ -16011,7 +16011,7 @@
   ],
   "help_label_event_advent_steam_robot_wind": [
     [
-      "降临讨伐 翠愁机兵"
+      "降临讨伐 碧愁机兵"
     ]
   ],
   "help_label_event_advent_steam_robot_water": [

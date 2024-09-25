@@ -1274,7 +1274,7 @@
     [
       "advent_steam_robot_wind",
       "(None)",
-      "翠愁の机兵",
+      "碧愁机兵",
       "",
       "quest/event/banner/advent_event/advent_event_steam_robot_wind",
       "quest/event/bossbattle_banner/advent_event/advent_event_steam_robot_wind",
@@ -1296,9 +1296,9 @@
       "true",
       "advent_steam_robot_wind",
       "true",
-      "2023-02-28 12:00:00",
-      "2023-03-14 20:59:59",
-      "2023-03-22 04:59:59"
+      "2024-10-11 12:00:00",
+      "2024-10-24 23:59:59",
+      "2024-11-01 11:59:59"
     ]
   ],
   "200018": [
@@ -1429,7 +1429,7 @@
     [
       "kc_summer_2021",
       "(None)",
-      "クグイとリョウキの特別訓練！",
+      "鹄和凉月的特别训练！",
       "",
       "quest/event/banner/advent_event/event_kc",
       "quest/event/bossbattle_banner/advent_event/event_kc",
@@ -1451,9 +1451,9 @@
       "false",
       "kc",
       "true",
-      "2023-03-14 12:00:00",
-      "2023-03-31 20:59:59",
-      "2023-04-07 04:59:59"
+      "2024-10-24 12:00:00",
+      "2024-11-07 23:59:59",
+      "2024-11-15 11:59:59"
     ]
   ],
   "200063": [
@@ -1615,7 +1615,7 @@
     [
       "boss_epuration_event_02",
       "200013",
-      "清剿者讨伐战",
+      "歼灭者讨伐战",
       "",
       "quest/event/banner/advent_event/boss_epuration_event_01",
       "quest/event/bossbattle_banner/advent_event/boss_epuration_event_01",
@@ -1637,9 +1637,9 @@
       "true",
       "boss_epuration_event_01",
       "true",
-      "2023-03-07 12:00:00",
-      "2023-03-21 20:59:59",
-      "2023-03-29 04:59:59"
+      "2024-10-24 12:00:00",
+      "2024-11-07 23:59:59",
+      "2024-11-15 11:59:59"
     ]
   ],
   "200013": [
@@ -2266,7 +2266,7 @@
     [
       "advent_spirit_beast_fire3",
       "(None)",
-      "炎嗟精灵兽",
+      "怨炎精灵兽",
       "",
       "quest/event/banner/advent_event/advent_event_spirit_beast_fire",
       "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_fire",
@@ -2288,9 +2288,9 @@
       "true",
       "advent_spirit_beast_fire",
       "true",
-      "2023-03-07 12:00:00",
-      "2023-03-21 20:59:59",
-      "2023-03-29 04:59:59"
+      "2024-10-17 12:00:00",
+      "2024-10-31 23:59:59",
+      "2024-11-08 11:59:59"
     ]
   ],
   "200005": [

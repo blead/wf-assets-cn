@@ -33,7 +33,7 @@
     [
       "hard_multi_steam_robot_wind",
       "(None)",
-      "共同决战【翠愁の机兵】",
+      "共同决战【碧愁机兵】",
       "",
       "quest/event/banner/hard_multi/hard_multi_event_steam_robot_wind",
       "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_wind",
@@ -54,9 +54,9 @@
       "false",
       "hard_multi_steam_robot_wind",
       "event_hard_multi_wind",
-      "2023-02-28 12:00:00",
-      "2023-03-14 20:59:59",
-      "2023-03-22 04:59:59"
+      "2024-10-11 12:00:00",
+      "2024-10-24 23:59:59",
+      "2024-11-01 11:59:59"
     ]
   ],
   "3": [
@@ -183,7 +183,7 @@
     [
       "hard_multi_steam_robot_wind_constant",
       "(None)",
-      "共同决战【翠愁の机兵】",
+      "共同决战【碧愁の机兵】",
       "",
       "quest/event/banner/hard_multi/hard_multi_event_steam_robot_wind",
       "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_wind",
