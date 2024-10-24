@@ -1305,7 +1305,7 @@
     [
       "advent_steam_robot_water",
       "(None)",
-      "蒼歎の机兵",
+      "苍叹机兵",
       "",
       "quest/event/banner/advent_event/advent_event_steam_robot_water",
       "quest/event/bossbattle_banner/advent_event/advent_event_steam_robot_water",
@@ -1327,9 +1327,9 @@
       "true",
       "advent_steam_robot_water",
       "true",
-      "2023-03-31 12:00:00",
-      "2023-04-14 20:59:59",
-      "2023-04-22 04:59:59"
+      "2024-11-07 12:00:00",
+      "2024-11-21 23:59:59",
+      "2024-11-29 11:59:59"
     ]
   ],
   "100009": [
@@ -1367,7 +1367,7 @@
     [
       "kc_yokai_emaki_big_boss",
       "(None)",
-      "クグイとリョウキの特別訓練！",
+      "鹄和凉月的特别训练！",
       "",
       "quest/event/banner/advent_event/event_kc",
       "quest/event/bossbattle_banner/advent_event/event_kc",
@@ -1386,7 +1386,7 @@
       "10000088",
       "10000089",
       "(None)",
-      "false",
+      "true",
       "kc_yokai_emaki_big_boss",
       "true",
       "2023-12-07 12:00:00",
@@ -1398,7 +1398,7 @@
     [
       "kc_summer_2023",
       "(None)",
-      "クグイとリョウキの特別訓練！",
+      "鹄和凉月的特别训练！",
       "",
       "quest/event/banner/advent_event/event_kc",
       "quest/event/bossbattle_banner/advent_event/event_kc",
@@ -1417,7 +1417,7 @@
       "40337",
       "40338",
       "(None)",
-      "false",
+      "true",
       "kc_summer_2023",
       "true",
       "2023-07-14 12:00:00",
@@ -1448,7 +1448,7 @@
       "40328",
       "40329",
       "(None)",
-      "false",
+      "true",
       "kc",
       "true",
       "2024-10-24 12:00:00",
@@ -1460,7 +1460,7 @@
     [
       "kc_hero_big_boss",
       "(None)",
-      "クグイとリョウキの特別訓練！",
+      "鹄和凉月的特别训练！",
       "",
       "quest/event/banner/advent_event/event_kc",
       "quest/event/bossbattle_banner/advent_event/event_kc",
@@ -1479,7 +1479,7 @@
       "40340",
       "40341",
       "(None)",
-      "false",
+      "true",
       "kc_hero_big_boss",
       "true",
       "2023-09-14 12:00:00",
@@ -1491,7 +1491,7 @@
     [
       "kc_guardian_golem_light",
       "(None)",
-      "クグイとリョウキの特別訓練！",
+      "鹄和凉月的特别训练！",
       "",
       "quest/event/banner/advent_event/event_kc",
       "quest/event/bossbattle_banner/advent_event/event_kc",
@@ -1510,7 +1510,7 @@
       "10000039",
       "10000040",
       "(None)",
-      "false",
+      "true",
       "kc_guardian_golem_light",
       "true",
       "2023-10-13 12:00:00",
@@ -1522,7 +1522,7 @@
     [
       "kc_discarded_dragon_water",
       "(None)",
-      "クグイとリョウキの特別訓練！",
+      "鹄和凉月的特别训练！",
       "",
       "quest/event/banner/advent_event/event_kc",
       "quest/event/bossbattle_banner/advent_event/event_kc",
@@ -1541,7 +1541,7 @@
       "10000046",
       "10000051",
       "(None)",
-      "false",
+      "true",
       "kc_discarded_dragon_water",
       "true",
       "2023-11-14 12:00:00",
@@ -1553,7 +1553,7 @@
     [
       "kc_anv1",
       "(None)",
-      "クグイとリョウキの特別訓練！",
+      "鹄和凉月的特别训练！",
       "",
       "quest/event/banner/advent_event/event_kc",
       "quest/event/bossbattle_banner/advent_event/event_kc",
@@ -1572,12 +1572,12 @@
       "40331",
       "40332",
       "(None)",
-      "false",
+      "true",
       "kc_anv1",
       "true",
-      "2023-04-14 12:00:00",
-      "2023-04-28 20:59:59",
-      "2023-05-05 04:59:59"
+      "2024-11-21 12:00:00",
+      "2024-12-05 23:59:59",
+      "2024-12-13 11:59:59"
     ]
   ],
   "300000": [
@@ -2164,9 +2164,9 @@
       "true",
       "advent_spirit_beast_light",
       "true",
-      "2023-04-14 12:00:00",
-      "2023-04-28 20:59:59",
-      "2023-05-06 04:59:59"
+      "2024-11-21 12:00:00",
+      "2024-12-05 23:59:59",
+      "2024-12-13 11:59:59"
     ]
   ],
   "200020": [

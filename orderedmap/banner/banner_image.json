@@ -4610,6 +4610,19 @@
       ]
     ]
   },
+  "20027": {
+    "1": [
+      [
+        "spring23_campaign_mission",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/spring22_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
   "20020": {
     "1": [
       [

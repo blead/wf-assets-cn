@@ -2193,8 +2193,8 @@
     [
       "2000",
       "dynamic/feature_announcement/spring23_campaign_mission",
-      "2023-03-31 12:00:00",
-      "2023-04-14 20:59:59",
+      "2024-11-07 12:00:00",
+      "2024-11-21 23:59:59",
       "false",
       "(None)"
     ]
@@ -2203,8 +2203,8 @@
     [
       "2000",
       "dynamic/feature_announcement/notice_Spring2023_Gacha",
-      "2023-03-31 12:00:00",
-      "2023-04-03 04:59:59",
+      "2024-11-07 12:00:00",
+      "2024-11-10 04:59:59",
       "false",
       "(None)"
     ]
@@ -4453,8 +4453,8 @@
     [
       "2001",
       "dynamic/feature_announcement/hard_multi_event_steam_robot_water",
-      "2023-03-31 12:00:00",
-      "2023-04-14 20:59:59",
+      "2024-11-07 12:00:00",
+      "2024-11-21 23:59:59",
       "false",
       "(None)"
     ]
@@ -4803,8 +4803,8 @@
     [
       "2002",
       "dynamic/feature_announcement/advent_event_steam_robot_water",
-      "2023-03-31 12:00:00",
-      "2023-04-14 20:59:59",
+      "2024-11-07 12:00:00",
+      "2024-11-21 23:59:59",
       "false",
       "(None)"
     ]
@@ -4823,8 +4823,8 @@
     [
       "3000",
       "dynamic/feature_announcement/equipment_yellow_pickup_1",
-      "2023-03-31 12:00:00",
-      "2023-04-28 11:59:59",
+      "2024-11-07 12:00:00",
+      "2024-12-05 11:59:59",
       "false",
       "(None)"
     ]
@@ -4873,8 +4873,8 @@
     [
       "2002",
       "dynamic/feature_announcement/notice_kc",
-      "2023-04-14 12:00:00",
-      "2023-04-28 20:59:59",
+      "2024-11-21 12:00:00",
+      "2024-12-05 23:59:59",
       "false",
       "(None)"
     ]
@@ -4883,8 +4883,8 @@
     [
       "3001",
       "dynamic/feature_announcement/green_element_character_pickup_01",
-      "2023-04-07 12:00:00",
-      "2023-04-14 11:59:59",
+      "2024-11-14 12:00:00",
+      "2024-11-21 11:59:59",
       "false",
       "(None)"
     ]
@@ -4893,8 +4893,8 @@
     [
       "3001",
       "dynamic/feature_announcement/new_character_pickup_84",
-      "2023-03-31 12:00:00",
-      "2023-04-07 11:59:59",
+      "2024-11-07 12:00:00",
+      "2024-11-21 11:59:59",
       "false",
       "(None)"
     ]
@@ -4903,8 +4903,8 @@
     [
       "3000",
       "dynamic/feature_announcement/thunder_element_character_pickup_03",
-      "2023-04-07 12:00:00",
-      "2023-04-14 11:59:59",
+      "2024-11-07 12:00:00",
+      "2024-11-14 11:59:59",
       "false",
       "(None)"
     ]
@@ -4923,8 +4923,8 @@
     [
       "3001",
       "dynamic/feature_announcement/revival_21smr22smr_character_pickup_01",
-      "2023-04-14 12:00:00",
-      "2023-04-21 11:59:59",
+      "2024-11-21 12:00:00",
+      "2024-11-28 11:59:59",
       "false",
       "(None)"
     ]
@@ -4933,8 +4933,8 @@
     [
       "3001",
       "dynamic/feature_announcement/new_character_pickup_85",
-      "2023-04-14 12:00:00",
-      "2023-04-21 11:59:59",
+      "2024-11-21 12:00:00",
+      "2024-12-05 11:59:59",
       "false",
       "(None)"
     ]
@@ -4943,8 +4943,8 @@
     [
       "3001",
       "dynamic/feature_announcement/revival_blue_element_character_pickup_01",
-      "2023-04-21 12:00:00",
-      "2023-04-28 11:59:59",
+      "2024-11-28 12:00:00",
+      "2024-12-05 11:59:59",
       "false",
       "(None)"
     ]
@@ -5973,8 +5973,8 @@
     [
       "1000",
       "dynamic/feature_announcement/haniwa_carnival_06",
-      "2023-04-07 12:00:00",
-      "2023-04-21 20:59:59",
+      "2024-11-14 12:00:00",
+      "2024-11-28 23:59:59",
       "false",
       "(None)"
     ]
@@ -6113,8 +6113,8 @@
     [
       "1000",
       "dynamic/feature_announcement/bossbattle_multi_pickup_event",
-      "2023-04-21 12:00:00",
-      "2023-04-28 20:59:59",
+      "2024-11-28 12:00:00",
+      "2024-12-05 23:59:59",
       "false",
       "(None)"
     ]
@@ -6303,8 +6303,8 @@
     [
       "1000",
       "dynamic/feature_announcement/advent_event_spirit_beast_light2",
-      "2023-04-14 12:00:00",
-      "2023-04-28 20:59:59",
+      "2024-11-21 12:00:00",
+      "2024-12-05 23:59:59",
       "false",
       "(None)"
     ]

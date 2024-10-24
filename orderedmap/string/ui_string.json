@@ -2581,7 +2581,7 @@
   ],
   "ability_description_condition_content_power_flip_count_down": [
     [
-      "赋予::if !withoutTarget::::target::::end::连击减免效果[PFLv3必要连击数 ::count::]"
+      "::if !withoutTarget::::target::::end::连击减免效果[PFLv3必要连击数 ::count::]"
     ]
   ],
   "ability_description_condition_content_speedup": [
@@ -3356,7 +3356,7 @@
   ],
   "ability_description_flip_limit_n_times": [
     [
-      "接下来的::count:: 次弹射获得"
+      "接下来的::count:: 次弹射"
     ]
   ],
   "ability_description_power_flip_limit_once": [

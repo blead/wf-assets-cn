@@ -1455,6 +1455,125 @@
       ]
     ]
   },
+  "1657": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/thunder_element_character_pickup_03/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131074",
+        "0",
+        "131074",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_47/dog_slasher_proud/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131074",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131134",
+        "0",
+        "131134",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_79/octcyborg_lady/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131134",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131110",
+        "0",
+        "131110",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_69/nihilist_mechgirl/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131110",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_horn_leader",
+        "131068",
+        "0",
+        "131068",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_46/horn_leader/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131068",
+        ""
+      ]
+    ]
+  },
   "80000": {
     "1": [
       [
@@ -8416,6 +8535,99 @@
       ]
     ]
   },
+  "1661": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_blue_element_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121111",
+        "0",
+        "121111",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_60/justice_lady/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121111",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121129",
+        "0",
+        "121129",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_69/luca_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121129",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121093",
+        "0",
+        "121093",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_54/heavenly_three/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121093",
+        ""
+      ]
+    ]
+  },
   "146": {
     "1": [
       [
@@ -9250,6 +9462,125 @@
     ]
   },
   "171": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_21smr22smr_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_ruin_girl_smr21",
+        "151063",
+        "0",
+        "151063",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_45/ruin_girl_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151063",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151117",
+        "0",
+        "151117",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_68/samurai_robot_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151117",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_fox_oracle_smr21",
+        "151051",
+        "0",
+        "151051",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_43/fox_oracle_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151051",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "251077",
+        "0",
+        "251077",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_67/twin_blader_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "251077",
+        ""
+      ]
+    ]
+  },
+  "1660": {
     "1": [
       [
         "0",
@@ -15274,7 +15605,167 @@
       ]
     ]
   },
+  "1659": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_85/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151159",
+        "0",
+        "151159",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_85/golden_dragon_jr/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151159",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "261089",
+        "0",
+        "261089",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_85/darkness_dragon/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261089",
+        ""
+      ]
+    ]
+  },
   "167": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_84/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141165",
+        "0",
+        "141165",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_84/wind_oracle_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141165",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131152",
+        "0",
+        "131152",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_84/pbc_ceo_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131152",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121153",
+        "0",
+        "121153",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_84/ruin_lady_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121153",
+        ""
+      ]
+    ]
+  },
+  "1656": {
     "1": [
       [
         "0",
@@ -28164,6 +28655,21 @@
       ]
     ]
   },
+  "1658": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/green_element_character_pickup_01",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "57": {
     "1": [
       [
@@ -28195,6 +28701,21 @@
     ]
   },
   "5035": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_yellow_pickup_1",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "25034": {
     "1": [
       [
         "1",
