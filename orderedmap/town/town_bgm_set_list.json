@@ -1,0 +1,121 @@
+{
+  "1": [
+    [
+      "系统音乐",
+      "dynamic/town_bgm/banner_1",
+      "dynamic/town_bgm/thumbnail_1"
+    ]
+  ],
+  "2": [
+    [
+      "主线故事-精灵的乐园",
+      "dynamic/town_bgm/banner_2",
+      "dynamic/town_bgm/thumbnail_2"
+    ]
+  ],
+  "3": [
+    [
+      "主线故事-沙尘的王国",
+      "dynamic/town_bgm/banner_3",
+      "dynamic/town_bgm/thumbnail_3"
+    ]
+  ],
+  "4": [
+    [
+      "主线故事-大海的尽头",
+      "dynamic/town_bgm/banner_4",
+      "dynamic/town_bgm/thumbnail_4"
+    ]
+  ],
+  "5": [
+    [
+      "主线故事-獠牙的战场",
+      "dynamic/town_bgm/banner_5",
+      "dynamic/town_bgm/thumbnail_5"
+    ]
+  ],
+  "6": [
+    [
+      "主线故事-机人的行星",
+      "dynamic/town_bgm/banner_6",
+      "dynamic/town_bgm/thumbnail_6"
+    ]
+  ],
+  "7": [
+    [
+      "主线故事-大和之都",
+      "dynamic/town_bgm/banner_7",
+      "dynamic/town_bgm/thumbnail_7"
+    ]
+  ],
+  "8": [
+    [
+      "主线故事-衰亡的箱庭",
+      "dynamic/town_bgm/banner_8",
+      "dynamic/town_bgm/thumbnail_8"
+    ]
+  ],
+  "9": [
+    [
+      "主线故事-荒芜的帝国",
+      "dynamic/town_bgm/banner_9",
+      "dynamic/town_bgm/thumbnail_9"
+    ]
+  ],
+  "10": [
+    [
+      "主线故事-摇曳的都市",
+      "dynamic/town_bgm/banner_10",
+      "dynamic/town_bgm/thumbnail_10"
+    ]
+  ],
+  "11": [
+    [
+      "主线故事-终局的始原",
+      "dynamic/town_bgm/banner_11",
+      "dynamic/town_bgm/thumbnail_11"
+    ]
+  ],
+  "12": [
+    [
+      "角色印象-圣诞",
+      "dynamic/town_bgm/banner_12",
+      "dynamic/town_bgm/thumbnail_12"
+    ]
+  ],
+  "13": [
+    [
+      "角色印象-新年",
+      "dynamic/town_bgm/banner_13",
+      "dynamic/town_bgm/thumbnail_13"
+    ]
+  ],
+  "14": [
+    [
+      "角色印象-周年",
+      "dynamic/town_bgm/banner_14",
+      "dynamic/town_bgm/thumbnail_14"
+    ]
+  ],
+  "15": [
+    [
+      "角色印象-夏日",
+      "dynamic/town_bgm/banner_15",
+      "dynamic/town_bgm/thumbnail_15"
+    ]
+  ],
+  "16": [
+    [
+      "角色印象-万圣",
+      "dynamic/town_bgm/banner_16",
+      "dynamic/town_bgm/thumbnail_16"
+    ]
+  ],
+  "17": [
+    [
+      "其他",
+      "dynamic/town_bgm/banner_17",
+      "dynamic/town_bgm/thumbnail_17"
+    ]
+  ]
+}

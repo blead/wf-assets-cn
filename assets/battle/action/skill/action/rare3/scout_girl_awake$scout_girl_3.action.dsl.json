@@ -39,10 +39,10 @@
           [
             2
           ],
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],
@@ -55,11 +55,11 @@
                   "FindAllSubjects",
                   1,
                   33,
-                  null,
-                  null,
-                  null,
-                  null,
-                  null,
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
                   [
                     "DoNothing"
                   ],
@@ -273,8 +273,8 @@
                                           "CreateNormalAttack",
                                           5,
                                           255,
-                                          null,
-                                          null,
+                                          [],
+                                          [],
                                           80,
                                           [
                                             {

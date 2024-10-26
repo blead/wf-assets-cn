@@ -1,0 +1,14 @@
+{
+  "1001002": [
+    [
+      "owl_double_ability_1_lv70,owl_double_ability_2_lv70,owl_double_direct_1_lv70,owl_double_direct_2_lv70,owl_double_direct_3_lv70,owl_double_pf_1_lv70,owl_double_pf_2_lv70,owl_double_skill_1_lv70,owl_double_skill_2_lv70",
+      "10,11,12,13,14,15,16,17,18"
+    ]
+  ],
+  "1001003": [
+    [
+      "owl_double_ability_1,owl_double_ability_2,owl_double_direct_1,owl_double_direct_2,owl_double_direct_3,owl_double_pf_1,owl_double_pf_2,owl_double_skill_1,owl_double_skill_2",
+      "1,2,3,4,5,6,7,8,9"
+    ]
+  ]
+}

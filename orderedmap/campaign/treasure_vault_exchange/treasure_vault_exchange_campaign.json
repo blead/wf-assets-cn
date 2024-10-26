@@ -1,0 +1,40 @@
+{
+  "1": [
+    [
+      "treasure_vault_weapon_2024_1",
+      "星见宝库",
+      "0",
+      "1",
+      "2024-05-23 05:00:00",
+      "2199-12-31 23:59:59",
+      "2024-05-23 05:00:00",
+      "2199-12-31 23:59:59",
+      "dynamic/treasure_vault_exchange/weapon_character_special_exchange_newp_2023_1",
+      "70031",
+      "item/spends/tickets/treasure_vault_exchange_ticket_2023_1",
+      "星见宝库",
+      "special_exchange_campaign_how_to_play_title",
+      "rich_text/treasure_vault_exchange_equipment_present_campaign_how_to_play",
+      "40102"
+    ]
+  ],
+  "2": [
+    [
+      "treasure_vault_weapon_2024_2",
+      "星见宝库",
+      "0",
+      "1",
+      "2050-07-11 05:00:00",
+      "2199-12-31 23:59:59",
+      "2050-07-11 05:00:00",
+      "2199-12-31 23:59:59",
+      "dynamic/treasure_vault_exchange/weapon_character_special_exchange_newp_2023_1",
+      "70032",
+      "item/spends/tickets/treasure_vault_exchange_ticket_2023_1",
+      "星见宝库",
+      "special_exchange_campaign_how_to_play_title",
+      "rich_text/treasure_vault_exchange_equipment_present_campaign_how_to_play",
+      "40102"
+    ]
+  ]
+}

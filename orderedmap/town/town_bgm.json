@@ -1,0 +1,994 @@
+{
+  "1": [
+    [
+      "1",
+      "主题曲-默认",
+      "(None)",
+      "bgm/common/worldflipper_town_quest"
+    ]
+  ],
+  "2": [
+    [
+      "1",
+      "主题曲-圣诞",
+      "(None)",
+      "bgm/common/worldflipper_town_quest_christmas"
+    ]
+  ],
+  "3": [
+    [
+      "1",
+      "主题曲-春节",
+      "(None)",
+      "bgm/common/worldflipper_town_quest_new_year"
+    ]
+  ],
+  "4": [
+    [
+      "1",
+      "主题曲-新春",
+      "(None)",
+      "bgm/common/worldflipper_town_quest_spring"
+    ]
+  ],
+  "5": [
+    [
+      "1",
+      "主题曲-周年",
+      "(None)",
+      "bgm/common/worldflipper_town_quest_anniversary_melody"
+    ]
+  ],
+  "6": [
+    [
+      "1",
+      "主题曲-漫画",
+      "(None)",
+      "bgm/common/comic"
+    ]
+  ],
+  "7": [
+    [
+      "1",
+      "剧情菜单",
+      "(None)",
+      "bgm/common/general_purpose_chapter_select"
+    ]
+  ],
+  "8": [
+    [
+      "1",
+      "公会",
+      "(None)",
+      "bgm/common/event_open_guild"
+    ]
+  ],
+  "9": [
+    [
+      "1",
+      "剧情ED",
+      "(None)",
+      "bgm/common/story_ending"
+    ]
+  ],
+  "10": [
+    [
+      "2",
+      "精灵的乐园-剧情菜单",
+      "(None)",
+      "bgm/common/stage_select/stage_select_grass"
+    ]
+  ],
+  "11": [
+    [
+      "2",
+      "精灵的乐园-主线01",
+      "(None)",
+      "bgm/world_grass/story/grass_story_1"
+    ]
+  ],
+  "12": [
+    [
+      "2",
+      "精灵的乐园-主线05",
+      "(None)",
+      "bgm/world_grass/story/grass_story_5"
+    ]
+  ],
+  "13": [
+    [
+      "2",
+      "精灵的乐园-主线07",
+      "(None)",
+      "bgm/world_grass/story/grass_story_7"
+    ]
+  ],
+  "14": [
+    [
+      "3",
+      "沙尘的王国-白",
+      "(None)",
+      "bgm/world_desert/story/desert_story_shiro"
+    ]
+  ],
+  "15": [
+    [
+      "3",
+      "沙尘的王国-剧情菜单",
+      "(None)",
+      "bgm/common/stage_select/stage_select_desert"
+    ]
+  ],
+  "16": [
+    [
+      "3",
+      "沙尘的王国-主线01",
+      "(None)",
+      "bgm/world_desert/story/desert_story_1"
+    ]
+  ],
+  "17": [
+    [
+      "3",
+      "沙尘的王国-主线02",
+      "(None)",
+      "bgm/world_desert/story/desert_story_2"
+    ]
+  ],
+  "18": [
+    [
+      "3",
+      "沙尘的王国-主线05",
+      "(None)",
+      "bgm/world_desert/story/desert_story_5"
+    ]
+  ],
+  "19": [
+    [
+      "4",
+      "大海的尽头-玛丽娜",
+      "(None)",
+      "bgm/world_sea/story/sea_story_marina"
+    ]
+  ],
+  "20": [
+    [
+      "4",
+      "大海的尽头-亚美莉亚",
+      "(None)",
+      "bgm/world_sea/story/sea_story_ameria"
+    ]
+  ],
+  "21": [
+    [
+      "4",
+      "大海的尽头-剧情菜单",
+      "(None)",
+      "bgm/common/stage_select/stage_select_sea"
+    ]
+  ],
+  "22": [
+    [
+      "4",
+      "大海的尽头-主线01",
+      "(None)",
+      "bgm/world_sea/story/sea_story_main"
+    ]
+  ],
+  "23": [
+    [
+      "5",
+      "獠牙的战场-黑",
+      "(None)",
+      "bgm/world_beast/story/beast_story_kuro"
+    ]
+  ],
+  "24": [
+    [
+      "5",
+      "獠牙的战场-犬族",
+      "(None)",
+      "bgm/world_beast/story/beast_story_inuzoku"
+    ]
+  ],
+  "25": [
+    [
+      "5",
+      "獠牙的战场-猫族",
+      "(None)",
+      "bgm/world_beast/story/beast_story_nekozoku"
+    ]
+  ],
+  "26": [
+    [
+      "5",
+      "獠牙的战场-剧情菜单",
+      "(None)",
+      "bgm/common/stage_select/stage_select_beast"
+    ]
+  ],
+  "27": [
+    [
+      "5",
+      "獠牙的战场-主线01",
+      "(None)",
+      "bgm/world_beast/story/beast_story"
+    ]
+  ],
+  "28": [
+    [
+      "5",
+      "獠牙的战场-主线03",
+      "(None)",
+      "bgm/world_beast/story/beast_story_painful"
+    ]
+  ],
+  "29": [
+    [
+      "6",
+      "机人的行星-循环",
+      "(None)",
+      "bgm/world_mecha/story/mecha_story_circle"
+    ]
+  ],
+  "30": [
+    [
+      "6",
+      "机人的行星-与蒂亚的相遇",
+      "(None)",
+      "bgm/world_mecha/story/mecha_story_dia_meet"
+    ]
+  ],
+  "31": [
+    [
+      "6",
+      "机人的行星-雷吉斯与管理者",
+      "(None)",
+      "bgm/world_mecha/story/mecha_story_rejis_admin"
+    ]
+  ],
+  "32": [
+    [
+      "6",
+      "机人的行星-Lullaby for salvation",
+      "(None)",
+      "bgm/world_mecha/story/mecha_story_salvation_1"
+    ]
+  ],
+  "33": [
+    [
+      "6",
+      "机人的行星-星",
+      "(None)",
+      "bgm/world_mecha/story/mecha_story_star_2"
+    ]
+  ],
+  "34": [
+    [
+      "7",
+      "大和之都-稻穗",
+      "(None)",
+      "bgm/world_japan/story/japan_story_inaho_main"
+    ]
+  ],
+  "35": [
+    [
+      "7",
+      "大和之都-宗士郎",
+      "(None)",
+      "bgm/world_japan/story/japan_story_soshiro"
+    ]
+  ],
+  "36": [
+    [
+      "7",
+      "大和之都-水善",
+      "(None)",
+      "bgm/world_japan/story/japan_story_onmyoji"
+    ]
+  ],
+  "37": [
+    [
+      "7",
+      "大和之都-不安",
+      "(None)",
+      "bgm/world_japan/story/japan_story_fuan"
+    ]
+  ],
+  "38": [
+    [
+      "7",
+      "大和之都-和平",
+      "(None)",
+      "bgm/world_japan/story/japan_story_heiwa"
+    ]
+  ],
+  "39": [
+    [
+      "7",
+      "大和之都-悲念",
+      "(None)",
+      "bgm/world_japan/story/japan_story_hiren"
+    ]
+  ],
+  "40": [
+    [
+      "7",
+      "大和之都-狐族",
+      "(None)",
+      "bgm/world_japan/story/japan_story_kitsune"
+    ]
+  ],
+  "41": [
+    [
+      "7",
+      "大和之都-剧情菜单",
+      "(None)",
+      "bgm/common/stage_select/stage_select_japan"
+    ]
+  ],
+  "42": [
+    [
+      "7",
+      "大和之都-主线",
+      "(None)",
+      "bgm/world_japan/story/japan_story_main"
+    ]
+  ],
+  "43": [
+    [
+      "8",
+      "衰亡的箱庭-剧情菜单",
+      "(None)",
+      "bgm/common/stage_select/stage_select_brave"
+    ]
+  ],
+  "44": [
+    [
+      "8",
+      "衰亡的箱庭-剧情07",
+      "(None)",
+      "bgm/world_brave/story/seven_story_7"
+    ]
+  ],
+  "45": [
+    [
+      "8",
+      "衰亡的箱庭-剧情13",
+      "(None)",
+      "bgm/world_brave/story/seven_story_13"
+    ]
+  ],
+  "46": [
+    [
+      "8",
+      "衰亡的箱庭-剧情14-1",
+      "(None)",
+      "bgm/world_brave/story/seven_story_14-1"
+    ]
+  ],
+  "47": [
+    [
+      "8",
+      "衰亡的箱庭-剧情14-2",
+      "(None)",
+      "bgm/world_brave/story/seven_story_14_2"
+    ]
+  ],
+  "48": [
+    [
+      "9",
+      "荒芜的帝国-剧情01",
+      "(None)",
+      "bgm/world_hell/story/hell_zero_1"
+    ]
+  ],
+  "49": [
+    [
+      "9",
+      "荒芜的帝国-剧情02",
+      "(None)",
+      "bgm/world_hell/story/hell_story_2"
+    ]
+  ],
+  "50": [
+    [
+      "9",
+      "荒芜的帝国-剧情03",
+      "(None)",
+      "bgm/world_hell/story/hell_story_3"
+    ]
+  ],
+  "51": [
+    [
+      "9",
+      "荒芜的帝国-剧情04",
+      "(None)",
+      "bgm/world_hell/story/hell_zero_2"
+    ]
+  ],
+  "52": [
+    [
+      "9",
+      "荒芜的帝国-剧情05",
+      "(None)",
+      "bgm/world_hell/story/hell_story_5"
+    ]
+  ],
+  "53": [
+    [
+      "9",
+      "荒芜的帝国-剧情06",
+      "(None)",
+      "bgm/world_hell/story/hell_zero_3_1_1"
+    ]
+  ],
+  "54": [
+    [
+      "9",
+      "荒芜的帝国-剧情07",
+      "(None)",
+      "bgm/world_hell/story/hell_zero_3_2"
+    ]
+  ],
+  "55": [
+    [
+      "9",
+      "荒芜的帝国-剧情12",
+      "(None)",
+      "bgm/world_hell/story/hell_story_12_1"
+    ]
+  ],
+  "56": [
+    [
+      "9",
+      "荒芜的帝国-剧情13",
+      "(None)",
+      "bgm/world_hell/story/hell_story_13"
+    ]
+  ],
+  "57": [
+    [
+      "9",
+      "荒芜的帝国-剧情16",
+      "(None)",
+      "bgm/world_hell/story/hell_story_16"
+    ]
+  ],
+  "58": [
+    [
+      "9",
+      "荒芜的帝国-剧情21",
+      "(None)",
+      "bgm/world_hell/story/hell_story_21"
+    ]
+  ],
+  "59": [
+    [
+      "9",
+      "荒芜的帝国-剧情23",
+      "(None)",
+      "bgm/world_hell/story/hell_story_23"
+    ]
+  ],
+  "60": [
+    [
+      "10",
+      "摇曳的都市-阿尔克",
+      "(None)",
+      "bgm/world_9/story/world_9_story_alk_theme_01"
+    ]
+  ],
+  "61": [
+    [
+      "10",
+      "摇曳的都市-维斯塔族之首",
+      "(None)",
+      "bgm/world_9/story/world_9_story_vesta_patriarch_01"
+    ]
+  ],
+  "62": [
+    [
+      "10",
+      "摇曳的都市-战斗之后",
+      "(None)",
+      "bgm/world_9/story/world_9_story_battle_finish"
+    ]
+  ],
+  "63": [
+    [
+      "10",
+      "摇曳的都市-反击",
+      "(None)",
+      "bgm/world_9/story/world_9_story_counterattack"
+    ]
+  ],
+  "64": [
+    [
+      "10",
+      "摇曳的都市-结局",
+      "(None)",
+      "bgm/world_9/story/world_9_story_ending"
+    ]
+  ],
+  "65": [
+    [
+      "10",
+      "摇曳的都市-主线03",
+      "(None)",
+      "bgm/world_9/story/world_9_main_3"
+    ]
+  ],
+  "66": [
+    [
+      "10",
+      "摇曳的都市-主线04",
+      "(None)",
+      "bgm/world_9/story/world_9_main_4_positive"
+    ]
+  ],
+  "67": [
+    [
+      "10",
+      "摇曳的都市-剧情01",
+      "(None)",
+      "bgm/world_9/story/world_9_story_01"
+    ]
+  ],
+  "68": [
+    [
+      "10",
+      "摇曳的都市-剧情02",
+      "(None)",
+      "bgm/world_9/story/world_9_story_02"
+    ]
+  ],
+  "69": [
+    [
+      "10",
+      "摇曳的都市-剧情06",
+      "(None)",
+      "bgm/world_9/story/world_9_story_06"
+    ]
+  ],
+  "70": [
+    [
+      "10",
+      "摇曳的都市-剧情08",
+      "(None)",
+      "bgm/world_9/story/world_9_story_08"
+    ]
+  ],
+  "71": [
+    [
+      "11",
+      "终局的始原-凪原七海",
+      "(None)",
+      "bgm/world_10/story/world_10_story_nagihara_nanami"
+    ]
+  ],
+  "72": [
+    [
+      "11",
+      "终局的始原-凪原直",
+      "(None)",
+      "bgm/world_10/story/world_10_story_nao"
+    ]
+  ],
+  "73": [
+    [
+      "11",
+      "终局的始原-凪原直v2",
+      "(None)",
+      "bgm/world_10/story/world_10_story_nao_v2"
+    ]
+  ],
+  "74": [
+    [
+      "11",
+      "终局的始原-鹰森诚司",
+      "(None)",
+      "bgm/world_10/story/world_10_story_takamori_seiji"
+    ]
+  ],
+  "75": [
+    [
+      "11",
+      "终局的始原-阿尔克的回忆",
+      "(None)",
+      "bgm/world_10/story/world_10_story_alk_recollection"
+    ]
+  ],
+  "76": [
+    [
+      "11",
+      "终局的始原-史黛拉的决意",
+      "(None)",
+      "bgm/world_10/story/world_10_story_stella_no_ketsui"
+    ]
+  ],
+  "77": [
+    [
+      "11",
+      "终局的始原-主题",
+      "(None)",
+      "bgm/world_10/story/world_10_story_theme01"
+    ]
+  ],
+  "78": [
+    [
+      "11",
+      "终局的始原-结局",
+      "(None)",
+      "bgm/world_10/story/world_10_story_ending"
+    ]
+  ],
+  "79": [
+    [
+      "11",
+      "终局的始原-悲哀",
+      "(None)",
+      "bgm/world_10/story/world_10_story_hiai_1"
+    ]
+  ],
+  "80": [
+    [
+      "11",
+      "终局的始原-主线02",
+      "(None)",
+      "bgm/world_10/story/world_10_story_main_2"
+    ]
+  ],
+  "81": [
+    [
+      "12",
+      "角色印象-宗士郎",
+      "(None)",
+      "bgm/character_unique/samurai_xm19/christmas_samurai"
+    ]
+  ],
+  "82": [
+    [
+      "12",
+      "角色印象-碧安卡",
+      "(None)",
+      "bgm/character_unique/lady_summoner_xm20/lady_summoner_xm20"
+    ]
+  ],
+  "83": [
+    [
+      "12",
+      "角色印象-雷拉斯",
+      "(None)",
+      "bgm/character_unique/freeze_eye_xm21/freeze_eye_xm21"
+    ]
+  ],
+  "84": [
+    [
+      "12",
+      "角色印象-稻穗",
+      "(None)",
+      "bgm/character_unique/fox_oracle_xm19/christmas_fox_oracle"
+    ]
+  ],
+  "85": [
+    [
+      "12",
+      "角色印象-阿露姆",
+      "(None)",
+      "bgm/character_unique/devil_princess_xm20/devil_princess_xm20"
+    ]
+  ],
+  "86": [
+    [
+      "12",
+      "角色印象-芙拉菲",
+      "(None)",
+      "bgm/character_unique/combat_animal_xm21/combat_animal_xm21"
+    ]
+  ],
+  "87": [
+    [
+      "12",
+      "角色印象-玛丽安",
+      "(None)",
+      "bgm/character_unique/battle_maid_xm19/christmas_battle_maid"
+    ]
+  ],
+  "88": [
+    [
+      "13",
+      "角色印象-艾莉亚",
+      "(None)",
+      "bgm/character_unique/lightbullet_wiz_ny20/lightbullet_wiz_ny20"
+    ]
+  ],
+  "89": [
+    [
+      "13",
+      "角色印象-凉风",
+      "(None)",
+      "bgm/character_unique/timid_kunoichi_ny21/timid_kunoichi_ny21"
+    ]
+  ],
+  "90": [
+    [
+      "13",
+      "角色印象-奥薇尔",
+      "(None)",
+      "bgm/character_unique/high_priestess_ny22/high_priestess_ny22"
+    ]
+  ],
+  "91": [
+    [
+      "13",
+      "角色印象-贝尔赛蒂亚",
+      "(None)",
+      "bgm/character_unique/dimension_witch_ny22/dimension_witch_ny22"
+    ]
+  ],
+  "92": [
+    [
+      "13",
+      "角色印象-诺埃妮",
+      "(None)",
+      "bgm/character_unique/heavenly_one/heavenly_one"
+    ]
+  ],
+  "93": [
+    [
+      "13",
+      "角色印象-布茜",
+      "(None)",
+      "bgm/character_unique/heavenly_two/heavenly_two"
+    ]
+  ],
+  "94": [
+    [
+      "13",
+      "角色印象-特拉埃蒂",
+      "(None)",
+      "bgm/character_unique/heavenly_three/heavenly_three"
+    ]
+  ],
+  "95": [
+    [
+      "14",
+      "角色印象-奈芙提姆",
+      "(None)",
+      "bgm/character_unique/ruin_girl_halfanv/ruin_girl_halfanv"
+    ]
+  ],
+  "96": [
+    [
+      "14",
+      "角色印象-花火",
+      "(None)",
+      "bgm/character_unique/kunoichi_1anv/kunoichi_1anv"
+    ]
+  ],
+  "97": [
+    [
+      "14",
+      "角色印象-雷吉斯",
+      "(None)",
+      "bgm/character_unique/rec_android_1anv/rec_android_1anv"
+    ]
+  ],
+  "98": [
+    [
+      "14",
+      "角色印象-菲莉亚",
+      "(None)",
+      "bgm/character_unique/wind_oracle_1anv/wind_oracle_1anv"
+    ]
+  ],
+  "99": [
+    [
+      "14",
+      "角色印象-希尔媞",
+      "(None)",
+      "bgm/character_unique/wind_spgirl_1anv/wind_spgirl_1anv"
+    ]
+  ],
+  "100": [
+    [
+      "14",
+      "角色印象-亚美莉亚",
+      "(None)",
+      "bgm/character_unique/mermaid_1halfanv/mermaid_1halfanv"
+    ]
+  ],
+  "101": [
+    [
+      "14",
+      "角色印象-赛吉尔",
+      "(None)",
+      "bgm/character_unique/blindness_gunner_1halfanv/blindness_gunner_1halfanv"
+    ]
+  ],
+  "102": [
+    [
+      "14",
+      "角色印象-艾丝缇莉艾尔",
+      "(None)",
+      "bgm/character_unique/elf_princess_1halfanv/elf_princess_1halfanv"
+    ]
+  ],
+  "103": [
+    [
+      "14",
+      "角色印象-玛丽娜",
+      "(None)",
+      "bgm/character_unique/pirates_girl_2anv/pirates_girl_2anv"
+    ]
+  ],
+  "104": [
+    [
+      "14",
+      "角色印象-白",
+      "(None)",
+      "bgm/character_unique/white_tiger_2anv/white_tiger_2anv"
+    ]
+  ],
+  "105": [
+    [
+      "14",
+      "角色印象-赛法",
+      "(None)",
+      "bgm/character_unique/ice_witch_2anv/ice_witch_2anv"
+    ]
+  ],
+  "106": [
+    [
+      "14",
+      "角色印象-珂艾特",
+      "(None)",
+      "bgm/character_unique/summoner_little_2anv/summoner_little_2anv"
+    ]
+  ],
+  "107": [
+    [
+      "15",
+      "角色印象-米娅",
+      "(None)",
+      "bgm/character_unique/tiger_treasure_hunter_smr20/tiger_treasure_hunter_smr20"
+    ]
+  ],
+  "108": [
+    [
+      "15",
+      "角色印象-奈芙提姆",
+      "(None)",
+      "bgm/character_unique/ruin_girl_smr21/ruin_girl_smr21"
+    ]
+  ],
+  "109": [
+    [
+      "15",
+      "角色印象-莉莉丝",
+      "(None)",
+      "bgm/character_unique/resistance_princess_smr21/resistance_princess_smr21"
+    ]
+  ],
+  "110": [
+    [
+      "15",
+      "角色印象-拉杰尔特",
+      "(None)",
+      "bgm/character_unique/prince_zero_smr20/prince_zero_smr20"
+    ]
+  ],
+  "111": [
+    [
+      "15",
+      "角色印象-雷恩",
+      "(None)",
+      "bgm/character_unique/mercenary_smr21/mercenary_smr21"
+    ]
+  ],
+  "112": [
+    [
+      "15",
+      "角色印象-塞拉",
+      "(None)",
+      "bgm/character_unique/machine_police_girl_smr21/machine_police_girl_smr21"
+    ]
+  ],
+  "113": [
+    [
+      "15",
+      "角色印象-伊路米",
+      "(None)",
+      "bgm/character_unique/illusionist_smr20/illusionist_smr20"
+    ]
+  ],
+  "114": [
+    [
+      "15",
+      "角色印象-稻穗",
+      "(None)",
+      "bgm/character_unique/fox_oracle_smr21/fox_oracle_smr21"
+    ]
+  ],
+  "115": [
+    [
+      "15",
+      "角色印象-贝尔赛蒂亚",
+      "(None)",
+      "bgm/character_unique/dimension_witch_smr20/dimension_witch_smr20"
+    ]
+  ],
+  "116": [
+    [
+      "15",
+      "角色印象-艾可莉儿",
+      "(None)",
+      "bgm/character_unique/bodysuit_trooper_smr21/bodysuit_trooper_smr21"
+    ]
+  ],
+  "117": [
+    [
+      "15",
+      "角色印象-西微",
+      "(None)",
+      "bgm/character_unique/bigwing_shaman_smr21/bigwing_shaman_smr21"
+    ]
+  ],
+  "118": [
+    [
+      "15",
+      "角色印象-爱丽丝",
+      "(None)",
+      "bgm/character_unique/alice_smr20/alice_smr20"
+    ]
+  ],
+  "119": [
+    [
+      "16",
+      "角色印象-蒂亚",
+      "(None)",
+      "bgm/character_unique/sing_android_hw20/sing_android_hw20"
+    ]
+  ],
+  "120": [
+    [
+      "16",
+      "角色印象-拉芙",
+      "(None)",
+      "bgm/character_unique/touyakiren_ceo_hw21/touyakiren_ceo_hw21"
+    ]
+  ],
+  "121": [
+    [
+      "16",
+      "角色印象-莉菈",
+      "(None)",
+      "bgm/character_unique/neoviolin_musician_hw21/neoviolin_musician_hw21"
+    ]
+  ],
+  "122": [
+    [
+      "17",
+      "主线剧情-回忆",
+      "(None)",
+      "bgm/common/main/main_story_memory"
+    ]
+  ],
+  "123": [
+    [
+      "17",
+      "主线剧情-篝火晚会",
+      "(None)",
+      "bgm/common/main/main_story_campfire"
+    ]
+  ],
+  "124": [
+    [
+      "17",
+      "主线剧情-蒂亚",
+      "(None)",
+      "bgm/common/main/main_story_stars_connect"
+    ]
+  ]
+}

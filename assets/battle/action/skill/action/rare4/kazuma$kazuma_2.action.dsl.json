@@ -195,7 +195,7 @@
           1,
           [
             "Block",
-            null
+            []
           ],
           2,
           3,
@@ -433,8 +433,8 @@
                           "CreateNormalAttack",
                           6,
                           255,
-                          null,
-                          null,
+                          [],
+                          [],
                           20,
                           [
                             {
@@ -486,11 +486,11 @@
                   "FindAllSubjects",
                   7,
                   33,
-                  null,
-                  null,
-                  null,
-                  null,
-                  null,
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
                   [
                     "DoNothing"
                   ],
@@ -561,11 +561,11 @@
                   "FindAllSubjects",
                   8,
                   113,
-                  null,
-                  null,
-                  null,
-                  null,
-                  null,
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
                   [
                     "DoNothing"
                   ],
@@ -586,7 +586,7 @@
                               "min": 0.06
                             }
                           ],
-                          null,
+                          [],
                           [
                             {
                               "max": 0,
@@ -608,11 +608,11 @@
                   "FindAllSubjects",
                   9,
                   145,
-                  null,
-                  null,
-                  null,
-                  null,
-                  null,
+                  [],
+                  [],
+                  [],
+                  [],
+                  [],
                   [
                     "DoNothing"
                   ],
@@ -633,7 +633,7 @@
                               "min": 0.06
                             }
                           ],
-                          null,
+                          [],
                           [
                             {
                               "max": 0,
@@ -713,7 +713,7 @@
                   ],
                   [
                     "Block",
-                    null
+                    []
                   ]
                 ]
               ]

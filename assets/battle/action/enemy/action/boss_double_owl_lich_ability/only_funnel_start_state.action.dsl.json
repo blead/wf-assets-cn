@@ -73,11 +73,11 @@
           "FindAllSubjects",
           0,
           51,
-          null,
-          null,
-          null,
-          null,
-          null,
+          [],
+          [],
+          [],
+          [],
+          [],
           [
             "DoNothing"
           ],
