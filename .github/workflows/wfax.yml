@@ -60,6 +60,9 @@ jobs:
       if: steps.fetch.outcome == 'success'
       run: ./wfax extract dump --concurrency 50 ${GITHUB_WORKSPACE} --indent ${INDENT}
       working-directory: ${{env.TMP_WORKDIR}}
+    - name: Append version suffix for full extract
+      if: ${{ inputs.full_extract }}
+      run: echo "-full" >> ${VERSION_FILE}
     - name: Git commit
       if: steps.fetch.outcome == 'success'
       run: |
