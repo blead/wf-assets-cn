@@ -10149,6 +10149,125 @@
       ]
     ]
   },
+  "1666": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_20smr21smr22smr_character_pickup_03/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161123",
+        "0",
+        "161123",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_68/blackflower_wiz_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161123",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_alice_smr20",
+        "161008",
+        "0",
+        "161008",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_17/alice_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161008",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_prince_zero_smr20",
+        "121008",
+        "0",
+        "121008",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121008",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_fox_companion_smr21",
+        "221040",
+        "0",
+        "221040",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_43/fox_companion_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "221040",
+        ""
+      ]
+    ]
+  },
   "166": {
     "1": [
       [
@@ -10915,6 +11034,99 @@
       ]
     ]
   },
+  "1667": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_20ny22ny_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151081",
+        "0",
+        "151081",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151081",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161093",
+        "0",
+        "161093",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_54/dimension_witch_ny22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161093",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_lightbullet_wiz_ny20",
+        "121003",
+        "0",
+        "121003",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/ny20/lightbullet_wiz_ny20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121003",
+        ""
+      ]
+    ]
+  },
   "100100": {
     "1": [
       [
@@ -11195,6 +11407,99 @@
     ]
   },
   "175": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_1anv_character_pickup_03/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_kunoichi_1anv",
+        "111015",
+        "0",
+        "111015",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111015",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_rec_android_1anv",
+        "131020",
+        "0",
+        "131020",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_23/rec_android_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131020",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_wind_oracle_1anv",
+        "151021",
+        "0",
+        "151021",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_24/wind_oracle_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151021",
+        ""
+      ]
+    ]
+  },
+  "1664": {
     "1": [
       [
         "0",
@@ -13614,6 +13919,99 @@
       ]
     ]
   },
+  "1663": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/red_element_character_pickup_04/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_bodysuit_trooper_smr21",
+        "111063",
+        "0",
+        "111063",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111063",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_tiger_treasure_hunter_smr20",
+        "111009",
+        "0",
+        "111009",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_15/tiger_treasure_hunter_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111009",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111123",
+        "0",
+        "111123",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_67/monster_cook_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111123",
+        ""
+      ]
+    ]
+  },
   "163": {
     "1": [
       [
@@ -15445,7 +15843,141 @@
       ]
     ]
   },
+  "1665": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_87/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121159",
+        "0",
+        "121159",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_87/vesta_caster/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121159",
+        ""
+      ]
+    ]
+  },
   "173": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_86/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141171",
+        "0",
+        "141171",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_86/psychic_taichi/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141171",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131158",
+        "0",
+        "131158",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_86/psychic_katana/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131158",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111159",
+        "0",
+        "111159",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_86/catbaby_psychicer/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111159",
+        ""
+      ]
+    ]
+  },
+  "1662": {
     "1": [
       [
         "0",
@@ -29001,6 +29533,21 @@
     ]
   },
   "5036": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_red_pickup_1",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "25035": {
     "1": [
       [
         "1",

@@ -127,7 +127,7 @@
     [
       "raid_event_05",
       "团本活动 战阵之宴",
-      "2023-04-28 12:00:00,2023-05-05 20:59:59,2023-05-07 04:59:59,2023-05-16 04:59:59",
+      "2024-12-05 12:00:00,2024-12-19 23:59:59,2024-12-21 11:59:59,2024-12-27 11:59:59",
       "quest/event/banner/raid_event/raid_event_banner_05_001,quest/event/banner/raid_event/raid_event_banner_05_002,quest/event/banner/raid_event/raid_event_banner_05_003",
       "quest/event/bossbattle_banner/raid_event/raid_event_bossbattle_banner_05,(None),(None)",
       "quest/event/background/raid_event/raid_event_background_05",
@@ -145,13 +145,13 @@
       "500000",
       "26",
       "1",
-      "2023-05-07 04:59:59",
-      "2023-05-16 04:59:59",
+      "2024-12-21 11:59:59",
+      "2024-12-27 11:59:59",
       "10",
       "raid_event_05",
-      "2023-04-28 12:00:00",
-      "2023-05-05 20:59:59",
-      "2023-05-16 04:59:59"
+      "2024-12-05 12:00:00",
+      "2024-12-19 23:59:59",
+      "2024-12-27 11:59:59"
     ]
   ],
   "6": [
