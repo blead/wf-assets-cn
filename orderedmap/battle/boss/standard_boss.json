@@ -1340,13 +1340,13 @@
   "halfanv3_boss_multi": {
     "55": [
       [
-        "Uタロス君∞",
+        "U塔罗斯∞",
         "battle/enemy/boss/halfanv3_boss_multi2"
       ]
     ],
     "80": [
       [
-        "Uタロス君∞",
+        "U塔罗斯∞",
         "battle/enemy/boss/halfanv3_boss_multi4"
       ]
     ]
@@ -1354,13 +1354,13 @@
   "halfanv3_boss_single": {
     "55": [
       [
-        "Uタロス君∞",
+        "U塔罗斯∞",
         "battle/enemy/boss/halfanv3_boss_single2"
       ]
     ],
     "80": [
       [
-        "Uタロス君∞",
+        "U塔罗斯∞",
         "battle/enemy/boss/halfanv3_boss_single4"
       ]
     ]
@@ -1368,7 +1368,7 @@
   "halfanv3_boss_expert": {
     "100": [
       [
-        "Uタロス君∞",
+        "U塔罗斯∞",
         "battle/enemy/boss/halfanv3_boss_expert"
       ]
     ]
@@ -1376,7 +1376,7 @@
   "halfanv3_boss_story": {
     "100": [
       [
-        "Uタロス君∞",
+        "U塔罗斯∞",
         "battle/enemy/boss/halfanv3_boss_story"
       ]
     ]
@@ -1384,7 +1384,7 @@
   "halfanv3_boss_hell": {
     "100": [
       [
-        "Uタロス君∞",
+        "U塔罗斯∞",
         "battle/enemy/boss/halfanv3_boss_hell"
       ]
     ]
@@ -1516,25 +1516,25 @@
   "chapter12_boss_story": {
     "20": [
       [
-        "シノリユウ",
+        "终始之龙",
         "battle/enemy/boss/chapter12_boss_main"
       ]
     ],
     "50": [
       [
-        "シノリユウ",
+        "终始之龙",
         "battle/enemy/boss/chapter12_boss_main"
       ]
     ],
     "70": [
       [
-        "シノリユウ",
+        "终始之龙",
         "battle/enemy/boss/chapter12_boss_main"
       ]
     ],
     "80": [
       [
-        "シノリユウ",
+        "终始之龙",
         "battle/enemy/boss/chapter12_boss_main"
       ]
     ]

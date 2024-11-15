@@ -2204,7 +2204,7 @@
     [
       "advent_spirit_beast_fire_20231006_20231020",
       "(None)",
-      "炎嗟精灵兽",
+      "怨炎精灵兽",
       "",
       "quest/event/banner/advent_event/advent_event_spirit_beast_fire",
       "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_fire",
@@ -2235,7 +2235,7 @@
     [
       "advent_spirit_beast_fire_20230515_20230531",
       "(None)",
-      "炎嗟精灵兽",
+      "怨炎精灵兽",
       "",
       "quest/event/banner/advent_event/advent_event_spirit_beast_fire",
       "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_fire",
@@ -2257,9 +2257,9 @@
       "true",
       "advent_spirit_beast_fire",
       "true",
-      "2023-05-15 12:00:00",
-      "2023-05-31 20:59:59",
-      "2023-06-08 04:59:59"
+      "2024-12-25 12:00:00",
+      "2025-01-09 23:59:59",
+      "2025-01-17 11:59:59"
     ]
   ],
   "200019": [
@@ -2483,7 +2483,7 @@
     [
       "advent_boss_epuration_20230515_20230531",
       "200013",
-      "清剿者讨伐战",
+      "歼灭者讨伐战",
       "",
       "quest/event/banner/advent_event/boss_epuration_event_01",
       "quest/event/bossbattle_banner/advent_event/boss_epuration_event_01",
@@ -2505,9 +2505,9 @@
       "true",
       "boss_epuration_event_01",
       "true",
-      "2023-05-15 12:00:00",
-      "2023-05-31 20:59:59",
-      "2023-06-08 04:59:59"
+      "2024-12-19 12:00:00",
+      "2025-01-04 23:59:59",
+      "2025-01-12 11:59:59"
     ]
   ]
 }

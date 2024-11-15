@@ -4991,6 +4991,84 @@
       "dynamic/degree/battle_pass_06_degree_2"
     ]
   ],
+  "80028": [
+    [
+      "battle_pass_07_degree_1",
+      "750012",
+      "冬湖冰镜",
+      "待翻译",
+      "获得条件：在2024年12月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_07_degree_1"
+    ]
+  ],
+  "80029": [
+    [
+      "battle_pass_07_degree_2",
+      "750013",
+      "冬湖冰镜",
+      "待翻译",
+      "获得条件：在2024年12月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_07_degree_2"
+    ]
+  ],
+  "80030": [
+    [
+      "battle_pass_08_degree_1",
+      "750014",
+      "冬山凝墨",
+      "待翻译",
+      "获得条件：在2025年01月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_08_degree_1"
+    ]
+  ],
+  "80031": [
+    [
+      "battle_pass_08_degree_2",
+      "750015",
+      "冬山凝墨",
+      "待翻译",
+      "获得条件：在2025年01月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_08_degree_2"
+    ]
+  ],
+  "80032": [
+    [
+      "battle_pass_09_degree_1",
+      "750016",
+      "冬夜星辉",
+      "待翻译",
+      "获得条件：在2025年02月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_09_degree_1"
+    ]
+  ],
+  "80033": [
+    [
+      "battle_pass_09_degree_2",
+      "750017",
+      "冬夜星辉",
+      "待翻译",
+      "获得条件：在2025年02月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/battle_pass_09_degree_2"
+    ]
+  ],
   "161009": [
     [
       "degree_favor_hoshikawa_ririi",
@@ -7909,7 +7987,7 @@
       "116001",
       "太阳必将升起",
       "ひはまたのぼる",
-      "获得条件：将【了解后事的男人】夕日野太一的第二枚玛纳板全部强化完成",
+      "获得条件：将【知晓后续的男人】夕日野太一的第二枚玛纳板全部强化完成",
       "2",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -7922,7 +8000,7 @@
       "87001",
       "不屈不挠之剑",
       "ふとうふくつのつるぎ",
-      "获得条件：将【裁刀能力者】天羽凪莉的第二枚玛纳板全部强化完成",
+      "获得条件：将【裁刀的超能力者】天羽凪莉的第二枚玛纳板全部强化完成",
       "2",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -8689,7 +8767,7 @@
       "55001",
       "老海盗的癫狂",
       "ふるかいぞくのきょうき",
-      "获得条件：将【暴鲸海盗船长】泽利米尔的第二枚玛纳板全部强化完成",
+      "获得条件：将【暴鲸海盗船长】塞利米尔的第二枚玛纳板全部强化完成",
       "2",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -13471,9 +13549,9 @@
     [
       "degree_favor_psychic_taichi",
       "116000",
-      "了解后事的男人",
+      "知晓后续的男人",
       "そのごをしるおとこ",
-      "获得条件：将【了解后事的男人】夕日野太一升级到Lv100并获得信赖之证",
+      "获得条件：将【知晓后续的男人】夕日野太一升级到Lv100并获得信赖之证",
       "2",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -13484,9 +13562,9 @@
     [
       "degree_favor_psychic_katana",
       "87000",
-      "裁刀能力者",
+      "裁刀的超能力者",
       "さいとうののうりょくしゃ",
-      "获得条件：将【裁刀能力者】天羽凪莉升级到Lv100并获得信赖之证",
+      "获得条件：将【裁刀的超能力者】天羽凪莉升级到Lv100并获得信赖之证",
       "2",
       "dynamic/degree/background",
       "item/etc/degree",

@@ -88,5 +88,50 @@
       "2024-12-01 04:59:59",
       "2025-01-01 04:59:59"
     ]
+  ],
+  "7": [
+    [
+      "pass_card_event_07",
+      "阿尔克的修行之道",
+      "dynamic\\shop\\payment\\battle_pass_banner",
+      "raid_event_01",
+      "6000",
+      "100",
+      "com.leiting.wf.pass_card",
+      "220040",
+      "2024-12-01 05:00:00",
+      "2025-01-01 04:59:59",
+      "2025-02-01 04:59:59"
+    ]
+  ],
+  "8": [
+    [
+      "pass_card_event_08",
+      "阿尔克的修行之道",
+      "dynamic\\shop\\payment\\battle_pass_banner",
+      "raid_event_01",
+      "6000",
+      "100",
+      "com.leiting.wf.pass_card",
+      "220040",
+      "2025-01-01 05:00:00",
+      "2025-02-01 04:59:59",
+      "2025-03-01 04:59:59"
+    ]
+  ],
+  "9": [
+    [
+      "pass_card_event_09",
+      "阿尔克的修行之道",
+      "dynamic\\shop\\payment\\battle_pass_banner",
+      "raid_event_01",
+      "6000",
+      "100",
+      "com.leiting.wf.pass_card",
+      "220040",
+      "2025-02-01 05:00:00",
+      "2025-03-01 04:59:59",
+      "2025-04-01 04:59:59"
+    ]
   ]
 }
