@@ -9928,7 +9928,7 @@
       "(None)",
       "100",
       "5",
-      "999999",
+      "9999999",
       "2024-07-11 12:00:00",
       "2199-12-31 23:59:59",
       "false",
@@ -19362,7 +19362,7 @@
     [
       "advent_boss_epuration_5_epuration_point",
       "40325",
-      "歼灭天核",
+      "歼灭心核",
       "item/materials/event/boss_epuration_event/boss_epuration_point",
       "item_icon/materials/event/boss_epuration_event/boss_epuration_point",
       "偶尔能在与歼灭者激斗过的地方发现的结晶。会发出特殊的波长，能招来危险的歼灭者个体",
@@ -19443,7 +19443,7 @@
     [
       "advent_boss_epuration_20230929_20231012_epuration_point",
       "40325",
-      "歼灭天核",
+      "歼灭心核",
       "item/materials/event/boss_epuration_event/boss_epuration_point",
       "item_icon/materials/event/boss_epuration_event/boss_epuration_point",
       "偶尔能在与歼灭者激斗过的地方发现的结晶。会发出特殊的波长，能招来危险的歼灭者个体",
@@ -19551,7 +19551,7 @@
     [
       "advent_boss_epuration_20230515_20230531_epuration_point",
       "40335",
-      "歼灭天核",
+      "歼灭心核",
       "item/materials/event/boss_epuration_event/boss_epuration_point",
       "item_icon/materials/event/boss_epuration_event/boss_epuration_point",
       "偶尔能在与歼灭者激斗过的地方发现的结晶。会发出特殊的波长，能招来危险的歼灭者个体",
