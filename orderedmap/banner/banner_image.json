@@ -4636,6 +4636,32 @@
       ]
     ]
   },
+  "20029": {
+    "1": [
+      [
+        "campaign_mission_halfanv_20250102",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/3halfanv_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
+  "20030": {
+    "1": [
+      [
+        "holiday_activity_2025_01_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/holiday_activity_2025_01_sec",
+        "quest/event/banner/world_story_event/holiday_activity/holiday_activity_2024_10_sec",
+        "(None)"
+      ]
+    ]
+  },
   "20020": {
     "1": [
       [

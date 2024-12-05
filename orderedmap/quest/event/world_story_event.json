@@ -235,7 +235,7 @@
     [
       "summer_2020_re01",
       "100300",
-      "大海の遺産",
+      "大海的遗产",
       "",
       "quest/event/banner/world_story_event/summer_2020/prequel",
       "quest/event/bossbattle_banner/world_story_event/summer_2020/prequel",
@@ -264,7 +264,7 @@
     [
       "summer_2020",
       "(None)",
-      "大海の遺産",
+      "大海的遗产",
       "",
       "quest/event/banner/world_story_event/summer_2020/prequel",
       "quest/event/bossbattle_banner/world_story_event/summer_2020/prequel",
@@ -1188,6 +1188,35 @@
       "2024-10-16 11:59:59"
     ]
   ],
+  "200108": [
+    [
+      "holiday_activity_2025_01",
+      "(None)",
+      "恭贺新年2025",
+      "",
+      "quest/event/banner/world_story_event/holiday_activity/holiday_activity_2025_01_sec",
+      "(None)",
+      "quest/event/logo/world_story_event/cyber_punk01/cyber_punk01_logo",
+      "quest/event/logo/world_story_event/cyber_punk01/cyber_punk01_logo",
+      "quest/event/animation_background/world_story_event/cyber_punk01/cyber_punk01_background",
+      "bgm/event/cyberpunk01/system/cyberpunk_story_stage_node",
+      "3",
+      "false",
+      "false",
+      "1",
+      "8003",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "holiday_activity_how_to_play",
+      "2025-01-27 05:00:00",
+      "2025-02-06 04:59:59",
+      "2025-02-13 11:59:59"
+    ]
+  ],
   "500002": [
     [
       "crown_beasts_re01",
@@ -1328,9 +1357,9 @@
       "(None)",
       "true",
       "how_to_play_anv3half",
-      "2023-05-31 12:00:00",
-      "2023-06-16 20:59:59",
-      "2023-06-24 04:59:59"
+      "2025-01-02 12:00:00",
+      "2025-01-16 23:59:59",
+      "2025-01-24 11:59:59"
     ]
   ],
   "500013": [

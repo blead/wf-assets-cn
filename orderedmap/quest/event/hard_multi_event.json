@@ -303,7 +303,7 @@
     [
       "hard_multi_advent_steam_robot_light_20230531_20230616",
       "(None)",
-      "共同决战【閃哭の机兵】",
+      "共同决战【闪哭机兵】",
       "",
       "quest/event/banner/hard_multi/hard_multi_event_steam_robot_light",
       "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_light",
@@ -324,9 +324,9 @@
       "false",
       "hard_multi_steam_robot_light",
       "Help_hard_multi_advent_steam_robot_light_20230531_20230616",
-      "2023-05-31 12:00:00",
-      "2023-06-16 20:59:59",
-      "2023-06-24 04:59:59"
+      "2025-01-02 12:00:00",
+      "2025-01-23 23:59:59",
+      "2025-01-31 11:59:59"
     ]
   ],
   "100002": [

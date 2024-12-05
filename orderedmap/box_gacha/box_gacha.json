@@ -383,6 +383,18 @@
       "2024-10-16 11:59:59"
     ]
   ],
+  "8003": [
+    [
+      "holiday_activity_2025_01",
+      "3",
+      "70054",
+      "10",
+      "quest/event/animation_background/world_story_event/anv_story_01/anv_story_01_background",
+      "bgm/event/anv1/system/anv1_box_gacha",
+      "2025-01-27 05:00:00",
+      "2025-02-13 11:59:59"
+    ]
+  ],
   "1002": [
     [
       "crown_beasts_re01",
@@ -439,8 +451,8 @@
       "10",
       "quest/event/animation_background/world_story_event/anv3half/anv3half_background",
       "bgm/event/anv3half/system/anv3half_tokengacha",
-      "2023-05-31 12:00:00",
-      "2023-06-24 04:59:59"
+      "2025-01-02 12:00:00",
+      "2025-01-24 11:59:59"
     ]
   ],
   "1015": [

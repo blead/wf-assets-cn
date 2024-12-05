@@ -3703,6 +3703,208 @@
       ]
     ]
   },
+  "8003": {
+    "1": [
+      [
+        "800301",
+        "扭蛋BOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_a",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_a",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-01-27 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ],
+    "2": [
+      [
+        "800302",
+        "扭蛋BOX B",
+        "B",
+        "1",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_b",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_b",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-01-28 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ],
+    "3": [
+      [
+        "800303",
+        "扭蛋BOX C",
+        "C",
+        "2",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_c",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-01-29 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ],
+    "4": [
+      [
+        "800304",
+        "扭蛋BOX D",
+        "D",
+        "3",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_d",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-01-30 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ],
+    "5": [
+      [
+        "800305",
+        "扭蛋BOX E",
+        "E",
+        "4",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_e",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-01-31 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ],
+    "6": [
+      [
+        "800306",
+        "扭蛋BOX F",
+        "F",
+        "5",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_f",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_f",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-02-01 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ],
+    "7": [
+      [
+        "800307",
+        "扭蛋BOX G",
+        "G",
+        "6",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_g",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_g",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-02-02 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ],
+    "8": [
+      [
+        "800308",
+        "扭蛋BOX H",
+        "H",
+        "7",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_h",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_h",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-02-03 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ],
+    "9": [
+      [
+        "800309",
+        "扭蛋BOX I",
+        "I",
+        "8",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_i",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_i",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-02-04 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ],
+    "10": [
+      [
+        "800310",
+        "扭蛋BOX J",
+        "J",
+        "9",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_j",
+        "box_gacha/icon/chinese_ny23/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/holiday_activity_2025_01/logo_j",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2025-02-05 05:00:00",
+        "2025-02-13 11:59:59",
+        "0"
+      ]
+    ]
+  },
   "1002": {
     "1": [
       [
@@ -4127,8 +4329,8 @@
         "3",
         "0",
         "(None)",
-        "2023-05-31 12:00:00",
-        "2023-06-24 04:59:59",
+        "2025-01-02 12:00:00",
+        "2025-01-24 11:59:59",
         "1"
       ]
     ],
@@ -4147,8 +4349,8 @@
         "3",
         "0",
         "(None)",
-        "2023-05-31 12:00:00",
-        "2023-06-24 04:59:59",
+        "2025-01-02 12:00:00",
+        "2025-01-24 11:59:59",
         "1"
       ]
     ],
@@ -4167,8 +4369,8 @@
         "3",
         "0",
         "(None)",
-        "2023-05-31 12:00:00",
-        "2023-06-24 04:59:59",
+        "2025-01-02 12:00:00",
+        "2025-01-24 11:59:59",
         "1"
       ]
     ],
@@ -4187,8 +4389,8 @@
         "3",
         "0",
         "(None)",
-        "2023-05-31 12:00:00",
-        "2023-06-24 04:59:59",
+        "2025-01-02 12:00:00",
+        "2025-01-24 11:59:59",
         "1"
       ]
     ],
@@ -4207,8 +4409,8 @@
         "3",
         "2",
         "(None)",
-        "2023-05-31 12:00:00",
-        "2023-06-24 04:59:59",
+        "2025-01-02 12:00:00",
+        "2025-01-24 11:59:59",
         "1"
       ]
     ]
