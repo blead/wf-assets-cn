@@ -182,6 +182,21 @@
       ]
     ]
   },
+  "1681": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/yellow_element_character_pickup_06",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "156": {
     "1": [
       [
@@ -3348,6 +3363,151 @@
     ]
   },
   "189": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_xm19xm20xm22_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_battle_maid_xm19",
+        "111004",
+        "0",
+        "111004",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/xmas19/battle_maid_xm19/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111004",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_lady_summoner_xm20",
+        "111021",
+        "0",
+        "111021",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_27/lady_summoner_xm20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111021",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151141",
+        "0",
+        "151141",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_77/compliment_oiran_xm22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151141",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_black_hair_swordman_xm20",
+        "231032",
+        "0",
+        "231032",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_27/black_hair_swordman_xm20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "231032",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "261083",
+        "0",
+        "261083",
+        ""
+      ]
+    ],
+    "11": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_77/herbalist_xm22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261083",
+        ""
+      ]
+    ]
+  },
+  "1679": {
     "1": [
       [
         "0",
@@ -10123,6 +10283,151 @@
       ]
     ]
   },
+  "1676": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_20smr21smr22smr_character_pickup_04/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131104",
+        "0",
+        "131104",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_68/combat_soldier_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131104",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_bigwing_shaman_smr21",
+        "141063",
+        "0",
+        "141063",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_43/bigwing_shaman_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141063",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_mercenary_smr21",
+        "141069",
+        "0",
+        "141069",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_45/mercenary_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141069",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_unicorn_lancer_smr20",
+        "221011",
+        "0",
+        "221011",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "221011",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_lady_gunner_smr20",
+        "261009",
+        "0",
+        "261009",
+        ""
+      ]
+    ],
+    "11": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_17/lady_gunner_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261009",
+        ""
+      ]
+    ]
+  },
   "177": {
     "1": [
       [
@@ -14038,6 +14343,151 @@
       ]
     ]
   },
+  "1678": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/red_element_character_pickup_05/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_onmyoji_boy_wt21",
+        "111039",
+        "0",
+        "111039",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_33/onmyoji_boy_wt21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111039",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111135",
+        "0",
+        "111135",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_72/golemclub_captain/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111135",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111081",
+        "0",
+        "111081",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_50/shadow_redhood/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111081",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_compliment_oiran",
+        "111006",
+        "0",
+        "111006",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_05/compliment_oiran/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111006",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_wolf_assassin_wt21",
+        "311025",
+        "0",
+        "311025",
+        ""
+      ]
+    ],
+    "11": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_33/wolf_assassin_wt21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "311025",
+        ""
+      ]
+    ]
+  },
   "174": {
     "1": [
       [
@@ -15720,7 +16170,141 @@
       ]
     ]
   },
+  "1680": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_92/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131164",
+        "0",
+        "131164",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131164",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141177",
+        "0",
+        "141177",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141177",
+        ""
+      ]
+    ]
+  },
   "187": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_91/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111171",
+        "0",
+        "111171",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111171",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121171",
+        "0",
+        "121171",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_91/psychic_projection_smr23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121171",
+        ""
+      ]
+    ]
+  },
+  "1677": {
     "1": [
       [
         "0",
@@ -29702,6 +30286,21 @@
     ]
   },
   "5039": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_wind_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "25038": {
     "1": [
       [
         "1",

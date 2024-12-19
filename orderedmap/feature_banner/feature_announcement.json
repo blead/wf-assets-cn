@@ -3773,8 +3773,8 @@
     [
       "1000",
       "dynamic/feature_announcement/notice_combat_diver_04",
-      "2023-07-31 12:00:00",
-      "2023-08-14 11:59:59",
+      "2025-02-27 12:00:00",
+      "2025-03-13 23:59:59",
       "false",
       "(None)"
     ]
@@ -5054,7 +5054,7 @@
       "4000",
       "dynamic/feature_announcement/exchange_character_ticket_gift_01",
       "2025-01-02 12:00:00",
-      "2025-01-30 11:59:59",
+      "2025-01-29 23:59:59",
       "false",
       "(None)"
     ]
@@ -5073,8 +5073,8 @@
     [
       "4000",
       "dynamic/feature_announcement/exchange_character_ticket_gift_03",
-      "2023-07-31 12:00:00",
-      "2023-08-21 11:59:59",
+      "2025-02-27 12:00:00",
+      "2025-03-20 23:59:59",
       "false",
       "(None)"
     ]
@@ -5144,7 +5144,7 @@
       "3000",
       "dynamic/feature_announcement/equipment_black_pickup_2",
       "2025-01-02 12:00:00",
-      "2025-01-23 11:59:59",
+      "2025-01-30 11:59:59",
       "false",
       "(None)"
     ]
@@ -5163,8 +5163,8 @@
     [
       "1001",
       "dynamic/feature_announcement/world_story_event_summer_2022_re01",
-      "2023-07-07 12:00:00",
-      "2023-07-21 20:59:59",
+      "2025-02-06 12:00:00",
+      "2025-02-20 23:59:59",
       "false",
       "(None)"
     ]
@@ -5183,8 +5183,8 @@
     [
       "3002",
       "dynamic/feature_announcement/revival_20smr21smr22smr_character_pickup_04",
-      "2023-07-07 12:00:00",
-      "2023-07-14 11:59:59",
+      "2025-02-06 12:00:00",
+      "2025-02-13 11:59:59",
       "false",
       "(None)"
     ]
@@ -5193,8 +5193,8 @@
     [
       "3003",
       "dynamic/feature_announcement/new_character_pickup_91",
-      "2023-07-14 12:00:00",
-      "2023-07-21 11:59:59",
+      "2025-02-13 12:00:00",
+      "2025-02-27 11:59:59",
       "false",
       "(None)"
     ]
@@ -5203,8 +5203,8 @@
     [
       "2000",
       "dynamic/feature_announcement/notice_2023_summer_gacha_campaign",
-      "2023-07-14 12:00:00",
-      "2023-07-31 11:59:59",
+      "2025-02-13 12:00:00",
+      "2025-03-16 04:59:59",
       "false",
       "(None)"
     ]
@@ -5213,8 +5213,8 @@
     [
       "3002",
       "dynamic/feature_announcement/revival_xm19xm20xm22_character_pickup_01",
-      "2023-07-21 12:00:00",
-      "2023-07-31 11:59:59",
+      "2025-02-20 12:00:00",
+      "2025-03-06 11:59:59",
       "false",
       "(None)"
     ]
@@ -5223,8 +5223,8 @@
     [
       "3003",
       "dynamic/feature_announcement/new_character_pickup_92",
-      "2023-07-31 12:00:00",
-      "2023-08-07 11:59:59",
+      "2025-02-27 12:00:00",
+      "2025-03-13 11:59:59",
       "false",
       "(None)"
     ]
@@ -5263,8 +5263,8 @@
     [
       "3002",
       "dynamic/feature_announcement/yellow_element_character_pickup_06",
-      "2023-07-31 12:00:00",
-      "2023-08-07 11:59:59",
+      "2025-02-27 12:00:00",
+      "2025-03-06 11:59:59",
       "false",
       "(None)"
     ]
@@ -5273,8 +5273,8 @@
     [
       "3000",
       "dynamic/feature_announcement/equipment_wind_pickup_2",
-      "2023-07-31 12:00:00",
-      "2023-08-31 11:59:59",
+      "2025-02-27 12:00:00",
+      "2025-03-27 11:59:59",
       "false",
       "(None)"
     ]
@@ -5283,8 +5283,8 @@
     [
       "1000",
       "dynamic/feature_announcement/bossbattle_multi_pickup_event_26",
-      "2023-07-21 12:00:00",
-      "2023-07-31 20:59:59",
+      "2025-02-20 12:00:00",
+      "2025-03-06 23:59:59",
       "false",
       "(None)"
     ]
@@ -5293,8 +5293,8 @@
     [
       "2002",
       "dynamic/feature_announcement/notice_kc",
-      "2023-07-14 12:00:00",
-      "2023-07-28 20:59:59",
+      "2025-02-13 12:00:00",
+      "2025-02-27 23:59:59",
       "false",
       "(None)"
     ]
@@ -5303,8 +5303,8 @@
     [
       "3002",
       "dynamic/feature_announcement/red_element_character_pickup_05",
-      "2023-07-14 12:00:00",
-      "2023-07-21 11:59:59",
+      "2025-02-13 12:00:00",
+      "2025-02-20 11:59:59",
       "false",
       "(None)"
     ]
@@ -5403,8 +5403,8 @@
     [
       "300",
       "dynamic/feature_announcement/notice_score_attack_event_border_extended",
-      "2023-07-14 12:00:00",
-      "2023-07-31 11:59:59",
+      "2025-02-13 12:00:00",
+      "2025-02-27 11:59:59",
       "false",
       "(None)"
     ]
@@ -5853,7 +5853,7 @@
     [
       "3000",
       "dynamic/feature_announcement/3rdhalf_anniversary_special_set",
-      "2025-01-02 05:00:00",
+      "2025-01-02 12:00:00",
       "2025-01-23 23:59:59",
       "false",
       "(None)"
@@ -6023,8 +6023,8 @@
     [
       "2000",
       "dynamic/feature_announcement/character_training_campaign_staminahalf_reward",
-      "2023-07-14 12:00:00",
-      "2023-07-31 20:59:59",
+      "2025-02-13 12:00:00",
+      "2025-02-27 23:59:59",
       "false",
       "(None)"
     ]
@@ -6063,8 +6063,8 @@
     [
       "2000",
       "dynamic/feature_announcement/summer23_campaign_mission",
-      "2023-07-14 12:00:00",
-      "2023-07-31 20:59:59",
+      "2025-02-13 12:00:00",
+      "2025-02-27 23:59:59",
       "false",
       "(None)"
     ]

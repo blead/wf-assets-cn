@@ -159,6 +159,16 @@
       "1"
     ]
   ],
+  "3110023": [
+    [
+      "pretty_witch_fireball_hp_curve",
+      "175",
+      "1",
+      "pretty_witch_fireball_atk_curve",
+      "350",
+      "1"
+    ]
+  ],
   "3310101": [
     [
       "magic_boy_thunderball_hp_curve",
@@ -250,6 +260,16 @@
     ]
   ],
   "2510062": [
+    [
+      "unyielding_adventurer_ball_hp_curve",
+      "221",
+      "1",
+      "unyielding_adventurer_ball_atk_curve",
+      "250",
+      "1"
+    ]
+  ],
+  "2510063": [
     [
       "unyielding_adventurer_ball_hp_curve",
       "221",

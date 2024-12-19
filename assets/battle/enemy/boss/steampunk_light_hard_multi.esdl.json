@@ -8,7 +8,7 @@
     "T1",
     "p0"
   ],
-  "ah": 10000,
+  "ah": 5000,
   "ar": "battle/boss/steampunk_light/steampunk_light",
   "as": "battle/boss/steampunk_light/steampunk_light",
   "at": "battle/boss/steampunk_light/steampunk_light_shadow",
@@ -25,7 +25,7 @@
       ],
       "d": [
         "T1",
-        10400000000
+        5200000000
       ],
       "g": [
         {
@@ -4537,7 +4537,7 @@
               "a": [
                 "T1"
               ],
-              "b": "快乐触发",
+              "b": "乱枪扫射",
               "c": 0,
               "d": 210
             }
@@ -12998,7 +12998,7 @@
               "a": [
                 "T1"
               ],
-              "b": "快乐触发",
+              "b": "乱枪扫射",
               "c": 0,
               "d": 210
             }
@@ -13989,7 +13989,7 @@
     "T1"
   ],
   "bJ": false,
-  "ba": 460,
+  "ba": 276,
   "bd": [
     "T1",
     180
