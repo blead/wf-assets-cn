@@ -39445,6 +39445,144 @@
       ]
     ]
   },
+  "10050": {
+    "1": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_equip_4",
+        "1",
+        "5045000",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10051": {
+    "1": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_equip_5",
+        "1",
+        "5025000",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10052": {
+    "1": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_equip_5_chokyu",
+        "1",
+        "5005000",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10053": {
+    "1": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_coin_1_50",
+        "0",
+        "70055",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10054": {
+    "1": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_coin_2_10",
+        "0",
+        "70056",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10055": {
+    "1": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_coin_2_25",
+        "0",
+        "70056",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10056": {
+    "1": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_coin_3_5",
+        "0",
+        "70057",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10057": {
+    "1": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_coin_3_1",
+        "0",
+        "70057",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "10058": {
+    "1": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_coin",
+        "0",
+        "70056",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_coin",
+        "0",
+        "70056",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_coin",
+        "0",
+        "70057",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_eye_dragon_202503_multibattle_rare_coin",
+        "0",
+        "70057",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "2276": {
     "1": [
       [

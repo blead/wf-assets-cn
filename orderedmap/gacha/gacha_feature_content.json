@@ -6746,6 +6746,151 @@
       ]
     ]
   },
+  "1685": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_ny20ny21ny23_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_heavenly_one",
+        "111005",
+        "0",
+        "111005",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/ny20/heavenly_one/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111005",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_brown_fighter_dst21",
+        "141039",
+        "0",
+        "141039",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_35/brown_fighter_dst21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141039",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141141",
+        "0",
+        "141141",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_78/heavenly_four/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141141",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_bearish_darkwitch_ny20",
+        "241006",
+        "0",
+        "241006",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/ny20/bearish_darkwitch_ny20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "241006",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_swallow_knight_ny20",
+        "261006",
+        "0",
+        "261006",
+        ""
+      ]
+    ],
+    "11": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/ny20/swallow_knight_ny20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261006",
+        ""
+      ]
+    ]
+  },
   "107": {
     "1": [
       [
@@ -7393,7 +7538,245 @@
       ]
     ]
   },
+  "1684": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_hw21_hw22_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131122",
+        "0",
+        "131122",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_73/palpebra_knight_lady_hw22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131122",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151075",
+        "0",
+        "151075",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_48/neoviolin_musician_hw21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151075",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "221053",
+        "0",
+        "221053",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_48/spry_sailor_hw21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "221053",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "241057",
+        "0",
+        "241057",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_48/sanctuary_guard_hw21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "241057",
+        ""
+      ]
+    ]
+  },
   "192": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_hw20_hw22_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_sing_android_hw20",
+        "161015",
+        "0",
+        "161015",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_20/sing_android_hw20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161015",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161135",
+        "0",
+        "161135",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_73/wind_spgirl_hw22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161135",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_fox_scientist_hw20",
+        "231020",
+        "0",
+        "231020",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "231020",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_priest_hw20",
+        "351015",
+        "0",
+        "351015",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_20/priest_hw20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "351015",
+        ""
+      ]
+    ]
+  },
+  "1682": {
     "1": [
       [
         "0",
@@ -16062,7 +16445,141 @@
       ]
     ]
   },
+  "1686": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_94/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121177",
+        "0",
+        "121177",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121177",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131170",
+        "0",
+        "131170",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_94/starbreak_hunter_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131170",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141183",
+        "0",
+        "141183",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141183",
+        ""
+      ]
+    ]
+  },
   "193": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_93/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161195",
+        "0",
+        "161195",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_93/blindfold_agent/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161195",
+        ""
+      ]
+    ]
+  },
+  "1683": {
     "1": [
       [
         "0",
@@ -30241,6 +30758,21 @@
     ]
   },
   "5040": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_yellow_pickup_1",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "25039": {
     "1": [
       [
         "1",

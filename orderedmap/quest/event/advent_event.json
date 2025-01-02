@@ -1332,6 +1332,37 @@
       "2024-11-29 11:59:59"
     ]
   ],
+  "300003": [
+    [
+      "advent_eye_dragon_202503_multibattle",
+      "(None)",
+      "始龙之眼讨伐",
+      "",
+      "quest/event/banner/advent_event/advent_eye_dragon_multibattle_202310",
+      "quest/event/bossbattle_banner/advent_event/advent_eye_dragon_multibattle_202310",
+      "0",
+      "quest/event/background/advent_event/advent_eye_dragon_multibattle_202310",
+      "quest/event/logo/advent_event/advent_eye_dragon_multibattle_202310",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "500",
+      "bgm/world_10/battle/world_10_battle_shiryuu",
+      "event",
+      "false",
+      "70055",
+      "70056",
+      "70057",
+      "(None)",
+      "true",
+      "advent_eye_dragon_202503_multibattle",
+      "true",
+      "2025-03-27 12:00:00",
+      "2025-04-10 23:59:59",
+      "2025-04-18 11:59:59"
+    ]
+  ],
   "100009": [
     [
       "advent_u_collabo_event",
@@ -1832,7 +1863,7 @@
     [
       "advent_variant_empress_light_20230814_20230828",
       "(None)",
-      "女王・ブロンシュ",
+      "皓之女王",
       "",
       "quest/event/banner/advent_event/advent_variant_empress_light",
       "quest/event/bossbattle_banner/advent_event/advent_variant_empress_light",
@@ -1854,9 +1885,9 @@
       "true",
       "advent_variant_empress_light",
       "true",
-      "2023-08-14 12:00:00",
-      "2023-08-28 20:59:59",
-      "2023-09-05 04:59:59"
+      "2025-03-13 12:00:00",
+      "2025-03-27 23:59:59",
+      "2025-04-04 11:59:59"
     ]
   ],
   "200079": [
@@ -1894,7 +1925,7 @@
     [
       "advent_steam_robot_thunder_20230831_20230914",
       "(None)",
-      "橙悚の机兵",
+      "橙悚机兵",
       "",
       "quest/event/banner/advent_event/advent_event_steam_robot_thunder",
       "quest/event/bossbattle_banner/advent_event/advent_event_steam_robot_thunder",
@@ -1916,9 +1947,9 @@
       "true",
       "advent_steam_robot_thunder",
       "true",
-      "2023-08-31 12:00:00",
-      "2023-09-14 20:59:59",
-      "2023-09-22 04:59:59"
+      "2025-03-27 12:00:00",
+      "2025-04-10 23:59:59",
+      "2025-04-18 11:59:59"
     ]
   ],
   "200053": [
@@ -2415,6 +2446,37 @@
       "2024-06-13 12:00:00",
       "2024-06-27 23:59:59",
       "2024-07-05 11:59:59"
+    ]
+  ],
+  "300002": [
+    [
+      "advent_hw23",
+      "9",
+      "为你奏响的镇魂歌",
+      "",
+      "quest/event/banner/advent_event/event_advent_hw20",
+      "quest/event/bossbattle_banner/advent_event/advent_event_hw20",
+      "0",
+      "quest/event/background/advent_event/advent_event_hw20",
+      "quest/event/logo/advent_event/advent_hw20",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "9",
+      "bgm/event/advent_event/advent_event_hw20/system/halloween_stage_node",
+      "event",
+      "false",
+      "10000007",
+      "10000008",
+      "10000009",
+      "(None)",
+      "true",
+      "advent_hw20",
+      "true",
+      "2025-03-06 12:00:00",
+      "2025-03-20 23:59:59",
+      "2025-03-28 11:59:59"
     ]
   ],
   "200076": [

@@ -2213,8 +2213,8 @@
     [
       "2000",
       "dynamic/feature_announcement/battle_support_campaign",
-      "2023-08-31 12:00:00",
-      "2023-09-15 20:59:59",
+      "2025-03-27 12:00:00",
+      "2025-04-10 23:59:59",
       "false",
       "(None)"
     ]
@@ -3113,8 +3113,8 @@
     [
       "1000",
       "dynamic/feature_announcement/boss_eye_dragon",
-      "2023-12-14 12:00:00",
-      "2023-12-28 23:59:59",
+      "2025-03-27 12:00:00",
+      "2025-04-10 23:59:59",
       "false",
       "(None)"
     ]
@@ -5083,8 +5083,8 @@
     [
       "4000",
       "dynamic/feature_announcement/exchange_character_ticket_gift_04",
-      "2023-08-31 12:00:00",
-      "2023-09-21 11:59:59",
+      "2025-03-27 12:00:00",
+      "2025-04-17 23:59:59",
       "false",
       "(None)"
     ]
@@ -5333,8 +5333,8 @@
     [
       "3003",
       "dynamic/feature_announcement/revival_hw20_hw22_character_pickup_01",
-      "2023-08-07 12:00:00",
-      "2023-08-14 11:59:59",
+      "2025-03-06 12:00:00",
+      "2025-03-13 11:59:59",
       "false",
       "(None)"
     ]
@@ -5353,8 +5353,8 @@
     [
       "3001",
       "dynamic/feature_announcement/new_character_pickup_93",
-      "2023-08-14 12:00:00",
-      "2023-08-21 11:59:59",
+      "2025-03-13 12:00:00",
+      "2025-03-27 11:59:59",
       "false",
       "(None)"
     ]
@@ -5363,8 +5363,8 @@
     [
       "3000",
       "dynamic/feature_announcement/revival_hw21_hw22_character_pickup_01",
-      "2023-08-14 12:00:00",
-      "2023-08-21 11:59:59",
+      "2025-03-13 12:00:00",
+      "2025-03-20 11:59:59",
       "false",
       "(None)"
     ]
@@ -5373,8 +5373,8 @@
     [
       "3000",
       "dynamic/feature_announcement/revival_ny20ny21ny23_character_pickup_01",
-      "2023-08-21 12:00:00",
-      "2023-08-31 11:59:59",
+      "2025-03-20 12:00:00",
+      "2025-03-27 11:59:59",
       "false",
       "(None)"
     ]
@@ -5383,8 +5383,8 @@
     [
       "3003",
       "dynamic/feature_announcement/new_character_pickup_94",
-      "2023-08-31 12:00:00",
-      "2023-09-07 11:59:59",
+      "2025-03-27 12:00:00",
+      "2025-04-10 11:59:59",
       "false",
       "(None)"
     ]
@@ -5393,8 +5393,8 @@
     [
       "3002",
       "dynamic/feature_announcement/equipment_yellow_pickup_1",
-      "2023-08-31 12:00:00",
-      "2023-09-29 11:59:59",
+      "2025-03-27 12:00:00",
+      "2025-04-24 11:59:59",
       "false",
       "(None)"
     ]
@@ -5443,8 +5443,8 @@
     [
       "1004",
       "dynamic/feature_announcement/advent_event_hw21",
-      "2023-08-07 12:00:00",
-      "2023-08-21 20:59:59",
+      "2025-03-06 12:00:00",
+      "2025-03-20 23:59:59",
       "false",
       "(None)"
     ]
@@ -5893,8 +5893,8 @@
     [
       "1000",
       "dynamic/feature_announcement/collect_item_event_017",
-      "2023-08-07 12:00:00",
-      "2023-08-21 20:59:59",
+      "2025-03-06 12:00:00",
+      "2025-03-20 23:59:59",
       "false",
       "(None)"
     ]
@@ -6113,8 +6113,8 @@
     [
       "1000",
       "dynamic/feature_announcement/bossbattle_multi_pickup_event",
-      "2023-08-21 12:00:00",
-      "2023-08-31 20:59:59",
+      "2025-03-20 12:00:00",
+      "2025-04-03 23:59:59",
       "false",
       "(None)"
     ]
@@ -6193,8 +6193,8 @@
     [
       "1000",
       "dynamic/feature_announcement/advent_variant_empress_light",
-      "2023-08-14 12:00:00",
-      "2023-08-28 20:59:59",
+      "2025-03-13 12:00:00",
+      "2025-03-27 23:59:59",
       "false",
       "(None)"
     ]
@@ -6223,8 +6223,8 @@
     [
       "2000",
       "dynamic/feature_announcement/hard_multi_event_steam_robot_thunder",
-      "2023-08-31 12:00:00",
-      "2023-09-14 20:59:59",
+      "2025-03-27 12:00:00",
+      "2025-04-10 23:59:59",
       "false",
       "(None)"
     ]
@@ -6233,8 +6233,8 @@
     [
       "2001",
       "dynamic/feature_announcement/advent_event_steam_robot_thunder",
-      "2023-08-31 12:00:00",
-      "2023-09-14 20:59:59",
+      "2025-03-27 12:00:00",
+      "2025-04-10 23:59:59",
       "false",
       "(None)"
     ]
