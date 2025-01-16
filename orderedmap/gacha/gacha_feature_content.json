@@ -9078,6 +9078,73 @@
       ]
     ]
   },
+  "1689": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_crown_beasts_character_pickup_02/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111129",
+        "0",
+        "111129",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_70/lion_swordman_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111129",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121069",
+        "0",
+        "121069",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_47/waterdragon_kunfu_proud/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121069",
+        ""
+      ]
+    ]
+  },
   "172": {
     "1": [
       [
@@ -13180,6 +13247,99 @@
       ]
     ]
   },
+  "1687": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_wind_spgirl_1anv",
+        "141021",
+        "0",
+        "141021",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_24/wind_spgirl_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141021",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_elf_princess_1halfanv",
+        "141051",
+        "0",
+        "141051",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_39/elf_princess_1halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141051",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141111",
+        "0",
+        "141111",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_65/silence_suzuka/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141111",
+        ""
+      ]
+    ]
+  },
   "132": {
     "1": [
       [
@@ -16311,7 +16471,115 @@
       ]
     ]
   },
+  "1690": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_96/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111177",
+        "0",
+        "111177",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_96/wirfled_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111177",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131176",
+        "0",
+        "131176",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131176",
+        ""
+      ]
+    ]
+  },
   "198": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_95/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121183",
+        "0",
+        "121183",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_95/guild_front_girl_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121183",
+        ""
+      ]
+    ]
+  },
+  "1688": {
     "1": [
       [
         "0",
@@ -31868,6 +32136,21 @@
     ]
   },
   "5041": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_black_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "25040": {
     "1": [
       [
         "1",
