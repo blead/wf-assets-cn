@@ -632,7 +632,7 @@
       "(None)",
       "false",
       "vt22_side_story_event_outline",
-      "2050-11-07 12:00:00",
+      "2025-05-29 12:00:00",
       "(None)",
       "(None)"
     ]
@@ -661,7 +661,7 @@
       "(None)",
       "false",
       "anv2halfanv_side_story_event_outline",
-      "2050-11-07 12:00:00",
+      "2025-05-29 12:00:00",
       "(None)",
       "(None)"
     ]
@@ -690,7 +690,7 @@
       "(None)",
       "false",
       "summer_2022_side_story_event_outline",
-      "2050-11-07 12:00:00",
+      "2025-05-29 12:00:00",
       "(None)",
       "(None)"
     ]
@@ -1215,6 +1215,35 @@
       "2025-01-27 05:00:00",
       "2025-02-06 04:59:59",
       "2025-02-13 11:59:59"
+    ]
+  ],
+  "200109": [
+    [
+      "holiday_activity_2025_05",
+      "(None)",
+      "五一黄金周2025",
+      "",
+      "quest/event/banner/world_story_event/holiday_activity/holiday_activity_2025_05_sec",
+      "(None)",
+      "quest/event/logo/world_story_event/cyber_punk01/cyber_punk01_logo",
+      "quest/event/logo/world_story_event/cyber_punk01/cyber_punk01_logo",
+      "quest/event/animation_background/world_story_event/cyber_punk01/cyber_punk01_background",
+      "bgm/event/cyberpunk01/system/cyberpunk_story_stage_node",
+      "3",
+      "false",
+      "false",
+      "1",
+      "8004",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "holiday_activity_how_to_play",
+      "2025-04-30 05:00:00",
+      "2025-05-07 04:59:59",
+      "2025-05-14 11:59:59"
     ]
   ],
   "500002": [

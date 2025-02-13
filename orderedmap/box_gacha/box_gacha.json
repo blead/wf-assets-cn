@@ -187,8 +187,8 @@
       "10",
       "quest/event/animation_background/raid_event/raid_event_02/background",
       "bgm/event/raid_event/raid_event_box_gacha",
-      "2023-10-23 12:00:00",
-      "2023-11-07 04:59:59"
+      "2025-05-15 12:00:00",
+      "2025-06-06 11:59:59"
     ]
   ],
   "28": [
@@ -393,6 +393,18 @@
       "bgm/event/anv1/system/anv1_box_gacha",
       "2025-01-27 05:00:00",
       "2025-02-13 11:59:59"
+    ]
+  ],
+  "8004": [
+    [
+      "holiday_activity_2025_05",
+      "3",
+      "70060",
+      "10",
+      "quest/event/animation_background/world_story_event/anv_story_01/anv_story_01_background",
+      "bgm/event/anv1/system/anv1_box_gacha",
+      "2025-04-30 05:00:00",
+      "2025-05-14 11:59:59"
     ]
   ],
   "1002": [

@@ -5313,8 +5313,8 @@
     [
       "1000",
       "dynamic/feature_announcement/notice_raid_event_06",
-      "2023-10-23 12:00:00",
-      "2023-10-30 20:59:59",
+      "2025-05-15 12:00:00",
+      "2025-05-29 23:59:59",
       "false",
       "(None)"
     ]
@@ -5343,8 +5343,8 @@
     [
       "1000",
       "dynamic/feature_announcement/notice_combat_diver_04",
-      "2023-11-07 12:00:00",
-      "2023-11-21 11:59:59",
+      "2025-05-29 12:00:00",
+      "2025-06-12 23:59:59",
       "false",
       "(None)"
     ]
@@ -5523,8 +5523,8 @@
     [
       "3003",
       "dynamic/feature_announcement/revival_xm21xm22_character_pickup_01",
-      "2023-10-06 12:00:00",
-      "2023-10-13 11:59:59",
+      "2025-05-01 12:00:00",
+      "2025-05-08 11:59:59",
       "false",
       "(None)"
     ]
@@ -5533,8 +5533,8 @@
     [
       "3003",
       "dynamic/feature_announcement/new_character_pickup_97",
-      "2023-10-13 12:00:00",
-      "2023-10-23 11:59:59",
+      "2025-05-08 12:00:00",
+      "2025-05-22 11:59:59",
       "false",
       "(None)"
     ]
@@ -5543,8 +5543,8 @@
     [
       "3003",
       "dynamic/feature_announcement/revival_ny21ny22_character_pickup_01",
-      "2023-10-23 12:00:00",
-      "2023-10-31 11:59:59",
+      "2025-05-15 12:00:00",
+      "2025-05-22 11:59:59",
       "false",
       "(None)"
     ]
@@ -5553,8 +5553,8 @@
     [
       "3002",
       "dynamic/feature_announcement/green_element_character_pickup_02",
-      "2023-10-23 12:00:00",
-      "2023-10-31 11:59:59",
+      "2025-05-15 12:00:00",
+      "2025-05-22 11:59:59",
       "false",
       "(None)"
     ]
@@ -5563,8 +5563,8 @@
     [
       "3003",
       "dynamic/feature_announcement/new_character_pickup_98",
-      "2023-10-31 12:00:00",
-      "2023-11-07 11:59:59",
+      "2025-05-22 12:00:00",
+      "2025-06-05 11:59:59",
       "false",
       "(None)"
     ]
@@ -5573,8 +5573,8 @@
     [
       "3002",
       "dynamic/feature_announcement/revival_halfanv_character_pickup_01",
-      "2023-10-31 12:00:00",
-      "2023-11-07 11:59:59",
+      "2025-05-22 12:00:00",
+      "2025-05-29 11:59:59",
       "false",
       "(None)"
     ]
@@ -5583,8 +5583,8 @@
     [
       "3002",
       "dynamic/feature_announcement/direct_attack_character_pickup_01",
-      "2023-10-13 12:00:00",
-      "2023-10-23 11:59:59",
+      "2025-05-08 12:00:00",
+      "2025-05-15 11:59:59",
       "false",
       "(None)"
     ]
@@ -5593,8 +5593,8 @@
     [
       "3001",
       "dynamic/feature_announcement/equipment_red_pickup_1",
-      "2023-10-31 12:00:00",
-      "2023-11-30 11:59:59",
+      "2025-05-22 12:00:00",
+      "2025-06-19 11:59:59",
       "false",
       "(None)"
     ]
@@ -5603,8 +5603,8 @@
     [
       "2002",
       "dynamic/feature_announcement/notice_kc",
-      "2023-10-13 12:00:00",
-      "2023-10-22 20:59:59",
+      "2025-05-08 12:00:00",
+      "2025-05-22 23:59:59",
       "false",
       "(None)"
     ]
@@ -5613,8 +5613,8 @@
     [
       "4000",
       "dynamic/feature_announcement/exchange_character_ticket_gift_06",
-      "2023-10-31 12:00:00",
-      "2023-11-23 11:59:59",
+      "2025-05-22 12:00:00",
+      "2025-06-12 23:59:59",
       "false",
       "(None)"
     ]
@@ -5663,8 +5663,8 @@
     [
       "3002",
       "dynamic/feature_announcement/revival_vt22wt22_character_pickup_02",
-      "2023-11-07 12:00:00",
-      "2023-11-14 11:59:59",
+      "2025-05-29 12:00:00",
+      "2025-06-05 11:59:59",
       "false",
       "(None)"
     ]
@@ -5713,8 +5713,8 @@
     [
       "2000",
       "dynamic/feature_announcement/notice_sidestory_231107",
-      "2023-11-07 12:00:00",
-      "2023-12-08 11:59:59",
+      "2025-05-29 12:00:00",
+      "2025-06-12 23:59:59",
       "false",
       "(None)"
     ]
@@ -5869,6 +5869,16 @@
       "(None)"
     ]
   ],
+  "30029": [
+    [
+      "3000",
+      "dynamic/feature_announcement/holiday_activity_2025_05",
+      "2025-04-30 05:00:00",
+      "2025-05-07 04:59:59",
+      "false",
+      "(None)"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -5883,8 +5893,8 @@
     [
       "1000",
       "dynamic/feature_announcement/collect_item_event_018",
-      "2023-10-31 12:00:00",
-      "2023-11-13 20:59:59",
+      "2025-05-22 12:00:00",
+      "2025-06-05 23:59:59",
       "false",
       "(None)"
     ]
@@ -6033,8 +6043,8 @@
     [
       "2000",
       "dynamic/feature_announcement/character_training_campaign_staminahalf_reward",
-      "2023-10-31 12:00:00",
-      "2023-11-14 20:59:59",
+      "2025-05-22 12:00:00",
+      "2025-06-05 23:59:59",
       "false",
       "(None)"
     ]
@@ -6083,8 +6093,8 @@
     [
       "2000",
       "dynamic/feature_announcement/halloween23_campaign_mission",
-      "2023-10-31 12:00:00",
-      "2023-11-14 20:59:59",
+      "2025-05-22 12:00:00",
+      "2025-06-05 23:59:59",
       "false",
       "(None)"
     ]
@@ -6163,8 +6173,8 @@
     [
       "1000",
       "dynamic/feature_announcement/advent_variant_hw_fire",
-      "2023-10-31 12:00:00",
-      "2023-11-13 20:59:59",
+      "2025-05-22 12:00:00",
+      "2025-06-05 23:59:59",
       "false",
       "(None)"
     ]
@@ -6183,8 +6193,8 @@
     [
       "1000",
       "dynamic/feature_announcement/advent_variant_empress_thunder",
-      "2023-10-13 12:00:00",
-      "2023-10-22 20:59:59",
+      "2025-05-08 12:00:00",
+      "2025-05-22 23:59:59",
       "false",
       "(None)"
     ]
@@ -6333,8 +6343,8 @@
     [
       "1000",
       "dynamic/feature_announcement/advent_event_spirit_beast_fire2",
-      "2023-10-06 12:00:00",
-      "2023-10-20 20:59:59",
+      "2025-05-01 12:00:00",
+      "2025-05-15 23:59:59",
       "false",
       "(None)"
     ]
@@ -6353,8 +6363,8 @@
     [
       "1000",
       "dynamic/feature_announcement/advent_event_spirit_beast_dark2",
-      "2023-10-31 12:00:00",
-      "2023-11-13 20:59:59",
+      "2025-05-22 12:00:00",
+      "2025-06-05 23:59:59",
       "false",
       "(None)"
     ]

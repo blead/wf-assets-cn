@@ -4675,6 +4675,32 @@
       ]
     ]
   },
+  "20032": {
+    "1": [
+      [
+        "holiday_activity_2025_05_sec",
+        "0",
+        "",
+        "",
+        "dynamic/home_banner/sec/holiday_activity_2025_05_sec",
+        "quest/event/banner/world_story_event/holiday_activity/holiday_activity_2025_05_sec",
+        "(None)"
+      ]
+    ]
+  },
+  "20033": {
+    "1": [
+      [
+        "campaign_mission_01_20231031_20231114",
+        "0",
+        "",
+        "",
+        "quest/event/banner/collect_item_event/halloween23_mission_event",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
   "20020": {
     "1": [
       [

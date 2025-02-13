@@ -5099,7 +5099,7 @@
     [
       "battle_pass_11_degree_1",
       "750020",
-      "春",
+      "春日踏青",
       "待翻译",
       "获得条件：在2025年04月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
       "8",
@@ -5112,7 +5112,7 @@
     [
       "battle_pass_11_degree_2",
       "750021",
-      "春",
+      "春日踏青",
       "待翻译",
       "获得条件：在2025年04月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
       "8",
@@ -5125,7 +5125,7 @@
     [
       "battle_pass_12_degree_1",
       "750022",
-      "春",
+      "春风雨露",
       "待翻译",
       "获得条件：在2025年05月的【阿尔克的修行之道】中，将初阶修行等级提升至30级",
       "8",
@@ -5138,7 +5138,7 @@
     [
       "battle_pass_12_degree_2",
       "750023",
-      "春",
+      "春风雨露",
       "待翻译",
       "获得条件：在2025年05月的【阿尔克的修行之道】中，将高阶修行等级提升至30级",
       "8",
@@ -6237,6 +6237,344 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_raid_event_05_13"
+    ]
+  ],
+  "63065": [
+    [
+      "degree_raid_event_06_01",
+      "540065",
+      "弹袭天",
+      "だんしゅうてん",
+      "获得条件：在“团本活动 战阵之宴”通关700次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_01"
+    ]
+  ],
+  "63066": [
+    [
+      "degree_raid_event_06_02",
+      "540066",
+      "弹袭星",
+      "だんしゅうせい",
+      "获得条件：在“团本活动 战阵之宴”通关300次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_02"
+    ]
+  ],
+  "63067": [
+    [
+      "degree_raid_event_06_03",
+      "540067",
+      "弹袭空",
+      "だんしゅうくう",
+      "获得条件：在“团本活动 战阵之宴”通关100次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_03"
+    ]
+  ],
+  "63068": [
+    [
+      "degree_raid_event_06_04",
+      "540068",
+      "弹袭圣",
+      "だんしゅうしょう",
+      "获得条件：在“团本活动 战阵之宴”通关10次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_04"
+    ]
+  ],
+  "63069": [
+    [
+      "degree_raid_event_06_05",
+      "540069",
+      "弹袭王",
+      "だんしゅうおう",
+      "获得条件：在“团本活动 战阵之宴”通关200次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_05"
+    ]
+  ],
+  "63070": [
+    [
+      "degree_raid_event_06_06",
+      "540070",
+      "弹袭卿",
+      "だんしゅうきょう",
+      "获得条件：在“团本活动 战阵之宴”通关100次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_06"
+    ]
+  ],
+  "63071": [
+    [
+      "degree_raid_event_06_07",
+      "540071",
+      "弹袭侯",
+      "だんしゅうこう",
+      "获得条件：在“团本活动 战阵之宴”通关50次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_07"
+    ]
+  ],
+  "63072": [
+    [
+      "degree_raid_event_06_08",
+      "540072",
+      "弹袭豪",
+      "だんしゅうごう",
+      "获得条件：在“团本活动 战阵之宴”通关10次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_08"
+    ]
+  ],
+  "63073": [
+    [
+      "degree_raid_event_06_09",
+      "540073",
+      "弹袭帅",
+      "だんしゅうすい",
+      "获得条件：在“团本活动 战阵之宴”通关100次高级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_09"
+    ]
+  ],
+  "63074": [
+    [
+      "degree_raid_event_06_10",
+      "540074",
+      "弹袭将",
+      "だんしゅうしょう",
+      "获得条件：在“团本活动 战阵之宴”通关50次高级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_10"
+    ]
+  ],
+  "63075": [
+    [
+      "degree_raid_event_06_11",
+      "540075",
+      "弹袭长",
+      "だんしゅうちょう",
+      "获得条件：在“团本活动 战阵之宴”通关10次高级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_11"
+    ]
+  ],
+  "63076": [
+    [
+      "degree_raid_event_06_12",
+      "540076",
+      "弹袭兵",
+      "だんしゅうへい",
+      "获得条件：在“团本活动 战阵之宴”通关100次初级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_12"
+    ]
+  ],
+  "63077": [
+    [
+      "degree_raid_event_06_13",
+      "540077",
+      "弹袭士",
+      "だんしゅうし",
+      "获得条件：在“团本活动 战阵之宴”通关10次初级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_06_13"
+    ]
+  ],
+  "63078": [
+    [
+      "degree_raid_event_07_01",
+      "540078",
+      "弹袭天",
+      "だんしゅうてん",
+      "获得条件：在“团本活动 战阵之宴”通关700次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_01"
+    ]
+  ],
+  "63079": [
+    [
+      "degree_raid_event_07_02",
+      "540079",
+      "弹袭星",
+      "だんしゅうせい",
+      "获得条件：在“团本活动 战阵之宴”通关300次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_02"
+    ]
+  ],
+  "63080": [
+    [
+      "degree_raid_event_07_03",
+      "540080",
+      "弹袭空",
+      "だんしゅうくう",
+      "获得条件：在“团本活动 战阵之宴”通关100次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_03"
+    ]
+  ],
+  "63081": [
+    [
+      "degree_raid_event_07_04",
+      "540081",
+      "弹袭圣",
+      "だんしゅうしょう",
+      "获得条件：在“团本活动 战阵之宴”通关10次地狱级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_04"
+    ]
+  ],
+  "63082": [
+    [
+      "degree_raid_event_07_05",
+      "540082",
+      "弹袭王",
+      "だんしゅうおう",
+      "获得条件：在“团本活动 战阵之宴”通关200次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_05"
+    ]
+  ],
+  "63083": [
+    [
+      "degree_raid_event_07_06",
+      "540083",
+      "弹袭卿",
+      "だんしゅうきょう",
+      "获得条件：在“团本活动 战阵之宴”通关100次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_06"
+    ]
+  ],
+  "63084": [
+    [
+      "degree_raid_event_07_07",
+      "540084",
+      "弹袭侯",
+      "だんしゅうこう",
+      "获得条件：在“团本活动 战阵之宴”通关50次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_07"
+    ]
+  ],
+  "63085": [
+    [
+      "degree_raid_event_07_08",
+      "540085",
+      "弹袭豪",
+      "だんしゅうごう",
+      "获得条件：在“团本活动 战阵之宴”通关10次超级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_08"
+    ]
+  ],
+  "63086": [
+    [
+      "degree_raid_event_07_09",
+      "540086",
+      "弹袭帅",
+      "だんしゅうすい",
+      "获得条件：在“团本活动 战阵之宴”通关100次高级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_09"
+    ]
+  ],
+  "63087": [
+    [
+      "degree_raid_event_07_10",
+      "540087",
+      "弹袭将",
+      "だんしゅうしょう",
+      "获得条件：在“团本活动 战阵之宴”通关50次高级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_10"
+    ]
+  ],
+  "63088": [
+    [
+      "degree_raid_event_07_11",
+      "540088",
+      "弹袭长",
+      "だんしゅうちょう",
+      "获得条件：在“团本活动 战阵之宴”通关10次高级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_11"
+    ]
+  ],
+  "63089": [
+    [
+      "degree_raid_event_07_12",
+      "540089",
+      "弹袭兵",
+      "だんしゅうへい",
+      "获得条件：在“团本活动 战阵之宴”通关100次初级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_12"
+    ]
+  ],
+  "63090": [
+    [
+      "degree_raid_event_07_13",
+      "540090",
+      "弹袭士",
+      "だんしゅうし",
+      "获得条件：在“团本活动 战阵之宴”通关10次初级",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_07_13"
     ]
   ],
   "63039": [
@@ -17943,7 +18281,7 @@
     [
       "degree_advent_event_steam_robot_thunder_clear_1",
       "730010",
-      "橙悚打倒者",
+      "橙悚讨伐者",
       "とうしょうのだとうしゃ",
       "获得条件：降临讨伐 通关橙悚机兵10次",
       "5",
@@ -17969,7 +18307,7 @@
     [
       "degree_advent_event_steam_robot_thunder_clear_3",
       "730012",
-      "橙悚讨灭者",
+      "橙悚主宰者",
       "とうしょうのとうめつしゃ",
       "获得条件：降临讨伐 通关橙悚机兵500次",
       "5",
@@ -17984,7 +18322,7 @@
       "730013",
       "橙悚试炼：决",
       "とうしょうのしれんけつ",
-      "获得条件：在共同决战 橙悚机兵中通关橙机兵吉布西兹 决战级",
+      "获得条件：在共同决战 闪哭机兵中讨伐决战级难度的橙机兵吉布西兹",
       "5",
       "dynamic/degree/background",
       "item/etc/degree",
