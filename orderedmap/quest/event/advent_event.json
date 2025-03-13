@@ -1894,7 +1894,7 @@
     [
       "advent_variant_empress_dark_20231130_20231213",
       "(None)",
-      "女王・ノワール",
+      "墨之女王",
       "",
       "quest/event/banner/advent_event/advent_variant_empress_dark",
       "quest/event/bossbattle_banner/advent_event/advent_variant_empress_dark",
@@ -1916,9 +1916,9 @@
       "true",
       "advent_variant_empress_dark",
       "true",
-      "2023-11-30 12:00:00",
-      "2023-12-13 20:59:59",
-      "2023-12-21 04:59:59"
+      "2025-06-19 12:00:00",
+      "2025-07-03 23:59:59",
+      "2025-07-11 11:59:59"
     ]
   ],
   "200064": [

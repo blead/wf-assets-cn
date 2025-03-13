@@ -2923,8 +2923,8 @@
     [
       "1000",
       "dynamic/feature_announcement/notice_player_history",
-      "2023-11-30 12:00:00",
-      "2023-12-17 20:59:59",
+      "2025-06-19 12:00:00",
+      "2025-07-06 23:59:59",
       "false",
       "(None)"
     ]
@@ -4253,8 +4253,8 @@
     [
       "5000",
       "dynamic/feature_announcement/anv4_release_event",
-      "2023-11-30 12:00:00",
-      "2023-12-17 11:59:59",
+      "2025-06-19 12:00:00",
+      "2025-07-06 11:59:59",
       "false",
       "(None)"
     ]
@@ -5623,8 +5623,8 @@
     [
       "4000",
       "dynamic/feature_announcement/exchange_character_ticket_gift_07",
-      "2023-11-30 12:00:00",
-      "2023-12-23 11:59:59",
+      "2025-06-19 12:00:00",
+      "2025-07-10 23:59:59",
       "false",
       "(None)"
     ]
@@ -5723,8 +5723,8 @@
     [
       "6000",
       "dynamic/feature_announcement/notice_4th_aniv_campaign",
-      "2023-11-30 12:00:00",
-      "2023-12-17 20:59:59",
+      "2025-06-19 12:00:00",
+      "2025-07-06 23:59:59",
       "false",
       "(None)"
     ]
@@ -5763,8 +5763,8 @@
     [
       "5010",
       "dynamic/feature_announcement/multi_special_exchange_campaign_03",
-      "2023-11-30 12:00:00",
-      "2023-12-15 11:59:59",
+      "2025-06-19 12:00:00",
+      "2025-07-13 23:59:59",
       "false",
       "(None)"
     ]
@@ -6213,8 +6213,8 @@
     [
       "1000",
       "dynamic/feature_announcement/advent_variant_empress_dark",
-      "2023-11-30 12:00:00",
-      "2023-12-13 20:59:59",
+      "2025-06-19 12:00:00",
+      "2025-07-03 23:59:59",
       "false",
       "(None)"
     ]

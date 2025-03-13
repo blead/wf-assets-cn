@@ -8271,7 +8271,7 @@
     [
       "degree_favor_fire_dragon_zenith_2",
       "1011",
-      "荣耀日珥",
+      "荣耀红炎",
       "ぷろみねんすぷらうど",
       "获得条件：将【炎龙王】瓦格纳的第二枚玛纳板全部强化完成",
       "2",
@@ -8336,7 +8336,7 @@
     [
       "degree_favor_wirfled_playable_2",
       "26001",
-      "交错的欢呼声",
+      "交错的声援",
       "みくすとえーるず",
       "获得条件：将【热情求婚装甲】威尔弗雷德的第二枚玛纳板全部强化完成",
       "2",
@@ -18489,9 +18489,9 @@
     [
       "degree_advent_event_steam_robot_another_clear_1",
       "646520",
-      "无滑打倒者",
+      "无猾打倒者",
       "むかつのだとうしゃ",
-      "获得条件：降临讨伐 通关无滑机兵10次",
+      "获得条件：降临讨伐 通关无猾机兵10次",
       "5",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -18502,9 +18502,9 @@
     [
       "degree_advent_event_steam_robot_another_clear_2",
       "646521",
-      "无滑征服者",
+      "无猾征服者",
       "むかつのせいふくしゃ",
-      "获得条件：降临讨伐 通关无滑机兵100次",
+      "获得条件：降临讨伐 通关无猾机兵100次",
       "5",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -18515,9 +18515,9 @@
     [
       "degree_advent_event_steam_robot_another_clear_3",
       "646522",
-      "无滑讨灭者",
+      "无猾讨灭者",
       "むかつのとうめつしゃ",
-      "获得条件：降临讨伐 通关无滑机兵500次",
+      "获得条件：降临讨伐 通关无猾机兵500次",
       "5",
       "dynamic/degree/background",
       "item/etc/degree",

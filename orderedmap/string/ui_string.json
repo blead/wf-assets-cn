@@ -2046,7 +2046,7 @@
   ],
   "ability_description_instant_trigger_kind_same_element_member": [
     [
-      "在队伍内编入 ::count:: 名::if once::::if is_max::::else::以上相同属性的角色::end::::else::::end::"
+      "在队伍内相同属性角色编入 ::count:: 名::if once::::if is_max::::else::以上::end::::else::::end::"
     ]
   ],
   "ability_description_during_trigger_kind_hp_low": [
@@ -9981,7 +9981,7 @@
   ],
   "player_history_edit_title": [
     [
-      "编辑我的历史"
+      "编辑我的资料"
     ]
   ],
   "player_history_edit_favourite_party_title": [
@@ -10001,12 +10001,12 @@
   ],
   "player_history_edit_card_template_title": [
     [
-      "历史片模板"
+      "资料片模板"
     ]
   ],
   "player_history_edit_display_topic_title": [
     [
-      "设定我的历史卡项目"
+      "设定我的资料卡项目"
     ]
   ],
   "player_history_edit_edit_button": [
@@ -10036,12 +10036,12 @@
   ],
   "player_history_card_template_title": [
     [
-      "历史卡模板一览"
+      "资料卡模板一览"
     ]
   ],
   "player_history_card_template_description": [
     [
-      "能为所有历史卡设置共通背景"
+      "能为所有资料卡设置共通背景"
     ]
   ],
   "player_history_card_template_tab_kind_all": [
@@ -10071,12 +10071,12 @@
   ],
   "player_history_card_topic_title": [
     [
-      "我的历史一览"
+      "我的资料一览"
     ]
   ],
   "player_history_card_topic_description": [
     [
-      "请选择记载于历史卡的内容"
+      "请选择记载于资料卡的内容"
     ]
   ],
   "player_history_card_topic_space_label": [
@@ -10126,12 +10126,12 @@
   ],
   "player_history_share_text": [
     [
-      "我在世界弹射物语中填写了我的历史卡！\n一起回顾世界弹射物语开服以来的点点滴滴吧！\n#世界弹射物语 #庆祝世界弹射物语4周年 #弹射世界历史卡"
+      "我在世界弹射物语中填写了我的资料卡！\n一起回顾世界弹射物语开服以来的点点滴滴吧！\n#世界弹射物语 #庆祝世界弹射物语4周年 #弹射世界资料卡"
     ]
   ],
   "player_history_card_preview_title": [
     [
-      "我的历史卡预览"
+      "我的资料卡预览"
     ]
   ],
   "player_history_card_preview_share": [
@@ -10511,7 +10511,7 @@
   ],
   "player_history_invalid_period_dialog_text": [
     [
-      "非我的历史卡活动举办期间"
+      "非我的资料卡活动举办期间"
     ]
   ],
   "player_history_period_text": [
@@ -10521,7 +10521,7 @@
   ],
   "player_history_title": [
     [
-      "我的历史"
+      "我的资料"
     ]
   ],
   "player_history_favorite_party_name": [
@@ -16331,7 +16331,7 @@
   ],
   "ability_description_common_content_override_character_element": [
     [
-      "进入到::element_full::战斗中"
+      "战斗中则为::element_full::角色"
     ]
   ],
   "ability_description_each_member": [
@@ -16346,7 +16346,7 @@
   ],
   "player_history_how_to_play": [
     [
-      "在这个画面上成可以编辑称号、\n名称、喜爱角色和我的历史\n按下「编辑」按钮、尝试各种设定\n可以到社交平台分享我的历史卡\n\n由于名称可能会被其他人看到\n请不要写下个人信息"
+      "在这个画面上成可以编辑称号、\n名称、喜爱角色和我的资料\n按下「编辑」按钮、尝试各种设定\n可以到社交平台分享我的资料卡\n\n由于名称可能会被其他人看到\n请不要写下个人信息"
     ]
   ],
   "party_copy_alternative_party_dialog_message_error": [
