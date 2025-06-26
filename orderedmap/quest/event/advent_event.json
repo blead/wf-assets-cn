@@ -1363,6 +1363,37 @@
       "2025-04-18 11:59:59"
     ]
   ],
+  "300004": [
+    [
+      "advent_Gcollab_constant",
+      "(None)",
+      "Cross Blue",
+      "",
+      "quest/event/banner/advent_event/advent_Gcollab_event_banner",
+      "quest/event/bossbattle_banner/advent_event/advent_event_Gcollab_banner",
+      "0",
+      "quest/event/background/advent_event/advent_Gcollab_background",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "13",
+      "bgm/event/advent_event/advent_event_g_collabo/system/g_collabo_event_top_arrange",
+      "event",
+      "false",
+      "70064",
+      "70065",
+      "70066",
+      "(None)",
+      "false",
+      "advent_Gcollab_event",
+      "true",
+      "2025-06-26 12:00:00",
+      "2025-08-14 23:59:59",
+      "2025-08-14 23:59:59"
+    ]
+  ],
   "100009": [
     [
       "advent_u_collabo_event",
@@ -1394,6 +1425,37 @@
       "2024-03-29 11:59:59"
     ]
   ],
+  "300005": [
+    [
+      "advent_u_collabo_constant",
+      "(None)",
+      "摇曳彼方的新大门",
+      "",
+      "quest/event/banner/advent_event/advent_u_collabo_event_banner",
+      "quest/event/bossbattle_banner/advent_event/advent_event_u_collabo_banner",
+      "0",
+      "quest/event/background/advent_event/advent_u_collabo_background",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "23",
+      "bgm/event/advent_event/advent_event_u_collabo/system/u_collabo_event_top",
+      "event",
+      "false",
+      "70067",
+      "70068",
+      "(None)",
+      "(None)",
+      "false",
+      "advent_u_collabo_event",
+      "true",
+      "2025-06-26 12:00:00",
+      "2025-08-14 23:59:59",
+      "2025-08-14 23:59:59"
+    ]
+  ],
   "200080": [
     [
       "kc_yokai_emaki_big_boss",
@@ -1420,9 +1482,9 @@
       "true",
       "kc_yokai_emaki_big_boss",
       "true",
-      "2023-12-07 12:00:00",
-      "2023-12-21 20:59:59",
-      "2023-12-29 04:59:59"
+      "2025-06-26 12:00:00",
+      "2025-07-10 23:59:59",
+      "2025-07-18 11:59:59"
     ]
   ],
   "200055": [
@@ -2505,7 +2567,7 @@
       "false",
       "boss_epuration_event_01",
       "true",
-      "2050-12-07 12:00:00",
+      "2025-06-26 12:00:00",
       "(None)",
       "(None)"
     ]

@@ -10107,6 +10107,306 @@
       ]
     ]
   },
+  "21004001": {
+    "1": [
+      [
+        "advent_u_collabo_constant_1_rare",
+        "0",
+        "70067",
+        "20",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "21004002": {
+    "1": [
+      [
+        "advent_u_collabo_constant_1_drop_rand",
+        "0",
+        "70067",
+        "2",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "21004003": {
+    "1": [
+      [
+        "advent_u_collabo_constant_2_rare",
+        "0",
+        "70067",
+        "30",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "21004004": {
+    "1": [
+      [
+        "advent_u_collabo_constant_2_drop_rand_1",
+        "0",
+        "70067",
+        "3",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "21004005": {
+    "1": [
+      [
+        "advent_u_collabo_constant_2_drop_rand_2",
+        "0",
+        "70068",
+        "4",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "21004006": {
+    "1": [
+      [
+        "advent_u_collabo_constant_3_rare_equipment_1",
+        "1",
+        "5090039",
+        "1",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_u_collabo_constant_3_rare_equipment_1",
+        "0",
+        "70068",
+        "15",
+        "0.3",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_u_collabo_constant_3_rare_equipment_1",
+        "0",
+        "70067",
+        "50",
+        "0.4",
+        "true"
+      ]
+    ]
+  },
+  "21004007": {
+    "1": [
+      [
+        "advent_u_collabo_constant_3_rare_equipment_2",
+        "1",
+        "5090040",
+        "1",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_u_collabo_constant_3_rare_equipment_2",
+        "0",
+        "70068",
+        "15",
+        "0.3",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_u_collabo_constant_3_rare_equipment_2",
+        "0",
+        "70067",
+        "50",
+        "0.4",
+        "true"
+      ]
+    ]
+  },
+  "21004008": {
+    "1": [
+      [
+        "advent_u_collabo_constant_3_rare_equipment_3",
+        "1",
+        "5090041",
+        "1",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_u_collabo_constant_3_rare_equipment_3",
+        "0",
+        "70068",
+        "15",
+        "0.3",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_u_collabo_constant_3_rare_equipment_3",
+        "0",
+        "70067",
+        "50",
+        "0.4",
+        "true"
+      ]
+    ]
+  },
+  "21004009": {
+    "1": [
+      [
+        "advent_u_collabo_constant_3_drop_rand",
+        "0",
+        "70068",
+        "4",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "21004010": {
+    "1": [
+      [
+        "advent_u_collabo_constant_3_drop_confirm",
+        "0",
+        "70068",
+        "4",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "21004011": {
+    "1": [
+      [
+        "advent_u_collabo_constant_4_rare_equipment_1",
+        "1",
+        "5090039",
+        "1",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_u_collabo_constant_4_rare_equipment_1",
+        "0",
+        "70068",
+        "20",
+        "0.3",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_u_collabo_constant_4_rare_equipment_1",
+        "0",
+        "70067",
+        "100",
+        "0.4",
+        "true"
+      ]
+    ]
+  },
+  "21004012": {
+    "1": [
+      [
+        "advent_u_collabo_constant_4_rare_equipment_2",
+        "1",
+        "5090040",
+        "1",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_u_collabo_constant_4_rare_equipment_2",
+        "0",
+        "70068",
+        "20",
+        "0.3",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_u_collabo_constant_4_rare_equipment_2",
+        "0",
+        "70067",
+        "100",
+        "0.4",
+        "true"
+      ]
+    ]
+  },
+  "21004013": {
+    "1": [
+      [
+        "advent_u_collabo_constant_4_rare_equipment_3",
+        "1",
+        "5090041",
+        "1",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_u_collabo_constant_4_rare_equipment_3",
+        "0",
+        "70068",
+        "20",
+        "0.3",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_u_collabo_constant_4_rare_equipment_3",
+        "0",
+        "70067",
+        "100",
+        "0.4",
+        "true"
+      ]
+    ]
+  },
+  "21004014": {
+    "1": [
+      [
+        "advent_u_collabo_constant_4_drop_rand",
+        "0",
+        "70068",
+        "4",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "21004015": {
+    "1": [
+      [
+        "advent_u_collabo_constant_4_drop_confirm",
+        "0",
+        "70068",
+        "5",
+        "1",
+        "false"
+      ]
+    ]
+  },
   "2101": {
     "1": [
       [
@@ -17987,6 +18287,160 @@
     "1": [
       [
         "multi_pick_Pcollab_02_rare_book_0018",
+        "1",
+        "5050018",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10071": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_01",
+        "0",
+        "70061",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10072": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_02",
+        "0",
+        "70062",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10073": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_03",
+        "0",
+        "70063",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10074": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_04",
+        "0",
+        "70063",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10075": {
+    "1": [
+      [
+        "boss_coin_Pcollab_02_constant_3_single_coin",
+        "0",
+        "70063",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "10076": {
+    "1": [
+      [
+        "boss_coin_Pcollab_02_constant_3_single_coin2",
+        "0",
+        "70063",
+        "1",
+        "0.5",
+        "false"
+      ]
+    ],
+    "2": [
+      [
+        "boss_coin_Pcollab_02_constant_3_single_coin2",
+        "0",
+        "70063",
+        "2",
+        "0.5",
+        "false"
+      ]
+    ]
+  },
+  "10077": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_acce_0031",
+        "1",
+        "5090031",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10078": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_staff_0033",
+        "1",
+        "5060033",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10079": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_sword_0058",
+        "1",
+        "5010058",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10080": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_acce_0005",
+        "1",
+        "5090005",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10081": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_sword_0026",
+        "1",
+        "5010026",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10082": {
+    "1": [
+      [
+        "multi_pick_Pcollab_02_constant_rare_book_0018",
         "1",
         "5050018",
         "1",
@@ -37135,6 +37589,144 @@
       ]
     ]
   },
+  "10059": {
+    "1": [
+      [
+        "advent_eye_dragon_constant_rare_1",
+        "1",
+        "5045000",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10060": {
+    "1": [
+      [
+        "advent_eye_dragon_constant_rare_2",
+        "1",
+        "5025000",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10061": {
+    "1": [
+      [
+        "advent_eye_dragon_constant_rare_3",
+        "1",
+        "5005000",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10062": {
+    "1": [
+      [
+        "advent_eye_dragon_constant_rare_4",
+        "0",
+        "10000140",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10063": {
+    "1": [
+      [
+        "advent_eye_dragon_constant_rare_5",
+        "0",
+        "10000141",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10064": {
+    "1": [
+      [
+        "advent_eye_dragon_constant_rare_6",
+        "0",
+        "10000141",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10065": {
+    "1": [
+      [
+        "advent_eye_dragon_constant_rare_7",
+        "0",
+        "10000142",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "10066": {
+    "1": [
+      [
+        "advent_eye_dragon_constant_rare_8",
+        "0",
+        "10000142",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "10067": {
+    "1": [
+      [
+        "advent_eye_dragon_constant_rare_9",
+        "0",
+        "10000141",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_eye_dragon_constant_rare_9",
+        "0",
+        "10000141",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_eye_dragon_constant_rare_9",
+        "0",
+        "10000142",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_eye_dragon_constant_rare_9",
+        "0",
+        "10000142",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "5000109": {
     "1": [
       [
@@ -41545,6 +42137,132 @@
         "advent_gcollab_rare_coin",
         "0",
         "50402",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "5132": {
+    "1": [
+      [
+        "advent_gcollab_constant_rare_equip_5_1",
+        "1",
+        "5030033",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "5133": {
+    "1": [
+      [
+        "advent_gcollab_constant_rare_equip_5_2",
+        "1",
+        "5010039",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "5134": {
+    "1": [
+      [
+        "advent_gcollab_constant_rare_coin_1_50",
+        "0",
+        "70064",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "5135": {
+    "1": [
+      [
+        "advent_gcollab_constant_rare_coin_2_10",
+        "0",
+        "70065",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "5136": {
+    "1": [
+      [
+        "advent_gcollab_constant_rare_coin_2_25",
+        "0",
+        "70065",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "5137": {
+    "1": [
+      [
+        "advent_gcollab_constant_rare_coin_3_5",
+        "0",
+        "70066",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "5138": {
+    "1": [
+      [
+        "advent_gcollab_constant_rare_coin_3_1",
+        "0",
+        "70066",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "5139": {
+    "1": [
+      [
+        "advent_gcollab_constant_rare_coin",
+        "0",
+        "70065",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_gcollab_constant_rare_coin",
+        "0",
+        "70065",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_gcollab_constant_rare_coin",
+        "0",
+        "70066",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_gcollab_constant_rare_coin",
+        "0",
+        "70066",
         "10",
         "0.15",
         "true"

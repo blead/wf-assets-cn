@@ -489,7 +489,7 @@
     "36": [
       [
         "领主战",
-        "女王・ノワール讨伐",
+        "碧之女王讨伐",
         "1",
         "(None)",
         "(None)",
@@ -507,7 +507,7 @@
     "41": [
       [
         "降临讨伐",
-        "女王・ノワール讨伐",
+        "墨之女王讨伐",
         "2",
         "(None)",
         "(None)",
@@ -525,7 +525,7 @@
     "39": [
       [
         "降临讨伐",
-        "女王・ブロンシュ讨伐",
+        "皓之女王讨伐",
         "2",
         "(None)",
         "(None)",
@@ -561,7 +561,7 @@
     "40": [
       [
         "降临讨伐",
-        "女王・ジョーヌ讨伐",
+        "金之女王讨伐",
         "2",
         "(None)",
         "(None)",
@@ -609,6 +609,24 @@
         "(None)",
         "quest/thumbnail/multi_battle/multi_pick_31_1",
         "quest/boss_battle/background/boss_battle_variant_empress_fire",
+        "1000"
+      ]
+    ],
+    "71": [
+      [
+        "降临讨伐",
+        "方舟守护者讨伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "71",
+        "70061",
+        "70062",
+        "70063",
+        "(None)",
+        "quest/thumbnail/multi_battle/multi_pick_32_1",
+        "quest/boss_battle/background/boss_battle_Pcollab_02",
         "1000"
       ]
     ],
@@ -756,10 +774,28 @@
         "1000"
       ]
     ],
+    "70": [
+      [
+        "降临讨伐",
+        "始龙之眼",
+        "2",
+        "bgm/world_10/battle/world_10_battle_shiryuu",
+        "(None)",
+        "",
+        "70",
+        "10000140",
+        "10000141",
+        "10000142",
+        "(None)",
+        "quest/thumbnail/world_10/thumbnail1",
+        "quest/boss_battle/background/boss_battle_eye_dragon",
+        "1000"
+      ]
+    ],
     "66": [
       [
         "降临讨伐",
-        "暗凛の机兵",
+        "暗凛机兵",
         "2",
         "bgm/event/advent_steam_robot/advent_steam_robot_top",
         "(None)",
@@ -777,7 +813,7 @@
     "65": [
       [
         "降临讨伐",
-        "閃哭の机兵",
+        "闪哭机兵",
         "2",
         "bgm/event/advent_steam_robot/advent_steam_robot_top",
         "(None)",
@@ -795,7 +831,7 @@
     "64": [
       [
         "降临讨伐",
-        "碧愁の机兵",
+        "碧愁机兵",
         "2",
         "bgm/event/advent_steam_robot/advent_steam_robot_top",
         "(None)",
@@ -813,7 +849,7 @@
     "63": [
       [
         "降临讨伐",
-        "橙悚の机兵",
+        "橙悚机兵",
         "2",
         "bgm/event/advent_steam_robot/advent_steam_robot_top",
         "(None)",
@@ -831,7 +867,7 @@
     "62": [
       [
         "降临讨伐",
-        "蒼歎の机兵",
+        "苍叹机兵",
         "2",
         "bgm/event/advent_steam_robot/advent_steam_robot_top",
         "(None)",
@@ -849,7 +885,7 @@
     "61": [
       [
         "降临讨伐",
-        "紅嫉の机兵",
+        "红嫉机兵",
         "2",
         "bgm/event/advent_steam_robot/advent_steam_robot_top",
         "(None)",
@@ -867,7 +903,7 @@
     "60": [
       [
         "降临讨伐",
-        "无猾の机兵",
+        "无猾机兵",
         "2",
         "bgm/event/advent_steam_robot/advent_steam_robot_top",
         "(None)",

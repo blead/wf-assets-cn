@@ -11629,6 +11629,11 @@
       "拥有的玛纳已达到上限\n无法出售道具"
     ]
   ],
+  "can_not_sell_because_ability_soul_is_not_enough": [
+    [
+      "持有数在4个以上时可出售"
+    ]
+  ],
   "can_not_sell_because_mana_will_be_upper_limit": [
     [
       "获得的玛纳将超过上限\n无法出售道具"
@@ -16637,16 +16642,6 @@
   "character_awake_result_dialog_upgrade": [
     [
       "<font color='#ff9f1c'>::character_name::的::skill_name::已觉醒!</font>"
-    ]
-  ],
-  "raid_event_rank_show": [
-    [
-      "true"
-    ]
-  ],
-  "rush_event_rank_show": [
-    [
-      "true"
     ]
   ],
   "help_label_cheering_mainquest_campaign": [

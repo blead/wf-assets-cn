@@ -94,5 +94,35 @@
       "追忆试炼",
       "quest/thumbnail/practice_quest/solo_time_attack_event_quest_practice"
     ]
+  ],
+  "84": [
+    [
+      "云水试炼",
+      "quest/thumbnail/time_attack_event/time_attack_event_01"
+    ]
+  ],
+  "83": [
+    [
+      "奔雷试炼",
+      "quest/thumbnail/time_attack_event/yellow_01"
+    ]
+  ],
+  "82": [
+    [
+      "溢光试炼",
+      "quest/thumbnail/time_attack_event/white_01"
+    ]
+  ],
+  "81": [
+    [
+      "闪火试炼",
+      "quest/thumbnail/time_attack_event/red_01"
+    ]
+  ],
+  "80": [
+    [
+      "旋风试炼",
+      "quest/thumbnail/time_attack_event/green_01"
+    ]
   ]
 }

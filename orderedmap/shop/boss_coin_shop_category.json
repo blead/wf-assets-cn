@@ -560,6 +560,23 @@
       "false"
     ]
   ],
+  "71": [
+    [
+      "Pcollab_02_constant",
+      "998",
+      "(None)",
+      "2",
+      "1",
+      "71",
+      "1",
+      "1071001",
+      "(None)",
+      "quest/boss_battle/banner/boss_battle_32_Pcollab_02",
+      "quest/boss_battle/background/boss_battle_Pcollab_02",
+      "",
+      "false"
+    ]
+  ],
   "60": [
     [
       "steam_constant_another",
@@ -811,6 +828,23 @@
       "(None)",
       "quest/event/banner/advent_event/event_advent_xm21",
       "quest/boss_battle/background/boss_battle_xmas",
+      "",
+      "false"
+    ]
+  ],
+  "70": [
+    [
+      "advent_eye_dragon_constant",
+      "703",
+      "0",
+      "2",
+      "1",
+      "70",
+      "1",
+      "1070001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_eye_dragon_multibattle_202310",
+      "quest/boss_battle/background/boss_battle_eye_dragon",
       "",
       "false"
     ]

@@ -93,7 +93,7 @@
     [
       "hard_multi_steam_robot_fire_constant",
       "(None)",
-      "共同决战【紅嫉の机兵】",
+      "共同决战【红嫉机兵】",
       "",
       "quest/event/banner/hard_multi/hard_multi_event_steam_robot_fire",
       "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_fire",
@@ -114,7 +114,7 @@
       "false",
       "hard_multi_steam_robot_fire",
       "help_hard_multi_advent_steam_robot_constant",
-      "2050-01-09 12:00:00",
+      "2025-07-10 12:00:00",
       "(None)",
       "(None)"
     ]
@@ -123,7 +123,7 @@
     [
       "hard_multi_steam_robot_water_constant",
       "(None)",
-      "共同决战【蒼歎の机兵】",
+      "共同决战【苍叹机兵】",
       "",
       "quest/event/banner/hard_multi/hard_multi_event_steam_robot_water",
       "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_water",
@@ -144,7 +144,7 @@
       "false",
       "hard_multi_steam_robot_water",
       "help_hard_multi_advent_steam_robot_constant",
-      "2050-01-09 12:00:00",
+      "2025-07-10 12:00:00",
       "(None)",
       "(None)"
     ]
@@ -153,7 +153,7 @@
     [
       "hard_multi_steam_robot_thunder_constant",
       "(None)",
-      "共同决战【橙悚の机兵】",
+      "共同决战【橙悚机兵】",
       "",
       "quest/event/banner/hard_multi/hard_multi_event_steam_robot_thunder",
       "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_thunder",
@@ -174,7 +174,7 @@
       "false",
       "hard_multi_steam_robot_thunder",
       "help_hard_multi_advent_steam_robot_constant",
-      "2050-01-09 12:00:00",
+      "2025-07-10 12:00:00",
       "(None)",
       "(None)"
     ]
@@ -183,7 +183,7 @@
     [
       "hard_multi_steam_robot_wind_constant",
       "(None)",
-      "共同决战【碧愁の机兵】",
+      "共同决战【碧愁机兵】",
       "",
       "quest/event/banner/hard_multi/hard_multi_event_steam_robot_wind",
       "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_wind",
@@ -204,7 +204,7 @@
       "false",
       "hard_multi_steam_robot_wind",
       "help_hard_multi_advent_steam_robot_constant",
-      "2050-01-09 12:00:00",
+      "2025-07-10 12:00:00",
       "(None)",
       "(None)"
     ]
@@ -213,7 +213,7 @@
     [
       "hard_multi_steam_robot_light_constant",
       "(None)",
-      "共同决战【閃哭の机兵】",
+      "共同决战【闪哭机兵】",
       "",
       "quest/event/banner/hard_multi/hard_multi_event_steam_robot_light",
       "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_light",
@@ -234,7 +234,7 @@
       "false",
       "hard_multi_steam_robot_light",
       "help_hard_multi_advent_steam_robot_constant",
-      "2050-01-09 12:00:00",
+      "2025-07-10 12:00:00",
       "(None)",
       "(None)"
     ]
@@ -243,7 +243,7 @@
     [
       "hard_multi_steam_robot_dark_constant",
       "(None)",
-      "共同决战【暗凛の机兵】",
+      "共同决战【暗凛机兵】",
       "",
       "quest/event/banner/hard_multi/hard_multi_event_steam_robot_dark",
       "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_dark",
@@ -264,7 +264,7 @@
       "false",
       "hard_multi_steam_robot_dark",
       "help_hard_multi_advent_steam_robot_constant",
-      "2050-01-09 12:00:00",
+      "2025-07-10 12:00:00",
       "(None)",
       "(None)"
     ]
