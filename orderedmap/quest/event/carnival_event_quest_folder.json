@@ -89,7 +89,7 @@
     "2": [
       [
         "2",
-        "奔雷必杀巨土俑",
+        "奔雷强振巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
       ]
@@ -97,7 +97,7 @@
     "3": [
       [
         "3",
-        "奔雷必杀巨土俑",
+        "奔雷直击巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
       ]
@@ -115,7 +115,7 @@
     "2": [
       [
         "2",
-        "旋风必杀巨土俑",
+        "旋风强振巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
       ]
@@ -123,7 +123,7 @@
     "3": [
       [
         "3",
-        "旋风必杀巨土俑",
+        "旋风直击巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
       ]
@@ -141,7 +141,7 @@
     "2": [
       [
         "2",
-        "溢光强振巨土俑",
+        "溢光必杀巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
       ]
@@ -149,7 +149,7 @@
     "3": [
       [
         "3",
-        "溢光强振巨土俑",
+        "溢光直击巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
       ]
@@ -167,7 +167,7 @@
     "2": [
       [
         "2",
-        "宵暗直击巨土俑",
+        "宵暗强振巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_dark_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/black/background"
       ]
@@ -175,7 +175,7 @@
     "3": [
       [
         "3",
-        "宵暗直击巨土俑",
+        "宵暗必杀巨土俑",
         "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_dark_01",
         "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/black/background"
       ]
